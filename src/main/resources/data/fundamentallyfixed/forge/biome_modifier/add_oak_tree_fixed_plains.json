@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "fundamentallyfixed:plains_fixed",
+  "features": "fundamentallyfixed:oak_tree_fixed_plains",
+  "step": "vegetal_decoration"
+}

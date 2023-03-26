@@ -1,6 +1,12 @@
 package com.ncpbails.fundamentallyfixed;
 
 import com.mojang.logging.LogUtils;
+import com.ncpbails.fundamentallyfixed.block.ModBlocks;
+import com.ncpbails.fundamentallyfixed.item.ModItems;
+import com.ncpbails.fundamentallyfixed.world.feature.ModConfiguredFeatures;
+import com.ncpbails.fundamentallyfixed.world.feature.ModPlacedFeatures;
+import net.minecraft.client.renderer.ItemBlockRenderTypes;
+import net.minecraft.client.renderer.RenderType;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -22,10 +28,13 @@ public class FundamentallyFixed
 
     public FundamentallyFixed()
     {
-        IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
-        modEventBus.addListener(this::commonSetup);
+        IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
+        eventBus.addListener(this::commonSetup);
 
-
+        ModItems.register(eventBus);
+        ModBlocks.register(eventBus);
+        ModConfiguredFeatures.register(eventBus);
+        ModPlacedFeatures.register(eventBus);
 
         MinecraftForge.EVENT_BUS.register(this);
     }
@@ -49,7 +58,7 @@ public class FundamentallyFixed
         @SubscribeEvent
         public static void onClientSetup(FMLClientSetupEvent event)
         {
-
+            ItemBlockRenderTypes.setRenderLayer(ModBlocks.GRASSES.get(), RenderType.cutout());
         }
     }
 }
