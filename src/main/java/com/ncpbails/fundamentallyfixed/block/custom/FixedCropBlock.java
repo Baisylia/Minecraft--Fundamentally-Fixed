@@ -1,11 +1,6 @@
 package com.ncpbails.fundamentallyfixed.block.custom;
 
-import com.ncpbails.fundamentallyfixed.item.ModItems;
-
-import java.awt.*;
-import java.util.Random;
-
-import net.minecraft.client.color.block.BlockColors;
+import com.ncpbails.fundamentallyfixed.block.ModBlocks;
 import net.minecraft.core.BlockPos;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.sounds.SoundEvents;
@@ -21,30 +16,27 @@ import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Items;
 import net.minecraft.world.level.BlockGetter;
-import net.minecraft.world.level.ItemLike;
 import net.minecraft.world.level.Level;
 import net.minecraft.world.level.block.Block;
+import net.minecraft.world.level.block.Blocks;
 import net.minecraft.world.level.block.BonemealableBlock;
 import net.minecraft.world.level.block.BushBlock;
-import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.block.state.BlockState;
 import net.minecraft.world.level.block.state.StateDefinition;
 import net.minecraft.world.level.block.state.properties.BlockStateProperties;
-import net.minecraft.world.level.block.state.properties.BooleanProperty;
 import net.minecraft.world.level.block.state.properties.IntegerProperty;
 import net.minecraft.world.level.gameevent.GameEvent;
 import net.minecraft.world.phys.BlockHitResult;
 import net.minecraft.world.phys.Vec3;
 import net.minecraft.world.phys.shapes.CollisionContext;
 import net.minecraft.world.phys.shapes.VoxelShape;
-import net.minecraftforge.eventbus.api.SubscribeEvent;
+
+import java.util.Random;
 
 public class FixedCropBlock extends BushBlock implements BonemealableBlock {
     private static final float HURT_SPEED_THRESHOLD = 0.003F;
     public static final boolean ShouldHurt = false;
     public static final int MAX_AGE = 7;
-
-    public static final BooleanProperty DOMESTIC = BlockStateProperties.LIT;
     public static final IntegerProperty AGE = BlockStateProperties.AGE_7;
     private static final VoxelShape[] SHAPE_BY_AGE = new VoxelShape[]{
             Block.box(0.0D, 0.0D, 0.0D, 16.0D, 2.0D, 16.0D),
@@ -56,9 +48,9 @@ public class FixedCropBlock extends BushBlock implements BonemealableBlock {
             Block.box(0.0D, 0.0D, 0.0D, 16.0D, 14.0D, 16.0D),
             Block.box(0.0D, 0.0D, 0.0D, 16.0D, 16.0D, 16.0D)};
 
-    public FixedCropBlock(BlockBehaviour.Properties properties) {
+    public FixedCropBlock(Properties properties) {
         super(properties);
-        this.registerDefaultState(this.stateDefinition.any().setValue(AGE, Integer.valueOf(0)).setValue(DOMESTIC, Boolean.valueOf(false)));
+        this.registerDefaultState(this.stateDefinition.any().setValue(AGE, Integer.valueOf(0)));
     }
 
     public ItemStack getCloneItemStack(BlockGetter getter, BlockPos pos, BlockState state) {
@@ -66,10 +58,6 @@ public class FixedCropBlock extends BushBlock implements BonemealableBlock {
     }
     public IntegerProperty getAgeProperty() {
         return AGE;
-    }
-
-    public BooleanProperty getDomesticProperty() {
-        return DOMESTIC;
     }
 
     public VoxelShape getShape(BlockState state, BlockGetter worldIn, BlockPos pos, CollisionContext context) {
@@ -83,18 +71,23 @@ public class FixedCropBlock extends BushBlock implements BonemealableBlock {
     public void randomTick(BlockState state, ServerLevel level, BlockPos pos, RandomSource source) {
         int i = state.getValue(AGE);
         if (i < MAX_AGE && level.getRawBrightness(pos.above(), 0) >= 9 && net.minecraftforge.common.ForgeHooks.onCropsGrowPre(level, pos, state, source.nextInt(5) == 0)) {
-            BlockState blockstate = state.setValue(AGE, Integer.valueOf(i + 1));
-            level.setBlock(pos, blockstate, 2);
-            level.gameEvent(GameEvent.BLOCK_CHANGE, pos, GameEvent.Context.of(blockstate));
-            net.minecraftforge.common.ForgeHooks.onCropsGrowPost(level, pos, state);
-            if (i == 3) {
-                int rand = new Random().nextInt(9);
+            if (level.getBlockState(pos.below()).is(Blocks.DIRT)) {
+                int rand = new Random().nextInt(3);
                 if (rand == 1) {
-                    BlockState domState = state.setValue(DOMESTIC, Boolean.valueOf(true));
-                    level.setBlock(pos, domState, 2);
+                    onTicked(state, level, pos, source, i);
                 }
             }
+            else {
+                onTicked(state, level, pos, source, i);
+            }
         }
+    }
+
+    public void onTicked(BlockState state, ServerLevel level, BlockPos pos, RandomSource source, int i) {
+        BlockState blockstate = state.setValue(AGE, Integer.valueOf(i + 1));
+        level.setBlock(pos, blockstate, 2);
+        level.gameEvent(GameEvent.BLOCK_CHANGE, pos, GameEvent.Context.of(blockstate));
+        net.minecraftforge.common.ForgeHooks.onCropsGrowPost(level, pos, state);
     }
 
     public void entityInside(BlockState state, Level level, BlockPos pos, Entity entity) {
@@ -122,18 +115,20 @@ public class FixedCropBlock extends BushBlock implements BonemealableBlock {
             dropResources(state, level, pos);
             //popResource(level, pos, new ItemStack(ModItems.GRASS_SEEDS.get(), j + (flag ? 1 : 0)));
             level.playSound((Player)null, pos, SoundEvents.SWEET_BERRY_BUSH_PICK_BERRIES, SoundSource.BLOCKS, 1.0F, 0.8F + level.random.nextFloat() * 0.4F);
-            BlockState blockstate = state.setValue(AGE, Integer.valueOf(0));
-            level.setBlock(pos, blockstate, 0);
-            level.gameEvent(GameEvent.BLOCK_CHANGE, pos, GameEvent.Context.of(player, blockstate));
+            BlockState harvestState = onUsed(state, level, pos, player, hand, result);
+            level.setBlock(pos, harvestState, 0);
+            level.gameEvent(GameEvent.BLOCK_CHANGE, pos, GameEvent.Context.of(player, harvestState));
             return InteractionResult.sidedSuccess(level.isClientSide);
         } else {
             return super.use(state, level, pos, player, hand, result);
         }
     }
-
+    public BlockState onUsed(BlockState state, Level level, BlockPos pos, Player player, InteractionHand hand, BlockHitResult result) {
+        BlockState blockstate = state.setValue(AGE, Integer.valueOf(0));
+        return blockstate;
+    }
     protected void createBlockStateDefinition(StateDefinition.Builder<Block, BlockState> state) {
         state.add(AGE);
-        state.add(DOMESTIC);
     }
 
     public boolean isValidBonemealTarget(BlockGetter getter, BlockPos pos, BlockState state, boolean bool) {

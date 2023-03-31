@@ -154,6 +154,12 @@ repositories {
     maven {
         url = "https://maven.jaackson.me"
     }
+    repositories {
+        maven {
+            name = 'tterrag maven'
+            url = 'https://maven.tterrag.com/'
+        }
+    }
 }
 
 dependencies {
@@ -167,10 +173,27 @@ dependencies {
     // runtimeOnly fg.deobf("mezz.jei:jei-${mc_version}:${jei_version}") // Adds the full JEI mod as a runtime dependency
     // implementation fg.deobf("com.tterrag.registrate:Registrate:MC${mc_version}-${registrate_version}") // Adds registrate as a dependency
 
-    runtimeOnly fg.deobf("curse.maven:jei-238222:4087658")
-    runtimeOnly fg.deobf("curse.maven:appleskin-248787:3872808")
+    //Required Mod Dependencies
+    implementation fg.deobf("curse.maven:blueprint-382216:4442628")
+    compileOnly fg.deobf("com.jozufozu.flywheel:flywheel-forge-1.19.2:0.6.8.a-14")
+    compileOnly fg.deobf("com.tterrag.registrate:Registrate:MC1.19-1.1.5")
+
+    //Required Compat Libraries
+    implementation fg.deobf("curse.maven:autoreglib-250363:4100299")
+    implementation fg.deobf("curse.maven:moonlightlib-499980:4460381")
+
+    //Required Compat
     implementation fg.deobf("curse.maven:farmersdelight-398521:3999157")
     implementation fg.deobf("curse.maven:create-328085:4371809")
+    implementation fg.deobf("curse.maven:shieldexpansion-583318:4461135")
+    implementation fg.deobf("curse.maven:quark-243121:4426258")
+    implementation fg.deobf("curse.maven:supplementaries-412082:4460346")
+    //implementation fg.deobf("curse.maven:oreganized-769203:4377982")
+
+    //Runtime Only
+    runtimeOnly fg.deobf("curse.maven:jei-238222:4087658")
+    runtimeOnly fg.deobf("curse.maven:appleskin-248787:3872808")
+    runtimeOnly fg.deobf("curse.maven:shutupexperimentalsettings-407174:3759881")
 
     // Examples using mod jars from ./libs
     // implementation fg.deobf("blank:coolmod-${mc_version}:${coolmod_version}")

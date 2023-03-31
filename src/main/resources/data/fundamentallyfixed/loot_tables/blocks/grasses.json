@@ -6,6 +6,25 @@
       "entries": [
         {
           "type": "minecraft:item",
+          "name": "fundamentallyfixed:loose_grass",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "fundamentallyfixed:grasses",
+              "properties": {
+                "lit": "false",
+                "age": "7"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
           "name": "minecraft:wheat",
           "conditions": [
             {

@@ -1,6 +1,6 @@
 {
-  "parent": "minecraft:block/cross",
+  "parent": "minecraft:block/tinted_cross",
   "textures": {
-    "cross": "fundamentallyfixed:block/grass_wheat_stage1"
+    "cross": "minecraft:block/wheat_stage1"
   }
 }

@@ -2,11 +2,15 @@ package com.ncpbails.fundamentallyfixed;
 
 import com.mojang.logging.LogUtils;
 import com.ncpbails.fundamentallyfixed.block.ModBlocks;
+import com.ncpbails.fundamentallyfixed.block.ModCBlocks;
+import com.ncpbails.fundamentallyfixed.block.entity.ModCBlockEntities;
+import com.ncpbails.fundamentallyfixed.core.ModListings;
 import com.ncpbails.fundamentallyfixed.item.ModItems;
 import com.ncpbails.fundamentallyfixed.world.feature.ModConfiguredFeatures;
 import com.ncpbails.fundamentallyfixed.world.feature.ModPlacedFeatures;
-import net.minecraft.client.renderer.ItemBlockRenderTypes;
-import net.minecraft.client.renderer.RenderType;
+import com.simibubi.create.foundation.data.CreateRegistrate;
+import com.tterrag.registrate.AbstractRegistrate;
+import com.tterrag.registrate.util.nullness.NonNullSupplier;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -25,12 +29,13 @@ public class FundamentallyFixed
     // Define mod id in a common place for everything to reference
     public static final String MOD_ID = "fundamentallyfixed";
     private static final Logger LOGGER = LogUtils.getLogger();
-
+    public static final NonNullSupplier<CreateRegistrate> registrate = CreateRegistrate.lazy(MOD_ID);
     public FundamentallyFixed()
     {
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
         eventBus.addListener(this::commonSetup);
-
+        ModCBlocks.register();
+        ModCBlockEntities.register();
         ModItems.register(eventBus);
         ModBlocks.register(eventBus);
         ModConfiguredFeatures.register(eventBus);
@@ -38,6 +43,11 @@ public class FundamentallyFixed
 
         MinecraftForge.EVENT_BUS.register(this);
     }
+
+
+
+
+    public static CreateRegistrate registrate() {return registrate.get();}
 
     private void commonSetup(final FMLCommonSetupEvent event)
     {
@@ -58,7 +68,11 @@ public class FundamentallyFixed
         @SubscribeEvent
         public static void onClientSetup(FMLClientSetupEvent event)
         {
-            ItemBlockRenderTypes.setRenderLayer(ModBlocks.GRASSES.get(), RenderType.cutout());
+            ModListings.setRenderLayers();
+            ModListings.registerCompostables();
+            event.enqueueWork(() -> {
+                ModListings.registerBlockColors();
+            });
         }
     }
 }

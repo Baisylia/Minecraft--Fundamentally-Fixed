@@ -64,3 +64,9 @@ Curing Minecraft of its fundamental flaws
     versionRange="[1.19.2,1.20)"
     ordering="NONE"
     side="BOTH"
+[[dependencies.fundamentallyfixed]]
+modId = "create"
+mandatory = true
+versionRange="[0.5.0.h,)"
+ordering = "AFTER"
+side = "BOTH"

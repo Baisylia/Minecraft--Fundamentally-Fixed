@@ -28,7 +28,12 @@ public class ModItems {
 
     public static final RegistryObject<Item> GRASS_SEEDS = ITEMS.register("grass_seeds",
             () -> new ItemNameBlockItem(ModBlocks.GRASSES.get(),
-                    new Item.Properties().tab(FarmersDelight.CREATIVE_TAB)));
+                    new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> WHEAT_SEEDS_FIXED = ITEMS.register("wheat_seeds_fixed",
+            () -> new ItemNameBlockItem(ModBlocks.WHEAT_FIXED.get(),
+                    new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
     }

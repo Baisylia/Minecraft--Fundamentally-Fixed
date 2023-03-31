@@ -2,9 +2,14 @@ package com.ncpbails.fundamentallyfixed.block;
 
 import com.ncpbails.fundamentallyfixed.FundamentallyFixed;
 import com.ncpbails.fundamentallyfixed.block.custom.AcornBlock;
+import com.ncpbails.fundamentallyfixed.block.custom.DualCropBlock;
 import com.ncpbails.fundamentallyfixed.block.custom.FixedCropBlock;
+//import com.ncpbails.fundamentallyfixed.block.custom.RedstoneDynamoBlock;
+import com.ncpbails.fundamentallyfixed.block.custom.RedstoneDynamoBlock;
 import com.ncpbails.fundamentallyfixed.item.ModItems;
 import com.ncpbails.fundamentallyfixed.world.feature.tree.OakTreeFixedGrower;
+import com.simibubi.create.AllBlocks;
+import com.simibubi.create.content.contraptions.components.fan.EncasedFanBlock;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.Direction;
 import net.minecraft.world.item.*;
@@ -28,6 +33,10 @@ import java.util.function.Supplier;
 public class ModBlocks {
     public static final DeferredRegister<Block> BLOCKS = DeferredRegister.create(ForgeRegistries.BLOCKS, FundamentallyFixed.MOD_ID);
 
+    //Blocks
+    //public static final RegistryObject<Block> REDSTONE_DYNAMO = registerBlock("redstone_dynamo",
+    //        () -> new RedstoneDynamoBlock(BlockBehaviour.Properties.copy(Blocks.OAK_LOG)), CreativeModeTab.TAB_BUILDING_BLOCKS, true, 300);
+
     public static final RegistryObject<Block> SAPPY_OAK_LOG = registerBlock("sappy_oak_log",
             () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.OAK_LOG)) {
                 @Override public boolean isFlammable(BlockState state, BlockGetter world, BlockPos pos, Direction face) { return true; }
@@ -41,17 +50,25 @@ public class ModBlocks {
 
             }, CreativeModeTab.TAB_BUILDING_BLOCKS, true, 300);
 
+
+    //Crops
     public static final RegistryObject<Block> ACORN = registerBlock("acorn",
             () -> new AcornBlock(new OakTreeFixedGrower(), BlockBehaviour.Properties.copy(Blocks.OAK_SAPLING)), CreativeModeTab.TAB_MISC, false, 0);
 
     public static final RegistryObject<Block> GRASSES = registerBlockWithoutBlockItem("grasses",
-            () -> new FixedCropBlock(BlockBehaviour.Properties.copy(Blocks.WHEAT).noOcclusion()) {
+            () -> new DualCropBlock(BlockBehaviour.Properties.copy(Blocks.WHEAT).noOcclusion()) {
             @Override
             public ItemStack getCloneItemStack(BlockGetter getter, BlockPos pos, BlockState state) {
                     return new ItemStack(ModItems.GRASS_SEEDS.get());
                 }
             });
-
+    public static final RegistryObject<Block> WHEAT_FIXED = registerBlockWithoutBlockItem("wheat_fixed",
+            () -> new FixedCropBlock(BlockBehaviour.Properties.copy(Blocks.WHEAT).noOcclusion()) {
+                @Override
+                public ItemStack getCloneItemStack(BlockGetter getter, BlockPos pos, BlockState state) {
+                    return new ItemStack(ModItems.WHEAT_SEEDS_FIXED.get());
+                }
+            });
 
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block, CreativeModeTab tab, Boolean isFuel, Integer fuelAmount) {
         RegistryObject<T> toReturn = BLOCKS.register(name, block);

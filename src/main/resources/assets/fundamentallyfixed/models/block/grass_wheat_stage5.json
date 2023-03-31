@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cross",
   "textures": {
-    "cross": "fundamentallyfixed:block/grass_wheat_stage5"
+    "cross": "minecraft:block/wheat_stage5"
   }
 }
