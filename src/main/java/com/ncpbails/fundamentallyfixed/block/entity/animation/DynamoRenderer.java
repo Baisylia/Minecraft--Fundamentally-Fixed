@@ -1,4 +1,4 @@
-package com.ncpbails.fundamentallyfixed.block.entity.custom;
+package com.ncpbails.fundamentallyfixed.block.entity.animation;
 
 import com.jozufozu.flywheel.backend.Backend;
 import com.mojang.blaze3d.vertex.PoseStack;

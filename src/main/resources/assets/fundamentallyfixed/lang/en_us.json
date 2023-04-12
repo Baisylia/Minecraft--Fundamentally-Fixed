@@ -5,6 +5,34 @@
   "item.fundamentallyfixed.loose_grass": "Loose Grass",
   "item.fundamentallyfixed.sharp_stone": "Sharp Stone",
   "item.fundamentallyfixed.worm": "Worm",
+  "item.fundamentallyfixed.cloth": "Cloth",
+  "item.fundamentallyfixed.raw_copper_nugget": "Raw Copper Nugget",
+  "item.fundamentallyfixed.raw_aluminium_nugget": "Raw Aluminium Nugget",
+  "item.fundamentallyfixed.raw_iron_nugget": "Raw Iron Nugget",
+  "item.fundamentallyfixed.raw_gold_nugget": "Raw Gold Nugget",
+  "item.fundamentallyfixed.raw_lead_nugget": "Raw Lead Nugget",
+  "item.fundamentallyfixed.raw_silver_nugget": "Raw Silver Nugget",
+  "item.fundamentallyfixed.copper_nugget": "Copper Nugget",
+  "item.fundamentallyfixed.aluminium_nugget": "Aluminium Nugget",
+  "item.fundamentallyfixed.copper_dust": "Copper Dust",
+  "item.fundamentallyfixed.aluminium_dust": "Aluminium Dust",
+  "item.fundamentallyfixed.iron_dust": "Iron Dust",
+  "item.fundamentallyfixed.gold_dust": "Gold Dust",
+  "item.fundamentallyfixed.lead_dust": "Lead Dust",
+  "item.fundamentallyfixed.silver_dust": "Silver Dust",
+  "item.fundamentallyfixed.oceanic_dust": "Oceanic Dust",
+  "item.fundamentallyfixed.ancient_dust": "Ancient Dust",
+  "item.fundamentallyfixed.coal_powder": "Coal Powder",
+  "item.fundamentallyfixed.netherrack_powder": "Netherrack Powder",
+  "item.fundamentallyfixed.wheat_flour": "Wheat Flour",
+  "item.fundamentallyfixed.acorn_flour": "Acorn Flour",
+  "item.fundamentallyfixed.cocoa_powder": "Cocoa Powder",
+  "item.fundamentallyfixed.aluminium_sheet": "Aluminium Sheet",
+  "item.fundamentallyfixed.lead_sheet": "Lead Sheet",
+  "item.fundamentallyfixed.silver_sheet": "Silver Sheet",
+  "item.fundamentallyfixed.prismarite_sheet": "Prismarite Sheet",
+  "item.fundamentallyfixed.netherite_sheet": "Netherite Sheet",
+  "item.fundamentallyfixed.electrum_sheet": "Electrum Sheet",
 
   "item.fundamentallyfixed.grass_seeds": "Grass Seeds",
   "item.fundamentallyfixed.wheat_seeds_fixed": "Wheat Seeds",
@@ -15,5 +43,6 @@
 
   "block.fundamentallyfixed.sappy_oak_log": "Sappy Oak Log",
 
-  "block.fundamentallyfixed.redstone_dynamo": "Redstone Dynamo"
+  "block.fundamentallyfixed.redstone_dynamo": "Redstone Dynamo",
+  "block.fundamentallyfixed.dynamo_bearing": "Dynamo Bearing"
 }

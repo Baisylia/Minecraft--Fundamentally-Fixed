@@ -1,8 +1,10 @@
 package com.ncpbails.fundamentallyfixed.block;
 
 import com.ncpbails.fundamentallyfixed.FundamentallyFixed;
+import com.ncpbails.fundamentallyfixed.block.custom.DynamoBearingBlock;
 import com.ncpbails.fundamentallyfixed.block.custom.RedstoneDynamoBlock;
 import com.simibubi.create.AllTags;
+import com.simibubi.create.content.contraptions.components.structureMovement.bearing.MechanicalBearingBlock;
 import com.simibubi.create.foundation.block.BlockStressDefaults;
 import com.simibubi.create.foundation.data.BlockStateGen;
 import com.simibubi.create.foundation.data.CreateRegistrate;
@@ -20,6 +22,17 @@ public class ModCBlocks {
             .creativeModeTab(() -> CreativeModeTab.TAB_BUILDING_BLOCKS);
 
     public static final BlockEntry<RedstoneDynamoBlock> REDSTONE_DYNAMO = REGISTRATE.block("redstone_dynamo", RedstoneDynamoBlock::new)
+            .initialProperties(SharedProperties::stone)
+            .properties(p -> p.color(MaterialColor.PODZOL))
+            .blockstate(BlockStateGen.directionalBlockProvider(true))
+            .addLayer(() -> RenderType::cutoutMipped)
+            .transform(TagGen.axeOrPickaxe())
+            .transform(BlockStressDefaults.setImpact(2.0))
+            .item()
+            .transform(customItemModel())
+            .register();
+
+    public static final BlockEntry<MechanicalBearingBlock> DYNAMO_BEARING = REGISTRATE.block("dynamo_bearing", MechanicalBearingBlock::new)
             .initialProperties(SharedProperties::stone)
             .properties(p -> p.color(MaterialColor.PODZOL))
             .blockstate(BlockStateGen.directionalBlockProvider(true))

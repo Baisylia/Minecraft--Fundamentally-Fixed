@@ -1,13 +1,11 @@
 package com.ncpbails.fundamentallyfixed.block.entity;
 
-import com.ncpbails.fundamentallyfixed.FundamentallyFixed;
-import com.ncpbails.fundamentallyfixed.block.ModBlocks;
 import com.ncpbails.fundamentallyfixed.block.ModCBlocks;
-import com.ncpbails.fundamentallyfixed.block.entity.custom.DynamoInstance;
-import com.ncpbails.fundamentallyfixed.block.entity.custom.DynamoRenderer;
+import com.ncpbails.fundamentallyfixed.block.entity.animation.DynamoBearingInstance;
+import com.ncpbails.fundamentallyfixed.block.entity.animation.DynamoBearingRenderer;
+import com.ncpbails.fundamentallyfixed.block.entity.animation.DynamoInstance;
+import com.ncpbails.fundamentallyfixed.block.entity.animation.DynamoRenderer;
 import com.ncpbails.fundamentallyfixed.block.entity.custom.RedstoneDynamoTileEntity;
-import com.tterrag.registrate.util.nullness.NonNullSupplier;
-import net.minecraft.world.level.block.Block;
 import com.tterrag.registrate.util.entry.BlockEntityEntry;
 
 import static com.simibubi.create.Create.REGISTRATE;
@@ -28,11 +26,19 @@ public class ModCBlockEntities {
     //        .register();
 
     public static final BlockEntityEntry<RedstoneDynamoTileEntity> REDSTONE_DYNAMO = REGISTRATE
-            .tileEntity("brass_encased_fan", RedstoneDynamoTileEntity::new)
+            .tileEntity("redstone_dynamo", RedstoneDynamoTileEntity::new)
             .instance(() -> DynamoInstance::new, false)
             .validBlocks(ModCBlocks.REDSTONE_DYNAMO)
             .renderer(() -> DynamoRenderer::new)
             .register();
+
+    public static final BlockEntityEntry<RedstoneDynamoTileEntity> DYNAMO_BEARING = REGISTRATE
+            .tileEntity("dynamo_bearing", RedstoneDynamoTileEntity::new)
+            .instance(() -> DynamoBearingInstance::new, false)
+            .validBlocks(ModCBlocks.DYNAMO_BEARING)
+            .renderer(() -> DynamoBearingRenderer::new)
+            .register();
+
     public static void register(//IEventBus eventBus
     ) {
         //BLOCK_ENTITIES.register(eventBus);

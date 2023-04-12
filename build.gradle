@@ -177,6 +177,7 @@ dependencies {
     implementation fg.deobf("curse.maven:blueprint-382216:4442628")
     compileOnly fg.deobf("com.jozufozu.flywheel:flywheel-forge-1.19.2:0.6.8.a-14")
     compileOnly fg.deobf("com.tterrag.registrate:Registrate:MC1.19-1.1.5")
+    implementation fg.deobf("curse.maven:morecreativetabs-581838:4119849")
 
     //Required Compat Libraries
     implementation fg.deobf("curse.maven:autoreglib-250363:4100299")
@@ -184,11 +185,28 @@ dependencies {
 
     //Required Compat
     implementation fg.deobf("curse.maven:farmersdelight-398521:3999157")
+    implementation fg.deobf("curse.maven:brewinandchewin-637808:4468049")
     implementation fg.deobf("curse.maven:create-328085:4371809")
     implementation fg.deobf("curse.maven:shieldexpansion-583318:4461135")
     implementation fg.deobf("curse.maven:quark-243121:4426258")
     implementation fg.deobf("curse.maven:supplementaries-412082:4460346")
-    //implementation fg.deobf("curse.maven:oreganized-769203:4377982")
+    implementation fg.deobf("curse.maven:oreganized-769203:4377982")
+
+    implementation fg.deobf("curse.maven:upgradeaquatic-326895:4415517")
+    implementation fg.deobf("curse.maven:savageandravage-381736:4429231")
+    implementation fg.deobf("curse.maven:environmental-388992:4415514")
+    implementation fg.deobf("curse.maven:atmospheric-362393:4415516")
+    implementation fg.deobf("curse.maven:autumnity-365045:4415512")
+    implementation fg.deobf("curse.maven:clayworks-592162:4396960")
+    implementation fg.deobf("curse.maven:woodworks-543610:4396958")
+    implementation fg.deobf("curse.maven:boatload-337396:4426144")
+    implementation fg.deobf("curse.maven:allurement-438003:4415496")
+    implementation fg.deobf("curse.maven:neapolitan-382016:4023083")
+    implementation fg.deobf("curse.maven:berry_good-355589:4023072")
+    implementation fg.deobf("curse.maven:personality-415974:3912029")
+    implementation fg.deobf("curse.maven:buzzier_bees-355458:3912010")
+    implementation fg.deobf("curse.maven:pet_cemetery-565160:4469393")
+    //Add Endergetic when Possible
 
     //Runtime Only
     runtimeOnly fg.deobf("curse.maven:jei-238222:4087658")
