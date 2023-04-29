@@ -41,5 +41,6 @@ public class ModListings {
     public static void setRenderLayers() {
         ItemBlockRenderTypes.setRenderLayer(ModBlocks.GRASSES.get(), RenderType.cutout());
         ItemBlockRenderTypes.setRenderLayer(ModBlocks.WHEAT_FIXED.get(), RenderType.cutout());
+        ItemBlockRenderTypes.setRenderLayer(ModBlocks.AETHER_PORTAL.get(), RenderType.translucent());
     }
 }

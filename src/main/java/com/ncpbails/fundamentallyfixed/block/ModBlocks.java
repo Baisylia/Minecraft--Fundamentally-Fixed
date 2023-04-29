@@ -1,11 +1,8 @@
 package com.ncpbails.fundamentallyfixed.block;
 
 import com.ncpbails.fundamentallyfixed.FundamentallyFixed;
-import com.ncpbails.fundamentallyfixed.block.custom.AcornBlock;
-import com.ncpbails.fundamentallyfixed.block.custom.DualCropBlock;
-import com.ncpbails.fundamentallyfixed.block.custom.FixedCropBlock;
+import com.ncpbails.fundamentallyfixed.block.custom.*;
 //import com.ncpbails.fundamentallyfixed.block.custom.RedstoneDynamoBlock;
-import com.ncpbails.fundamentallyfixed.block.custom.RedstoneDynamoBlock;
 import com.ncpbails.fundamentallyfixed.item.ModItems;
 import com.ncpbails.fundamentallyfixed.world.feature.tree.OakTreeFixedGrower;
 import com.simibubi.create.AllBlocks;
@@ -50,6 +47,23 @@ public class ModBlocks {
 
             }, CreativeModeTab.TAB_BUILDING_BLOCKS, true, 300);
 
+    public static final RegistryObject<Block> OCEANIC_PRISMARINE_ORE = registerBlock("oceanic_prismarine_ore",
+            () -> new Block(BlockBehaviour.Properties.copy(com.ncpbails.modestmining.block.ModBlocks.OCEANIC_REMAINS.get())), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> ALUMINIUM_BLOCK = registerBlock("aluminium_block",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.COPPER_BLOCK)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> RAW_ALUMINIUM_BLOCK = registerBlock("raw_aluminium_block",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.RAW_COPPER_BLOCK)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> ALUMINIUM_ORE = registerBlock("aluminium_ore",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.COPPER_ORE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> DEEPSLATE_ALUMINIUM_ORE = registerBlock("deepslate_aluminium_ore",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.DEEPSLATE_COPPER_ORE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> AETHER_PORTAL = registerBlockWithoutBlockItem("aether_portal",
+            AetherPortalBlock::new);
 
     //Crops
     public static final RegistryObject<Block> ACORN = registerBlock("acorn",

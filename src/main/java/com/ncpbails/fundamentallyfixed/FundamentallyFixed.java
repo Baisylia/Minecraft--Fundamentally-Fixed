@@ -5,6 +5,7 @@ import com.ncpbails.fundamentallyfixed.block.ModBlocks;
 import com.ncpbails.fundamentallyfixed.block.ModCBlocks;
 import com.ncpbails.fundamentallyfixed.block.entity.ModCBlockEntities;
 import com.ncpbails.fundamentallyfixed.core.ModListings;
+import com.ncpbails.fundamentallyfixed.dimensions.ModDimensions;
 import com.ncpbails.fundamentallyfixed.item.ModItems;
 import com.ncpbails.fundamentallyfixed.world.feature.ModConfiguredFeatures;
 import com.ncpbails.fundamentallyfixed.world.feature.ModPlacedFeatures;
@@ -40,6 +41,7 @@ public class FundamentallyFixed
         ModBlocks.register(eventBus);
         ModConfiguredFeatures.register(eventBus);
         ModPlacedFeatures.register(eventBus);
+        ModDimensions.register();
 
         MinecraftForge.EVENT_BUS.register(this);
     }

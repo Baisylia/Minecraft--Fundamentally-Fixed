@@ -6,6 +6,7 @@ buildscript {
             // content { includeGroup "org.spongepowered" }
         }
         mavenCentral()
+        maven {url = "https://maven.kyrptonaught.dev"}
     }
     dependencies {
         classpath group: 'net.minecraftforge.gradle', name: 'ForgeGradle', version: '5.1.+', changing: true
@@ -47,7 +48,7 @@ minecraft {
     // Simply re-run your setup task after changing the mappings to update your workspace.
     mappings channel: 'official', version: '1.19.2'
 
-    // accessTransformer = file('src/main/resources/META-INF/accesstransformer.cfg') // Currently, this location cannot be changed from the default.
+    accessTransformer = file('src/main/resources/META-INF/accesstransformer.cfg') // Currently, this location cannot be changed from the default.
 
     // Default run configurations.
     // These can be tweaked, removed, or duplicated as needed.
@@ -174,23 +175,40 @@ dependencies {
     // implementation fg.deobf("com.tterrag.registrate:Registrate:MC${mc_version}-${registrate_version}") // Adds registrate as a dependency
 
     //Required Mod Dependencies
+    implementation fg.deobf("curse.maven:jei-238222:4494410")
     implementation fg.deobf("curse.maven:blueprint-382216:4442628")
     compileOnly fg.deobf("com.jozufozu.flywheel:flywheel-forge-1.19.2:0.6.8.a-14")
     compileOnly fg.deobf("com.tterrag.registrate:Registrate:MC1.19-1.1.5")
     implementation fg.deobf("curse.maven:morecreativetabs-581838:4119849")
+    implementation fg.deobf("curse.maven:crafttweaker-239197:4462134")
+    implementation fg.deobf("curse.maven:createtweaker-437717:4444178")
+    implementation fg.deobf("curse.maven:jeitweaker-368718:4448263")
+    //implementation fg.deobf("curse.maven:gamestages-268655:4396244")
 
     //Required Compat Libraries
     implementation fg.deobf("curse.maven:autoreglib-250363:4100299")
     implementation fg.deobf("curse.maven:moonlightlib-499980:4460381")
+    implementation fg.deobf("curse.maven:cloth-348521:3972423")
+    implementation fg.deobf("curse.maven:playeranimator-658587:4418149")
+    implementation fg.deobf("curse.maven:geckolib-388172:4096661")
+    //implementation fg.deobf("curse.maven:bookshelf-228525:4426591")
 
     //Required Compat
+    implementation fg.deobf("curse.maven:modestmining-533775:4510474")
     implementation fg.deobf("curse.maven:farmersdelight-398521:3999157")
     implementation fg.deobf("curse.maven:brewinandchewin-637808:4468049")
+    implementation fg.deobf("curse.maven:nethersdelight-496394:3971576")
     implementation fg.deobf("curse.maven:create-328085:4371809")
     implementation fg.deobf("curse.maven:shieldexpansion-583318:4461135")
     implementation fg.deobf("curse.maven:quark-243121:4426258")
     implementation fg.deobf("curse.maven:supplementaries-412082:4460346")
     implementation fg.deobf("curse.maven:oreganized-769203:4377982")
+    implementation fg.deobf("curse.maven:windswept-636321:4464804")
+    implementation fg.deobf("curse.maven:infernalexpansion-395078:4002091")
+    implementation fg.deobf("curse.maven:bettercombat-639842:4428887")
+    implementation fg.deobf("curse.maven:spelunkery-790530:4500958")
+    implementation fg.deobf("curse.maven:sullysmod-386534:4362857")
+    //implementation fg.deobf("curse.maven:thirst-679270:4505578")
 
     implementation fg.deobf("curse.maven:upgradeaquatic-326895:4415517")
     implementation fg.deobf("curse.maven:savageandravage-381736:4429231")
@@ -206,10 +224,11 @@ dependencies {
     implementation fg.deobf("curse.maven:personality-415974:3912029")
     implementation fg.deobf("curse.maven:buzzier_bees-355458:3912010")
     implementation fg.deobf("curse.maven:pet_cemetery-565160:4469393")
+    implementation fg.deobf("curse.maven:incubation-361718:3906687")
+    implementation fg.deobf("curse.maven:abnormals_delight-442719:4415502")
     //Add Endergetic when Possible
 
     //Runtime Only
-    runtimeOnly fg.deobf("curse.maven:jei-238222:4087658")
     runtimeOnly fg.deobf("curse.maven:appleskin-248787:3872808")
     runtimeOnly fg.deobf("curse.maven:shutupexperimentalsettings-407174:3759881")
 
