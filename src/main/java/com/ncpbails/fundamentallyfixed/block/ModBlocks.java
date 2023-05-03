@@ -62,6 +62,15 @@ public class ModBlocks {
     public static final RegistryObject<Block> DEEPSLATE_ALUMINIUM_ORE = registerBlock("deepslate_aluminium_ore",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.DEEPSLATE_COPPER_ORE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
 
+    public static final RegistryObject<Block> COPPER_ORE = registerBlock("copper_ore",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.COPPER_ORE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> DEEPSLATE_COPPER_ORE = registerBlock("deepslate_copper_ore",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.DEEPSLATE_COPPER_ORE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> RAW_COPPER_BLOCK = registerBlock("raw_copper_block",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.RAW_COPPER_BLOCK)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
     public static final RegistryObject<Block> AETHER_PORTAL = registerBlockWithoutBlockItem("aether_portal",
             AetherPortalBlock::new);
 

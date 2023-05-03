@@ -108,6 +108,10 @@ public class ModItems {
 
     public static final RegistryObject<Item> PRISMARINE_SHARD = ITEMS.register("prismarine_shard", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
+    public static final RegistryObject<Item> COW_HIDE = ITEMS.register("cow_hide", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> SAND_PILE = ITEMS.register("sand_pile", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
 
     public static final RegistryObject<Item> BRONZE_SWORD = ITEMS.register("bronze_sword", () -> new SwordItem(ModTiers.BRONZE, 3, -2.4f,
             new Item.Properties().tab(CreativeModeTab.TAB_COMBAT)));

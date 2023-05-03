@@ -55,6 +55,8 @@
   "item.fundamentallyfixed.meteorite_dust": "Meteorite Dust",
   "item.fundamentallyfixed.prismarine": "Prismarine",
   "item.fundamentallyfixed.prismarine_shard": "Prismarine Shard",
+  "item.fundamentallyfixed.cow_hide": "Cow Hide",
+  "item.fundamentallyfixed.sand_pile": "Sand Pile",
 
   "item.fundamentallyfixed.flint_knife": "Flint Knife",
   "item.fundamentallyfixed.flint_hatchet": "Flint Hatchet",
@@ -87,6 +89,9 @@
   "block.fundamentallyfixed.raw_aluminium_block": "Raw Aluminium Block",
   "block.fundamentallyfixed.aluminium_ore": "Aluminium Ore",
   "block.fundamentallyfixed.deepslate_aluminium_ore": "Deepslate Aluminium Ore",
+  "block.fundamentallyfixed.raw_copper_block": "Raw Copper Block",
+  "block.fundamentallyfixed.copper_ore": "Copper Ore",
+  "block.fundamentallyfixed.deepslate_copper_ore": "Deepslate Copper Ore",
 
   "block.fundamentallyfixed.redstone_dynamo": "Redstone Dynamo",
   "block.fundamentallyfixed.dynamo_bearing": "Dynamo Bearing"
