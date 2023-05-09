@@ -5,6 +5,7 @@ import com.ncpbails.fundamentallyfixed.block.custom.*;
 //import com.ncpbails.fundamentallyfixed.block.custom.RedstoneDynamoBlock;
 import com.ncpbails.fundamentallyfixed.item.ModItems;
 import com.ncpbails.fundamentallyfixed.world.feature.tree.OakTreeFixedGrower;
+import com.ncpbails.modestmining.block.entity.custom.RockBlock;
 import com.simibubi.create.AllBlocks;
 import com.simibubi.create.content.contraptions.components.fan.EncasedFanBlock;
 import net.minecraft.core.BlockPos;
@@ -18,6 +19,8 @@ import net.minecraft.world.level.block.Blocks;
 import net.minecraft.world.level.block.RotatedPillarBlock;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.block.state.BlockState;
+import net.minecraft.world.level.material.Material;
+import net.minecraft.world.level.material.MaterialColor;
 import net.minecraftforge.common.ToolAction;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
@@ -70,6 +73,10 @@ public class ModBlocks {
 
     public static final RegistryObject<Block> RAW_COPPER_BLOCK = registerBlock("raw_copper_block",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.RAW_COPPER_BLOCK)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> DEEPSlATE_ROCKS = registerBlock("deepslate_rocks",
+            () -> new RockBlock(BlockBehaviour.Properties.of(Material.STONE, MaterialColor.COLOR_GRAY)
+                    .strength(0.6f, 0.6f).requiresCorrectToolForDrops()), CreativeModeTab.TAB_MISC, false, 0);
 
     public static final RegistryObject<Block> AETHER_PORTAL = registerBlockWithoutBlockItem("aether_portal",
             AetherPortalBlock::new);
