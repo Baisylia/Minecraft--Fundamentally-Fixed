@@ -1,4 +1,7 @@
 {
+  "item.fundamentallyfixed.mystical_stew": "Mystical Stew",
+  "item.fundamentallyfixed.positive_potion_base": "Positive Potion Base",
+  "item.fundamentallyfixed.negative_potion_base": "Negative Potion Base",
   "item.fundamentallyfixed.sap": "Sap",
   "item.fundamentallyfixed.handle": "Handle",
   "item.fundamentallyfixed.leaf": "Leaf",
@@ -57,9 +60,12 @@
   "item.fundamentallyfixed.prismarine": "Prismarine",
   "item.fundamentallyfixed.prismarine_shard": "Prismarine Shard",
   "item.fundamentallyfixed.cow_hide": "Cow Hide",
+  "item.fundamentallyfixed.horse_hide": "Horse Hide",
+  "item.fundamentallyfixed.llama_hide": "Llama Hide",
   "item.fundamentallyfixed.sand_pile": "Sand Pile",
   "item.fundamentallyfixed.dirt_pile": "Dirt Pile",
   "item.fundamentallyfixed.soul_sand_pile": "Soul Sand Pile",
+  "item.fundamentallyfixed.red_sand_pile": "Red Sand Pile",
   "item.fundamentallyfixed.silverfish_eggs": "Silverfish Eggs",
 
   "item.fundamentallyfixed.flint_knife": "Flint Knife",

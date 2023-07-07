@@ -167,7 +167,7 @@ dependencies {
     // Specify the version of Minecraft to use. If this is any group other than 'net.minecraft', it is assumed
     // that the dep is a ForgeGradle 'patcher' dependency, and its patches will be applied.
     // The userdev artifact is a special name and will get all sorts of transformations applied to it.
-    minecraft 'net.minecraftforge:forge:1.19.2-43.2.0'
+    minecraft 'net.minecraftforge:forge:1.19.2-43.2.14'
 
     // Real mod deobf dependency examples - these get remapped to your current mappings
     // compileOnly fg.deobf("mezz.jei:jei-${mc_version}:${jei_version}:api") // Adds JEI API as a compile dependency
@@ -184,6 +184,7 @@ dependencies {
     implementation fg.deobf("curse.maven:createtweaker-437717:4444178")
     implementation fg.deobf("curse.maven:jeitweaker-368718:4448263")
     implementation fg.deobf("curse.maven:globalpacks-317134:3950165")
+    implementation fg.deobf("curse.maven:everycompat-628539:4521396")
     //implementation fg.deobf("curse.maven:gamestages-268655:4396244")
 
     //Required Compat Libraries
@@ -193,6 +194,10 @@ dependencies {
     implementation fg.deobf("curse.maven:playeranimator-658587:4418149")
     implementation fg.deobf("curse.maven:geckolib-388172:4407241")
     //implementation fg.deobf("curse.maven:bookshelf-228525:4426591")
+    implementation fg.deobf("curse.maven:puzzleslib-495476:4499052")
+    implementation fg.deobf("curse.maven:kotlin-351264:4513187")
+    implementation fg.deobf("curse.maven:citadel-331936:4473243")
+
 
     //Required Compat
     implementation fg.deobf("curse.maven:modestmining-533775:4528148")
@@ -215,6 +220,25 @@ dependencies {
     implementation fg.deobf("curse.maven:heartstone-573152:4389913")
     implementation fg.deobf("curse.maven:moyai-577252:4354803")
     implementation fg.deobf("curse.maven:bagelspalette-628678:4041544")
+
+    //implementation fg.deobf("curse.maven:hypothermic-704283:4535118")
+    implementation fg.deobf("curse.maven:tinyskeletons-548647:4034327")
+    implementation fg.deobf("curse.maven:easymagic-456239:4411042")
+    implementation fg.deobf("curse.maven:easyanvils-682567:4499466")
+    implementation fg.deobf("curse.maven:easyshulkers-594006:4112002")
+    implementation fg.deobf("curse.maven:distinguishedpotions-682565:4012472")
+    implementation fg.deobf("curse.maven:enchantmenttransfer-567984:4036852")
+    implementation fg.deobf("curse.maven:deathfinder-327108:4029556")
+    implementation fg.deobf("curse.maven:davespotioneering-639653:4491619")
+    implementation fg.deobf("curse.maven:inventorio-497122:4533342")
+    implementation fg.deobf("curse.maven:alexsmobs-426558:4159154")
+    implementation fg.deobf("curse.maven:naturalist-627986:4500802")
+    implementation fg.deobf("curse.maven:ecologics-570463:4171285")
+    //implementation fg.deobf("curse.maven:alexsdelight-556448:4282385")
+    //implementation fg.deobf("curse.maven:forgery-434087:4525415")
+
+    implementation fg.deobf("curse.maven:coldsweat-506194:4581761")
+
 
     implementation fg.deobf("curse.maven:farmersdelight-398521:4525646")
     implementation fg.deobf("curse.maven:brewinandchewin-637808:4468049")

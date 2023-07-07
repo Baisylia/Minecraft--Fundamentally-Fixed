@@ -7,7 +7,6 @@ import com.ncpbails.fundamentallyfixed.item.ModItems;
 import com.ncpbails.fundamentallyfixed.world.feature.tree.OakTreeFixedGrower;
 import com.ncpbails.modestmining.block.entity.custom.RockBlock;
 import com.simibubi.create.AllBlocks;
-import com.simibubi.create.content.contraptions.components.fan.EncasedFanBlock;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.Direction;
 import net.minecraft.world.item.*;

@@ -2,8 +2,8 @@ package com.ncpbails.fundamentallyfixed;
 
 import com.mojang.logging.LogUtils;
 import com.ncpbails.fundamentallyfixed.block.ModBlocks;
-import com.ncpbails.fundamentallyfixed.block.ModCBlocks;
-import com.ncpbails.fundamentallyfixed.block.entity.ModCBlockEntities;
+//import com.ncpbails.fundamentallyfixed.block.ModCBlocks;
+//import com.ncpbails.fundamentallyfixed.block.entity.ModCBlockEntities;
 import com.ncpbails.fundamentallyfixed.core.ModListings;
 import com.ncpbails.fundamentallyfixed.dimensions.ModDimensions;
 import com.ncpbails.fundamentallyfixed.item.ModItems;
@@ -30,13 +30,13 @@ public class FundamentallyFixed
     // Define mod id in a common place for everything to reference
     public static final String MOD_ID = "fundamentallyfixed";
     private static final Logger LOGGER = LogUtils.getLogger();
-    public static final NonNullSupplier<CreateRegistrate> registrate = CreateRegistrate.lazy(MOD_ID);
+    //public static final NonNullSupplier<CreateRegistrate> registrate = CreateRegistrate.lazy(MOD_ID);
     public FundamentallyFixed()
     {
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
         eventBus.addListener(this::commonSetup);
-        ModCBlocks.register();
-        ModCBlockEntities.register();
+        //ModCBlocks.register();
+        //ModCBlockEntities.register();
         ModItems.register(eventBus);
         ModBlocks.register(eventBus);
         ModConfiguredFeatures.register(eventBus);
@@ -49,7 +49,7 @@ public class FundamentallyFixed
 
 
 
-    public static CreateRegistrate registrate() {return registrate.get();}
+    //public static CreateRegistrate registrate() {return registrate.get();}
 
     private void commonSetup(final FMLCommonSetupEvent event)
     {

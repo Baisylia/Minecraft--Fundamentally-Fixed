@@ -3,14 +3,19 @@ package com.ncpbails.fundamentallyfixed.item;
 import com.ncpbails.fundamentallyfixed.FundamentallyFixed;
 import com.ncpbails.fundamentallyfixed.block.ModBlocks;
 import com.ncpbails.fundamentallyfixed.item.custom.AetherCatalyst;
+import com.ncpbails.fundamentallyfixed.item.custom.FixedPotionItem;
+import com.ncpbails.fundamentallyfixed.item.custom.MysticalStewItem;
 import com.ncpbails.fundamentallyfixed.item.types.ModArmourMaterials;
 import com.ncpbails.fundamentallyfixed.item.types.ModTiers;
+import net.minecraft.world.effect.MobEffectInstance;
+import net.minecraft.world.effect.MobEffects;
 import net.minecraft.world.entity.EquipmentSlot;
 import net.minecraft.world.item.*;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
+import vectorwing.farmersdelight.common.item.DrinkableItem;
 import vectorwing.farmersdelight.common.item.KnifeItem;
 
 public class ModItems {
@@ -110,11 +115,17 @@ public class ModItems {
 
     public static final RegistryObject<Item> COW_HIDE = ITEMS.register("cow_hide", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
+    public static final RegistryObject<Item> HORSE_HIDE = ITEMS.register("horse_hide", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> LLAMA_HIDE = ITEMS.register("llama_hide", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
     public static final RegistryObject<Item> SAND_PILE = ITEMS.register("sand_pile", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
     public static final RegistryObject<Item> DIRT_PILE = ITEMS.register("dirt_pile", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
     public static final RegistryObject<Item> SOUL_SAND_PILE = ITEMS.register("soul_sand_pile", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> RED_SAND_PILE = ITEMS.register("red_sand_pile", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
     public static final RegistryObject<Item> SILVERFISH_EGGS = ITEMS.register("silverfish_eggs", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
@@ -169,6 +180,17 @@ public class ModItems {
 
 
     public static final RegistryObject<Item> AETHER_CATALYST = ITEMS.register("aether_catalyst", () -> new AetherCatalyst(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> POSITIVE_POTION_BASE = ITEMS.register("positive_potion_base", () ->
+            new DrinkableItem(new Item.Properties().craftRemainder(Items.GLASS_BOTTLE).stacksTo(16).tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> NEGATIVE_POTION_BASE = ITEMS.register("negative_potion_base", () ->
+            new DrinkableItem(new Item.Properties().craftRemainder(Items.GLASS_BOTTLE).stacksTo(16).tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> MYSTICAL_STEW = ITEMS.register("mystical_stew", () -> new MysticalStewItem(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> SPLASHTEST = ITEMS.register("splashtest", () ->
+            new FixedPotionItem(new MobEffectInstance(MobEffects.GLOWING, 40, 1), new Item.Properties().tab(CreativeModeTab.TAB_BREWING)));
 
     public static final RegistryObject<Item> GRASS_SEEDS = ITEMS.register("grass_seeds",
             () -> new ItemNameBlockItem(ModBlocks.GRASSES.get(),
