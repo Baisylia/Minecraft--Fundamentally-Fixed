@@ -6,20 +6,19 @@ import com.ncpbails.fundamentallyfixed.block.custom.*;
 import com.ncpbails.fundamentallyfixed.item.ModItems;
 import com.ncpbails.fundamentallyfixed.world.feature.tree.OakTreeFixedGrower;
 import com.ncpbails.modestmining.block.entity.custom.RockBlock;
-import com.simibubi.create.AllBlocks;
+import com.teamabnormals.savage_and_ravage.core.registry.SRBlocks;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.Direction;
 import net.minecraft.world.item.*;
 import net.minecraft.world.item.context.UseOnContext;
 import net.minecraft.world.item.crafting.RecipeType;
 import net.minecraft.world.level.BlockGetter;
-import net.minecraft.world.level.block.Block;
-import net.minecraft.world.level.block.Blocks;
-import net.minecraft.world.level.block.RotatedPillarBlock;
+import net.minecraft.world.level.block.*;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.block.state.BlockState;
 import net.minecraft.world.level.material.Material;
 import net.minecraft.world.level.material.MaterialColor;
+import net.minecraft.world.level.material.PushReaction;
 import net.minecraftforge.common.ToolAction;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
@@ -27,6 +26,7 @@ import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import org.jetbrains.annotations.Nullable;
 
+import javax.annotation.Nonnull;
 import java.util.function.Supplier;
 
 public class ModBlocks {
@@ -76,6 +76,25 @@ public class ModBlocks {
     public static final RegistryObject<Block> DEEPSlATE_ROCKS = registerBlock("deepslate_rocks",
             () -> new RockBlock(BlockBehaviour.Properties.of(Material.STONE, MaterialColor.COLOR_GRAY)
                     .strength(0.6f, 0.6f).requiresCorrectToolForDrops()), CreativeModeTab.TAB_MISC, false, 0);
+
+    public static final RegistryObject<Block> BLAST_PROOF_BLOCK = registerBlock("blast_proof_block",
+            () -> new Block(BlockBehaviour.Properties.copy(SRBlocks.BLAST_PROOF_PLATES.get())), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> STURDY_DEEPSLATE = registerBlock("sturdy_deepslate",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.DEEPSLATE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> POLISHED_PHYTON = registerBlock("polished_phyton",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.PRISMARINE_BRICKS)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> POLISHED_PHYTON_STAIRS = registerBlock("polished_phyton_stairs",
+            () -> new StairBlock(() -> Blocks.PRISMARINE_BRICK_STAIRS.defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.PRISMARINE_BRICKS)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> POLISHED_PHYTON_SLAB = registerBlock("polished_phyton_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.PRISMARINE_BRICKS)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> POLISHED_PHYTON_WALL = registerBlock("polished_phyton_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.PRISMARINE_BRICKS)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
 
     public static final RegistryObject<Block> AETHER_PORTAL = registerBlockWithoutBlockItem("aether_portal",
             AetherPortalBlock::new);

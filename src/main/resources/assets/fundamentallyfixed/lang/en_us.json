@@ -66,6 +66,8 @@
   "item.fundamentallyfixed.dirt_pile": "Dirt Pile",
   "item.fundamentallyfixed.soul_sand_pile": "Soul Sand Pile",
   "item.fundamentallyfixed.red_sand_pile": "Red Sand Pile",
+  "item.fundamentallyfixed.calcium_powder": "Calcium Powder",
+  "item.fundamentallyfixed.prismarine_extract": "Prismarine Extract",
   "item.fundamentallyfixed.silverfish_eggs": "Silverfish Eggs",
 
   "item.fundamentallyfixed.flint_knife": "Flint Knife",
@@ -103,6 +105,11 @@
   "block.fundamentallyfixed.raw_copper_block": "Raw Copper Block",
   "block.fundamentallyfixed.copper_ore": "Copper Ore",
   "block.fundamentallyfixed.deepslate_copper_ore": "Deepslate Copper Ore",
+  "block.fundamentallyfixed.sturdy_deepslate": "Sturdy Deepslate",
+  "block.fundamentallyfixed.polished_phyton": "Polished Phyton",
+  "block.fundamentallyfixed.polished_phyton_stairs": "Polished Phyton Stairs",
+  "block.fundamentallyfixed.polished_phyton_slab": "Polished Phyton Slab",
+  "block.fundamentallyfixed.polished_phyton_wall": "Polished Phyton Wall",
 
   "block.fundamentallyfixed.redstone_dynamo": "Redstone Dynamo",
   "block.fundamentallyfixed.dynamo_bearing": "Dynamo Bearing"

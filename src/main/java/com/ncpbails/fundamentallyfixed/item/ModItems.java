@@ -77,6 +77,10 @@ public class ModItems {
 
     public static final RegistryObject<Item> NETHERRACK_POWDER = ITEMS.register("netherrack_powder", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
+    public static final RegistryObject<Item> CALCIUM_POWDER = ITEMS.register("calcium_powder", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> GROUND_PRISMARINE = ITEMS.register("ground_prismarine", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
     public static final RegistryObject<Item> WHEAT_FLOUR = ITEMS.register("wheat_flour", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
     public static final RegistryObject<Item> ACORN_FLOUR = ITEMS.register("acorn_flour", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
