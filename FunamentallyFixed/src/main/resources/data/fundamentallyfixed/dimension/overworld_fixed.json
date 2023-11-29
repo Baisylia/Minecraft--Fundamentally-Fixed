@@ -1,0 +1,25 @@
+{
+  "type": "fundamentallyfixed:overworld_fixed",
+  "generator": {
+    "biome_source": {
+      "biomes": [
+        {
+          "parameters": {
+            "erosion": 0.0,
+            "depth": 0.0,
+            "weirdness": 0.0,
+            "offset": 0.0,
+            "temperature": 0.0,
+            "humidity": 0.0,
+            "continentalness": 0.0
+          },
+          "biome": "fundamentallyfixed:plains_fixed"
+        }
+      ],
+      "type": "minecraft:multi_noise"
+    },
+    "seed": 0,
+    "settings": "fundamentallyfixed:overworld_fixed",
+    "type": "minecraft:noise"
+  }
+}

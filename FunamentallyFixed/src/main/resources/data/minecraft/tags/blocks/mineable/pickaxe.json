@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "fundamentallyfixed:copper_ore",
+    "fundamentallyfixed:deepslate_copper_ore",
+    "fundamentallyfixed:raw_copper_block",
+    "fundamentallyfixed:aluminium_ore",
+    "fundamentallyfixed:deepslate_aluminium_ore",
+    "fundamentallyfixed:raw_aluminium_block",
+    "fundamentallyfixed:blast_proof_block",
+    "fundamentallyfixed:sturdy_deepslate"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "age=0,lit=false": {
+      "model": "fundamentallyfixed:block/grass_stage0"
+    },
+    "age=1,lit=false": {
+      "model": "fundamentallyfixed:block/grass_stage1"
+    },
+    "age=2,lit=false": {
+      "model": "fundamentallyfixed:block/grass_stage2"
+    },
+    "age=3,lit=false": {
+      "model": "fundamentallyfixed:block/grass_stage3"
+    },
+    "age=4,lit=false": {
+      "model": "fundamentallyfixed:block/grass_stage4"
+    },
+    "age=5,lit=false": {
+      "model": "fundamentallyfixed:block/grass_stage5"
+    },
+    "age=6,lit=false": {
+      "model": "fundamentallyfixed:block/grass_stage6"
+    },
+    "age=7,lit=false": {
+      "model": "fundamentallyfixed:block/grass_stage7"
+    },
+    "age=0,lit=true": {
+      "model": "fundamentallyfixed:block/grass_wheat_stage0"
+    },
+    "age=1,lit=true": {
+      "model": "fundamentallyfixed:block/grass_wheat_stage1"
+    },
+    "age=2,lit=true": {
+      "model": "fundamentallyfixed:block/grass_wheat_stage2"
+    },
+    "age=3,lit=true": {
+      "model": "fundamentallyfixed:block/grass_wheat_stage3"
+    },
+    "age=4,lit=true": {
+      "model": "fundamentallyfixed:block/grass_wheat_stage4"
+    },
+    "age=5,lit=true": {
+      "model": "fundamentallyfixed:block/grass_wheat_stage5"
+    },
+    "age=6,lit=true": {
+      "model": "fundamentallyfixed:block/grass_wheat_stage6"
+    },
+    "age=7,lit=true": {
+      "model": "fundamentallyfixed:block/grass_wheat_stage7"
+    }
+  }
+}
