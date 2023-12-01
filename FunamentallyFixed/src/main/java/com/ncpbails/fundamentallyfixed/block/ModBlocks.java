@@ -95,6 +95,21 @@ public class ModBlocks {
     public static final RegistryObject<Block> POLISHED_PHYTON_WALL = registerBlock("polished_phyton_wall",
             () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.PRISMARINE_BRICKS)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
 
+    public static final RegistryObject<Block> COARSE_FLORAROCK = registerBlock("coarse_florarock",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.COARSE_DIRT)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> FLORAROCK_BRICKS = registerBlock("florarock_bricks",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.DIRT)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> FLORAROCK_BRICK_STAIRS = registerBlock("florarock_brick_stairs",
+            () -> new StairBlock(() -> Blocks.MUD_BRICK_STAIRS.defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.DIRT)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> FLORAROCK_BRICK_SLAB = registerBlock("florarock_brick_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.DIRT)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> FLORAROCK_BRICK_WALL = registerBlock("florarock_brick_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.DIRT)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
 
     //Crops
     public static final RegistryObject<Block> ACORN = registerBlock("acorn",

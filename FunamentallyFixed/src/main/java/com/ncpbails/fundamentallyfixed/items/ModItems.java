@@ -29,6 +29,8 @@ public class ModItems {
     public static final RegistryObject<Item> WORM = ITEMS.register("worm", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
     public static final RegistryObject<Item> CLOTH = ITEMS.register("cloth", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> TERRACOTTA_FRACTURE = ITEMS.register("terracotta_fracture", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
     public static final RegistryObject<Item> RAW_COPPER_NUGGET = ITEMS.register("raw_copper_nugget", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
     public static final RegistryObject<Item> RAW_ALUMINIUM_NUGGET = ITEMS.register("raw_aluminium_nugget", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
@@ -116,11 +118,13 @@ public class ModItems {
 
     public static final RegistryObject<Item> PRISMARINE_SHARD = ITEMS.register("prismarine_shard", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
-    public static final RegistryObject<Item> COW_HIDE = ITEMS.register("cow_hide", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+    //public static final RegistryObject<Item> COW_HIDE = ITEMS.register("cow_hide", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
-    public static final RegistryObject<Item> HORSE_HIDE = ITEMS.register("horse_hide", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+    //public static final RegistryObject<Item> HORSE_HIDE = ITEMS.register("horse_hide", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
-    public static final RegistryObject<Item> LLAMA_HIDE = ITEMS.register("llama_hide", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+    //public static final RegistryObject<Item> LLAMA_HIDE = ITEMS.register("llama_hide", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> MAMMAL_HIDE = ITEMS.register("mammal_hide", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
     public static final RegistryObject<Item> SAND_PILE = ITEMS.register("sand_pile", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
@@ -129,6 +133,10 @@ public class ModItems {
     public static final RegistryObject<Item> SOUL_SAND_PILE = ITEMS.register("soul_sand_pile", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
     public static final RegistryObject<Item> RED_SAND_PILE = ITEMS.register("red_sand_pile", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> FLORAROCK_PILE = ITEMS.register("florarock_pile", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> QUICKSOIL_PILE = ITEMS.register("quicksoil_pile", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
     public static final RegistryObject<Item> SILVERFISH_EGGS = ITEMS.register("silverfish_eggs", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 

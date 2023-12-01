@@ -174,17 +174,8 @@ dependencies {
     // runtimeOnly fg.deobf("mezz.jei:jei-${mc_version}:${jei_version}") // Adds the full JEI mod as a runtime dependency
     // implementation fg.deobf("com.tterrag.registrate:Registrate:MC${mc_version}-${registrate_version}") // Adds registrate as a dependency
 
-    //Required Mod Dependencies
-    implementation fg.deobf("curse.maven:jei-238222:4494410")
+    //------------------------------ Required Dependencies ------------------------------
     implementation fg.deobf("curse.maven:blueprint-382216:4442628")
-    runtimeOnly fg.deobf("curse.maven:morecreativetabs-581838:4119849")
-    runtimeOnly fg.deobf("curse.maven:crafttweaker-239197:4611971")
-    runtimeOnly fg.deobf("curse.maven:jeitweaker-368718:4448263")
-    runtimeOnly fg.deobf("curse.maven:globalpacks-317134:3950165")
-    //implementation fg.deobf("curse.maven:everycompat-628539:4844153")
-    //implementation fg.deobf("curse.maven:gamestages-268655:4396244")
-
-    //Required Compat Libraries
     runtimeOnly fg.deobf("curse.maven:autoreglib-250363:4100299")
     implementation fg.deobf("curse.maven:moonlightlib-499980:4620027")
     runtimeOnly fg.deobf("curse.maven:cloth-348521:3972423")
@@ -195,51 +186,93 @@ dependencies {
     runtimeOnly fg.deobf("curse.maven:kotlin-351264:4513187")
     runtimeOnly fg.deobf("curse.maven:citadel-331936:4473243")
 
+    //------------------------------ Compat Dependencies ------------------------------
+    runtimeOnly fg.deobf("curse.maven:everycompat-628539:4616032")
+    runtimeOnly fg.deobf("curse.maven:jeitweaker-368718:4448263")
+    //implementation fg.deobf("curse.maven:alexsdelight-556448:4282385")
+
+    //------------------------------ Function Mods ------------------------------
+    implementation fg.deobf("curse.maven:jei-238222:4494410")
+    runtimeOnly fg.deobf("curse.maven:morecreativetabs-581838:4119849")
+    runtimeOnly fg.deobf("curse.maven:crafttweaker-239197:4611971")
+    runtimeOnly fg.deobf("curse.maven:globalpacks-317134:3950165")
+    implementation fg.deobf("curse.maven:thirst-was-taken-679270:4871260")
+    //implementation fg.deobf("curse.maven:gamestages-268655:4396244")
+    runtimeOnly fg.deobf("curse.maven:easymagic-456239:4411042")
+    runtimeOnly fg.deobf("curse.maven:easyanvils-682567:4499466")
+    runtimeOnly fg.deobf("curse.maven:easyshulkers-594006:4559054")
+    runtimeOnly fg.deobf("curse.maven:deathfinder-327108:4029556")
+    runtimeOnly fg.deobf("curse.maven:inventorio-497122:4557762")
+    runtimeOnly fg.deobf("curse.maven:cold-sweat-506194:4900456")
+    //implementation fg.deobf("curse.maven:forgery-434087:4525415")
+    runtimeOnly fg.deobf("curse.maven:bettercombat-639842:4534619")
+
+    //------------------------------ Major Content Mods ------------------------------
+    implementation fg.deobf("curse.maven:modestmining-533775:4528148")
     //compileOnly fg.deobf("com.jozufozu.flywheel:flywheel-forge-1.19.2:0.6.8.a-14")
     //compileOnly fg.deobf("com.tterrag.registrate:Registrate:MC1.19-1.1.5")
     //implementation fg.deobf("curse.maven:createtweaker-437717:4444178")
     //implementation fg.deobf("curse.maven:create-328085:4371809")
-
     implementation fg.deobf("curse.maven:create-328085:4625534")
-
-    implementation fg.deobf("curse.maven:modestmining-533775:4528148")
-    runtimeOnly fg.deobf("curse.maven:shieldexpansion-583318:4461135")
     runtimeOnly fg.deobf("curse.maven:quark-243121:4587248")
-    runtimeOnly fg.deobf("curse.maven:quarkoddities-301051:3575623")
     runtimeOnly fg.deobf("curse.maven:supplementaries-412082:4615838")
-    runtimeOnly fg.deobf("curse.maven:supplementariessquared-838411:4530504")
     runtimeOnly fg.deobf("curse.maven:oreganized-769203:4377982")
-    runtimeOnly fg.deobf("curse.maven:windswept-636321:4464804")
     runtimeOnly fg.deobf("curse.maven:infernalexpansion-395078:4002091")
-    runtimeOnly fg.deobf("curse.maven:bettercombat-639842:4534619")
     runtimeOnly fg.deobf("curse.maven:spelunkery-790530:4500958")
+    //runtimeOnly fg.deobf("curse.maven:davespotioneering-639653:4600747")
+    runtimeOnly fg.deobf("curse.maven:alexsmobs-426558:4159154")
+    runtimeOnly fg.deobf("curse.maven:naturalist-627986:4553930")
+    runtimeOnly fg.deobf("curse.maven:ecologics-570463:4171285")
+    runtimeOnly fg.deobf("curse.maven:aether-255308:4816885")
+
+    //------------------------------ Minor Content Mods ------------------------------
+    runtimeOnly fg.deobf("curse.maven:shieldexpansion-583318:4461135")
+    runtimeOnly fg.deobf("curse.maven:quarkoddities-301051:3575623")
+    runtimeOnly fg.deobf("curse.maven:supplementariessquared-838411:4530504")
+    runtimeOnly fg.deobf("curse.maven:windswept-636321:4464804")
     runtimeOnly fg.deobf("curse.maven:sullysmod-386534:4362857")
     runtimeOnly fg.deobf("curse.maven:moreminecarts-440845:4471589")
-    //implementation fg.deobf("curse.maven:thirst-was-taken-679270:4514550")
-
     runtimeOnly fg.deobf("curse.maven:sleeptight-817564:4607283")
     runtimeOnly fg.deobf("curse.maven:heartstone-573152:4569323")
     runtimeOnly fg.deobf("curse.maven:moyai-577252:4545979")
     runtimeOnly fg.deobf("curse.maven:bagelspalette-628678:4550452")
-
     //implementation fg.deobf("curse.maven:hypothermic-704283:4535118")
     runtimeOnly fg.deobf("curse.maven:tinyskeletons-548647:4034327")
-    runtimeOnly fg.deobf("curse.maven:easymagic-456239:4411042")
-    runtimeOnly fg.deobf("curse.maven:easyanvils-682567:4499466")
-    runtimeOnly fg.deobf("curse.maven:easyshulkers-594006:4559054")
     runtimeOnly fg.deobf("curse.maven:distinguishedpotions-682565:4012472")
     runtimeOnly fg.deobf("curse.maven:enchantmenttransfer-567984:4036852")
-    runtimeOnly fg.deobf("curse.maven:deathfinder-327108:4029556")
-    runtimeOnly fg.deobf("curse.maven:davespotioneering-639653:4600747")
-    runtimeOnly fg.deobf("curse.maven:inventorio-497122:4557762")
-    runtimeOnly fg.deobf("curse.maven:alexsmobs-426558:4159154")
-    runtimeOnly fg.deobf("curse.maven:naturalist-627986:4553930")
-    runtimeOnly fg.deobf("curse.maven:ecologics-570463:4171285")
-    //implementation fg.deobf("curse.maven:alexsdelight-556448:4282385")
-    //implementation fg.deobf("curse.maven:forgery-434087:4525415")
+    //runtimeOnly fg.deobf("curse.maven:map-atlases-forge-519759:4902233")
 
+    //------------------------------ Farmers Delight Mods ------------------------------
     implementation fg.deobf("curse.maven:farmersdelight-398521:4525646")
-    implementation fg.deobf("curse.maven:savage-and-ravage-381736:4776245")
+    implementation fg.deobf("curse.maven:brewinandchewin-637808:4468049")
+    implementation fg.deobf("curse.maven:culturaldelights-574622:4627577")
+    implementation fg.deobf("curse.maven:nethersdelight-496394:3971576")
+    implementation fg.deobf("curse.maven:farmersrespite-551453:4081312")
+
+    //------------------------------ Abnormals Mods ------------------------------
+    runtimeOnly fg.deobf("curse.maven:upgradeaquatic-326895:4415517")
+    implementation fg.deobf("curse.maven:savageandravage-381736:4776245")
+    runtimeOnly fg.deobf("curse.maven:environmental-388992:4415514")
+    runtimeOnly fg.deobf("curse.maven:atmospheric-362393:4415516")
+    runtimeOnly fg.deobf("curse.maven:autumnity-365045:4415512")
+    runtimeOnly fg.deobf("curse.maven:clayworks-592162:4396960")
+    runtimeOnly fg.deobf("curse.maven:woodworks-543610:4396958")
+    runtimeOnly fg.deobf("curse.maven:boatload-337396:4426144")
+    runtimeOnly fg.deobf("curse.maven:allurement-438003:4415496")
+    runtimeOnly fg.deobf("curse.maven:neapolitan-382016:4023083")
+    runtimeOnly fg.deobf("curse.maven:berry_good-355589:4023072")
+    runtimeOnly fg.deobf("curse.maven:personality-415974:3912029")
+    runtimeOnly fg.deobf("curse.maven:buzzier_bees-355458:3912010")
+    //implementation fg.deobf("curse.maven:pet_cemetery-565160:4469393")
+    runtimeOnly fg.deobf("curse.maven:incubation-361718:3906687")
+    runtimeOnly fg.deobf("curse.maven:abnormals_delight-442719:4415502")
+    //Add Endergetic when Possible
+
+    //------------------------------ Client Side Mods ------------------------------
+    runtimeOnly fg.deobf("curse.maven:appleskin-248787:3872808")
+    runtimeOnly fg.deobf("curse.maven:shutupexperimentalsettings-407174:3759881")
+
+
     // Examples using mod jars from ./libs
     // implementation fg.deobf("blank:coolmod-${mc_version}:${coolmod_version}")
 

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "fundamentallyfixed:block/florarock_bricks",
+    "side": "fundamentallyfixed:block/florarock_bricks",
+    "top": "fundamentallyfixed:block/florarock_bricks"
+  }
+}
