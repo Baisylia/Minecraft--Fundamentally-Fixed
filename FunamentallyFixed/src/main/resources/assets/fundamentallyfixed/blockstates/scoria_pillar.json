@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":  { "model": "fundamentallyfixed:block/scoria_pillar" },
+        "axis=z":   { "model": "fundamentallyfixed:block/scoria_pillar", "x": 90 },
+        "axis=x":   { "model": "fundamentallyfixed:block/scoria_pillar", "x": 90, "y": 90 }
+    }
+}

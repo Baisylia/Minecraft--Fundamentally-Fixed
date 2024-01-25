@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "fundamentallyfixed:block/permafrost_pillar_top",
+        "side": "fundamentallyfixed:block/permafrost_pillar_side"
+    }
+}

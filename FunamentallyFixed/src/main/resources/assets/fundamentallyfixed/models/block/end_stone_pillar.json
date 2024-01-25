@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "fundamentallyfixed:block/end_stone_pillar_top",
+        "side": "fundamentallyfixed:block/end_stone_pillar_side"
+    }
+}

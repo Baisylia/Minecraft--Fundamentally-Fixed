@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":  { "model": "fundamentallyfixed:block/glowdust_pillar" },
+        "axis=z":   { "model": "fundamentallyfixed:block/glowdust_pillar", "x": 90 },
+        "axis=x":   { "model": "fundamentallyfixed:block/glowdust_pillar", "x": 90, "y": 90 }
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "fundamentallyfixed:block/ochrum_pillar_top",
+        "side": "fundamentallyfixed:block/ochrum_pillar_side"
+    }
+}

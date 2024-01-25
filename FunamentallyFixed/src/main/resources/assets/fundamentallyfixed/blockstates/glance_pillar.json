@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":  { "model": "fundamentallyfixed:block/glance_pillar" },
+        "axis=z":   { "model": "fundamentallyfixed:block/glance_pillar", "x": 90 },
+        "axis=x":   { "model": "fundamentallyfixed:block/glance_pillar", "x": 90, "y": 90 }
+    }
+}

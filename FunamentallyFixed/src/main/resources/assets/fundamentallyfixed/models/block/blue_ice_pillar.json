@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "fundamentallyfixed:block/blue_ice_pillar_top",
+        "side": "fundamentallyfixed:block/blue_ice_pillar_side"
+    }
+}

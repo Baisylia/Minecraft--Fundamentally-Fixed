@@ -4,9 +4,11 @@ import com.ncpbails.fundamentallyfixed.FundamentallyFixed;
 import com.ncpbails.fundamentallyfixed.block.custom.AcornBlock;
 import com.ncpbails.fundamentallyfixed.block.custom.DualCropBlock;
 import com.ncpbails.fundamentallyfixed.block.custom.FixedCropBlock;
+import com.ncpbails.fundamentallyfixed.block.custom.SaltPillarBlock;
 import com.ncpbails.fundamentallyfixed.items.ModItems;
 import com.ncpbails.fundamentallyfixed.world.feature.tree.OakTreeFixedGrower;
 import com.ncpbails.modestmining.block.entity.custom.RockBlock;
+import com.ordana.spelunkery.blocks.rock_salt.SaltBlock;
 import com.teamabnormals.savage_and_ravage.core.registry.SRBlocks;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.Direction;
@@ -73,6 +75,10 @@ public class ModBlocks {
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.RAW_COPPER_BLOCK)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
 
     public static final RegistryObject<Block> DEEPSlATE_ROCKS = registerBlock("deepslate_rocks",
+            () -> new RockBlock(BlockBehaviour.Properties.of(Material.STONE, MaterialColor.COLOR_YELLOW)
+                    .strength(0.6f, 0.6f).requiresCorrectToolForDrops()), CreativeModeTab.TAB_MISC, false, 0);
+
+    public static final RegistryObject<Block> END_STONE_ROCKS = registerBlock("end_stone_rocks",
             () -> new RockBlock(BlockBehaviour.Properties.of(Material.STONE, MaterialColor.COLOR_GRAY)
                     .strength(0.6f, 0.6f).requiresCorrectToolForDrops()), CreativeModeTab.TAB_MISC, false, 0);
 
@@ -110,6 +116,72 @@ public class ModBlocks {
 
     public static final RegistryObject<Block> FLORAROCK_BRICK_WALL = registerBlock("florarock_brick_wall",
             () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.DIRT)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+
+    //Pillars
+    public static final RegistryObject<Block> SCORIA_PILLAR = registerBlock("scoria_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.STONE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> SCORCHIA_PILLAR = registerBlock("scorchia_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.STONE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> OCHRUM_PILLAR = registerBlock("ochrum_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.STONE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> GLANCE_PILLAR = registerBlock("glance_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.STONE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> HOLYSTONE_PILLAR = registerBlock("holystone_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.STONE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    //public static final RegistryObject<Block> BASALT_PILLAR = registerBlock("basalt_pillar",
+    //        () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.STONE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> DULLSTONE_PILLAR = registerBlock("dullstone_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.STONE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> DIMSTONE_PILLAR = registerBlock("dimstone_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.STONE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> GLOWSTONE_PILLAR = registerBlock("glowstone_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.STONE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> SHIMMER_STONE_PILLAR = registerBlock("shimmer_stone_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.STONE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> SOUL_SLATE_PILLAR = registerBlock("soul_slate_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.STONE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> ROCK_SALT_PILLAR = registerBlock("rock_salt_pillar",
+            () -> new SaltPillarBlock(BlockBehaviour.Properties.copy(Blocks.STONE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> PACKED_ICE_PILLAR = registerBlock("packed_ice_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.STONE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> BLUE_ICE_PILLAR = registerBlock("blue_ice_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.STONE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> SNOW_PILLAR = registerBlock("snow_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.STONE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> END_STONE_PILLAR = registerBlock("end_stone_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.STONE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> BLUE_NETHER_BRICK_PILLAR = registerBlock("blue_nether_brick_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.STONE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> RED_NETHER_BRICK_PILLAR = registerBlock("red_nether_brick_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.STONE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> NETHER_BRICK_PILLAR = registerBlock("nether_brick_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.STONE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> BLACKSTONE_PILLAR = registerBlock("blackstone_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.STONE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> PERMAFROST_PILLAR = registerBlock("permafrost_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.STONE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
 
     //Crops
     public static final RegistryObject<Block> ACORN = registerBlock("acorn",
