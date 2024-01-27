@@ -26,6 +26,7 @@ import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
+import vazkii.quark.content.building.module.BambooBackportModule;
 
 import javax.annotation.Nullable;
 import java.util.function.Supplier;
@@ -47,6 +48,27 @@ public class ModBlocks {
                         if(state.is(ModBlocks.SAPPY_OAK_LOG.get())) {
                             return Blocks.STRIPPED_OAK_LOG.defaultBlockState().setValue(AXIS, state.getValue(AXIS));}}
                     return super.getToolModifiedState(state, context, toolAction, simulate);}
+
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, true, 300);
+
+    public static final RegistryObject<Block> CUT_BAMBOO = registerBlock("cut_bamboo",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.OAK_LOG)) {
+                @Override public boolean isFlammable(BlockState state, BlockGetter world, BlockPos pos, Direction face) { return true; }
+                @Override public int getFlammability(BlockState state, BlockGetter world, BlockPos pos, Direction face) { return 60; }
+                @Override public int getFireSpreadSpeed(BlockState state, BlockGetter world, BlockPos pos, Direction face) { return 30; }
+                @Override public @Nullable BlockState getToolModifiedState(BlockState state, UseOnContext context, ToolAction toolAction, boolean simulate) {
+                    if(context.getItemInHand().getItem() instanceof AxeItem) {
+                        if(state.is(ModBlocks.CUT_BAMBOO.get())) {
+                            return ModBlocks.STRIPPED_CUT_BAMBOO.get().defaultBlockState().setValue(AXIS, state.getValue(AXIS));}}
+                    return super.getToolModifiedState(state, context, toolAction, simulate);}
+
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, true, 300);
+
+    public static final RegistryObject<Block> STRIPPED_CUT_BAMBOO = registerBlock("stripped_cut_bamboo",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.OAK_LOG)) {
+                @Override public boolean isFlammable(BlockState state, BlockGetter world, BlockPos pos, Direction face) { return true; }
+                @Override public int getFlammability(BlockState state, BlockGetter world, BlockPos pos, Direction face) { return 60; }
+                @Override public int getFireSpreadSpeed(BlockState state, BlockGetter world, BlockPos pos, Direction face) { return 30; }
 
             }, CreativeModeTab.TAB_BUILDING_BLOCKS, true, 300);
 

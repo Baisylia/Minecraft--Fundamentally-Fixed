@@ -22,7 +22,7 @@ apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 apply plugin: "org.spongepowered.mixin"
 
-version = '1.0'
+version = '0.2'
 group = 'com.ncpbails.fundamentallyfixed' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'fundamentallyfixed'
 
@@ -107,11 +107,12 @@ repositories {
     maven {
         url = "https://maven.jaackson.me"
     }
-    repositories {
-        maven {
-            name = 'tterrag maven'
-            url = 'https://maven.tterrag.com/'
-        }
+    maven {
+        name = 'tterrag maven'
+        url = 'https://maven.tterrag.com/'
+    }
+    flatDir {
+        dir 'libs'
     }
 }
 
@@ -123,6 +124,7 @@ dependencies {
     //compileOnly fg.deobf("com.tterrag.registrate:Registrate:MC1.19-1.1.5")
     //implementation fg.deobf("curse.maven:createtweaker-437717:4444178")
     //implementation fg.deobf("curse.maven:create-328085:4371809")
+    //implementation fg.deobf("curse.maven:jei-238222:4494410")
 
     // ------------------------------ Un-Importable Mods ------------------------------
     //implementation fg.deobf("curse.maven:entity-texture-features-fabric-568563:4839743")
@@ -134,6 +136,9 @@ dependencies {
     //implementation fg.deobf("curse.maven:sortilege-882488:4890738")
     //implementation fg.deobf("curse.maven:bookshelf-228525:4556697")
     //runtimeOnly fg.deobf("curse.maven:enchantment-descriptions-250419:4277356")
+    //runtimeOnly fg.deobf("curse.maven:armor-trims-858570:4697214")
+    //runtimeOnly fg.deobf("curse.maven:architectury-api-419699:4555756")
+    //implementation fg.deobf("curse.maven:nostalgic-tweaks-592465:4622269")
 
     //------------------------------ Required Dependencies ------------------------------
     implementation fg.deobf("curse.maven:blueprint-382216:4749000")
@@ -152,7 +157,7 @@ dependencies {
     runtimeOnly fg.deobf("curse.maven:jeitweaker-368718:4448263")
 
     //------------------------------ Function Mods ------------------------------
-    implementation fg.deobf("curse.maven:jei-238222:4494410")
+    implementation fg.deobf("curse.maven:jei-238222:4397270")
     runtimeOnly fg.deobf("curse.maven:morecreativetabs-581838:4119849")
     runtimeOnly fg.deobf("curse.maven:crafttweaker-239197:4611971")
     runtimeOnly fg.deobf("curse.maven:globalpacks-317134:3950165")
@@ -174,6 +179,8 @@ dependencies {
     runtimeOnly fg.deobf("curse.maven:jepp-546740:4520544")
     runtimeOnly fg.deobf("curse.maven:companion-559989:4626322")
     implementation fg.deobf("curse.maven:compost-581323:5037105")
+    implementation fg.deobf("curse.maven:you-shall-not-spawn-628744:4539466")
+    implementation fg.deobf("curse.maven:better-totem-of-undying-878676:4755192")
 
     //------------------------------ Major Content Mods ------------------------------
     implementation fg.deobf("curse.maven:modest-mining-533775:5044411")
@@ -204,7 +211,6 @@ dependencies {
     runtimeOnly fg.deobf("curse.maven:enchantmenttransfer-567984:4036852")
     runtimeOnly fg.deobf("curse.maven:cycle-paintings-345973:4854033")
     runtimeOnly fg.deobf("curse.maven:another-furniture-610492:4675539")
-    runtimeOnly fg.deobf("curse.maven:armor-trims-858570:4697214")
     runtimeOnly fg.deobf("curse.maven:the-breeze-1-21-backport-927362:4816078")
     implementation fg.deobf("curse.maven:crafting-automat-293856:3945752")
     implementation fg.deobf("curse.maven:mining-master-534956:4662004")
@@ -233,13 +239,14 @@ dependencies {
     runtimeOnly fg.deobf("curse.maven:personality-415974:3912029")
     runtimeOnly fg.deobf("curse.maven:buzzier_bees-355458:3912010")
     runtimeOnly fg.deobf("curse.maven:incubation-361718:3906687")
+
     runtimeOnly fg.deobf("curse.maven:abnormals_delight-442719:4415502")
     implementation fg.deobf("curse.maven:alexs-abnormalities-571039:4876265")
+    implementation fg.deobf("curse.maven:abnormal-mining-966449:5057954")
     //Add Endergetic when Possible
 
     //------------------------------ Client Side Mods ------------------------------
     runtimeOnly fg.deobf("curse.maven:appleskin-248787:3872808")
-    runtimeOnly fg.deobf("curse.maven:shutupexperimentalsettings-407174:3759881")
     runtimeOnly fg.deobf("curse.maven:yeetusexperimentus-635427:3909789")
 }
 

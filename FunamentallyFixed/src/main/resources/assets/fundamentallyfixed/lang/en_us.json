@@ -137,6 +137,8 @@
   "block.fundamentallyfixed.packed_ice_pillar": "Packed Ice Pillar",
   "block.fundamentallyfixed.blackstone_pillar": "Blackstone Pillar",
   "block.fundamentallyfixed.permafrost_pillar": "Permafrost Pillar",
+  "block.fundamentallyfixed.cut_bamboo": "Cut Bamboo",
+  "block.fundamentallyfixed.stripped_cut_bamboo": "Stripped Cut Bamboo",
 
   "block.fundamentallyfixed.redstone_dynamo": "Redstone Dynamo",
   "block.fundamentallyfixed.dynamo_bearing": "Dynamo Bearing"
