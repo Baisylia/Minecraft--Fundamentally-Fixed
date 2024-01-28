@@ -21,7 +21,6 @@ public class ModListings {
         DataUtil.registerCompostable(ModItems.GRASS_SEEDS.get(), 0.30F);
         DataUtil.registerCompostable(ModItems.WHEAT_SEEDS_FIXED.get(), 0.30F);
         DataUtil.registerCompostable(ModItems.LOOSE_GRASS.get(), 0.30F);
-        DataUtil.registerCompostable(ModItems.LEAF.get(), 0.30F);
         DataUtil.registerCompostable(ModItems.WORM.get(), 0.30F);
     }
     public static void registerBlockColors() {

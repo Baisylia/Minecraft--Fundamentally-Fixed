@@ -181,6 +181,8 @@ dependencies {
     implementation fg.deobf("curse.maven:compost-581323:5037105")
     implementation fg.deobf("curse.maven:you-shall-not-spawn-628744:4539466")
     implementation fg.deobf("curse.maven:better-totem-of-undying-878676:4755192")
+    implementation fg.deobf("curse.maven:just-enough-resources-jer-240630:4862430")
+    implementation fg.deobf("curse.maven:in-control-257356:4861109")
 
     //------------------------------ Major Content Mods ------------------------------
     implementation fg.deobf("curse.maven:modest-mining-533775:5044411")
