@@ -728,9 +728,102 @@
     },
     {
       "stack": "item:sullysmod:polished_jade_block"
+    },
+    {
+      "stack": "item:minecraft:loom"
+    },
+    {
+      "stack": "item:pyrotastic:fireworks_crate{BlockEntityTag:{}}"
+    },
+    {
+      "stack": "item:xercamusic:music_sheet"
+    },
+    {
+      "stack": "item:xercamusic:guitar"
+    },
+    {
+      "stack": "item:xercamusic:lyre"
+    },
+    {
+      "stack": "item:xercamusic:banjo"
+    },
+    {
+      "stack": "item:xercamusic:drum"
+    },
+    {
+      "stack": "item:xercamusic:cymbal"
+    },
+    {
+      "stack": "item:xercamusic:cello"
+    },
+    {
+      "stack": "item:xercamusic:violin"
+    },
+    {
+      "stack": "item:xercamusic:sansula"
+    },
+    {
+      "stack": "item:xercamusic:tubular_bell"
+    },
+    {
+      "stack": "item:xercamusic:xylophone"
+    },
+    {
+      "stack": "item:xercamusic:drum_kit"
+    },
+    {
+      "stack": "item:xercamusic:flute"
+    },
+    {
+      "stack": "item:xercamusic:saxophone"
+    },
+    {
+      "stack": "item:xercamusic:god"
+    },
+    {
+      "stack": "item:xercamusic:piano"
+    },
+    {
+      "stack": "item:xercamusic:oboe"
+    },
+    {
+      "stack": "item:xercamusic:redstone_guitar"
+    },
+    {
+      "stack": "item:xercamusic:metronome"
+    },
+    {
+      "stack": "item:xercamusic:music_box"
+    },
+    {
+      "stack": "item:xercamusic:bass_guitar"
+    },
+    {
+      "stack": "item:xercamusic:french_horn"
+    },
+    {
+      "stack": "item:rottencreatures:burned_spawn_egg"
+    },
+    {
+      "stack": "item:rottencreatures:swampy_spawn_egg"
+    },
+    {
+      "stack": "item:rottencreatures:mummy_spawn_egg"
+    },
+    {
+      "stack": "item:rottencreatures:immortal_spawn_egg"
+    },
+    {
+      "stack": "item:pyrotastic:firework_schematic"
     }
   ],
   "lookup_history": [
+    "item:xercamusic:bass_guitar",
+    "item:xercamusic:redstone_guitar",
+    "item:minecraft:smithing_table",
+    "item:farmersdelight:cutting_board",
+    "item:minecraft:loom",
+    "item:pyrotastic:fireworks_crate{BlockEntityTag:{}}",
     "item:alexsmobs:gustmaker",
     "item:oreganized:exposer",
     "item:quark:ender_watcher",

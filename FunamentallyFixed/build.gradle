@@ -192,6 +192,7 @@ dependencies {
     implementation fg.deobf("curse.maven:just-enough-resources-jer-240630:4862430")
     implementation fg.deobf("curse.maven:in-control-257356:4861109")
     implementation fg.deobf("curse.maven:nostalgic-tweaks-592465:4622269")
+    implementation fg.deobf("curse.maven:dolt-compat-857498:4995128")
 
     //------------------------------ Major Content Mods ------------------------------
     implementation fg.deobf("curse.maven:modest-mining-533775:5044411")
@@ -203,7 +204,6 @@ dependencies {
     implementation fg.deobf("curse.maven:spelunkery-790530:4500958")
     runtimeOnly fg.deobf("curse.maven:alexsmobs-426558:4159154")
     runtimeOnly fg.deobf("curse.maven:naturalist-627986:4553930")
-    implementation fg.deobf("curse.maven:ecologics-570463:4171285")
     implementation fg.deobf("curse.maven:aether-255308:4816885")
 
     //------------------------------ Minor Content Mods ------------------------------
@@ -224,6 +224,10 @@ dependencies {
     runtimeOnly fg.deobf("curse.maven:the-breeze-1-21-backport-927362:4816078")
     implementation fg.deobf("curse.maven:crafting-automat-293856:3945752")
     implementation fg.deobf("curse.maven:mining-master-534956:4662004")
+    implementation fg.deobf("curse.maven:pyrotastic-596990:4013362")
+    implementation fg.deobf("curse.maven:rotten-creatures-371033:4063268")
+    implementation fg.deobf("curse.maven:music-maker-mod-341448:4422939")
+    implementation fg.deobf("curse.maven:ecologics-570463:4171285")
 
     //------------------------------ Farmers Delight Mods ------------------------------
     implementation fg.deobf("curse.maven:farmersdelight-398521:4525646")
