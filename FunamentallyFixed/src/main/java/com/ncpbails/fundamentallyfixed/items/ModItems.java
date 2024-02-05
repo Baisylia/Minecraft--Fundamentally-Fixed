@@ -21,8 +21,8 @@ public class ModItems {
     public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, FundamentallyFixed.MOD_ID);
 
 
-    public static final RegistryObject<Item> SAP = ITEMS.register("sap", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
-
+    public static final RegistryObject<Item> BREEZE_ROD = ITEMS.register("breeze_rod", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+    public static final RegistryObject<Item> BREEZE_POWDER = ITEMS.register("breeze_powder", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
     public static final RegistryObject<Item> LOOSE_GRASS = ITEMS.register("loose_grass", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
     public static final RegistryObject<Item> WORM = ITEMS.register("worm", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
@@ -45,9 +45,13 @@ public class ModItems {
 
     public static final RegistryObject<Item> ALUMINIUM_INGOT = ITEMS.register("aluminium_ingot", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
-    public static final RegistryObject<Item> ALUMINIUM_SPRING = ITEMS.register("aluminium_spring", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
-
     public static final RegistryObject<Item> ALUMINIUM_NUGGET = ITEMS.register("aluminium_nugget", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> SPRING = ITEMS.register("spring", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> ITEM_HOLDER = ITEMS.register("item_holder", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> HOOK = ITEMS.register("hook", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
     public static final RegistryObject<Item> BRONZE_INGOT = ITEMS.register("bronze_ingot", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
     public static final RegistryObject<Item> BRONZE_NUGGET = ITEMS.register("bronze_nugget", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
@@ -60,13 +64,13 @@ public class ModItems {
 
     public static final RegistryObject<Item> RAW_PHYTON_NUGGET = ITEMS.register("raw_phyton_nugget", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
-    public static final RegistryObject<Item> ROUGH_RUBY = ITEMS.register("rough_ruby", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+    //public static final RegistryObject<Item> ROUGH_RUBY = ITEMS.register("rough_ruby", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
-    public static final RegistryObject<Item> RUBY = ITEMS.register("ruby", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+    //public static final RegistryObject<Item> RUBY = ITEMS.register("ruby", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
-    public static final RegistryObject<Item> ROUGH_RUBY_SHARD = ITEMS.register("rough_ruby_shard", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+    //public static final RegistryObject<Item> ROUGH_RUBY_SHARD = ITEMS.register("rough_ruby_shard", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
-    public static final RegistryObject<Item> RUBY_SHARD = ITEMS.register("ruby_shard", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+    //public static final RegistryObject<Item> RUBY_SHARD = ITEMS.register("ruby_shard", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
     public static final RegistryObject<Item> ALUMINIUM_DUST = ITEMS.register("aluminium_dust", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 

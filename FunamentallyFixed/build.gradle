@@ -137,8 +137,6 @@ dependencies {
     //implementation fg.deobf("curse.maven:bookshelf-228525:4556697")
     //runtimeOnly fg.deobf("curse.maven:enchantment-descriptions-250419:4277356")
     //runtimeOnly fg.deobf("curse.maven:armor-trims-858570:4697214")
-    //runtimeOnly fg.deobf("curse.maven:architectury-api-419699:4555756")
-    //implementation fg.deobf("curse.maven:nostalgic-tweaks-592465:4622269")
 
     //------------------------------ Required Dependencies ------------------------------
     implementation fg.deobf("curse.maven:blueprint-382216:4749000")
@@ -153,13 +151,24 @@ dependencies {
     runtimeOnly fg.deobf("curse.maven:collective-342584:4908488")
     runtimeOnly fg.deobf("curse.maven:configured-457570:4462837")
     runtimeOnly fg.deobf("curse.maven:catalogue-459701:4171024")
+    implementation fg.deobf("curse.maven:architectury-api-419699:4555749")
+    implementation fg.deobf("curse.maven:rhino-416294:4953345")
+
+    //------------------------------ Compatibility Mods ------------------------------
     runtimeOnly fg.deobf("curse.maven:everycompat-628539:4616032")
     runtimeOnly fg.deobf("curse.maven:jeitweaker-368718:4448263")
+    implementation fg.deobf("curse.maven:delightful-mining-827759:4542976")
+    implementation fg.deobf("curse.maven:alexs-delight-556448:4282385")
+    runtimeOnly fg.deobf("curse.maven:abnormals_delight-442719:4415502")
+    implementation fg.deobf("curse.maven:alexs-abnormalities-571039:4876265")
+    implementation fg.deobf("curse.maven:abnormal-mining-966449:5057954")
 
     //------------------------------ Function Mods ------------------------------
     implementation fg.deobf("curse.maven:jei-238222:4397270")
+    implementation fg.deobf("curse.maven:emi-580555:5032423")
     runtimeOnly fg.deobf("curse.maven:morecreativetabs-581838:4119849")
     runtimeOnly fg.deobf("curse.maven:crafttweaker-239197:4611971")
+    implementation fg.deobf("curse.maven:kubejs-238086:5064770")
     runtimeOnly fg.deobf("curse.maven:globalpacks-317134:3950165")
     implementation fg.deobf("curse.maven:thirst-was-taken-679270:4871260")
     runtimeOnly fg.deobf("curse.maven:easymagic-456239:4411042")
@@ -169,7 +178,6 @@ dependencies {
     runtimeOnly fg.deobf("curse.maven:inventorio-497122:4557762")
     runtimeOnly fg.deobf("curse.maven:cold-sweat-506194:4900456")
     runtimeOnly fg.deobf("curse.maven:bettercombat-639842:4534619")
-    implementation fg.deobf("curse.maven:property-modifier-474822:4553718")
     implementation fg.deobf("curse.maven:you-shall-not-spawn-628744:4539466")
     implementation fg.deobf("curse.maven:block-swap-468893:4598240")
     implementation fg.deobf("curse.maven:additional-placements-674852:4828013")
@@ -183,6 +191,7 @@ dependencies {
     implementation fg.deobf("curse.maven:better-totem-of-undying-878676:4755192")
     implementation fg.deobf("curse.maven:just-enough-resources-jer-240630:4862430")
     implementation fg.deobf("curse.maven:in-control-257356:4861109")
+    implementation fg.deobf("curse.maven:nostalgic-tweaks-592465:4622269")
 
     //------------------------------ Major Content Mods ------------------------------
     implementation fg.deobf("curse.maven:modest-mining-533775:5044411")
@@ -211,7 +220,6 @@ dependencies {
     runtimeOnly fg.deobf("curse.maven:tinyskeletons-548647:4034327")
     runtimeOnly fg.deobf("curse.maven:distinguishedpotions-682565:4012472")
     runtimeOnly fg.deobf("curse.maven:enchantmenttransfer-567984:4036852")
-    runtimeOnly fg.deobf("curse.maven:cycle-paintings-345973:4854033")
     runtimeOnly fg.deobf("curse.maven:another-furniture-610492:4675539")
     runtimeOnly fg.deobf("curse.maven:the-breeze-1-21-backport-927362:4816078")
     implementation fg.deobf("curse.maven:crafting-automat-293856:3945752")
@@ -223,8 +231,6 @@ dependencies {
     implementation fg.deobf("curse.maven:culturaldelights-574622:4627577")
     implementation fg.deobf("curse.maven:nethersdelight-496394:3971576")
     implementation fg.deobf("curse.maven:farmersrespite-551453:4081312")
-    implementation fg.deobf("curse.maven:delightful-mining-827759:4542976")
-    implementation fg.deobf("curse.maven:alexs-delight-556448:4282385")
 
     //------------------------------ Abnormals Mods ------------------------------
     runtimeOnly fg.deobf("curse.maven:upgradeaquatic-326895:4777515")
@@ -241,15 +247,12 @@ dependencies {
     runtimeOnly fg.deobf("curse.maven:personality-415974:3912029")
     runtimeOnly fg.deobf("curse.maven:buzzier_bees-355458:3912010")
     runtimeOnly fg.deobf("curse.maven:incubation-361718:3906687")
-
-    runtimeOnly fg.deobf("curse.maven:abnormals_delight-442719:4415502")
-    implementation fg.deobf("curse.maven:alexs-abnormalities-571039:4876265")
-    implementation fg.deobf("curse.maven:abnormal-mining-966449:5057954")
     //Add Endergetic when Possible
 
     //------------------------------ Client Side Mods ------------------------------
     runtimeOnly fg.deobf("curse.maven:appleskin-248787:3872808")
     runtimeOnly fg.deobf("curse.maven:yeetusexperimentus-635427:3909789")
+    runtimeOnly fg.deobf("curse.maven:jade-324717:4914105")
 }
 
 jar {
