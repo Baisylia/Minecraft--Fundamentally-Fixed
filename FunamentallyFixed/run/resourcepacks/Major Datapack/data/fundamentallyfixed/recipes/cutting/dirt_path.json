@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "tag": "fundamentallyfixed:dirt_pathable"
+    }
+  ],
+  "tool": {
+    "tag": "fundamentallyfixed:shovels"
+  },
+  "result": [
+    {
+      "item": "minecraft:dirt_path"
+    }
+  ]
+}

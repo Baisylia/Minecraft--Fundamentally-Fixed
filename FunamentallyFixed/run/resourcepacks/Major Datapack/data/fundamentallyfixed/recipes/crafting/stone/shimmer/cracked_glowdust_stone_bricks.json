@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "infernalexp:glowdust_stone_bricks"
+    }
+  ],
+  "tool": {
+    "tag": "fundamentallyfixed:pickaxes"
+  },
+  "result": [
+    {
+      "item": "infernalexp:cracked_glowdust_stone_bricks"
+    }
+  ]
+}

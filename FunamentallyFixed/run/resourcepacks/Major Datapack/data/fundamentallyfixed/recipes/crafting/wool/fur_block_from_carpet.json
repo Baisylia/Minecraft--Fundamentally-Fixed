@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "@": {
+      "item": "alexsmobs:bison_carpet"
+    }
+  },
+  "pattern": [
+    "@@",
+    "@@"
+  ],
+  "result": {
+    "count": 1,
+    "item": "alexsmobs:bison_fur_block"
+  }
+}

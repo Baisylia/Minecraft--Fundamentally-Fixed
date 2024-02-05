@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "fundamentallyfixed:crafting_stones"
+    },
+    "C": {
+      "tag": "fundamentallyfixed:logs"
+    },
+    "S": {
+      "item": "modestmining:copper_screw"
+    }
+  },
+  "pattern": [
+    "S#S",
+    "C C"
+  ],
+  "result": {
+    "item": "minecraft:grindstone"
+  }
+}

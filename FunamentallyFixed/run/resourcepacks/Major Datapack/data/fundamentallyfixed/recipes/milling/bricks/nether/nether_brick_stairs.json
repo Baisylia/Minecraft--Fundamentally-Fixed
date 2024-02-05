@@ -1,0 +1,21 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "fundamentallyfixed"
+    }
+  ],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "fundamentallyfixed:nether_bricks_stairs"
+    }
+  ],
+  "results": [
+    {
+      "count": 3,
+      "item": "minecraft:nether_brick"
+    }
+  ],
+  "processingTime": 50
+}

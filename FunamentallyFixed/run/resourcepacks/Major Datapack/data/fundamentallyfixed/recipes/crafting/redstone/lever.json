@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "tag": "fundamentallyfixed:crafting_stones"
+    }
+  ],
+  "result": {
+    "item": "minecraft:lever",
+    "count": 4
+  }
+}

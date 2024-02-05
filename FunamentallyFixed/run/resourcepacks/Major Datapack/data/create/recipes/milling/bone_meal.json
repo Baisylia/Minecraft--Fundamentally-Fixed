@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "fundamentallyfixed:calcium_powder"
+    }
+  ],
+  "processingTime": 70,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:white_dye"
+    },
+    {
+      "chance": 0.5,
+      "item": "minecraft:white_dye"
+    }
+  ]
+}

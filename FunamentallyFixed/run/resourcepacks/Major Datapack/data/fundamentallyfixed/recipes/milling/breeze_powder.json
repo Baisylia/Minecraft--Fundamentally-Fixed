@@ -1,0 +1,23 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "fundamentallyfixed:breeze_rod"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 1,
+      "item": "fundamentallyfixed:breeze_powder"
+    },
+    {
+      "chance": 0.5,
+      "item": "fundamentallyfixed:breeze_powder"
+    },
+    {
+      "chance": 0.1,
+      "item": "fundamentallyfixed:breeze_powder"
+    }
+  ]
+}

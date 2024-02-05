@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "fundamentallyfixed:limestones_stairs"
+    }
+  ],
+  "processingTime": 200,
+  "results": [
+    {
+      "count": 2,
+      "item": "modestmining:rocks"
+    },
+    {
+      "chance": 0.1,
+      "item": "fundamentallyfixed:calcium_powder"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "environmental"
+    }
+  ],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "environmental:white_lotus_flower"
+    }
+  ],
+  "results": [
+    {
+      "count": 3,
+      "item": "minecraft:white_dye"
+    },
+    {
+      "chance": 0.5,
+      "item": "minecraft:white_dye"
+    },
+    {
+      "chance": 0.5,
+      "item": "minecraft:white_dye"
+    }
+  ],
+  "processingTime": 50
+}

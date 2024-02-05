@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:torch"
+    },
+    {
+      "tag": "fundamentallyfixed:soul_sands"
+    }
+  ],
+  "result": {
+    "item": "minecraft:soul_torch"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "tag": "fundamentallyfixed:waters"
+    },
+    "G": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " G ",
+    "#S#",
+    "###"
+  ],
+  "result": {
+    "item": "farmersdelight:cooking_pot"
+  }
+}

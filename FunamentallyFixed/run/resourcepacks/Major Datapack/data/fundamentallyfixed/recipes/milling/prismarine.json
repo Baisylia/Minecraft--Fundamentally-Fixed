@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "fundamentallyfixed"
+    }
+  ],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:prismarine"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "item": "fundamentallyfixed:ground_prismarine"
+    },
+    {
+      "chance": 0.5,
+      "count": 2,
+      "item": "modestmining:rocks"
+    }
+  ],
+  "processingTime": 50
+}

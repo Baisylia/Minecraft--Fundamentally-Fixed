@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "modestmining:plank"
+    },
+    "G": {
+      "item": "minecraft:stick"
+    },
+    "S": {
+      "tag": "fundamentallyfixed:crafting_stones"
+    }
+  },
+  "pattern": [
+    "G#G",
+    "G#G",
+    "SSS"
+  ],
+  "result": {
+    "item": "minecraft:armor_stand"
+  }
+}

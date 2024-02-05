@@ -1,0 +1,15 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    [
+      {
+        "tag": "fundamentallyfixed:dirt_pathable"
+      }
+    ]
+  ],
+  "results": [
+    {
+      "item": "minecraft:dirt_path"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:barrel"
+    },
+    {
+      "item": "fundamentallyfixed:aluminium_ingot"
+    }
+  ],
+  "result": {
+    "item": "cold_sweat:icebox"
+  }
+}

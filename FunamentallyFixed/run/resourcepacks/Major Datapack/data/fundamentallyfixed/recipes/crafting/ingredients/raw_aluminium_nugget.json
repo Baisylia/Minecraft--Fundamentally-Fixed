@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fundamentallyfixed:raw_aluminium"
+    }
+  ],
+  "result": {
+    "item": "fundamentallyfixed:raw_aluminium_nugget",
+    "count": 9
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "type": "modestmining:forging",
+  "ingredients": [
+    {
+      "item": "minecraft:clay_ball"
+    },
+    {
+      "item": "minecraft:clay_ball"
+    },
+    {
+      "item": "minecraft:clay_ball"
+    },
+    {
+      "item": "minecraft:clay_ball"
+    },
+    {
+      "item": "fundamentallyfixed:ground_prismarine"
+    },
+    {
+      "item": "fundamentallyfixed:ground_prismarine"
+    },
+    {
+      "item": "fundamentallyfixed:ground_prismarine"
+    },
+    {
+      "item": "fundamentallyfixed:ground_prismarine"
+    }
+  ],
+  "output": {
+    "item": "minecraft:prismarine_shard",
+    "count": 8
+  }
+}

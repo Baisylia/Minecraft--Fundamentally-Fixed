@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "fundamentallyfixed:baked_clays"
+    },
+    "S": {
+      "item": "supplementaries:ash"
+    }
+  },
+  "pattern": [
+    "# #",
+    "#S#",
+    " # "
+  ],
+  "result": {
+    "item": "supplementaries:urn"
+  }
+}

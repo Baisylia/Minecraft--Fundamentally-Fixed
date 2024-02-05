@@ -1,0 +1,21 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "fundamentallyfixed"
+    }
+  ],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "fundamentallyfixed:sandstones_slabs"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:sand"
+    }
+  ],
+  "processingTime": 50
+}

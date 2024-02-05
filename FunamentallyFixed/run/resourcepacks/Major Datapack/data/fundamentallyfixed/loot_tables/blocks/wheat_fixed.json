@@ -1,0 +1,68 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:wheat",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "fundamentallyfixed:wheat_fixed",
+              "properties": {
+                "age": "7"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "fundamentallyfixed:wheat_seeds_fixed",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "fundamentallyfixed:wheat_fixed",
+              "properties": {
+                "age": "7"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "fundamentallyfixed:wheat_seeds_fixed",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:block_state_property",
+                  "block": "fundamentallyfixed:wheat_fixed",
+                  "properties": {
+                    "age": "7"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "quark:paper_wall_big"
+    },
+    {
+      "item": "environmental:cherry_leaves"
+    }
+  ],
+  "result": {
+    "item": "quark:paper_wall_sakura"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "tag": "fundamentallyfixed:aether_dirt_pathable"
+    }
+  ],
+  "tool": {
+    "tag": "fundamentallyfixed:shovels"
+  },
+  "result": [
+    {
+      "item": "aether:aether_dirt_path"
+    }
+  ]
+}

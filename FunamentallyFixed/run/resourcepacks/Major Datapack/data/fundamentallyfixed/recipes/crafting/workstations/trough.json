@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "fundamentallyfixed:plank_slabs"
+    },
+    "S": {
+      "item": "modestmining:plank"
+    }
+  },
+  "pattern": [
+    "S S",
+    "###"
+  ],
+  "result": {
+    "item": "quark:feeding_trough"
+  }
+}

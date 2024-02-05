@@ -1,0 +1,23 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "fundamentallyfixed:prismarines_walls"
+    }
+  ],
+  "processingTime": 200,
+  "results": [
+    {
+      "count": 2,
+      "item": "modestmining:rocks"
+    },
+    {
+      "chance": 0.05,
+      "item": "minecraft:prismarine_crystals"
+    },
+    {
+      "chance": 0.05,
+      "item": "fundamentallyfixed:ground_prismarine"
+    }
+  ]
+}

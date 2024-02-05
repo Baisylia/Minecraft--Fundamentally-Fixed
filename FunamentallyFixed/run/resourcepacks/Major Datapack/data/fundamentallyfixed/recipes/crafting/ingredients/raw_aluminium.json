@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fundamentallyfixed:raw_aluminium_nugget"
+    },
+    {
+      "item": "fundamentallyfixed:raw_aluminium_nugget"
+    },
+    {
+      "item": "fundamentallyfixed:raw_aluminium_nugget"
+    },
+    {
+      "item": "fundamentallyfixed:raw_aluminium_nugget"
+    },
+    {
+      "item": "fundamentallyfixed:raw_aluminium_nugget"
+    },
+    {
+      "item": "fundamentallyfixed:raw_aluminium_nugget"
+    },
+    {
+      "item": "fundamentallyfixed:raw_aluminium_nugget"
+    },
+    {
+      "item": "fundamentallyfixed:raw_aluminium_nugget"
+    },
+    {
+      "item": "fundamentallyfixed:raw_aluminium_nugget"
+    }
+  ],
+  "result": {
+    "item": "fundamentallyfixed:raw_aluminium"
+  }
+}

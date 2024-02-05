@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "modestmining:deepslate_rocks"
+    },
+    {
+      "item": "modestmining:deepslate_rocks"
+    },
+    {
+      "item": "modestmining:deepslate_rocks"
+    },
+    {
+      "item": "supplementaries:ash"
+    }
+  ],
+  "result": {
+    "item": "create:scorchia"
+  }
+}

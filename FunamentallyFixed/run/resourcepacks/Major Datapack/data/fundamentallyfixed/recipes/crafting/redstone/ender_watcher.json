@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "fundamentallyfixed:blackstones"
+    },
+    "O": {
+      "item": "minecraft:ender_eye"
+    },
+    "B": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "#B#",
+    "BOB",
+    "#B#"
+  ],
+  "result": {
+    "item": "quark:ender_watcher",
+    "count": 2
+  }
+}

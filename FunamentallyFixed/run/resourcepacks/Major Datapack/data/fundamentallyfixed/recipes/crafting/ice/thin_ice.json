@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "neapolitan:ice_cubes"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "item": "ecologics:thin_ice"
+  }
+}

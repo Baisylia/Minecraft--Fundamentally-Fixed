@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "fundamentallyfixed:candles_holders"
+    },
+    {
+      "tag": "fundamentallyfixed:soul_sands"
+    }
+  ],
+  "result": {
+    "item": "supplementaries:candle_holder_soul"
+  }
+}

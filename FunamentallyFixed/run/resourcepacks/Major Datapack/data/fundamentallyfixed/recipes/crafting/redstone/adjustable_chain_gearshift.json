@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:chain"
+    },
+    {
+      "item": "create:shaft"
+    },
+    {
+      "item": "quark:iron_plate"
+    },
+    {
+      "item": "spelunkery:cinnabar"
+    }
+  ],
+  "result": {
+    "item": "create:adjustable_chain_gearshift",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "type": "sullysmod:grindstone_polishing",
+  "experience": 1,
+  "ingredient": "spelunkery:rough_lazurite",
+  "result": "minecraft:lapis_lazuli",
+  "resultCount": 1
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "spelunkery:polished_rock_salt"
+    },
+    "B": {
+      "tag": "fundamentallyfixed:buttons"
+    },
+    "S": {
+      "item": "minecraft:glowstone_dust"
+    }
+  },
+  "pattern": [
+    "S",
+    "#",
+    "B"
+  ],
+  "result": {
+    "count": 2,
+    "item": "spelunkery:salt_lamp"
+  }
+}

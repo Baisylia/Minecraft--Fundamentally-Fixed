@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "environmental"
+    }
+  ],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "environmental:purple_delphinium"
+    }
+  ],
+  "results": [
+    {
+      "count": 3,
+      "item": "minecraft:purple_dye"
+    },
+    {
+      "chance": 0.5,
+      "item": "minecraft:purple_dye"
+    },
+    {
+      "chance": 0.5,
+      "item": "minecraft:purple_dye"
+    }
+  ],
+  "processingTime": 50
+}

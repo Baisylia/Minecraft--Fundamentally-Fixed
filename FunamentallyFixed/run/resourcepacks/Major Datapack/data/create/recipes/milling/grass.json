@@ -1,0 +1,15 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:grass"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "chance": 0.5,
+      "item": "fundamentallyfixed:wheat_seeds_fixed"
+    }
+  ]
+}

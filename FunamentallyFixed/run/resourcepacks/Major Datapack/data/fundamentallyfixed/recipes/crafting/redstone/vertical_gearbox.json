@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": {
+      "item": "create:cogwheel"
+    },
+    "B": {
+      "item": "create:zinc_block"
+    }
+  },
+  "pattern": [
+    "C",
+    "B",
+    "C"
+  ],
+  "result": {
+    "item": "create:vertical_gearbox",
+    "count": 1
+  }
+}

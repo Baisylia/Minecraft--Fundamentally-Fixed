@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "infernalexp:dimstone_bricks"
+    }
+  ],
+  "tool": {
+    "tag": "fundamentallyfixed:pickaxes"
+  },
+  "result": [
+    {
+      "item": "infernalexp:cracked_dimstone_bricks"
+    }
+  ]
+}

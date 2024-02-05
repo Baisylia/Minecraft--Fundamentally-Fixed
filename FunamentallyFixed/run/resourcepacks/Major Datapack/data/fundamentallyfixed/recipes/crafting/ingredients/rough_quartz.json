@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fundamentallyfixed:rough_quartz_shard"
+    },
+    {
+      "item": "fundamentallyfixed:rough_quartz_shard"
+    },
+    {
+      "item": "fundamentallyfixed:rough_quartz_shard"
+    },
+    {
+      "item": "fundamentallyfixed:rough_quartz_shard"
+    },
+    {
+      "item": "fundamentallyfixed:rough_quartz_shard"
+    },
+    {
+      "item": "fundamentallyfixed:rough_quartz_shard"
+    },
+    {
+      "item": "fundamentallyfixed:rough_quartz_shard"
+    },
+    {
+      "item": "fundamentallyfixed:rough_quartz_shard"
+    },
+    {
+      "item": "fundamentallyfixed:rough_quartz_shard"
+    }
+  ],
+  "result": {
+    "item": "minecraft:quartz"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "values": [
+    "minecraft:basalt",
+    "infernalexp:basalt_cobbled",
+    "minecraft:smooth_basalt",
+    "minecraft:polished_basalt",
+    "infernalexp:basalt_bricks",
+    "infernalexp:chiseled_basalt_bricks",
+    "infernalexp:polished_basalt_tiles"
+  ]
+}

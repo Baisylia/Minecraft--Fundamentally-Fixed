@@ -1,0 +1,21 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "fundamentallyfixed"
+    }
+  ],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "fundamentallyfixed:muds_slabs"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "item": "environmental:mud_ball"
+    }
+  ],
+  "processingTime": 50
+}

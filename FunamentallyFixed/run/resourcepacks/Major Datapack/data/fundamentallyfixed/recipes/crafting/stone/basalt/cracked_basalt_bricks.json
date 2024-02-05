@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "infernalexp:basalt_bricks"
+    }
+  ],
+  "tool": {
+    "tag": "fundamentallyfixed:pickaxes"
+  },
+  "result": [
+    {
+      "item": "infernalexp:cracked_basalt_bricks"
+    }
+  ]
+}

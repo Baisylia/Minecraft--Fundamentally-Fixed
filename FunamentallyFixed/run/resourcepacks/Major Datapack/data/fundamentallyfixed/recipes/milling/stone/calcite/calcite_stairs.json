@@ -1,0 +1,23 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "fundamentallyfixed:calcites_stairs"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "count": 1,
+      "item": "modestmining:rocks"
+    },
+    {
+      "count": 1,
+      "item": "fundamentallyfixed:calcium_powder"
+    },
+    {
+      "chance": 0.25,
+      "item": "fundamentallyfixed:calcium_powder"
+    }
+  ]
+}

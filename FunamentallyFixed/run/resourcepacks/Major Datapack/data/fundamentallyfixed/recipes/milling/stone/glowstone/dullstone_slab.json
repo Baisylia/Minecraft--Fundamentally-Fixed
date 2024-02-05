@@ -1,0 +1,21 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "fundamentallyfixed"
+    }
+  ],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "infernalexp:dullstone_brick_slab"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "item": "infernalexp:glownuggets"
+    }
+  ],
+  "processingTime": 50
+}

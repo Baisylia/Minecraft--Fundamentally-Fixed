@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "tag": "fundamentallyfixed:aether_farmlandable"
+    }
+  ],
+  "tool": {
+    "tag": "fundamentallyfixed:hoes"
+  },
+  "result": [
+    {
+      "item": "aether:aether_farmland"
+    }
+  ]
+}

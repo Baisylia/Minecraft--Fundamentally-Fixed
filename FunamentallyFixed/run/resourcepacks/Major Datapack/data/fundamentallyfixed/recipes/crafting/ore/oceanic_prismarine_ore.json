@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:prismarine_crystals"
+    },
+    "X": {
+      "item": "minecraft:prismarine"
+    }
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "item": "fundamentallyfixed:oceanic_prismarine_ore"
+  }
+}

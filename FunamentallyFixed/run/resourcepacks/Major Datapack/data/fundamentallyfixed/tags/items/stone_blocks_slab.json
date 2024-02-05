@@ -1,0 +1,12 @@
+{
+  "values": [
+    "minecraft:stone_slab",
+    "minecraft:smooth_stone_slab",
+    "minecraft:cobblestone_slab",
+    "minecraft:mossy_cobblestone_slab",
+    "paletteblocks:cobblestone_brick_slab",
+    "paletteblocks:mossy_cobblestone_brick_slab",
+    "minecraft:stone_brick_slab",
+    "minecraft:mossy_stone_brick_slab"
+  ]
+}

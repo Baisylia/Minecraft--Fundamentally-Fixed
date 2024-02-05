@@ -1,0 +1,24 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:gravel"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "count": 2,
+      "item": "modestmining:rocks"
+    },
+    {
+      "count": 1,
+      "chance": 0.5,
+      "item": "minecraft:flint"
+    },
+    {
+      "chance": 0.05,
+      "item": "minecraft:flint"
+    }
+  ]
+}

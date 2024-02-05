@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "fundamentallyfixed"
+    }
+  ],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "fundamentallyfixed:salts_walls"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": "spelunkery:salt_block"
+    },
+    {
+      "chance": 0.5,
+      "count": 1,
+      "item": "spelunkery:salt_block"
+    }
+  ],
+  "processingTime": 50
+}

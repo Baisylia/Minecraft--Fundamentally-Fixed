@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "supplementaries:daub"
+    },
+    {
+      "item": "supplementaries:timber_frame"
+    },
+    {
+      "item": "supplementaries:timber_frame"
+    },
+    {
+      "item": "supplementaries:timber_frame"
+    }
+  ],
+  "result": {
+    "item": "supplementaries:daub_cross_brace"
+  }
+}

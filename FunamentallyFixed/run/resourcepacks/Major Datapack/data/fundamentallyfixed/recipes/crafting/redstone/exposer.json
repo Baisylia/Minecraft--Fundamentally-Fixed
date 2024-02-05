@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "oreganized:silver_ingot"
+    },
+    {
+      "item": "quark:iron_plate"
+    },
+    {
+      "item":"spelunkery:cinnabar"
+    }
+  ],
+  "result": {
+    "item": "oreganized:exposer",
+    "count": 1
+  }
+}

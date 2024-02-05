@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "create:piston_extension_pole"
+    },
+    "B": {
+      "item": "minecraft:iron_block"
+    },
+    "C": {
+      "item": "create:zinc_block"
+    }
+  },
+  "pattern": [
+    "#",
+    "C",
+    "B"
+  ],
+  "result": {
+    "item": "create:mechanical_press",
+    "count": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "windswept:ice_sheet"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "item": "ecologics:thin_ice"
+  }
+}

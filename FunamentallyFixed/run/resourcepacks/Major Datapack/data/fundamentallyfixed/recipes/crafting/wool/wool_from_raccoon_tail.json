@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "alexsmobs:raccoon_tail"
+    },
+    {
+      "item": "alexsmobs:raccoon_tail"
+    }
+  ],
+  "result": {
+    "item": "cold_sweat:fur"
+  }
+}

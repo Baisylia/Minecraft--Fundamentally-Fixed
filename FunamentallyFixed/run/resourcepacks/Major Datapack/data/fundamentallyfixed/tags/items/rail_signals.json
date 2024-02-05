@@ -1,0 +1,20 @@
+{
+  "values": [
+    "moreminecarts:rail_signal_white",
+    "moreminecarts:rail_signal_light_gray",
+    "moreminecarts:rail_signal_gray",
+    "moreminecarts:rail_signal_black",
+    "moreminecarts:rail_signal_brown",
+    "moreminecarts:rail_signal_red",
+    "moreminecarts:rail_signal_orange",
+    "moreminecarts:rail_signal_yellow",
+    "moreminecarts:rail_signal_lime",
+    "moreminecarts:rail_signal_green",
+    "moreminecarts:rail_signal_cyan",
+    "moreminecarts:rail_signal_light_blue",
+    "moreminecarts:rail_signal_blue",
+    "moreminecarts:rail_signal_purple",
+    "moreminecarts:rail_signal_magenta",
+    "moreminecarts:rail_signal_pink"
+  ]
+}

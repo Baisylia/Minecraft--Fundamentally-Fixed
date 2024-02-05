@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:nautilus_shell"
+    },
+    "@": {
+      "item": "minecraft:heart_of_the_sea"
+    },
+    "$": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "pattern": [
+    "$#$",
+    "#@#",
+    "$#$"
+  ],
+  "result": {
+    "count": 1,
+    "item": "minecraft:conduit"
+  }
+}

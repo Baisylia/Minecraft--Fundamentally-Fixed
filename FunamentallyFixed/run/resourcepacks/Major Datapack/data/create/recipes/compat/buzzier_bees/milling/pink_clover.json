@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "buzzier_bees"
+    }
+  ],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "buzzier_bees:pink_clover"
+    }
+  ],
+  "results": [
+    {
+      "count": 3,
+      "item": "minecraft:pink_dye"
+    },
+    {
+      "chance": 0.5,
+      "item": "minecraft:pink_dye"
+    },
+    {
+      "chance": 0.5,
+      "item": "minecraft:pink_dye"
+    }
+  ],
+  "processingTime": 50
+}

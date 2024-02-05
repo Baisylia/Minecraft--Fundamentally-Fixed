@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "fundamentallyfixed:plank_blocks"
+    },
+    "S": {
+      "item": "create:iron_sheet"
+    }
+  },
+  "pattern": [
+    "SS",
+    "##",
+    "##"
+  ],
+  "result": {
+    "item": "minecraft:smithing_table"
+  }
+}

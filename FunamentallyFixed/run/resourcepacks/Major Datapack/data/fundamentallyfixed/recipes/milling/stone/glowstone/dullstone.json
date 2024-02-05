@@ -1,0 +1,21 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "fundamentallyfixed"
+    }
+  ],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "fundamentallyfixed:dullstones"
+    }
+  ],
+  "results": [
+    {
+      "count": 4,
+      "item": "infernalexp:glownuggets"
+    }
+  ],
+  "processingTime": 50
+}

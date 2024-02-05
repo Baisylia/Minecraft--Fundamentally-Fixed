@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "fundamentallyfixed"
+    }
+  ],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "fundamentallyfixed:deepslates_walls"
+    }
+  ],
+  "results": [
+    {
+      "count": 3,
+      "item": "fundamentallyfixed:deepslate_rocks"
+    },
+    {
+      "chance": 0.5,
+      "item": "fundamentallyfixed:deepslate_rocks"
+    }
+  ],
+  "processingTime": 50
+}

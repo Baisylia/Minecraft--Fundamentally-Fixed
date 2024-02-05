@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:mud_bricks"
+    },
+    "C": {
+      "item": "create:iron_sheet"
+    }
+  },
+  "pattern": [
+    "# ",
+    "#C",
+    "# "
+  ],
+  "result": {
+    "item": "woodworks:sawmill"
+  }
+}

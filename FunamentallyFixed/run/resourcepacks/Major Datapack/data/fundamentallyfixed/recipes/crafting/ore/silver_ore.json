@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "oreganized:raw_silver"
+    },
+    "X": {
+      "item": "quark:permafrost"
+    }
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "item": "oreganized:silver_ore"
+  }
+}

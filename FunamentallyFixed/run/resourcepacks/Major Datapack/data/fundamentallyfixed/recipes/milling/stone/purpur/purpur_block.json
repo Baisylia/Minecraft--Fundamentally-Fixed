@@ -1,0 +1,27 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "fundamentallyfixed:purpur_blocks"
+    }
+  ],
+  "processingTime": 200,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:popped_chorus_fruit"
+    },
+    {
+      "chance": 0.5,
+      "item": "minecraft:popped_chorus_fruit"
+    },
+    {
+      "chance": 0.5,
+      "item": "minecraft:popped_chorus_fruit"
+    },
+    {
+      "chance": 0.5,
+      "item": "minecraft:popped_chorus_fruit"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "oreganized:raw_silver"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 2,
+      "item": "fundamentallyfixed:silver_powder"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "fundamentallyfixed:bronze_nugget"
+    },
+    "S": {
+      "item": "minecraft:torch"
+    }
+  },
+  "pattern": [
+    "###",
+    "#S#",
+    "###"
+  ],
+  "result": {
+    "item": "supplementaries:brass_lantern"
+  }
+}

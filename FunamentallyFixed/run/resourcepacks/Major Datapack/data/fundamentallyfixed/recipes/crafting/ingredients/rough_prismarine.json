@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fundamentallyfixed:prismarine_shard"
+    },
+    {
+      "item": "fundamentallyfixed:prismarine_shard"
+    },
+    {
+      "item": "fundamentallyfixed:prismarine_shard"
+    },
+    {
+      "item": "fundamentallyfixed:prismarine_shard"
+    },
+    {
+      "item": "fundamentallyfixed:prismarine_shard"
+    },
+    {
+      "item": "fundamentallyfixed:prismarine_shard"
+    },
+    {
+      "item": "fundamentallyfixed:prismarine_shard"
+    },
+    {
+      "item": "fundamentallyfixed:prismarine_shard"
+    },
+    {
+      "item": "fundamentallyfixed:prismarine_shard"
+    }
+  ],
+  "result": {
+    "item": "minecraft:amethyst_shard"
+  }
+}

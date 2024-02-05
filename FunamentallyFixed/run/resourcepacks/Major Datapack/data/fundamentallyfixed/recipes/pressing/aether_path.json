@@ -1,0 +1,15 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    [
+      {
+        "tag": "fundamentallyfixed:aether_dirt_pathable"
+      }
+    ]
+  ],
+  "results": [
+    {
+      "item": "aether:aether_dirt_path"
+    }
+  ]
+}

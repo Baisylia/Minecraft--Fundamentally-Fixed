@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "supplementaries:rope"
+    },
+    "S": {
+      "tag": "fundamentallyfixed:plank_blocks"
+    }
+  },
+  "pattern": [
+    "# #",
+    "#S#",
+    "# #"
+  ],
+  "result": {
+    "count": 6,
+    "item": "spelunkery:rope_ladder"
+  }
+}

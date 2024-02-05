@@ -1,0 +1,21 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "fundamentallyfixed:loose_grass"
+    }
+  ],
+  "tool": {
+    "tag": "fundamentallyfixed:knives"
+  },
+  "result": [
+    {
+      "chance": 0.3,
+      "item": "fundamentallyfixed:grass_seeds"
+    },
+    {
+      "chance": 0.3,
+      "item": "farmersdelight:straw"
+    }
+  ]
+}

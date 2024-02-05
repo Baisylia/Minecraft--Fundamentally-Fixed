@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "upgrade_aquatic:coralstone"
+    },
+    "X": {
+      "item": "upgrade_aquatic:silk_coral_block"
+    }
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "item": "upgrade_aquatic:silk_coralstone"
+  }
+}

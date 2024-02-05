@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:bone"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 1,
+      "item": "fundamentallyfixed:calcium_powder"
+    },
+    {
+      "chance": 0.5,
+      "item": "fundamentallyfixed:calcium_powder"
+    }
+  ]
+}

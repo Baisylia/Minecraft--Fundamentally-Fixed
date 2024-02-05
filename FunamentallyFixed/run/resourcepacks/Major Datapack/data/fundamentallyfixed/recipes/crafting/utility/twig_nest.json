@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "item": "incubation:twig_nest"
+  }
+}

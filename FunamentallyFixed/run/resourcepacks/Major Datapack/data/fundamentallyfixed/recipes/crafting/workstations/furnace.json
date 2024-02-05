@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "fundamentallyfixed:crafting_stones"
+    },
+    "C": {
+      "tag": "fundamentallyfixed:coals"
+    },
+    "A": {
+      "item": "minecraft:campfire"
+    }
+  },
+  "pattern": [
+    "###",
+    "#C#",
+    "#A#"
+  ],
+  "result": {
+    "item": "minecraft:furnace"
+  }
+}

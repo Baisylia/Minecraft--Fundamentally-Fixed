@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "quark:duskbound_block"
+    },
+    "@": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "pattern": [
+    "###",
+    "#@#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "item": "quark:duskbound_lantern"
+  }
+}

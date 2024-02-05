@@ -1,0 +1,13 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "fundamentallyfixed:sands"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:clay"
+    }
+  ]
+}

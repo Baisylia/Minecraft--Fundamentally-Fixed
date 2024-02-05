@@ -1,0 +1,21 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "fundamentallyfixed"
+    }
+  ],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "spelunkery:salt_block"
+    }
+  ],
+  "results": [
+    {
+      "count": 4,
+      "item": "spelunkery:salt"
+    }
+  ],
+  "processingTime": 50
+}

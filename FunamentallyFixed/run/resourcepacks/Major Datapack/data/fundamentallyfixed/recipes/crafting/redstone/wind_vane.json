@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "B": {
+      "item": "modestmining:copper_screw"
+    }
+  },
+  "pattern": [
+    "#",
+    "B"
+  ],
+  "result": {
+    "item": "supplementaries:wind_vane",
+    "count": 2
+  }
+}

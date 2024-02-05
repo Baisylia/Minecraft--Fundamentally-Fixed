@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:glowstone_dust"
+    },
+    {
+      "item": "fundamentallyfixed:netherrack_powder"
+    }
+  ],
+  "result": {
+    "item": "infernalexp:trapped_glowdust_sand"
+  }
+}

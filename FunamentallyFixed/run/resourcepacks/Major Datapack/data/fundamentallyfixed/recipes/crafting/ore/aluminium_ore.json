@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "fundamentallyfixed:raw_aluminium"
+    },
+    "X": {
+      "item": "minecraft:stone"
+    }
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "item": "fundamentallyfixed:aluminium_ore"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": {
+      "item": "minecraft:string"
+    },
+    "S": {
+      "item": "minecraft:gunpowder"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "R": {
+      "tag": "fundamentallyfixed:sands"
+    }
+  },
+  "pattern": [
+    "RGR",
+    "SSS",
+    "PPP"
+  ],
+  "result": {
+    "item": "minecraft:tnt",
+    "count": 2
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "infernalexp:rubble"
+    },
+    {
+      "item": "infernalexp:rubble"
+    },
+    {
+      "item": "infernalexp:rubble"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "infernalexp:crumbling_blackstone"
+  }
+}

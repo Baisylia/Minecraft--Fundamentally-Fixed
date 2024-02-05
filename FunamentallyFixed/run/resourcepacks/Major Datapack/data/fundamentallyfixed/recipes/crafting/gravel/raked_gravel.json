@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:gravel"
+    }
+  ],
+  "tool": {
+    "tag": "fundamentallyfixed:hoes"
+  },
+  "result": [
+    {
+      "item": "supplementaries:raked_gravel"
+    }
+  ]
+}

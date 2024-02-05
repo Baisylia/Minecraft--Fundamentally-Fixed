@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "fundamentallyfixed:crafting_stones"
+    },
+    "C": {
+      "item": "cold_sweat:icebox"
+    },
+    "A": {
+      "item": "cold_sweat:boiler"
+    }
+  },
+  "pattern": [
+    "###",
+    "#C#",
+    "#A#"
+  ],
+  "result": {
+    "item": "cold_sweat:hearth"
+  }
+}

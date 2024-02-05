@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "fundamentallyfixed:scutes"
+    },
+    {
+      "tag": "fundamentallyfixed:scutes"
+    }
+  ],
+  "result": {
+    "item": "naturalist:reptile_hide"
+  }
+}

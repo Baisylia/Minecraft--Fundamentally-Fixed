@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "spelunkery:rough_diamond_shard"
+    },
+    {
+      "item": "spelunkery:rough_diamond_shard"
+    },
+    {
+      "item": "spelunkery:rough_diamond_shard"
+    },
+    {
+      "item": "spelunkery:rough_diamond_shard"
+    },
+    {
+      "item": "spelunkery:rough_diamond_shard"
+    },
+    {
+      "item": "spelunkery:rough_diamond_shard"
+    },
+    {
+      "item": "spelunkery:rough_diamond_shard"
+    },
+    {
+      "item": "spelunkery:rough_diamond_shard"
+    },
+    {
+      "item": "spelunkery:rough_diamond_shard"
+    }
+  ],
+  "result": {
+    "item": "spelunkery:rough_diamond"
+  }
+}

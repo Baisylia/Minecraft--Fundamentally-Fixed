@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "fundamentallyfixed"
+    }
+  ],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "fundamentallyfixed:glowdust_stones_stairs"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:glowstone_dust"
+    },
+    {
+      "chance": 0.25,
+      "item": "minecraft:glowstone_dust"
+    },
+    {
+      "chance": 0.25,
+      "item": "fundamentallyfixed:netherrack_powder"
+    }
+  ],
+  "processingTime": 50
+}

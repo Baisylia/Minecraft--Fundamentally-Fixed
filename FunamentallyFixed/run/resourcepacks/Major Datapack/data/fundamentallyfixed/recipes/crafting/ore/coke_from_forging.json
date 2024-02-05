@@ -1,0 +1,33 @@
+{
+  "type": "modestmining:forging",
+  "ingredients": [
+    {
+      "item": "modestmining:coal_powder"
+    },
+    {
+      "item": "modestmining:coal_powder"
+    },
+    {
+      "item": "modestmining:coal_powder"
+    },
+    {
+      "item": "modestmining:coal_powder"
+    },
+    {
+      "item": "fundamentallyfixed:netherrack_powder"
+    },
+    {
+      "item": "fundamentallyfixed:netherrack_powder"
+    },
+    {
+      "item": "fundamentallyfixed:netherrack_powder"
+    },
+    {
+      "item": "fundamentallyfixed:netherrack_powder"
+    }
+  ],
+  "output": {
+    "item": "modestmining:coke",
+    "count": 8
+  }
+}

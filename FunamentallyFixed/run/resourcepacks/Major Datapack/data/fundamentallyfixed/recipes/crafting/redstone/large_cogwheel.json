@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "create:cogwheel"
+    },
+    {
+      "item": "create:cogwheel"
+    },
+    {
+      "item": "create:iron_sheet"
+    }
+  ],
+  "result": {
+    "item": "create:large_cogwheel",
+    "count": 2
+  }
+}

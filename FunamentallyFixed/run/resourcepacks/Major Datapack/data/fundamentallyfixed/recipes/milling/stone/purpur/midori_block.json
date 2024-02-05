@@ -1,0 +1,27 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "fundamentallyfixed:midoris"
+    }
+  ],
+  "processingTime": 200,
+  "results": [
+    {
+      "count": 1,
+      "item": "quark:moss_paste"
+    },
+    {
+      "chance": 0.5,
+      "item": "quark:moss_paste"
+    },
+    {
+      "chance": 0.5,
+      "item": "quark:moss_paste"
+    },
+    {
+      "chance": 0.5,
+      "item": "quark:moss_paste"
+    }
+  ]
+}

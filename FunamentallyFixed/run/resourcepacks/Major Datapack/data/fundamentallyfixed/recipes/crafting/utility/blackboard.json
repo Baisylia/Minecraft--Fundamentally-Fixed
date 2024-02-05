@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "fundamentallyfixed:plank_slabs"
+    },
+    "S": {
+      "item": "minecraft:clay_ball"
+    },
+    "L": {
+      "item": "minecraft:black_dye"
+    }
+  },
+  "pattern": [
+    "#S ",
+    "#SL",
+    "#S "
+  ],
+  "result": {
+    "count": 4,
+    "item": "supplementaries:blackboard"
+  }
+}

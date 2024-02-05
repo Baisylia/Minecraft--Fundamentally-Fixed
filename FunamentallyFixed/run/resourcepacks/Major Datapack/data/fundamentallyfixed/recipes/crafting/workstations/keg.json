@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "fundamentallyfixed:plank_blocks"
+    },
+    "S": {
+      "tag": "fundamentallyfixed:plank_slabs"
+    },
+    "G": {
+      "item": "minecraft:honeycomb"
+    },
+    "V": {
+      "item": "modestmining:copper_screw"
+    }
+  },
+  "pattern": [
+    "#V#",
+    "SGS",
+    "###"
+  ],
+  "result": {
+    "item": "brewinandchewin:keg"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "fundamentallyfixed"
+    }
+  ],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "fundamentallyfixed:nether_bricks_walls"
+    }
+  ],
+  "results": [
+    {
+      "count": 3,
+      "item": "minecraft:nether_brick"
+    },
+    {
+      "chance": 0.5,
+      "count": 1,
+      "item": "minecraft:nether_brick"
+    }
+  ],
+  "processingTime": 50
+}

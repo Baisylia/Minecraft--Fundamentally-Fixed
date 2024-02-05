@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "alexsmobs:guster_eye"
+    },
+    {
+      "item":"spelunkery:cinnabar"
+    },
+    {
+      "item": "quark:iron_plate"
+    }
+  ],
+  "result": {
+    "item": "alexsmobs:gustmaker",
+    "count": 1
+  }
+}

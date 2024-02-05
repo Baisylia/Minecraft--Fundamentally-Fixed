@@ -1,0 +1,23 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:blue_orchid"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "count": 3,
+      "item": "minecraft:light_blue_dye"
+    },
+    {
+      "chance": 0.5,
+      "item": "minecraft:light_blue_dye"
+    },
+    {
+      "chance": 0.5,
+      "item": "minecraft:light_blue_dye"
+    }
+  ]
+}

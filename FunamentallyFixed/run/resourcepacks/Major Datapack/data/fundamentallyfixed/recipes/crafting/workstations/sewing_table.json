@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "fundamentallyfixed:plank_blocks"
+    },
+    "S": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "pattern": [
+    "SS",
+    "##",
+    "##"
+  ],
+  "result": {
+    "item": "cold_sweat:sewing_table"
+  }
+}

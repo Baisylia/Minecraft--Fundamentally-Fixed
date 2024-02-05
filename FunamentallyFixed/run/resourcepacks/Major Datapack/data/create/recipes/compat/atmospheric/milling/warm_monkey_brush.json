@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "atmospheric"
+    }
+  ],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "atmospheric:warm_monkey_brush"
+    }
+  ],
+  "results": [
+    {
+      "count": 3,
+      "item": "minecraft:yellow_dye"
+    },
+    {
+      "chance": 0.5,
+      "item": "minecraft:yellow_dye"
+    },
+    {
+      "chance": 0.5,
+      "item": "minecraft:yellow_dye"
+    }
+  ],
+  "processingTime": 50
+}

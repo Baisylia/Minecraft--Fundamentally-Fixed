@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "alexsmobs:banana_slug_slime"
+    },
+    {
+      "item": "fundamentallyfixed:ground_prismarine"
+    },
+    {
+      "item": "farmersdelight:tree_bark"
+    }
+  ],
+  "result": {
+    "item": "minecraft:sponge"
+  }
+}

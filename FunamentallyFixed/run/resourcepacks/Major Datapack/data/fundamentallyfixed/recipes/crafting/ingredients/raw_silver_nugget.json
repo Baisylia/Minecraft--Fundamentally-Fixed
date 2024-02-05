@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "oreganized:raw_silver"
+    }
+  ],
+  "result": {
+    "item": "fundamentallyfixed:raw_silver_nugget",
+    "count": 9
+  }
+}

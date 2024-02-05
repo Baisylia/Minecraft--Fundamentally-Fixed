@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "fundamentallyfixed:baked_clays"
+    },
+    "S": {
+      "item": "minecraft:farmland"
+    }
+  },
+  "pattern": [
+    "#S#",
+    "#S#",
+    "###"
+  ],
+  "result": {
+    "item": "supplementaries:planter"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "upgrade_aquatic"
+    }
+  ],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "upgrade_aquatic:white_searocket"
+    }
+  ],
+  "results": [
+    {
+      "count": 3,
+      "item": "minecraft:white_dye"
+    },
+    {
+      "chance": 0.5,
+      "item": "minecraft:white_dye"
+    },
+    {
+      "chance": 0.5,
+      "item": "minecraft:white_dye"
+    }
+  ],
+  "processingTime": 50
+}

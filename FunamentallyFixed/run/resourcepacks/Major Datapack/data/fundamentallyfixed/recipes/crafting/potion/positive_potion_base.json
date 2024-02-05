@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredients": [
+    {
+      "item": "minecraft:nether_wart"
+    },
+    {
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "item": "naturalist:lizard_tail"
+    }
+  ],
+  "recipe_book_tab": "drinks",
+  "result": {
+    "item": "fundamentallyfixed:positive_potion_base"
+  }
+}

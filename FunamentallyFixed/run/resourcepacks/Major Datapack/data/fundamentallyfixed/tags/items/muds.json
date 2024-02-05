@@ -1,0 +1,10 @@
+{
+  "values": [
+    "minecraft:packed_mud",
+    "environmental:smooth_mud",
+    "environmental:chiseled_mud_bricks",
+    "minecraft:mud_bricks",
+    "quark:carved_mud_bricks",
+    "quark:mud_pillar"
+  ]
+}

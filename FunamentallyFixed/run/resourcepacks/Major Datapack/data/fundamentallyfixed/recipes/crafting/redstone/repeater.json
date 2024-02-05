@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:redstone_torch"
+    },
+    "B": {
+      "item": "create:copper_sheet"
+    }
+  },
+  "pattern": [
+    "##",
+    "BB"
+  ],
+  "result": {
+    "item": "minecraft:repeater",
+    "count": 2
+  }
+}

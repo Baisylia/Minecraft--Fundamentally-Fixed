@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "fundamentallyfixed:glow_items"
+    },
+    {
+      "item": "quark:glass_item_frame"
+    }
+  ],
+  "result": {
+    "item": "quark:glowing_glass_item_frame"
+  }
+}

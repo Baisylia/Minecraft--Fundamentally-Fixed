@@ -1,0 +1,15 @@
+{
+  "values": [
+    "minecraft:dirt",
+    "minecraft:coarse_dirt",
+    "minecraft:rooted_dirt",
+    "minecraft:grass_block",
+    "minecraft:dirt_path",
+    "atmospheric:crustose",
+    "atmospheric:crustose_path",
+    "minecraft:mycelium",
+    "environmental:mycelium_path",
+    "minecraft:podzol",
+    "environmental:podzol_path"
+  ]
+}

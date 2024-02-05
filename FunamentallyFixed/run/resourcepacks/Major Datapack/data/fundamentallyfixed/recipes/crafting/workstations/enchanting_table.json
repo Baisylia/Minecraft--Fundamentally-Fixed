@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },
+    "G": {
+      "item": "minecraft:obsidian"
+    },
+    "S": {
+      "item": "quark:ancient_tome"
+    }
+  },
+  "pattern": [
+    " S ",
+    "#G#",
+    "GGG"
+  ],
+  "result": {
+    "item": "minecraft:enchanting_table"
+  }
+}

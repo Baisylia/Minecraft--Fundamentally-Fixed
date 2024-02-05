@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "modestmining:rocks"
+    },
+    {
+      "item": "modestmining:rocks"
+    },
+    {
+      "item": "neapolitan:ice_cubes"
+    },
+    {
+      "item": "fundamentallyfixed:quicksoil_pile"
+    }
+  ],
+  "result": {
+    "item": "quark:permafrost"
+  }
+}

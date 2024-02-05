@@ -1,0 +1,15 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "fundamentallyfixed:raw_infernum_debris"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 2,
+      "item": "modestmining:debris_dust"
+    }
+  ]
+}

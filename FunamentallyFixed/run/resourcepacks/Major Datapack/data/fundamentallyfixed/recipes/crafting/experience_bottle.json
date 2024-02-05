@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "create:experience_nugget"
+    },
+    {
+      "item": "create:experience_nugget"
+    },
+    {
+      "item": "create:experience_nugget"
+    },
+    {
+      "item": "create:experience_nugget"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
+  "result": {
+    "item": "minecraft:experience_bottle"
+  }
+}

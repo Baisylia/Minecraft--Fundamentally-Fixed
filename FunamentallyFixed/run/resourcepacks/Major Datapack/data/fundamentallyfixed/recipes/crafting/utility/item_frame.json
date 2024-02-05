@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    }
+  },
+  "pattern": [
+    " # ",
+    "#L#",
+    " # "
+  ],
+  "result": {
+    "item": "minecraft:item_frame"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "fundamentallyfixed:plank_blocks"
+    },
+    "B": {
+      "item": "fundamentallyfixed:lead_hook"
+    }
+  },
+  "pattern": [
+    "B",
+    "#"
+  ],
+  "result": {
+    "item": "minecraft:tripwire_hook",
+    "count": 2
+  }
+}

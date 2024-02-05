@@ -1,0 +1,15 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:end_stone_brick_wall"
+    }
+  ],
+  "processingTime": 200,
+  "results": [
+    {
+      "count": 4,
+      "item": "fundamentallyfixed:end_stone_rocks"
+    }
+  ]
+}

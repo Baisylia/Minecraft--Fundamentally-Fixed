@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "environmental:yak_hair"
+    },
+    {
+      "item": "environmental:yak_hair"
+    },
+    {
+      "item": "environmental:yak_hair"
+    },
+    {
+      "item": "environmental:yak_hair"
+    },
+    {
+      "item": "environmental:yak_hair"
+    },
+    {
+      "item": "environmental:yak_hair"
+    },
+    {
+      "item": "environmental:yak_hair"
+    },
+    {
+      "item": "environmental:yak_hair"
+    },
+    {
+      "item": "environmental:yak_hair"
+    }
+  ],
+  "result": {
+    "item": "environmental:yak_hair_block"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "infernalexp:glow_glass_pane"
+    },
+    {
+      "item": "minecraft:item_frame"
+    }
+  ],
+  "result": {
+    "item": "quark:glowing_glass_item_frame"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "infernalexp:glownuggets"
+    },
+    {
+      "item": "infernalexp:moth_dust"
+    }
+  ],
+  "result": {
+    "item": "minecraft:glowstone_dust"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "tag": "fundamentallyfixed:coals"
+    }
+  },
+  "pattern": [
+    "B",
+    "#"
+  ],
+  "result": {
+    "item": "minecraft:torch",
+    "count": 4
+  }
+}

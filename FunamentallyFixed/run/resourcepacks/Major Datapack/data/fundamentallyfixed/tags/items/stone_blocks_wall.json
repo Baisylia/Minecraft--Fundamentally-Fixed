@@ -1,0 +1,10 @@
+{
+  "values": [
+    "minecraft:cobblestone_wall",
+    "minecraft:mossy_cobblestone_wall",
+    "paletteblocks:cobblestone_brick_wall",
+    "paletteblocks:mossy_cobblestone_brick_wall",
+    "minecraft:stone_brick_wall",
+    "minecraft:mossy_stone_brick_wall"
+  ]
+}

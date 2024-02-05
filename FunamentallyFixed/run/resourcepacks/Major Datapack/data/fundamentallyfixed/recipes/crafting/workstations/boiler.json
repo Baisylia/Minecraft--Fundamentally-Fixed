@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "fundamentallyfixed:crafting_stones"
+    },
+    "C": {
+      "tag": "fundamentallyfixed:waters"
+    },
+    "A": {
+      "item": "minecraft:campfire"
+    }
+  },
+  "pattern": [
+    "###",
+    "#C#",
+    "#A#"
+  ],
+  "result": {
+    "item": "cold_sweat:boiler"
+  }
+}

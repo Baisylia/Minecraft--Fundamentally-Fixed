@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "S": {
+      "tag": "fundamentallyfixed:crafting_stones"
+    },
+    "F": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "pattern": [
+    "###",
+    "SFS",
+    "S S"
+  ],
+  "result": {
+    "item": "minecraft:bell"
+  }
+}

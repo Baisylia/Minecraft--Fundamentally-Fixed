@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "spelunkery:raw_magnetite_nugget"
+    },
+    {
+      "item": "spelunkery:raw_magnetite_nugget"
+    },
+    {
+      "item": "spelunkery:raw_magnetite_nugget"
+    },
+    {
+      "item": "spelunkery:raw_magnetite_nugget"
+    },
+    {
+      "item": "spelunkery:raw_magnetite_nugget"
+    },
+    {
+      "item": "spelunkery:raw_magnetite_nugget"
+    },
+    {
+      "item": "spelunkery:raw_magnetite_nugget"
+    },
+    {
+      "item": "spelunkery:raw_magnetite_nugget"
+    },
+    {
+      "item": "spelunkery:raw_magnetite_nugget"
+    }
+  ],
+  "result": {
+    "item": "spelunkery:magnetite_chunk"
+  }
+}

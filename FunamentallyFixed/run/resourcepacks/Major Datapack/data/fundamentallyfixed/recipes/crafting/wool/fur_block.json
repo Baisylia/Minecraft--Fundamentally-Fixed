@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cold_sweat:fur"
+    },
+    {
+      "item": "cold_sweat:fur"
+    },
+    {
+      "item": "cold_sweat:fur"
+    },
+    {
+      "item": "cold_sweat:fur"
+    },
+    {
+      "item": "cold_sweat:fur"
+    },
+    {
+      "item": "cold_sweat:fur"
+    },
+    {
+      "item": "cold_sweat:fur"
+    },
+    {
+      "item": "cold_sweat:fur"
+    },
+    {
+      "item": "cold_sweat:fur"
+    }
+  ],
+  "result": {
+    "item": "alexsmobs:bison_fur_block"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "modestmining:cement_powder"
+    }
+  ],
+  "results": [
+    {
+      "item": "modestmining:cement"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "paletteblocks:polished_calcite"
+    },
+    "@": {
+      "item": "create:polished_cut_scorchia"
+    }
+  },
+  "pattern": [
+    "@#",
+    "#@"
+  ],
+  "result": {
+    "count": 4,
+    "item": "supplementaries:checker_block"
+  }
+}

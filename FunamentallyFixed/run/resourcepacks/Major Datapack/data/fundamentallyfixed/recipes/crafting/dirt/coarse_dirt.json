@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "fundamentallyfixed:dirt_pile"
+    },
+    "@": {
+      "item": "modestmining:rocks"
+    }
+  },
+  "pattern": [
+    "@#",
+    "#@"
+  ],
+  "result": {
+    "item": "minecraft:coarse_dirt"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:redstone_torch"
+    },
+    "B": {
+      "item": "fundamentallyfixed:lead_sheet"
+    }
+  },
+  "pattern": [
+    "##",
+    "BB"
+  ],
+  "result": {
+    "item": "minecraft:comparator",
+    "count": 2
+  }
+}

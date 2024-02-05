@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:polished_blackstone_bricks"
+    },
+    "X": {
+      "item": "minecraft:glowstone"
+    }
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "item": "supplementaries:blackstone_lamp"
+  }
+}

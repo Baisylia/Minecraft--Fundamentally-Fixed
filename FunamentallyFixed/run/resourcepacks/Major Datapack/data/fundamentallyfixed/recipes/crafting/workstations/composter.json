@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "fundamentallyfixed:plank_blocks"
+    },
+    "S": {
+      "item": "fundamentallyfixed:worm"
+    }
+  },
+  "pattern": [
+    "#S#",
+    "#S#",
+    "###"
+  ],
+  "result": {
+    "item": "minecraft:composter"
+  }
+}

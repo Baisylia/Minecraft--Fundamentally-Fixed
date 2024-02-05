@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "fundamentallyfixed:aluminium_nugget"
+    },
+    "A": {
+      "item": "minecraft:furnace"
+    }
+  },
+  "pattern": [
+    "###",
+    "#A#",
+    "#A#"
+  ],
+  "result": {
+    "item": "modestmining:forge"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "oreganized:lime_crystal_glass"
+    }
+  },
+  "pattern": [
+    "AAA"
+  ],
+  "result": {
+    "count": 12,
+    "item": "oreganized:lime_crystal_glass_pane"
+  }
+}

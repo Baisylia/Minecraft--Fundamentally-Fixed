@@ -1,0 +1,23 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "modestmining:cement"
+    }
+  ],
+  "processingTime": 150,
+  "results": [
+    {
+      "chance": 0.25,
+      "item": "modestmining:shell"
+    },
+    {
+      "chance": 0.25,
+      "item": "modestmining:rocks"
+    },
+    {
+      "chance": 0.25,
+      "item": "minecraft:clay_ball"
+    }
+  ]
+}

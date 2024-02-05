@@ -1,0 +1,10 @@
+{
+  "values": [
+    "minecraft:cobblestone",
+    "minecraft:mossy_cobblestone",
+    "minecraft:blackstone",
+    "minecraft:cobbled_deepslate",
+    "aether:holystone",
+    "aether:mossy_holystone"
+  ]
+}

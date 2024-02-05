@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "infernalexp:smooth_glowstone"
+  },
+  "result": "fundamentallyfixed:glowstone_pillar"
+}

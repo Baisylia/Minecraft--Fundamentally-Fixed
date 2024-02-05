@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:podzol"
+    }
+  ],
+  "tool": {
+    "tag": "fundamentallyfixed:shovels"
+  },
+  "result": [
+    {
+      "item": "environmental:podzol_path"
+    }
+  ]
+}

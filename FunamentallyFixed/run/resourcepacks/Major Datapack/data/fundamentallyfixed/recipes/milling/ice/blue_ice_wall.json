@@ -1,0 +1,21 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "fundamentallyfixed"
+    }
+  ],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "windswept:blue_ice_brick_wall"
+    }
+  ],
+  "results": [
+    {
+      "count": 4,
+      "item": "minecraft:packed_ice"
+    }
+  ],
+  "processingTime": 50
+}

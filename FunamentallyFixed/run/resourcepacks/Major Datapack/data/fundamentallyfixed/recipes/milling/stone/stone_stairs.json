@@ -1,0 +1,21 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "fundamentallyfixed"
+    }
+  ],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "fundamentallyfixed:stone_blocks_stairs"
+    }
+  ],
+  "results": [
+    {
+      "count": 3,
+      "item": "modestmining:rocks"
+    }
+  ],
+  "processingTime": 50
+}

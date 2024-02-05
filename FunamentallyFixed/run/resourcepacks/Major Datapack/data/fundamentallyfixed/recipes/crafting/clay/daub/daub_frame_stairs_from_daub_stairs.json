@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "suppsquared:daub_stairs"
+    },
+    {
+      "item": "supplementaries:timber_frame"
+    }
+  ],
+  "result": {
+    "item": "suppsquared:daub_frame_stairs"
+  }
+}

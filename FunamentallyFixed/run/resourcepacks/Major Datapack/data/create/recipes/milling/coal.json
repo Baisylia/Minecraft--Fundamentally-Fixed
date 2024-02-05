@@ -1,0 +1,23 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:coal"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 2,
+      "item": "modestmining:coal_powder"
+    },
+    {
+      "chance": 0.5,
+      "item": "minecraft:black_dye"
+    },
+    {
+      "chance": 0.5,
+      "item": "minecraft:black_dye"
+    }
+  ]
+}

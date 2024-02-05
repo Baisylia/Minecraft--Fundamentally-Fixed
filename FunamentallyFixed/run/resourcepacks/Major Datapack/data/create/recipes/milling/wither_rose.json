@@ -1,0 +1,27 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:wither_rose"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:black_dye"
+    },
+    {
+      "chance": 0.5,
+      "item": "minecraft:black_dye"
+    },
+    {
+      "chance": 0.5,
+      "item": "minecraft:black_dye"
+    },
+    {
+      "chance": 0.5,
+      "item": "fundamentallyfixed:soul_sand_pile"
+    }
+  ]
+}

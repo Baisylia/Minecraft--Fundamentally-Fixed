@@ -1,0 +1,27 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:cocoa_beans"
+    }
+  ],
+  "processingTime": 70,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:brown_dye"
+    },
+    {
+      "count": 1,
+      "item": "fundamentallyfixed:cocoa_powder"
+    },
+    {
+      "chance": 0.5,
+      "item": "minecraft:brown_dye"
+    },
+    {
+      "chance": 0.5,
+      "item": "fundamentallyfixed:cocoa_powder"
+    }
+  ]
+}

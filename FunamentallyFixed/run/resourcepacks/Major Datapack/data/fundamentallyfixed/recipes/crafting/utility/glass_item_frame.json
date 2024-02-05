@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "fundamentallyfixed:clear_glasses_panes"
+    },
+    {
+      "item": "minecraft:item_frame"
+    }
+  ],
+  "result": {
+    "item": "quark:glass_item_frame"
+  }
+}

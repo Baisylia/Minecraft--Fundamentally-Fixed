@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:tnt"
+    },
+    {
+      "item": "oreganized:lead_ingot"
+    }
+  ],
+  "result": {
+    "item": "oreganized:shrapnel_bomb"
+  }
+}

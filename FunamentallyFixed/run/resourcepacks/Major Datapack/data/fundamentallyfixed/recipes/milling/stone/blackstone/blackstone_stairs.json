@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "fundamentallyfixed"
+    }
+  ],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "fundamentallyfixed:blackstones_stairs"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "item": "modestmining:rocks"
+    },
+    {
+      "chance": 0.25,
+      "item": "fundamentallyfixed:netherrack_powder"
+    }
+  ],
+  "processingTime": 50
+}

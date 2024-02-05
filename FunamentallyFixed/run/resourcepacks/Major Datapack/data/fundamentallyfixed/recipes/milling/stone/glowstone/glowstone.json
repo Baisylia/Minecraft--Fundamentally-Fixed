@@ -1,0 +1,21 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "fundamentallyfixed"
+    }
+  ],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "fundamentallyfixed:glowstones"
+    }
+  ],
+  "results": [
+    {
+      "count": 4,
+      "item": "minecraft:glowstone_dust"
+    }
+  ],
+  "processingTime": 50
+}

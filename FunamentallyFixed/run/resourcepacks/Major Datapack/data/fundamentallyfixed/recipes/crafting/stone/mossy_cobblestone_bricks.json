@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:mossy_cobblestone"
+    },
+    "X": {
+      "item": "minecraft:moss_block"
+    }
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "item": "paletteblocks:mossy_cobblestone_bricks"
+  }
+}

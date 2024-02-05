@@ -1,0 +1,9 @@
+{
+  "values": [
+    "minecraft:soul_torch",
+    "minecraft:soul_lantern",
+    "buzzier_bees:soul_candle",
+    "supplementaries:sconce_soul",
+    "supplementaries:candle_holder_soul"
+  ]
+}

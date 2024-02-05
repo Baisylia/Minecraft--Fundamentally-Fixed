@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fundamentallyfixed:blast_proof_block"
+    }
+  ],
+  "result": {
+    "item": "savage_and_ravage:blast_proof_plating",
+    "count": 9
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "infernalexp:soul_slate"
+  },
+  "result": "fundamentallyfixed:soul_slate_pillar"
+}

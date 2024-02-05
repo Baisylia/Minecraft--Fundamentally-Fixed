@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "oreganized:lead_nugget"
+    },
+    "S": {
+      "item": "minecraft:torch"
+    }
+  },
+  "pattern": [
+    "###",
+    "#S#",
+    "###"
+  ],
+  "result": {
+    "item": "supplementaries:lead_lantern"
+  }
+}

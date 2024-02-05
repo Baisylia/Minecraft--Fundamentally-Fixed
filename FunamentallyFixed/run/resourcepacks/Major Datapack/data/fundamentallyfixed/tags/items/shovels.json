@@ -1,0 +1,12 @@
+{
+  "values": [
+    "minecraft:wooden_shovel",
+    "fundamentallyfixed:bronze_shovel",
+    "minecraft:iron_shovel",
+    "modestmining:steel_shovel",
+    "minecraft:diamond_shovel",
+    "minecraft:netherite_shovel",
+    "oreganized:electrum_shovel",
+    "modestmining:prismarite_shovel"
+  ]
+}

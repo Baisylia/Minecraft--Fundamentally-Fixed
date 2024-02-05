@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "infernalexp:dimstone_bricks"
+  },
+  "result": "fundamentallyfixed:dimstone_pillar"
+}

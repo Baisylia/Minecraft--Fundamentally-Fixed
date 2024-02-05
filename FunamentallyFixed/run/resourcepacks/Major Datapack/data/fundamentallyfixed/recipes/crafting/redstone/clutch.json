@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "spelunkery:cinnabar"
+    },
+    {
+      "item": "create:shaft"
+    },
+    {
+      "item": "quark:iron_plate"
+    }
+  ],
+  "result": {
+    "item": "create:clutch",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "farmersdelight:rich_soil"
+    }
+  ],
+  "tool": {
+    "tag": "fundamentallyfixed:hoes"
+  },
+  "result": [
+    {
+      "item": "farmersdelight:rich_soil_farmland"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "tag": "fundamentallyfixed:farmlandable"
+    }
+  ],
+  "tool": {
+    "tag": "fundamentallyfixed:hoes"
+  },
+  "result": [
+    {
+      "item": "minecraft:farmland"
+    }
+  ]
+}

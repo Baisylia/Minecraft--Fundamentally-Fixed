@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "quark:magenta_framed_glass"
+    }
+  },
+  "pattern": [
+    "AAA"
+  ],
+  "result": {
+    "count": 12,
+    "item": "quark:magenta_framed_glass_pane"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "paletteblocks:cobblestone_bricks"
+    }
+  ],
+  "tool": {
+    "tag": "fundamentallyfixed:pickaxes"
+  },
+  "result": [
+    {
+      "item": "paletteblocks:cracked_cobblestone_bricks"
+    }
+  ]
+}

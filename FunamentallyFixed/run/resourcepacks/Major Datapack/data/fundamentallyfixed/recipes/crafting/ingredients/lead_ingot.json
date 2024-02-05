@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fundamentallyfixed:raw_lead_nugget"
+    },
+    {
+      "item": "fundamentallyfixed:raw_lead_nugget"
+    },
+    {
+      "item": "fundamentallyfixed:raw_lead_nugget"
+    },
+    {
+      "item": "fundamentallyfixed:raw_lead_nugget"
+    },
+    {
+      "item": "fundamentallyfixed:raw_lead_nugget"
+    },
+    {
+      "item": "fundamentallyfixed:raw_lead_nugget"
+    },
+    {
+      "item": "fundamentallyfixed:raw_lead_nugget"
+    },
+    {
+      "item": "fundamentallyfixed:raw_lead_nugget"
+    },
+    {
+      "item": "fundamentallyfixed:raw_lead_nugget"
+    }
+  ],
+  "result": {
+    "item": "oreganized:lead_ingot"
+  }
+}

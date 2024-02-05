@@ -1,0 +1,13 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "fundamentallyfixed:muddable"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:mud"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "infernalexp:soul_stone_bricks"
+    }
+  ],
+  "tool": {
+    "tag": "fundamentallyfixed:pickaxes"
+  },
+  "result": [
+    {
+      "item": "infernalexp:cracked_soul_stone_bricks"
+    }
+  ]
+}

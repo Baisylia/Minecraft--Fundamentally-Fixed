@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:iron_nugget"
+    },
+    "C": {
+      "tag": "fundamentallyfixed:netherracks"
+    },
+    "A": {
+      "item": "minecraft:furnace"
+    }
+  },
+  "pattern": [
+    "###",
+    "#C#",
+    "#A#"
+  ],
+  "result": {
+    "item": "minecraft:blast_furnace"
+  }
+}

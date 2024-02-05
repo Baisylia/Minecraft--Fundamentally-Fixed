@@ -1,0 +1,21 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "fundamentallyfixed"
+    }
+  ],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:soul_soil"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:soul_sand"
+    }
+  ],
+  "processingTime": 50
+}

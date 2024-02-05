@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "aluminium_ingot",
+  "ingredient": {
+    "item": "fundamentallyfixed:raw_aluminium_nugget"
+  },
+  "result": "fundamentallyfixed:aluminium_nugget"
+}

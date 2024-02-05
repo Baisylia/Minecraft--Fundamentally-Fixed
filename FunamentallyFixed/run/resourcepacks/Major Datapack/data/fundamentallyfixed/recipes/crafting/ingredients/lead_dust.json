@@ -1,0 +1,15 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "oreganized:raw_lead"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 2,
+      "item": "fundamentallyfixed:lead_powder"
+    }
+  ]
+}

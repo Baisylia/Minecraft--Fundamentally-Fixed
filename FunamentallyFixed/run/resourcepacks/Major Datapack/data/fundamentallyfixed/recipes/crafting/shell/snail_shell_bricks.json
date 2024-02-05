@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "fundamentallyfixed:crafting_stones"
+    },
+    "@": {
+      "item": "autumnity:snail_shell_piece"
+    }
+  },
+  "pattern": [
+    "###",
+    "#@#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "item": "autumnity:snail_shell_bricks"
+  }
+}

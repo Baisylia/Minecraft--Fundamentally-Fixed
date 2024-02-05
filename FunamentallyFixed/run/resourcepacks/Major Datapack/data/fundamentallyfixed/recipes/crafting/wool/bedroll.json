@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "fundamentallyfixed:cloth"
+    },
+    "@": {
+      "item": "minecraft:leather"
+    }
+  },
+  "pattern": [
+    "###",
+    "@@@"
+  ],
+  "result": {
+    "item": "upgrade_aquatic:bedroll"
+  }
+}

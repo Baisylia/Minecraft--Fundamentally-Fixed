@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "fundamentallyfixed:plank_blocks"
+    },
+    "G": {
+      "tag": "fundamentallyfixed:plank_slabs"
+    },
+    "S": {
+      "item": "fundamentallyfixed:aluminium_ingot"
+    }
+  },
+  "pattern": [
+    "GGG",
+    "#S#",
+    "###"
+  ],
+  "result": {
+    "item": "cold_sweat:icebox"
+  }
+}

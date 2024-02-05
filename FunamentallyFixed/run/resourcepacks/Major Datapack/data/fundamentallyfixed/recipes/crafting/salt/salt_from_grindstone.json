@@ -1,0 +1,7 @@
+{
+  "type": "sullysmod:grindstone_polishing",
+  "experience": 1,
+  "ingredient": "spelunkery:rock_salt",
+  "result": "spelunkery:salt",
+  "resultCount": 2
+}

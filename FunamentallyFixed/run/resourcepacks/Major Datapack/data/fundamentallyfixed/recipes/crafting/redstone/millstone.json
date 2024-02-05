@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "quark:chute"
+    },
+    "C": {
+      "item": "create:cogwheel"
+    },
+    "B": {
+      "item": "create:zinc_block"
+    }
+  },
+  "pattern": [
+    "#",
+    "C",
+    "B"
+  ],
+  "result": {
+    "item": "create:millstone",
+    "count": 1
+  }
+}

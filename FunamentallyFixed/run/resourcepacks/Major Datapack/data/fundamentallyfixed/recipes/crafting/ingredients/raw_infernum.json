@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fundamentallyfixed:raw_infernum_nugget"
+    },
+    {
+      "item": "fundamentallyfixed:raw_infernum_nugget"
+    },
+    {
+      "item": "fundamentallyfixed:raw_infernum_nugget"
+    },
+    {
+      "item": "fundamentallyfixed:raw_infernum_nugget"
+    },
+    {
+      "item": "fundamentallyfixed:raw_infernum_nugget"
+    },
+    {
+      "item": "fundamentallyfixed:raw_infernum_nugget"
+    },
+    {
+      "item": "fundamentallyfixed:raw_infernum_nugget"
+    },
+    {
+      "item": "fundamentallyfixed:raw_infernum_nugget"
+    },
+    {
+      "item": "fundamentallyfixed:raw_infernum_nugget"
+    }
+  ],
+  "result": {
+    "item": "fundamentallyfixed:raw_infernum_debris"
+  }
+}

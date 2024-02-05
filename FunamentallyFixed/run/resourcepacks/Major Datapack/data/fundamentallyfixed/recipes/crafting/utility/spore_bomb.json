@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:tnt"
+    },
+    {
+      "item": "savage_and_ravage:creeper_spores"
+    },
+    {
+      "item": "savage_and_ravage:creeper_spores"
+    }
+  ],
+  "result": {
+    "item": "savage_and_ravage:spore_bomb"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "fundamentallyfixed"
+    }
+  ],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "fundamentallyfixed:blackstones"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": "infernalexp:rubble"
+    }
+  ],
+  "processingTime": 50
+}

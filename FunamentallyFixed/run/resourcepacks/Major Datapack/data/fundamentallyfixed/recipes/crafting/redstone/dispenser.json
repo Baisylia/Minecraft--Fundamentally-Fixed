@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "spelunkery:cinnabar"
+    },
+    {
+      "item": "fundamentallyfixed:spring"
+    },
+    {
+      "item": "minecraft:redstone_torch"
+    },
+    {
+      "item": "create:zinc_block"
+    }
+  ],
+  "result": {
+    "item": "minecraft:dispenser",
+    "count": 1
+  }
+}

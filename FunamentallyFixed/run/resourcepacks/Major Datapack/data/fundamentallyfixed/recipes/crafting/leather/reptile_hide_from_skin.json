@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "alexsmobs:shed_snake_skin"
+    }
+  ],
+  "result": {
+    "item": "naturalist:reptile_hide",
+    "count": 4
+  }
+}

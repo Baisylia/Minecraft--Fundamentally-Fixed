@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "spelunkery:salt"
+    },
+    {
+      "item": "spelunkery:salt"
+    }
+  ],
+  "result": {
+    "item": "spelunkery:rock_salt"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "fundamentallyfixed:plank_blocks"
+    },
+    "S": {
+      "tag": "fundamentallyfixed:plank_slabs"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "# #",
+    "###"
+  ],
+  "result": {
+    "item": "minecraft:barrel"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "modestmining:adobe_bricks"
+    },
+    "X": {
+      "item": "minecraft:moss_block"
+    }
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "item": "modestmining:mossy_adobe_bricks"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:paper"
+    },
+    "S": {
+      "tag": "fundamentallyfixed:plank_blocks"
+    }
+  },
+  "pattern": [
+    "S#",
+    "S#"
+  ],
+  "result": {
+    "item": "supplementaries:notice_board"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "cold_sweat:fur"
+    },
+    "F": {
+      "item": "environmental:yak_hair"
+    }
+  },
+  "pattern": [
+    " F ",
+    "F#F",
+    "F#F"
+  ],
+  "result": {
+    "item": "naturalist:teddy_bear"
+  }
+}

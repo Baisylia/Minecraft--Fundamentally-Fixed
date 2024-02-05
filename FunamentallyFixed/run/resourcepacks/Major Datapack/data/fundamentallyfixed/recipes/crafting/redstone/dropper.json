@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "spelunkery:cinnabar"
+    },
+    {
+      "item": "fundamentallyfixed:spring"
+    },
+    {
+      "item": "create:zinc_block"
+    }
+  ],
+  "result": {
+    "item": "minecraft:dropper",
+    "count": 1
+  }
+}

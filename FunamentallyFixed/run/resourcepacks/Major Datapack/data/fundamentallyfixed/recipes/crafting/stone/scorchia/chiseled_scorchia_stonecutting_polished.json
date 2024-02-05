@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "create:polished_cut_scorchia"
+  },
+  "result": "fundamentallyfixed:chiseled_scorchia_bricks"
+}

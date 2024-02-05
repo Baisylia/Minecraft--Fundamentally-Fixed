@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:raw_iron"
+    },
+    "X": {
+      "item": "minecraft:basalt"
+    }
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "item": "infernalexp:basalt_iron_ore"
+  }
+}

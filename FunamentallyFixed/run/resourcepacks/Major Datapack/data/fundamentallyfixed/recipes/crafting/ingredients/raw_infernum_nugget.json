@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fundamentallyfixed:raw_infernum_debris"
+    }
+  ],
+  "result": {
+    "item": "fundamentallyfixed:raw_infernum_nugget",
+    "count": 9
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "fundamentallyfixed"
+    }
+  ],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "fundamentallyfixed:florarock_brick_stairs"
+    }
+  ],
+  "results": [
+    {
+      "count": 3,
+      "item": "fundamentallyfixed:florarock_pile"
+    }
+  ],
+  "processingTime": 50
+}

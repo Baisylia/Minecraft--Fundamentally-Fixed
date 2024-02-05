@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "fundamentallyfixed"
+    }
+  ],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "fundamentallyfixed:red_sandstones_stairs"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:red_sand"
+    },
+    {
+      "chance": 0.5,
+      "count": 2,
+      "item": "fundamentallyfixed:red_sand_pile"
+    }
+  ],
+  "processingTime": 50
+}

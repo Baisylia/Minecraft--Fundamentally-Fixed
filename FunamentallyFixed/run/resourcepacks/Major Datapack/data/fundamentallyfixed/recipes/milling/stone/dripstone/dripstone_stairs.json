@@ -1,0 +1,22 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "fundamentallyfixed:dripstones_stairs"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "item": "minecraft:pointed_dripstone"
+    },
+    {
+      "chance": 0.25,
+      "item": "minecraft:pointed_dripstone"
+    },
+    {
+      "chance": 0.1,
+      "item": "minecraft:pointed_dripstone"
+    }
+  ]
+}

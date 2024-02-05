@@ -1,0 +1,26 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "fundamentallyfixed:spotted_glances"
+    }
+  ],
+  "processingTime": 200,
+  "results": [
+    {
+      "count": 3,
+      "item": "modestmining:rocks"
+    },
+    {
+      "item": "oreganized:lead_nugget"
+    },
+    {
+      "chance": 0.5,
+      "item": "oreganized:lead_nugget"
+    },
+    {
+      "chance": 0.1,
+      "item": "oreganized:lead_nugget"
+    }
+  ]
+}
