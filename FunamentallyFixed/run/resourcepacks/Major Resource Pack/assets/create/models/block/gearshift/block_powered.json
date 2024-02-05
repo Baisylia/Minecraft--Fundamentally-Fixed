@@ -1,0 +1,23 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "block/block",
+  "textures": {
+    "3": "create:block/gearshift_on",
+    "5": "create:block/drive_front",
+    "particle": "create:block/gearshift_on"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 0],
+      "to": [16, 16, 16],
+      "faces": {
+        "north": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#3"},
+        "east": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#3"},
+        "south": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#3"},
+        "west": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#3"},
+        "up": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#5"},
+        "down": {"uv": [0, 0, 16, 16], "texture": "#5"}
+      }
+    }
+  ]
+}

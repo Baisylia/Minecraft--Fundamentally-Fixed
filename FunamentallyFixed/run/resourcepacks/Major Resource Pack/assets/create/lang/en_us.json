@@ -1,0 +1,22 @@
+{
+  "block.create.brass_block": "Block of Bronze",
+  "block.create.zinc_block": "Cut Bronze",
+  "block.create.cut_granite_stairs": "Smooth Stone Stairs",
+  "block.create.polished_cut_calcite_wall": "Smooth Stone Wall",
+  "block.create.cut_granite_wall": "Polished Shale Wall",
+  "block.create.cut_diorite_brick_stairs": "Ochrum Stairs",
+  "block.create.cut_diorite_brick_wall": "Ochrum Wall",
+  "block.create.cut_diorite_brick_slab": "Ochrum Slab",
+  "block.create.cut_scoria_stairs": "Scoria Stairs",
+  "block.create.cut_scoria_wall": "Scoria Wall",
+  "block.create.cut_scoria_slab": "Scoria Slab",
+  "block.create.cut_scorchia_stairs": "Scorchia Stairs",
+  "block.create.cut_scorchia_wall": "Scorchia Wall",
+  "block.create.cut_scorchia_slab": "Scorchia Slab",
+  "block.create.cut_andesite_wall": "Polished Jasper Wall",
+  "block.create.cut_andesite_brick_wall": "Prismarine Brick Wall",
+  "block.create.small_andesite_brick_wall": "Dark Prismarine Wall",
+  "block.create.polished_cut_diorite_wall": "Polished Limestone Wall",
+  "block.create.polished_cut_granite_wall": "Polished Tuff Wall",
+  "block.create.polished_cut_andesite_wall": "Polished Limestone Wall"
+}

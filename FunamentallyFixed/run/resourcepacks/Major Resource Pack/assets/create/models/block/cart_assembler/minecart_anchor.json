@@ -1,0 +1,35 @@
+{
+	"credit": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+	"textures": {
+		"7": "create:block/cart_assembler_side",
+		"10": "create:block/cart_assembler_top",
+		"11": "oreganized:block/exposer_top",
+		"particle": "create:block/linear_chassis_side"
+	},
+	"elements": [
+		{
+			"name": "Top",
+			"from": [1, 12, 1],
+			"to": [15, 16, 15],
+			"faces": {
+				"north": {"uv": [1, 12, 15, 16], "texture": "#7"},
+				"east": {"uv": [1, 12, 15, 16], "texture": "#7"},
+				"south": {"uv": [1, 12, 15, 16], "texture": "#7"},
+				"west": {"uv": [1, 12, 15, 16], "texture": "#7"},
+				"up": {"uv": [1, 1, 15, 15], "texture": "#10"},
+				"down": {"uv": [1, 1, 15, 15], "texture": "#11"}
+			}
+		},
+		{
+			"name": "Inner",
+			"from": [4, 4, 4],
+			"to": [12, 12, 12],
+			"faces": {
+				"north": {"uv": [4, 8, 12, 16], "texture": "#7"},
+				"east": {"uv": [4, 8, 12, 16], "texture": "#7"},
+				"south": {"uv": [4, 8, 12, 16], "texture": "#7"},
+				"west": {"uv": [4, 8, 12, 16], "texture": "#7"}
+			}
+		}
+	]
+}

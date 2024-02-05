@@ -1,0 +1,16 @@
+{
+  "item.farmersdelight.chicken_cuts": "Raw Fowl Cuts",
+  "item.farmersdelight.cooked_chicken_cuts": "Cooked Fowl Cuts",
+  "item.farmersdelight.salmon_slice": "Saltwater Fish Slice",
+  "item.farmersdelight.cooked_salmon_slice": "Cooked Saltwater Fish Slice",
+  "item.farmersdelight.salmon_roll": "Saltwater Fish Roll",
+  "item.farmersdelight.cod_roll": "Freshwater Fish Roll",
+  "item.farmersdelight.chicken_sandwich": "Fowl Sandwich",
+  "item.farmersdelight.chicken_soup": "Fowl Soup",
+  "item.farmersdelight.roast_chicken": "Plate of Roast Fowl",
+  "item.farmersdelight.fish_stew": "Freshwater Fish Stew",
+  "item.farmersdelight.baked_cod_stew": "Saltwater Fish Stew",
+  
+  "block.farmersdelight.mangrove_cabinet": "Mahogany Cabinet",
+  "block.farmersdelight.roast_chicken_block": "Roast Fowl"
+}

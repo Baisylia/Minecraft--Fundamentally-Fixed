@@ -1,0 +1,37 @@
+{
+  "item.minecraft.chicken": "Raw Fowl",
+  "item.minecraft.cooked_chicken": "Cooked Fowl",
+  "item.minecraft.cooked_salmon": "Cooked Saltwater Fish",
+  "item.minecraft.rabbit_stew": "Venison Stew",
+  
+  "item.minecraft.netherite_scrap": "Infernum Scrap",
+  "item.minecraft.quartz": "Rough Quartz",
+  "item.minecraft.prismarine_shard": "Prismarine Rock",
+  "item.minecraft.amethyst_shard": "Prismarine",
+  "block.minecraft.prismarine": "Cobbled Prismarine",
+
+  "block.minecraft.chorus_plant": "Chorus Stem",
+  "block.minecraft.nether_wart_block": "Crimson Wart Block",
+  "block.minecraft.red_nether_bricks": "Crimson Nether Bricks",
+  "block.minecraft.red_nether_brick_stairs": "Crimson Nether Brick Stairs",
+  "block.minecraft.red_nether_brick_slab": "Crimson Nether Brick Slab",
+  "block.minecraft.red_nether_brick_wall": "Crimson Nether Brick Wall",
+  
+  "item.minecraft.mangrove_boat": "Mahogany Boat",
+  "item.minecraft.mangrove_chest_boat": "Mahogany Chest Boat",
+  "block.minecraft.mangrove_leaves": "Mahogany Leaves",
+  "block.minecraft.mangrove_log": "Mahogany Log",
+  "block.minecraft.mangrove_wood": "Mahogany Wood",
+  "block.minecraft.stripped_mangrove_log": "Mahogany Log",
+  "block.minecraft.stripped_mangrove_wood": "Mahogany Wood",
+  "block.minecraft.mangrove_planks": "Mahogany Planks",
+  "block.minecraft.mangrove_stairs": "Mahogany Stairs",
+  "block.minecraft.mangrove_slab": "Mahogany Slab",
+  "block.minecraft.mangrove_door": "Mahogany Door",
+  "block.minecraft.mangrove_trapdoor": "Mahogany Trapdoor",
+  "block.minecraft.mangrove_fence": "Mahogany Fence",
+  "block.minecraft.mangrove_fence_gate": "Mahogany Fence Gate",
+  "block.minecraft.mangrove_button": "Mahogany Button",
+  "block.minecraft.mangrove_pressure_plate": "Mahogany Pressure Plate",
+  "block.minecraft.mangrove_sign": "Mahogany Sign"
+}
