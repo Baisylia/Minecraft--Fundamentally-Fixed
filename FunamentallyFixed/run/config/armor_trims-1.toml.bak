@@ -1,0 +1,42 @@
+
+[Client]
+	# For some reason, trim layers don't play nice with custom armor models (and I have given up trying to fix it now). You can choose what to do.
+	# NORMAL - Will attempt to render anyway. Usually trims will be invisible but sometimes yields wierd results (such as "mystery belts" for some boots).
+	# TINTED - Will tint armors the associated trim color.
+	# HIDDEN - Will hide trims on custom armor models entirely. Default option; anything not specified will default to this. Currently not working for some reason, causing it to behave like TINTED.
+	"Custom Armor Model View" = "HIDDEN"
+	# Some textures have some dark bits that get factored into the final color. This option will not count any colors darker than this when determining color.
+	#Range: 0 ~ 255
+	"Trim Color Darkness Threshold" = 15
+
+["Base Features"]
+	# Basically half the premise of the mod, turn this off if you don't want people trimming armor themselves (E.G. if you have another system on place).
+	"New Smithing Table GUI" = true
+	# Don't consume smithing templates when trimming armor.
+	"Don't Consume Smithing Templates" = true
+	# Disable vanilla netherite upgrading in favor of the new one. NOT recommended to enable this alongside disableNetheriteUpgrade.
+	"Disable Vanilla Netherite Upgrading" = true
+	# Disable netherite upgrading via smithing template. Great if you feel like it takes away from the old vanilla experience. NOT recommended to enable this alongside disableVanillaNetheriteUpgrade.
+	"Disable Netherite Upgrade Smithing Template" = false
+
+	["Base Features".Untrimming]
+		# Decides whether or not the player is allowed to un-trim armor.
+		"Allow Untrimming" = true
+
+	["Base Features"."Armor Trim Materials"]
+		# This is a list of items that can be used to trim armor.
+		# You can add any item/tag here. For example, you could use the item id "minecraft:sponge" for sponge or you could use the tag "#forge:gems/amethyst" for amethyst shards.
+		"Armor Trim Materials" = ["minecraft:copper_ingot", "minecraft:iron_ingot", "oreganized:lead_ingot", "modestmining:steel_ingot", "minecraft:gold_ingot", "oreganized:silver_ingot", "oreganized:electrum_ingot", "modestmining:prismarite_ingot", "minecraft:netherite_ingot", "minecraft:lapis_lazuli", "spelunkery:cinnabar", "modestmining:amethyst", "minecraft:emerald", "modestmining:pearl", "minecraft:diamond"]
+
+["Modpack Maketh Mode"]
+	# Disable trimming for any items that don't work when trimmed.
+	"Untrimmable Items" = ["modestmining:fiber_cap", "modestmining:fiber_tunic", "modestmining:fiber_pants", "modestmining:fiber_boots", "oreganized:electrum_helmet", "oreganized:electrum_chestplate", "oreganized:electrum_leggings", "oreganized:electrum_boots", "savage_and_ravage:griefer_helmet", "savage_and_ravage:griefer_chestplate", "savage_and_ravage:griefer_leggings", "savage_and_ravage:griefer_boots", "environmental:thief_hood", "environmental:healer_pouch", "environmental:architect_belt", "environmental:wanderer_boots", "alexsmobs:froststalker_helmet", "alexsmobs:rocky_chestplate", "alexsmobs:centipede_leggings", "alexsmobs:roadrunner_boots", "alexsmobs:moose_headgear", "alexsmobs:crocodile_chestplate", "alexsmobs:novelty_hat", "alexsmobs:fedora", "alexsmobs:sombrero", "alexsmobs:frontier_cap", "alexsmobs:unsettling_kimono", "alexsmobs:flying_fish_boots", "alexsmobs:tarantula_hawk_elytra", "alexsmobs:spiked_turtle_shell", "environmental:yak_pants", "windswept:snow_boots", "autumnity:snail_shell_chestplate", "quark:backpack", "create:copper_diving_helmet", "create:netherite_diving_helmet", "create:copper_diving_boots", "create:netherite_diving_boots", "create:copper_backtank", "create:netherite_backtank", "create:goggles", "aether:phoenix_helmet", "aether:phoenix_chestplate", "aether:phoenix_leggings", "aether:phoenix_boots", "aether:obsidian_helmet", "aether:obsidian_chestplate", "aether:obsidian_leggings", "aether:obsidian_boots", "aether:zanite_helmet", "aether:zanite_chestplate", "aether:zanite_leggings", "aether:zanite_boots", "aether:neptune_helmet", "aether:neptune_chestplate", "aether:neptune_leggings", "aether:neptune_boots", "aether:valkyrie_helmet", "aether:valkyrie_chestplate", "aether:valkyrie_leggings", "aether:valkyrie_boots", "aether:gravitite_helmet", "aether:gravitite_chestplate", "aether:gravitite_leggings", "aether:gravitite_boots", "cold_sweat:fur_helmet", "cold_sweat:fur_chestplate", "cold_sweat:fur_leggings", "cold_sweat:fur_boots", "cold_sweat:hoglin_helmet", "cold_sweat:hoglin_chestplate", "cold_sweat:hoglin_leggings", "cold_sweat:hoglin_boots", "modestmining:rosegold_helmet", "modestmining:rosegold_chestplate", "modestmining:rosegold_leggings", "modestmining:rosegold_boots", "aether:sentry_boots", "savage_and_ravage:mask_of_dishonesty", "minecraft:golden_helmet", "minecraft:golden_chestplate", "minecraft:golden_leggings", "minecraft:golden_boots", "minecraft:chainmail_helmet", "minecraft:chainmail_chestplate", "minecraft:chainmail_leggings", "minecraft:chainmail_boots"]
+
+	["Modpack Maketh Mode".JEI]
+		# You can disable JEI if loading times become too long.
+		"JEI Enabled" = true
+		# Hardcode materials to add to JEI. Leave blank for full list.
+		"Hardcoded JEI List (Armor)" = ["minecraft:leather_helmet", "minecraft:leather_chestplate", "minecraft:leather_leggings", "minecraft:leather_boots", "minecraft:iron_helmet", "minecraft:iron_chestplate", "minecraft:iron_leggings", "minecraft:iron_boots", "minecraft:diamond_helmet", "minecraft:diamond_chestplate", "minecraft:diamond_leggings", "minecraft:diamond_boots", "minecraft:netherite_helmet", "minecraft:netherite_chestplate", "minecraft:netherite_leggings", "minecraft:netherite_boots", "modestmining:steel_helmet", "modestmining:steel_chestplate", "modestmining:steel_leggings", "modestmining:steel_boots", "modestmining:prismarite_helmet", "modestmining:prismarite_chestplate", "modestmining:prismarite_leggings", "modestmining:prismarite_boots", "minecraft:turtle_helmet"]
+		"Hardcoded JEI List (Templates)" = []
+		"Hardcoded JEI List (Materials)" = []
+

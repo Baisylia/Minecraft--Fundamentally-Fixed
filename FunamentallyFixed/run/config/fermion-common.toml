@@ -1,0 +1,25 @@
+
+#Creative Mode Tab Tweaks
+[tab-tweaks]
+	#Hides all modded Creative Mode Tabs. (REQUIRES RESTART)
+	"Hide Modded Tabs" = false
+	#Hides any item in this list from the Creative Mode Inventories. (REQUIRES RESTART)
+	"Hidden Items" = ["minecraft:petrified_oak_slab"]
+	#Moves any item in this list to any specified item tab (REQUIRES RESTART). values: building_blocks, decorations, redstone, transport, misc, food, tools, combat, brewing
+	"Item Tab Modifiers" = ["minecraft:command_block=redstone", "minecraft:repeating_command_block=redstone", "minecraft:chain_command_block=redstone", "minecraft:command_block_minecart=transport", "minecraft:dragon_egg=misc", "minecraft:spawner=misc", "minecraft:structure_block=redstone"]
+
+	#Replace the Item Icon for the vanilla Creative Mode Tabs
+	[tab-tweaks.tab-icons]
+		"Building Blocks Tab Icon" = "minecraft:bricks"
+		"Decorations Tab Icon" = "minecraft:peony"
+		"Redstone Tab Icon" = "minecraft:redstone"
+		"Transportation Tab Icon" = "minecraft:powered_rail"
+		"Misc Tab Icon" = "minecraft:lava_bucket"
+		"Foodstuffs Tab Icon" = "minecraft:apple"
+		"Tools Tab Icon" = "minecraft:iron_axe"
+		"Combat Tab Icon" = "minecraft:golden_sword"
+		"Brewing Tab Icon" = "minecraft:potion"
+		"Inventory Tab Icon" = "minecraft:chest"
+		"Search Tab Icon" = "minecraft:compass"
+		"Saved Hotbar Tab Icon" = "minecraft:bookshelf"
+

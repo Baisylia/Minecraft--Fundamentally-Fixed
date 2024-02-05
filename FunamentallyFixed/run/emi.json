@@ -1,0 +1,845 @@
+{
+  "favorites": [
+    {
+      "stack": "item:minecraft:amethyst_shard"
+    },
+    {
+      "stack": "item:fundamentallyfixed:raw_infernum_debris"
+    },
+    {
+      "stack": "item:create:golden_sheet"
+    },
+    {
+      "stack": "item:fundamentallyfixed:raw_lead_nugget"
+    },
+    {
+      "stack": "item:modestmining:coke"
+    },
+    {
+      "stack": "item:supplementaries:antique_ink"
+    },
+    {
+      "stack": "item:buzzier_bees:four_leaf_clover"
+    },
+    {
+      "stack": "item:farmersrespite:green_tea_leaves"
+    },
+    {
+      "stack": "item:minecraft:firework_rocket"
+    },
+    {
+      "stack": "item:minecraft:firework_star"
+    },
+    {
+      "stack": "item:minecraft:conduit"
+    },
+    {
+      "stack": "item:fundamentallyfixed:acorn_flour"
+    },
+    {
+      "stack": "item:brewinandchewin:tankard"
+    },
+    {
+      "stack": "item:fundamentallyfixed:cocoa_powder"
+    },
+    {
+      "stack": "item:minecraft:prismarine_crystals"
+    },
+    {
+      "stack": "item:fundamentallyfixed:ground_prismarine"
+    },
+    {
+      "stack": "item:alexsmobs:leafcutter_ant_pupa"
+    },
+    {
+      "stack": "item:alexsmobs:banana_slug_slime"
+    },
+    {
+      "stack": "item:minecraft:magma_cream"
+    },
+    {
+      "stack": "item:minecraft:zombified_piglin_spawn_egg"
+    },
+    {
+      "stack": "item:minecraft:zombie_spawn_egg"
+    },
+    {
+      "stack": "item:minecraft:zombie_villager_spawn_egg"
+    },
+    {
+      "stack": "item:minecraft:husk_spawn_egg"
+    },
+    {
+      "stack": "item:windswept:chilled_spawn_egg"
+    },
+    {
+      "stack": "item:minecraft:drowned_spawn_egg"
+    },
+    {
+      "stack": "item:minecraft:ender_eye"
+    },
+    {
+      "stack": "item:minecraft:potion{Potion:\"minecraft:slow_falling\"}"
+    },
+    {
+      "stack": "item:minecraft:end_rod"
+    },
+    {
+      "stack": "item:naturalist:glow_goop"
+    },
+    {
+      "stack": "item:minecraft:feather"
+    },
+    {
+      "stack": "item:fundamentallyfixed:cloth"
+    },
+    {
+      "stack": "item:modestmining:flesh"
+    },
+    {
+      "stack": "item:minecraft:oak_wood"
+    },
+    {
+      "stack": "item:quark:hollow_oak_log"
+    },
+    {
+      "stack": "item:minecraft:wheat_seeds"
+    },
+    {
+      "stack": "item:create:hose_pulley"
+    },
+    {
+      "stack": "item:fundamentallyfixed:sappy_oak_log"
+    },
+    {
+      "stack": "item:autumnity:sappy_maple_log"
+    },
+    {
+      "stack": "item:autumnity:sappy_maple_wood"
+    },
+    {
+      "stack": "item:everycomp:q/atmospheric/hollow_rosewood_log"
+    },
+    {
+      "stack": "item:abnormalmining:chiseled_river_planks"
+    },
+    {
+      "stack": "item:minecraft:anvil"
+    },
+    {
+      "stack": "item:sullysmod:cooked_lanternfish"
+    },
+    {
+      "stack": "item:naturalist:catfish"
+    },
+    {
+      "stack": "item:atmospheric:passionfruit"
+    },
+    {
+      "stack": "item:craftingautomat:autocrafter"
+    },
+    {
+      "stack": "item:alexsdelight:acacia_blossom_soup"
+    },
+    {
+      "stack": "item:minecraft:jungle_planks"
+    },
+    {
+      "stack": "item:quark:chiseled_granite_bricks"
+    },
+    {
+      "stack": "item:alexsmobs:spawn_egg_guster"
+    },
+    {
+      "stack": "item:minecraft:painting"
+    },
+    {
+      "stack": "item:fundamentallyfixed:holystone_pillar"
+    },
+    {
+      "stack": "item:create:scorchia"
+    },
+    {
+      "stack": "item:create:polished_cut_scoria"
+    },
+    {
+      "stack": "item:create:brass_block"
+    },
+    {
+      "stack": "item:minecraft:quartz_bricks"
+    },
+    {
+      "stack": "item:minecraft:chicken"
+    },
+    {
+      "stack": "item:minecraft:acacia_log"
+    },
+    {
+      "stack": "item:atmospheric:morado_planks"
+    },
+    {
+      "stack": "item:atmospheric:rosewood_planks"
+    },
+    {
+      "stack": "item:minecraft:warped_nylium"
+    },
+    {
+      "stack": "item:quark:bamboo_planks"
+    },
+    {
+      "stack": "item:quark:bamboo_fence"
+    },
+    {
+      "stack": "item:windswept:chestnut_log"
+    },
+    {
+      "stack": "item:windswept:chestnut_boards"
+    },
+    {
+      "stack": "item:windswept:chestnut_boat"
+    },
+    {
+      "stack": "item:atmospheric:rosewood_boat"
+    },
+    {
+      "stack": "item:minecraft:crimson_nylium"
+    },
+    {
+      "stack": "item:windswept:holly_furnace_boat"
+    },
+    {
+      "stack": "item:quark:azalea_chest_boat"
+    },
+    {
+      "stack": "item:boatload:large_acacia_boat"
+    },
+    {
+      "stack": "item:aether:swet_ball"
+    },
+    {
+      "stack": "item:alexsmobs:roadrunner_boots{Damage:0}"
+    },
+    {
+      "stack": "item:supplementaries:bamboo_spikes"
+    },
+    {
+      "stack": "item:minecraft:map"
+    },
+    {
+      "stack": "item:minecraft:slime_ball"
+    },
+    {
+      "stack": "item:minecraft:written_book"
+    },
+    {
+      "stack": "item:minecraft:writable_book"
+    },
+    {
+      "stack": "item:minecraft:honey_block"
+    },
+    {
+      "stack": "item:atmospheric:aloe_gel_block"
+    },
+    {
+      "stack": "item:alexsmobs:crystalized_banana_slug_mucus"
+    },
+    {
+      "stack": "item:alexsmobs:banana_slug_slime_block"
+    },
+    {
+      "stack": "item:cold_sweat:filled_waterskin{}"
+    },
+    {
+      "stack": "item:cold_sweat:waterskin"
+    },
+    {
+      "stack": "item:thirst:terracotta_water_bowl{Purity:-1}"
+    },
+    {
+      "stack": "item:alexsmobs:mimicream"
+    },
+    {
+      "stack": "item:nethersdelight:propelplant_torch"
+    },
+    {
+      "stack": "item:minecraft:ender_chest"
+    },
+    {
+      "stack": "item:supplementaries:statue"
+    },
+    {
+      "stack": "item:farmersdelight:canvas_rug"
+    },
+    {
+      "stack": "item:supplementaries:brass_lantern"
+    },
+    {
+      "stack": "item:supplementaries:crimson_lantern"
+    },
+    {
+      "stack": "item:another_furniture:oak_drawer"
+    },
+    {
+      "stack": "item:farmersdelight:oak_cabinet"
+    },
+    {
+      "stack": "item:alexsmobs:leafcutter_anthill"
+    },
+    {
+      "stack": "item:alexsmobs:leafcutter_ant_chamber"
+    },
+    {
+      "stack": "item:minecraft:bee_nest"
+    },
+    {
+      "stack": "item:minecraft:beehive"
+    },
+    {
+      "stack": "item:minecraft:ladder"
+    },
+    {
+      "stack": "item:minecraft:lodestone"
+    },
+    {
+      "stack": "item:spelunkery:magnetite_chunk"
+    },
+    {
+      "stack": "item:moreminecarts:pearl_stasis_chamber"
+    },
+    {
+      "stack": "item:sleep_tight:dreamer_essence"
+    },
+    {
+      "stack": "item:minecraft:campfire"
+    },
+    {
+      "stack": "item:autumnity:snail_shell_bricks"
+    },
+    {
+      "stack": "item:minecraft:bone_meal"
+    },
+    {
+      "stack": "item:supplementaries:checker_block"
+    },
+    {
+      "stack": "item:aether:quicksoil"
+    },
+    {
+      "stack": "item:aether:quicksoil_glass"
+    },
+    {
+      "stack": "item:aether:quicksoil_glass_pane"
+    },
+    {
+      "stack": "item:minecraft:blue_stained_glass_pane"
+    },
+    {
+      "stack": "item:infernalexp:soul_slate"
+    },
+    {
+      "stack": "item:infernalexp:glowdust"
+    },
+    {
+      "stack": "item:farmersrespite:kettle"
+    },
+    {
+      "stack": "item:atmospheric:yucca_fruit"
+    },
+    {
+      "stack": "item:minecraft:warped_fungus"
+    },
+    {
+      "stack": "item:upgrade_aquatic:coralstone"
+    },
+    {
+      "stack": "item:minecraft:tube_coral_block"
+    },
+    {
+      "stack": "item:minecraft:dead_tube_coral_block"
+    },
+    {
+      "stack": "item:minecraft:tube_coral"
+    },
+    {
+      "stack": "item:minecraft:dead_tube_coral"
+    },
+    {
+      "stack": "item:upgrade_aquatic:tube_coralstone"
+    },
+    {
+      "stack": "item:oreganized:silver_ingot"
+    },
+    {
+      "stack": "item:minecraft:gold_ingot"
+    },
+    {
+      "stack": "item:modestmining:steel_ingot"
+    },
+    {
+      "stack": "item:oreganized:lead_nugget"
+    },
+    {
+      "stack": "item:naturalist:lizard_tail"
+    },
+    {
+      "stack": "item:quark:green_shard"
+    },
+    {
+      "stack": "item:minecraft:shears{Damage:0}"
+    },
+    {
+      "stack": "item:minecraft:white_bed"
+    },
+    {
+      "stack": "item:minecraft:tinted_glass"
+    },
+    {
+      "stack": "item:infernalexp:glow_glass"
+    },
+    {
+      "stack": "item:infernalexp:quartz_glass"
+    },
+    {
+      "stack": "item:create:creative_motor"
+    },
+    {
+      "stack": "item:create:creative_crate"
+    },
+    {
+      "stack": "item:create:creative_fluid_tank"
+    },
+    {
+      "stack": "item:spelunkery:carved_nephrite"
+    },
+    {
+      "stack": "item:create:ochrum"
+    },
+    {
+      "stack": "item:create:scoria"
+    },
+    {
+      "stack": "item:minecraft:cut_copper"
+    },
+    {
+      "stack": "item:clayworks:chiseled_bricks"
+    },
+    {
+      "stack": "item:minecraft:water_bucket{Purity:-1}"
+    },
+    {
+      "stack": "item:windswept:wooden_water_bucket{Damage:0}"
+    },
+    {
+      "stack": "item:minecraft:iron_ingot"
+    },
+    {
+      "stack": "item:minecraft:echo_shard"
+    },
+    {
+      "stack": "item:minecraft:snow"
+    },
+    {
+      "stack": "item:create:andesite_alloy"
+    },
+    {
+      "stack": "item:infernalexp:soul_sand_stairs"
+    },
+    {
+      "stack": "item:infernalexp:charged_chiseled_soul_stone_bricks"
+    },
+    {
+      "stack": "item:infernalexp:charged_chiseled_soul_slate_bricks"
+    },
+    {
+      "stack": "item:nethersdelight:soul_compost"
+    },
+    {
+      "stack": "item:infernalexp:cracked_soul_stone_bricks"
+    },
+    {
+      "stack": "item:minecraft:magma_block"
+    },
+    {
+      "stack": "item:minecraft:smooth_basalt"
+    },
+    {
+      "stack": "item:infernalexp:basaltic_magma"
+    },
+    {
+      "stack": "item:create:millstone"
+    },
+    {
+      "stack": "item:minecraft:chiseled_deepslate"
+    },
+    {
+      "stack": "item:minecraft:chiseled_nether_bricks"
+    },
+    {
+      "stack": "item:minecraft:cracked_nether_bricks"
+    },
+    {
+      "stack": "item:fundamentallyfixed:sturdy_deepslate"
+    },
+    {
+      "stack": "item:minecraft:blackstone"
+    },
+    {
+      "stack": "item:create:polished_cut_scoria_stairs"
+    },
+    {
+      "stack": "item:paletteblocks:polished_calcite"
+    },
+    {
+      "stack": "item:spelunkery:magnetite"
+    },
+    {
+      "stack": "item:savage_and_ravage:blast_proof_plating"
+    },
+    {
+      "stack": "item:fundamentallyfixed:aluminium_ingot"
+    },
+    {
+      "stack": "item:fundamentallyfixed:blast_proof_block"
+    },
+    {
+      "stack": "item:fundamentallyfixed:oceanic_prismarine_ore"
+    },
+    {
+      "stack": "item:fundamentallyfixed:prismarine_shard"
+    },
+    {
+      "stack": "item:minecraft:netherite_scrap"
+    },
+    {
+      "stack": "item:modestmining:oceanic_remains"
+    },
+    {
+      "stack": "item:oreganized:raw_silver_block"
+    },
+    {
+      "stack": "item:minecraft:lapis_ore"
+    },
+    {
+      "stack": "item:spelunkery:rough_lazurite_block"
+    },
+    {
+      "stack": "item:spelunkery:rough_cinnabar_block"
+    },
+    {
+      "stack": "item:spelunkery:rough_diamond_block"
+    },
+    {
+      "stack": "item:spelunkery:rough_emerald_block"
+    },
+    {
+      "stack": "item:create:rose_quartz_tiles"
+    },
+    {
+      "stack": "item:create:rose_quartz_block"
+    },
+    {
+      "stack": "item:minecraft:waxed_oxidized_copper"
+    },
+    {
+      "stack": "item:minecraft:cut_sandstone"
+    },
+    {
+      "stack": "item:atmospheric:crustose_log"
+    },
+    {
+      "stack": "item:atmospheric:crustose_wood"
+    },
+    {
+      "stack": "item:atmospheric:crustose"
+    },
+    {
+      "stack": "item:atmospheric:crustose_path"
+    },
+    {
+      "stack": "item:minecraft:podzol"
+    },
+    {
+      "stack": "item:farmersdelight:organic_compost"
+    },
+    {
+      "stack": "item:fundamentallyfixed:mystical_stew{Potion:\"minecraft:water\"}"
+    },
+    {
+      "stack": "item:quark:white_shard"
+    },
+    {
+      "stack": "item:quark:blank_rune"
+    },
+    {
+      "stack": "item:quark:white_rune"
+    },
+    {
+      "stack": "item:minecraft:flower_banner_pattern"
+    },
+    {
+      "stack": "item:minecraft:redstone_block"
+    },
+    {
+      "stack": "item:minecraft:redstone_torch"
+    },
+    {
+      "stack": "item:create:analog_lever"
+    },
+    {
+      "stack": "item:minecraft:lantern"
+    },
+    {
+      "stack": "item:minecraft:repeater"
+    },
+    {
+      "stack": "item:minecraft:comparator"
+    },
+    {
+      "stack": "item:minecraft:tripwire_hook"
+    },
+    {
+      "stack": "item:minecraft:chain"
+    },
+    {
+      "stack": "item:modestmining:copper_screw"
+    },
+    {
+      "stack": "item:create:propeller"
+    },
+    {
+      "stack": "item:fundamentallyfixed:hook"
+    },
+    {
+      "stack": "item:fundamentallyfixed:spring"
+    },
+    {
+      "stack": "item:fundamentallyfixed:item_holder"
+    },
+    {
+      "stack": "item:create:deployer"
+    },
+    {
+      "stack": "item:supplementaries:wind_vane"
+    },
+    {
+      "stack": "item:supplementaries:iron_gate"
+    },
+    {
+      "stack": "item:quark:iron_ladder"
+    },
+    {
+      "stack": "item:quark:grate"
+    },
+    {
+      "stack": "item:minecraft:iron_bars"
+    },
+    {
+      "stack": "item:minecraft:iron_door"
+    },
+    {
+      "stack": "item:minecraft:iron_trapdoor"
+    },
+    {
+      "stack": "item:quark:iron_rod"
+    },
+    {
+      "stack": "item:minecraft:daylight_detector"
+    },
+    {
+      "stack": "item:cold_sweat:thermolith"
+    },
+    {
+      "stack": "item:brewinandchewin:beer{Purity:-1}"
+    },
+    {
+      "stack": "item:minecraft:blast_furnace"
+    },
+    {
+      "stack": "item:quark:crate"
+    },
+    {
+      "stack": "item:create:large_water_wheel"
+    },
+    {
+      "stack": "item:create:copper_casing"
+    },
+    {
+      "stack": "item:create:small_tuff_bricks"
+    },
+    {
+      "stack": "item:quark:chiseled_tuff_bricks"
+    },
+    {
+      "stack": "item:create:mechanical_harvester"
+    },
+    {
+      "stack": "item:modestmining:fiber_cap{Damage:0}"
+    },
+    {
+      "stack": "item:create:mechanical_press"
+    },
+    {
+      "stack": "item:minecraft:wooden_pickaxe{Damage:0}"
+    },
+    {
+      "stack": "item:create:copper_shingles"
+    },
+    {
+      "stack": "item:sullysmod:jade_ore"
+    },
+    {
+      "stack": "item:minecraft:fishing_rod{Damage:0}"
+    },
+    {
+      "stack": "item:minecraft:crossbow{Damage:0}"
+    },
+    {
+      "stack": "item:create:zinc_block"
+    },
+    {
+      "stack": "item:quark:iron_plate"
+    },
+    {
+      "stack": "item:quark:iron_plate_stairs"
+    },
+    {
+      "stack": "item:quark:iron_plate_slab"
+    },
+    {
+      "stack": "item:supplementaries:rope"
+    },
+    {
+      "stack": "item:minecraft:prismarine"
+    },
+    {
+      "stack": "item:upgrade_aquatic:prismarine_rod_bundle"
+    },
+    {
+      "stack": "item:minecraft:dark_prismarine"
+    },
+    {
+      "stack": "item:minecraft:prismarine_bricks"
+    },
+    {
+      "stack": "item:upgrade_aquatic:luminous_prismarine"
+    },
+    {
+      "stack": "item:minecraft:emerald_block"
+    },
+    {
+      "stack": "item:sullysmod:polished_jade_block"
+    }
+  ],
+  "lookup_history": [
+    "item:alexsmobs:gustmaker",
+    "item:oreganized:exposer",
+    "item:quark:ender_watcher",
+    "item:quark:magnet",
+    "item:create:clutch",
+    "item:create:gearshift",
+    "item:create:adjustable_chain_gearshift",
+    "item:create:encased_chain_drive",
+    "item:quark:iron_plate",
+    "item:quark:iron_plate_stairs",
+    "item:minecraft:bowl",
+    "item:quark:chute",
+    "item:minecraft:dropper",
+    "item:minecraft:dispenser",
+    "item:create:millstone",
+    "item:create:mechanical_press",
+    "item:minecraft:observer",
+    "item:supplementaries:relayer",
+    "item:create:vertical_gearbox",
+    "item:create:gearbox",
+    "item:create:cogwheel",
+    "item:create:large_cogwheel",
+    "item:create:iron_sheet",
+    "item:create:zinc_block",
+    {
+      "type": "item",
+      "id": "minecraft:cut_copper",
+      "amount": 8
+    },
+    "item:minecraft:copper_block",
+    "item:minecraft:amethyst_shard",
+    "item:everycomp:q/atmospheric/hollow_rosewood_log",
+    "item:minecraft:redstone",
+    "item:minecraft:redstone_block",
+    "item:spelunkery:cinnabar",
+    "item:minecraft:redstone_torch",
+    "item:fundamentallyfixed:raw_lead_nugget",
+    "item:oreganized:silver_nugget",
+    "item:minecraft:gold_nugget",
+    "item:minecraft:iron_nugget",
+    "item:fundamentallyfixed:aluminium_nugget",
+    "item:modestmining:copper_nugget",
+    "item:fundamentallyfixed:raw_silver_nugget",
+    "item:oreganized:lead_ingot",
+    "item:oreganized:lead_nugget",
+    "item:oreganized:raw_lead",
+    "item:minecraft:red_sandstone",
+    "item:minecraft:sandstone",
+    "item:quark:sandstone_bricks",
+    "item:minecraft:smooth_sandstone",
+    "item:minecraft:cut_sandstone",
+    "item:create:shaft",
+    "item:minecraft:stone",
+    "item:paletteblocks:cobblestone_brick_wall",
+    "item:create:rose_quartz_block",
+    "item:minecraft:diamond",
+    "item:minecraft:potion{Potion:\"oreganized:stunning\"}",
+    "item:minecraft:nether_wart",
+    "item:minecraft:potion{Potion:\"buzzier_bees:unluck\"}",
+    "item:farmersdelight:cooking_pot",
+    "item:cold_sweat:hearth",
+    "item:minecraft:lodestone",
+    "item:quark:crate",
+    "item:clayworks:kiln",
+    "item:minecraft:smoker",
+    "item:minecraft:blast_furnace",
+    "item:woodworks:sawmill",
+    "item:minecraft:grindstone",
+    "item:minecraft:stonecutter",
+    "item:minecraft:chain",
+    "item:minecraft:gold_ingot",
+    "item:minecraft:white_wool",
+    "#item:minecraft:wool",
+    "item:minecraft:string",
+    "item:minecraft:tripwire_hook",
+    "item:create:analog_lever",
+    "item:minecraft:comparator",
+    "item:minecraft:repeater",
+    "item:minecraft:lantern",
+    "item:minecraft:lever",
+    "item:minecraft:furnace",
+    "item:minecraft:soul_torch",
+    "item:minecraft:torch",
+    "item:quark:blank_rune",
+    "item:minecraft:ink_sac",
+    "item:fundamentallyfixed:calcium_powder",
+    "item:minecraft:white_dye",
+    "item:minecraft:lime_dye",
+    "item:minecraft:blue_dye",
+    "item:minecraft:purple_dye",
+    "item:minecraft:magenta_dye",
+    "item:minecraft:pink_dye",
+    "item:minecraft:light_gray_dye",
+    "item:minecraft:gray_dye",
+    "item:minecraft:black_dye",
+    "item:minecraft:brown_dye",
+    "item:minecraft:red_dye",
+    "item:minecraft:orange_dye",
+    "item:minecraft:yellow_dye",
+    "item:minecraft:green_dye",
+    "item:minecraft:cyan_dye",
+    "item:minecraft:light_blue_dye"
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

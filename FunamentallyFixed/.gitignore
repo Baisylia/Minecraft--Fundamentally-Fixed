@@ -19,7 +19,18 @@ build
 
 # other
 eclipse
-run
+saves
+crash-reports
+debug
+local
+logs
+mods
+screenshots
+schematics
+
+scripts
+kubejs
+resourcepacks
 
 # Files from Forge MDK
 forge*changelog.txt

@@ -1,0 +1,46 @@
+
+#Format: [["dimension_1", temperature1, *units], ["dimension_2", temperature2, *units]... etc]
+#Common dimension IDs: minecraft:overworld, minecraft:the_nether, minecraft:the_end
+[Dimensions]
+	#Applies an offset to the world's temperature across an entire dimension
+	"Dimension Temperature Offsets" = [["minecraft:the_end", -0.1, "MC"], ["minecraft:the_nether", 0.7, "MC"], ["aether:the_aether", -0.4, "AETHER"]]
+	#Overrides existing dimension temperatures & offsets
+	#Also overrides temperatures of all biomes in the dimension
+	"Dimension Temperatures" = []
+
+#Format: [["biome_1", tempLow, tempHigh, *units], ["biome_2", tempLow, tempHigh, *units]... etc]
+#temp-low: The temperature of the biome at midnight
+#temp-high: The temperature of the biome at noon
+#units: Optional. The units of the temperature ("C" or "F". Defaults to MC units)
+[Biomes]
+	#Applies an offset to the temperature of a biome
+	"Biome Temperature Offsets" = []
+	#Defines the temperature of a biome, overriding existing biome temperatures & offsets.
+	"Biome Temperatures" = [["environmental:marsh", 0.6666666666666666, 1.1428571428571428, "MC"], ["minecraft:savanna_plateau", 1.0476190476190477, 1.5714285714285714, "MC"], ["minecraft:taiga", 0.2857142857142857, 0.7142857142857143, "MC"], ["minecraft:eroded_badlands", 1.3333333333333333, 2.0952380952380953, "MC"], ["minecraft:savanna", 0.9047619047619048, 1.5, "MC"], ["minecraft:swamp", 0.9523809523809523, 1.2380952380952381, "MC"], ["minecraft:bamboo_jungle", 1.0476190476190477, 1.3095238095238095, "MC"], ["atmospheric:sparse_rainforest_basin", 0.7142857142857143, 1.2142857142857142, "MC"], ["minecraft:frozen_peaks", -0.40476190476190477, 0.023809523809523808, "MC"], ["minecraft:old_growth_spruce_taiga", 0.38095238095238093, 0.7142857142857143, "MC"], ["minecraft:snowy_beach", 0.14285714285714285, 0.47619047619047616, "MC"], ["minecraft:deep_dark", 0.7380952380952381, 0.7380952380952381, "MC"], ["atmospheric:rainforest", 0.8571428571428571, 1.380952380952381, "MC"], ["minecraft:warm_ocean", 0.8333333333333334, 1.0476190476190477, "MC"], ["atmospheric:rainforest_basin", 0.8571428571428571, 1.380952380952381, "MC"], ["minecraft:windswept_forest", 0.38095238095238093, 0.8095238095238095, "MC"], ["minecraft:jungle", 1.0476190476190477, 1.3095238095238095, "MC"], ["minecraft:snowy_slopes", -0.19047619047619047, 0.14285714285714285, "MC"], ["atmospheric:rocky_dunes", 0.5476190476190477, 2.2142857142857144, "MC"], ["minecraft:stony_shore", 0.42857142857142855, 0.7619047619047619, "MC"], ["minecraft:soul_sand_valley", 0.023809523809523808, 0.023809523809523808, "MC"], ["atmospheric:flourishing_dunes", 0.8571428571428571, 1.7380952380952381, "MC"], ["atmospheric:sparse_rainforest", 0.7142857142857143, 1.2142857142857142, "MC"], ["minecraft:old_growth_birch_forest", 0.6190476190476191, 0.9523809523809523, "MC"], ["minecraft:desert", 0.38095238095238093, 1.9761904761904763, "MC"], ["minecraft:snowy_taiga", -0.30952380952380953, 0.38095238095238093, "MC"], ["atmospheric:petrified_dunes", 0.6190476190476191, 2.0952380952380953, "MC"], ["minecraft:badlands", 1.2380952380952381, 2.0952380952380953, "MC"], ["minecraft:deep_frozen_ocean", 0.5714285714285714, 0.7857142857142857, "MC"], ["minecraft:river", 0.6666666666666666, 0.9047619047619048, "MC"], ["minecraft:old_growth_pine_taiga", 0.38095238095238093, 0.7142857142857143, "MC"], ["atmospheric:dunes", 1.0952380952380953, 1.9761904761904763, "MC"], ["minecraft:windswept_savanna", 0.8333333333333334, 1.380952380952381, "MC"], ["minecraft:wooded_badlands", 1.1428571428571428, 1.8095238095238095, "MC"]]
+
+["Block Temperature"]
+	#Allows for adding simple BlockTemps without the use of Java mods
+	#Format (All temperatures are in Minecraft units):
+	#[["block-ids", <temperature>, <range (max 7)>, <*true/false: falloff>, <*max effect>, <*predicates>], [etc...], [etc...]]
+	#(* = optional) (1 °MC = 42 °F/ 23.33 °C)
+	#
+	#Arguments:
+	#block-ids: multiple IDs can be used by separating them with commas (i.e: "minecraft:torch,minecraft:wall_torch")
+	#temperature: the temperature of the block, in Minecraft units
+	#falloff: the block is less effective as distance increases
+	#max effect: the maximum temperature change this block can cause to a player (even with multiple blocks)
+	#predicates: the state that the block has to be in for the temperature to be applied (lit=true for a campfire, for example).
+	#Multiple predicates can be used by separating them with commas (i.e: "lit=true,waterlogged=false")
+	BlockTemps = [["minecraft:soul_fire", -0.476, 7, true, 0.8], ["minecraft:fire", 0.476, 7, true, 0.8], ["minecraft:magma_block", 0.5, 3, true, 0.6], ["minecraft:soul_campfire", -0.476, 3, true, 0.6, "lit=true"], ["minecraft:ice", -0.15, 4, true, 0.5], ["minecraft:packed_ice", -0.25, 4, true, 1.0], ["minecraft:blue_ice", -0.35, 4, true, 1.0]]
+	#The maximum range of blocks' area of effect
+	#Note: This will not change anything unless blocks are configured to utilize the expanded range
+	#This value is capped at 16 for performance reasons
+	#Range: 1 ~ 16
+	"Block Range" = 7
+
+[Misc]
+	#The amount of temperature normalization from being deep underground
+	#0.0 = no insulation, 1.0 = full insulation
+	#Range: 0.0 ~ 1.0
+	"Cave Insulation Strength" = 1.0
+
