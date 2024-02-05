@@ -1,0 +1,3340 @@
+{
+  "tab_enabled": true,
+  "tab_name": "building",
+  "tab_stack": { "name": "minecraft:bricks"},
+  "tab_items": [
+    {
+      "name": "minecraft:moss_block"
+    },
+    {
+      "name": "minecraft:dirt"
+    },
+    {
+      "name": "minecraft:farmland"
+    },
+    {
+      "name": "minecraft:coarse_dirt"
+    },
+    {
+      "name": "minecraft:rooted_dirt"
+    },
+    {
+      "name": "quark:dirt_bricks"
+    },
+    {
+      "name": "quark:dirt_bricks_stairs"
+    },
+    {
+      "name": "quark:dirt_bricks_slab"
+    },
+    {
+      "name": "quark:dirt_bricks_wall"
+    },
+    {
+      "name": "minecraft:grass_block"
+    },
+    {
+      "name": "minecraft:dirt_path"
+    },
+    {
+      "name": "minecraft:podzol"
+    },
+    {
+      "name": "environmental:podzol_path"
+    },
+    {
+      "name": "atmospheric:crustose"
+    },
+    {
+      "name": "atmospheric:crustose_path"
+    },
+    {
+      "name": "minecraft:mycelium"
+    },
+    {
+      "name": "environmental:mycelium_path"
+    },
+    {
+      "name": "aether:aether_dirt"
+    },
+    {
+      "name": "aether:aether_farmland"
+    },
+    {
+      "name": "fundamentallyfixed:coarse_florarock"
+    },
+    {
+      "name": "fundamentallyfixed:florarock_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:florarock_brick_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:florarock_brick_slab"
+    },
+    {
+      "name": "fundamentallyfixed:florarock_brick_wall"
+    },
+    {
+      "name": "aether:aether_grass_block"
+    },
+    {
+      "name": "aether:aether_dirt_path"
+    },
+    {
+      "name": "farmersdelight:organic_compost"
+    },
+    {
+      "name": "farmersdelight:rich_soil"
+    },
+    {
+      "name": "farmersdelight:rich_soil_farmland"
+    },
+
+
+    {
+      "name": "minecraft:mud"
+    },
+    {
+      "name": "minecraft:packed_mud"
+    },
+    {
+      "name": "fundamentallyfixed:packed_mud_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:packed_mud_slab"
+    },
+    {
+      "name": "fundamentallyfixed:packed_mud_wall"
+    },
+    {
+      "name": "environmental:smooth_mud"
+    },
+    {
+      "name": "fundamentallyfixed:smooth_mud_stairs"
+    },
+    {
+      "name": "environmental:smooth_mud_slab"
+    },
+    {
+      "name": "fundamentallyfixed:smooth_mud_wall"
+    },
+    {
+      "name": "environmental:chiseled_mud_bricks"
+    },
+    {
+      "name": "minecraft:mud_bricks"
+    },
+    {
+      "name": "minecraft:mud_brick_stairs"
+    },
+    {
+      "name": "minecraft:mud_brick_slab"
+    },
+    {
+      "name": "minecraft:mud_brick_wall"
+    },
+    {
+      "name": "fundamentallyfixed:mossy_mud_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:mossy_mud_brick_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:mossy_mud_brick_slab"
+    },
+    {
+      "name": "fundamentallyfixed:mossy_mud_brick_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cracked_mud_bricks"
+    },
+    {
+      "name": "quark:carved_mud_bricks"
+    },
+    {
+      "name": "quark:mud_pillar"
+    },
+    {
+      "name": "quark:mud_brick_lattice"
+    },
+
+
+    {
+      "name": "minecraft:sand"
+    },
+    {
+      "name": "minecraft:sandstone"
+    },
+    {
+      "name": "minecraft:sandstone_stairs"
+    },
+    {
+      "name": "minecraft:sandstone_slab"
+    },
+    {
+      "name": "minecraft:sandstone_wall"
+    },
+    {
+      "name": "minecraft:chiseled_sandstone"
+    },
+    {
+      "name": "minecraft:cut_sandstone"
+    },
+    {
+      "name": "minecraft:cut_sandstone_stairs"
+    },
+    {
+      "name": "minecraft:cut_sandstone_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cut_sandstone_wall"
+    },
+    {
+      "name": "minecraft:smooth_sandstone"
+    },
+    {
+      "name": "minecraft:smooth_sandstone_stairs"
+    },
+    {
+      "name": "minecraft:smooth_sandstone_slab"
+    },
+    {
+      "name": "fundamentallyfixed:smooth_sandstone_wall"
+    },
+    {
+      "name": "quark:sandstone_bricks"
+    },
+    {
+      "name": "quark:sandstone_bricks_stairs"
+    },
+    {
+      "name": "quark:sandstone_bricks_slab"
+    },
+    {
+      "name": "quark:sandstone_bricks_wall"
+    },
+
+
+    {
+      "name": "minecraft:red_sand"
+    },
+    {
+      "name": "minecraft:red_sandstone"
+    },
+    {
+      "name": "minecraft:red_sandstone_stairs"
+    },
+    {
+      "name": "minecraft:red_sandstone_slab"
+    },
+    {
+      "name": "minecraft:red_sandstone_wall"
+    },
+    {
+      "name": "minecraft:chiseled_red_sandstone"
+    },
+    {
+      "name": "minecraft:cut_red_sandstone"
+    },
+    {
+      "name": "minecraft:cut_red_sandstone_stairs"
+    },
+    {
+      "name": "minecraft:cut_red_sandstone_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cut_red_sandstone_wall"
+    },
+    {
+      "name": "minecraft:smooth_red_sandstone"
+    },
+    {
+      "name": "minecraft:smooth_red_sandstone_stairs"
+    },
+    {
+      "name": "minecraft:smooth_red_sandstone_slab"
+    },
+    {
+      "name": "fundamentallyfixed:smooth_red_sandstone_wall"
+    },
+    {
+      "name": "quark:red_sandstone_bricks"
+    },
+    {
+      "name": "quark:red_sandstone_bricks_stairs"
+    },
+    {
+      "name": "quark:red_sandstone_bricks_slab"
+    },
+    {
+      "name": "quark:red_sandstone_bricks_wall"
+    },
+
+
+    {
+      "name": "minecraft:clay"
+    },
+    {
+      "name": "minecraft:terracotta"
+    },
+    {
+      "name": "clayworks:terracotta_stairs"
+    },
+    {
+      "name": "clayworks:terracotta_slab"
+    },
+    {
+      "name": "clayworks:terracotta_wall"
+    },
+    {
+      "name": "quark:shingles"
+    },
+    {
+      "name": "quark:shingles_stairs"
+    },
+    {
+      "name": "quark:shingles_slab"
+    },
+    {
+      "name": "fundamentallyfixed:shingles_wall"
+    },
+    {
+      "name": "clayworks:terracotta_bricks"
+    },
+    {
+      "name": "clayworks:terracotta_brick_stairs"
+    },
+    {
+      "name": "clayworks:terracotta_brick_slab"
+    },
+    {
+      "name": "clayworks:terracotta_brick_wall"
+    },
+    {
+      "name": "clayworks:chiseled_terracotta_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:glazed_terracotta"
+    },
+    {
+      "name": "minecraft:bricks"
+    },
+    {
+      "name": "minecraft:brick_stairs"
+    },
+    {
+      "name": "minecraft:brick_slab"
+    },
+    {
+      "name": "minecraft:brick_wall"
+    },
+    {
+      "name": "modestmining:adobe_bricks"
+    },
+    {
+      "name": "modestmining:adobe_brick_stairs"
+    },
+    {
+      "name": "modestmining:adobe_brick_slab"
+    },
+    {
+      "name": "modestmining:adobe_brick_wall"
+    },
+    {
+      "name": "modestmining:mossy_adobe_bricks"
+    },
+    {
+      "name": "modestmining:mossy_adobe_brick_stairs"
+    },
+    {
+      "name": "modestmining:mossy_adobe_brick_slab"
+    },
+    {
+      "name": "modestmining:mossy_adobe_brick_wall"
+    },
+    {
+      "name": "modestmining:cracked_adobe_bricks"
+    },
+    {
+      "name": "supplementaries:ash_bricks"
+    },
+    {
+      "name": "supplementaries:ash_bricks_stairs"
+    },
+    {
+      "name": "supplementaries:ash_bricks_slab"
+    },
+    {
+      "name": "supplementaries:ash_bricks_wall"
+    },
+    {
+      "name": "minecraft:gravel"
+    },
+    {
+      "name": "supplementaries:raked_gravel"
+    },
+    {
+      "name": "minecraft:coal_ore"
+    },
+    {
+      "name": "minecraft:deepslate_coal_ore"
+    },
+    {
+      "name": "minecraft:coal_block"
+    },
+    {
+      "name": "quark:charcoal_block"
+    },
+    {
+      "name": "modestmining:coke_block"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:copper_ore"
+    },
+    {
+      "name": "fundamentallyfixed:deepslate_copper_ore"
+    },
+    {
+      "name": "minecraft:raw_copper_block"
+    },
+    {
+      "name": "quark:raw_copper_bricks"
+    },
+    {
+      "name": "quark:raw_copper_bricks_stairs"
+    },
+    {
+      "name": "quark:raw_copper_bricks_slab"
+    },
+    {
+      "name": "fundamentallyfixed:raw_copper_bricks_wall"
+    },
+    {
+      "name": "minecraft:copper_block"
+    },
+    {
+      "name": "minecraft:cut_copper"
+    },
+    {
+      "name": "minecraft:cut_copper_stairs"
+    },
+    {
+      "name": "minecraft:cut_copper_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cut_copper_wall"
+    },
+    {
+      "name": "create:copper_shingles"
+    },
+    {
+      "name": "create:copper_shingle_stairs"
+    },
+    {
+      "name": "create:copper_shingle_slab"
+    },
+    {
+      "name": "fundamentallyfixed:copper_shingle_wall"
+    },
+    {
+      "name": "create:copper_tiles"
+    },
+    {
+      "name": "create:copper_tile_stairs"
+    },
+    {
+      "name": "create:copper_tile_slab"
+    },
+    {
+      "name": "fundamentallyfixed:copper_tile_wall"
+    },
+    {
+      "name": "minecraft:waxed_copper_block"
+    },
+    {
+      "name": "minecraft:waxed_cut_copper"
+    },
+    {
+      "name": "minecraft:waxed_cut_copper_stairs"
+    },
+    {
+      "name": "minecraft:waxed_cut_copper_slab"
+    },
+    {
+      "name": "fundamentallyfixed:waxed_cut_copper_wall"
+    },
+    {
+      "name": "create:waxed_copper_shingles"
+    },
+    {
+      "name": "create:waxed_copper_shingle_stairs"
+    },
+    {
+      "name": "create:waxed_copper_shingle_slab"
+    },
+    {
+      "name": "fundamentallyfixed:waxed_copper_shingle_wall"
+    },
+    {
+      "name": "create:waxed_copper_tiles"
+    },
+    {
+      "name": "create:waxed_copper_tile_stairs"
+    },
+    {
+      "name": "create:waxed_copper_tile_slab"
+    },
+    {
+      "name": "fundamentallyfixed:waxed_copper_tile_wall"
+    },
+
+
+    {
+      "name": "minecraft:exposed_copper"
+    },
+    {
+      "name": "minecraft:exposed_cut_copper"
+    },
+    {
+      "name": "minecraft:exposed_cut_copper_stairs"
+    },
+    {
+      "name": "minecraft:exposed_cut_copper_slab"
+    },
+    {
+      "name": "fundamentallyfixed:exposed_cut_copper_wall"
+    },
+    {
+      "name": "create:exposed_copper_shingles"
+    },
+    {
+      "name": "create:exposed_copper_shingle_stairs"
+    },
+    {
+      "name": "create:exposed_copper_shingle_slab"
+    },
+    {
+      "name": "fundamentallyfixed:exposed_copper_shingle_wall"
+    },
+    {
+      "name": "create:exposed_copper_tiles"
+    },
+    {
+      "name": "create:exposed_copper_tile_stairs"
+    },
+    {
+      "name": "create:exposed_copper_tile_slab"
+    },
+    {
+      "name": "fundamentallyfixed:exposed_copper_tile_wall"
+    },
+    {
+      "name": "minecraft:waxed_exposed_copper"
+    },
+    {
+      "name": "minecraft:waxed_exposed_cut_copper"
+    },
+    {
+      "name": "minecraft:waxed_exposed_cut_copper_stairs"
+    },
+    {
+      "name": "minecraft:waxed_exposed_cut_copper_slab"
+    },
+    {
+      "name": "fundamentallyfixed:waxed_exposed_cut_copper_wall"
+    },
+    {
+      "name": "create:waxed_exposed_copper_shingles"
+    },
+    {
+      "name": "create:waxed_exposed_copper_shingle_stairs"
+    },
+    {
+      "name": "create:waxed_exposed_copper_shingle_slab"
+    },
+    {
+      "name": "fundamentallyfixed:waxed_exposed_copper_shingle_wall"
+    },
+    {
+      "name": "create:waxed_exposed_copper_tiles"
+    },
+    {
+      "name": "create:waxed_exposed_copper_tile_stairs"
+    },
+    {
+      "name": "create:waxed_exposed_copper_tile_slab"
+    },
+    {
+      "name": "fundamentallyfixed:waxed_exposed_copper_tile_wall"
+    },
+
+
+    {
+      "name": "minecraft:weathered_copper"
+    },
+    {
+      "name": "minecraft:weathered_cut_copper"
+    },
+    {
+      "name": "minecraft:weathered_cut_copper_stairs"
+    },
+    {
+      "name": "minecraft:weathered_cut_copper_slab"
+    },
+    {
+      "name": "fundamentallyfixed:weathered_cut_copper_wall"
+    },
+    {
+      "name": "create:weathered_copper_shingles"
+    },
+    {
+      "name": "create:weathered_copper_shingle_stairs"
+    },
+    {
+      "name": "create:weathered_copper_shingle_slab"
+    },
+    {
+      "name": "fundamentallyfixed:weathered_copper_shingle_wall"
+    },
+    {
+      "name": "create:weathered_copper_tiles"
+    },
+    {
+      "name": "create:weathered_copper_tile_stairs"
+    },
+    {
+      "name": "create:weathered_copper_tile_slab"
+    },
+    {
+      "name": "fundamentallyfixed:weathered_copper_tile_wall"
+    },
+    {
+      "name": "minecraft:waxed_weathered_copper"
+    },
+    {
+      "name": "minecraft:waxed_weathered_cut_copper"
+    },
+    {
+      "name": "minecraft:waxed_weathered_cut_copper_stairs"
+    },
+    {
+      "name": "minecraft:waxed_weathered_cut_copper_slab"
+    },
+    {
+      "name": "fundamentallyfixed:waxed_weathered_cut_copper_wall"
+    },
+    {
+      "name": "create:waxed_weathered_copper_shingles"
+    },
+    {
+      "name": "create:waxed_weathered_copper_shingle_stairs"
+    },
+    {
+      "name": "create:waxed_weathered_copper_shingle_slab"
+    },
+    {
+      "name": "fundamentallyfixed:waxed_weathered_copper_shingle_wall"
+    },
+    {
+      "name": "create:waxed_weathered_copper_tiles"
+    },
+    {
+      "name": "create:waxed_weathered_copper_tile_stairs"
+    },
+    {
+      "name": "create:waxed_weathered_copper_tile_slab"
+    },
+    {
+      "name": "fundamentallyfixed:waxed_weathered_copper_tile_wall"
+    },
+
+
+    {
+      "name": "minecraft:oxidized_copper"
+    },
+    {
+      "name": "minecraft:oxidized_cut_copper"
+    },
+    {
+      "name": "minecraft:oxidized_cut_copper_stairs"
+    },
+    {
+      "name": "minecraft:oxidized_cut_copper_slab"
+    },
+    {
+      "name": "fundamentallyfixed:oxidized_cut_copper_wall"
+    },
+    {
+      "name": "create:oxidized_copper_shingles"
+    },
+    {
+      "name": "create:oxidized_copper_shingle_stairs"
+    },
+    {
+      "name": "create:oxidized_copper_shingle_slab"
+    },
+    {
+      "name": "fundamentallyfixed:oxidized_copper_shingle_wall"
+    },
+    {
+      "name": "create:oxidized_copper_tiles"
+    },
+    {
+      "name": "create:oxidized_copper_tile_stairs"
+    },
+    {
+      "name": "create:oxidized_copper_tile_slab"
+    },
+    {
+      "name": "fundamentallyfixed:oxidized_copper_tile_wall"
+    },
+    {
+      "name": "minecraft:waxed_oxidized_copper"
+    },
+    {
+      "name": "minecraft:waxed_oxidized_cut_copper"
+    },
+    {
+      "name": "minecraft:waxed_oxidized_cut_copper_stairs"
+    },
+    {
+      "name": "minecraft:waxed_oxidized_cut_copper_slab"
+    },
+    {
+      "name": "fundamentallyfixed:waxed_oxidized_cut_copper_wall"
+    },
+    {
+      "name": "create:waxed_oxidized_copper_shingles"
+    },
+    {
+      "name": "create:waxed_oxidized_copper_shingle_stairs"
+    },
+    {
+      "name": "create:waxed_oxidized_copper_shingle_slab"
+    },
+    {
+      "name": "fundamentallyfixed:waxed_oxidized_copper_shingle_wall"
+    },
+    {
+      "name": "create:waxed_oxidized_copper_tiles"
+    },
+    {
+      "name": "create:waxed_oxidized_copper_tile_stairs"
+    },
+    {
+      "name": "create:waxed_oxidized_copper_tile_slab"
+    },
+    {
+      "name": "fundamentallyfixed:waxed_oxidized_copper_tile_wall"
+    },
+
+
+    {
+      "name": "oreganized:lead_ore"
+    },
+    {
+      "name": "oreganized:deepslate_lead_ore"
+    },
+    {
+      "name": "oreganized:spotted_glance"
+    },
+    {
+      "name": "oreganized:waxed_spotted_glance"
+    },
+    {
+      "name": "oreganized:raw_lead_block"
+    },
+    {
+      "name": "fundamentallyfixed:raw_lead_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:raw_lead_brick_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:raw_lead_brick_slab"
+    },
+    {
+      "name": "fundamentallyfixed:raw_lead_brick_wall"
+    },
+    {
+      "name": "oreganized:lead_block"
+    },
+    {
+      "name": "fundamentallyfixed:aluminium_ore"
+    },
+    {
+      "name": "fundamentallyfixed:deepslate_aluminium_ore"
+    },
+    {
+      "name": "fundamentallyfixed:raw_aluminium_block"
+    },
+    {
+      "name": "fundamentallyfixed:raw_aluminium_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:raw_aluminium_brick_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:raw_aluminium_brick_slab"
+    },
+    {
+      "name": "fundamentallyfixed:raw_aluminium_brick_wall"
+    },
+    {
+      "name": "fundamentallyfixed:aluminium_block"
+    },
+    {
+      "name": "minecraft:iron_ore"
+    },
+    {
+      "name": "minecraft:deepslate_iron_ore"
+    },
+    {
+      "name": "infernalexp:basalt_iron_ore"
+    },
+    {
+      "name": "minecraft:raw_iron_block"
+    },
+    {
+      "name": "quark:raw_iron_bricks"
+    },
+    {
+      "name": "quark:raw_iron_bricks_stairs"
+    },
+    {
+      "name": "quark:raw_iron_bricks_slab"
+    },
+    {
+      "name": "fundamentallyfixed:raw_iron_bricks_wall"
+    },
+    {
+      "name": "minecraft:iron_block"
+    },
+    {
+      "name": "quark:iron_plate"
+    },
+    {
+      "name": "minecraft:gold_ore"
+    },
+    {
+      "name": "minecraft:deepslate_gold_ore"
+    },
+    {
+      "name": "minecraft:nether_gold_ore"
+    },
+    {
+      "name": "minecraft:gilded_blackstone"
+    },
+    {
+      "name": "minecraft:raw_gold_block"
+    },
+    {
+      "name": "quark:raw_gold_bricks"
+    },
+    {
+      "name": "quark:raw_gold_bricks_stairs"
+    },
+    {
+      "name": "quark:raw_gold_bricks_slab"
+    },
+    {
+      "name": "fundamentallyfixed:raw_gold_bricks_wall"
+    },
+    {
+      "name": "minecraft:gold_block"
+    },
+
+
+    {
+      "name": "minecraft:redstone_ore"
+    },
+    {
+      "name": "minecraft:deepslate_redstone_ore"
+    },
+    {
+      "name": "spelunkery:rough_cinnabar_block"
+    },
+    {
+      "name": "minecraft:redstone_block"
+    },
+    {
+      "name": "minecraft:emerald_ore"
+    },
+    {
+      "name": "minecraft:deepslate_emerald_ore"
+    },
+    {
+      "name": "spelunkery:rough_emerald_block"
+    },
+    {
+      "name": "minecraft:emerald_block"
+    },
+    {
+      "name": "sullysmod:rough_jade_block"
+    },
+    {
+      "name": "sullysmod:rough_jade_bricks"
+    },
+    {
+      "name": "sullysmod:rough_jade_brick_stairs"
+    },
+    {
+      "name": "sullysmod:rough_jade_brick_slab"
+    },
+    {
+      "name": "sullysmod:polished_jade_block"
+    },
+    {
+      "name": "sullysmod:polished_jade_bricks"
+    },
+    {
+      "name": "sullysmod:polished_jade_brick_stairs"
+    },
+    {
+      "name": "sullysmod:polished_jade_brick_slab"
+    },
+    {
+      "name": "fundamentallyfixed:polished_jade_brick_wall"
+    },
+    {
+      "name": "sullysmod:polished_jade_shingles"
+    },
+    {
+      "name": "sullysmod:polished_jade_shingle_stairs"
+    },
+    {
+      "name": "sullysmod:polished_jade_shingle_slab"
+    },
+    {
+      "name": "fundamentallyfixed:polished_jade_shingle_wall"
+    },
+    {
+      "name": "sullysmod:polished_jade_pillar"
+    },
+    {
+      "name": "sullysmod:jade_totem"
+    },
+    {
+      "name": "minecraft:diamond_ore"
+    },
+    {
+      "name": "minecraft:deepslate_diamond_ore"
+    },
+    {
+      "name": "spelunkery:rough_diamond_block"
+    },
+    {
+      "name": "minecraft:diamond_block"
+    },
+    {
+      "name": "minecraft:nether_quartz_ore"
+    },
+    {
+      "name": "spelunkery:rough_quartz_block"
+    },
+    {
+      "name": "create:rose_quartz_block"
+    },
+    {
+      "name": "minecraft:quartz_block"
+    },
+    {
+      "name": "minecraft:quartz_stairs"
+    },
+    {
+      "name": "minecraft:quartz_slab"
+    },
+    {
+      "name": "fundamentallyfixed:quartz_wall"
+    },
+    {
+      "name": "minecraft:smooth_quartz"
+    },
+    {
+      "name": "minecraft:smooth_quartz_stairs"
+    },
+    {
+      "name": "minecraft:smooth_quartz_slab"
+    },
+    {
+      "name": "fundamentallyfixed:smooth_quartz_wall"
+    },
+    {
+      "name": "minecraft:quartz_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:quartz_brick_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:quartz_brick_slab"
+    },
+    {
+      "name": "fundamentallyfixed:quartz_brick_wall"
+    },
+    {
+      "name": "minecraft:chiseled_quartz_block"
+    },
+    {
+      "name": "minecraft:quartz_pillar"
+    },
+    {
+      "name": "minecraft:lapis_ore"
+    },
+    {
+      "name": "spelunkery:rough_lazurite_block"
+    },
+    {
+      "name": "minecraft:lapis_block"
+    },
+    {
+      "name": "supplementaries:lapis_bricks"
+    },
+    {
+      "name": "supplementaries:lapis_bricks_stairs"
+    },
+    {
+      "name": "supplementaries:lapis_bricks_slab"
+    },
+    {
+      "name": "supplementaries:lapis_bricks_wall"
+    },
+    {
+      "name": "oreganized:silver_ore"
+    },
+    {
+      "name": "oreganized:raw_silver_block"
+    },
+    {
+      "name": "oreganized:silver_block"
+    },
+    {
+      "name": "create:brass_block"
+    },
+    {
+      "name": "create:zinc_block"
+    },
+    {
+      "name": "modestmining:steel_block"
+    },
+    {
+      "name": "oreganized:electrum_block"
+    },
+    {
+      "name": "minecraft:ancient_debris"
+    },
+    {
+      "name": "minecraft:netherite_block"
+    },
+    {
+      "name": "alexsmobs:straddlite_block"
+    },
+    {
+      "name": "fundamentallyfixed:oceanic_prismarine_ore"
+    },
+    {
+      "name": "modestmining:prismarite_block"
+    },
+    {
+      "name": "fundamentallyfixed:blast_proof_block"
+    },
+    {
+      "name": "savage_and_ravage:blast_proof_plates"
+    },
+    {
+      "name": "savage_and_ravage:blast_proof_stairs"
+    },
+    {
+      "name": "savage_and_ravage:blast_proof_slab"
+    },
+    {
+      "name": "fundamentallyfixed:blast_proof_wall"
+    },
+    {
+      "name": "spelunkery:magnetite"
+    },
+
+
+    {
+      "name": "modestmining:cement_powder"
+    },
+    {
+      "name": "modestmining:cement"
+    },
+    {
+      "name": "modestmining:cement_stairs"
+    },
+    {
+      "name": "modestmining:cement_slab"
+    },
+    {
+      "name": "modestmining:cement_wall"
+    },
+    {
+      "name": "minecraft:stone"
+    },
+    {
+      "name": "minecraft:stone_stairs"
+    },
+    {
+      "name": "minecraft:stone_slab"
+    },
+    {
+      "name": "fundamentallyfixed:stone_wall"
+    },
+    {
+      "name": "minecraft:smooth_stone"
+    },
+    {
+      "name": "create:cut_granite_stairs"
+    },
+    {
+      "name": "minecraft:smooth_stone_slab"
+    },
+    {
+      "name": "create:polished_cut_calcite_wall"
+    },
+    {
+      "name": "minecraft:cobblestone"
+    },
+    {
+      "name": "minecraft:cobblestone_stairs"
+    },
+    {
+      "name": "minecraft:cobblestone_slab"
+    },
+    {
+      "name": "minecraft:cobblestone_wall"
+    },
+    {
+      "name": "minecraft:mossy_cobblestone"
+    },
+    {
+      "name": "minecraft:mossy_cobblestone_stairs"
+    },
+    {
+      "name": "minecraft:mossy_cobblestone_slab"
+    },
+    {
+      "name": "minecraft:mossy_cobblestone_wall"
+    },
+    {
+      "name": "quark:sturdy_stone"
+    },
+    {
+      "name": "paletteblocks:cobblestone_bricks"
+    },
+    {
+      "name": "paletteblocks:cobblestone_brick_stairs"
+    },
+    {
+      "name": "paletteblocks:cobblestone_brick_slab"
+    },
+    {
+      "name": "paletteblocks:cobblestone_brick_wall"
+    },
+    {
+      "name": "paletteblocks:mossy_cobblestone_bricks"
+    },
+    {
+      "name": "paletteblocks:mossy_cobblestone_brick_stairs"
+    },
+    {
+      "name": "paletteblocks:mossy_cobblestone_brick_slab"
+    },
+    {
+      "name": "paletteblocks:mossy_cobblestone_brick_wall"
+    },
+    {
+      "name": "paletteblocks:cracked_cobblestone_bricks"
+    },
+    {
+      "name": "minecraft:stone_bricks"
+    },
+    {
+      "name": "minecraft:stone_brick_stairs"
+    },
+    {
+      "name": "minecraft:stone_brick_slab"
+    },
+    {
+      "name": "minecraft:stone_brick_wall"
+    },
+    {
+      "name": "minecraft:mossy_stone_bricks"
+    },
+    {
+      "name": "minecraft:mossy_stone_brick_stairs"
+    },
+    {
+      "name": "minecraft:mossy_stone_brick_slab"
+    },
+    {
+      "name": "minecraft:mossy_stone_brick_wall"
+    },
+    {
+      "name": "minecraft:cracked_stone_bricks"
+    },
+    {
+      "name": "minecraft:chiseled_stone_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:stone_pillar"
+    },
+    {
+      "name": "supplementaries:stone_lamp"
+    },
+
+
+    {
+      "name": "quark:shale"
+    },
+    {
+      "name": "quark:shale_stairs"
+    },
+    {
+      "name": "quark:shale_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cut_granite_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_shale"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_shale_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_shale_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_shale_wall"
+    },
+    {
+      "name": "quark:polished_shale"
+    },
+    {
+      "name": "quark:polished_shale_stairs"
+    },
+    {
+      "name": "quark:polished_shale_slab"
+    },
+    {
+      "name": "fundamentallyfixed:polished_shale_wall"
+    },
+    {
+      "name": "quark:shale_bricks"
+    },
+    {
+      "name": "quark:shale_bricks_stairs"
+    },
+    {
+      "name": "quark:shale_bricks_slab"
+    },
+    {
+      "name": "quark:shale_bricks_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cracked_shale_bricks"
+    },
+    {
+      "name": "quark:chiseled_shale_bricks"
+    },
+    {
+      "name": "quark:shale_pillar"
+    },
+
+
+    {
+      "name": "minecraft:granite"
+    },
+    {
+      "name": "minecraft:granite_stairs"
+    },
+    {
+      "name": "minecraft:granite_slab"
+    },
+    {
+      "name": "minecraft:granite_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_granite"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_granite_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_granite_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_granite_wall"
+    },
+    {
+      "name": "minecraft:polished_granite"
+    },
+    {
+      "name": "minecraft:polished_granite_stairs"
+    },
+    {
+      "name": "minecraft:polished_granite_slab"
+    },
+    {
+      "name": "paletteblocks:polished_granite_wall"
+    },
+    {
+      "name": "quark:granite_bricks"
+    },
+    {
+      "name": "quark:granite_bricks_stairs"
+    },
+    {
+      "name": "quark:granite_bricks_slab"
+    },
+    {
+      "name": "quark:granite_bricks_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cracked_granite_bricks"
+    },
+    {
+      "name": "quark:chiseled_granite_bricks"
+    },
+    {
+      "name": "quark:granite_pillar"
+    },
+
+
+    {
+      "name": "minecraft:calcite"
+    },
+    {
+      "name": "quark:calcite_stairs"
+    },
+    {
+      "name": "quark:calcite_slab"
+    },
+    {
+      "name": "quark:calcite_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_calcite"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_calcite_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_calcite_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_calcite_wall"
+    },
+    {
+      "name": "paletteblocks:polished_calcite"
+    },
+    {
+      "name": "paletteblocks:polished_calcite_stairs"
+    },
+    {
+      "name": "paletteblocks:polished_calcite_slab"
+    },
+    {
+      "name": "paletteblocks:polished_calcite_wall"
+    },
+    {
+      "name": "quark:calcite_bricks"
+    },
+    {
+      "name": "quark:calcite_bricks_stairs"
+    },
+    {
+      "name": "quark:calcite_bricks_slab"
+    },
+    {
+      "name": "quark:calcite_bricks_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cracked_calcite_bricks"
+    },
+    {
+      "name": "quark:chiseled_calcite_bricks"
+    },
+    {
+      "name": "quark:calcite_pillar"
+    },
+
+
+    {
+      "name": "minecraft:diorite"
+    },
+    {
+      "name": "minecraft:diorite_stairs"
+    },
+    {
+      "name": "minecraft:diorite_slab"
+    },
+    {
+      "name": "minecraft:diorite_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_diorite"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_diorite_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_diorite_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_diorite_wall"
+    },
+    {
+      "name": "minecraft:polished_diorite"
+    },
+    {
+      "name": "minecraft:polished_diorite_stairs"
+    },
+    {
+      "name": "minecraft:polished_diorite_slab"
+    },
+    {
+      "name": "paletteblocks:polished_diorite_wall"
+    },
+    {
+      "name": "quark:diorite_bricks"
+    },
+    {
+      "name": "quark:diorite_bricks_stairs"
+    },
+    {
+      "name": "quark:diorite_bricks_slab"
+    },
+    {
+      "name": "quark:diorite_bricks_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cracked_diorite_bricks"
+    },
+    {
+      "name": "quark:chiseled_diorite_bricks"
+    },
+    {
+      "name": "quark:diorite_pillar"
+    },
+
+
+    {
+      "name": "minecraft:andesite"
+    },
+    {
+      "name": "minecraft:andesite_stairs"
+    },
+    {
+      "name": "minecraft:andesite_slab"
+    },
+    {
+      "name": "minecraft:andesite_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_andesite"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_andesite_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_andesite_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_andesite_wall"
+    },
+    {
+      "name": "minecraft:polished_andesite"
+    },
+    {
+      "name": "minecraft:polished_andesite_stairs"
+    },
+    {
+      "name": "minecraft:polished_andesite_slab"
+    },
+    {
+      "name": "paletteblocks:polished_andesite_wall"
+    },
+    {
+      "name": "quark:andesite_bricks"
+    },
+    {
+      "name": "quark:andesite_bricks_stairs"
+    },
+    {
+      "name": "quark:andesite_bricks_slab"
+    },
+    {
+      "name": "quark:andesite_bricks_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cracked_andesite_bricks"
+    },
+    {
+      "name": "quark:chiseled_andesite_bricks"
+    },
+    {
+      "name": "quark:andesite_pillar"
+    },
+
+
+    {
+      "name": "create:scoria"
+    },
+    {
+      "name": "create:cut_scoria_stairs"
+    },
+    {
+      "name": "create:cut_scoria_slab"
+    },
+    {
+      "name": "create:cut_scoria_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_scoria"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_scoria_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_scoria_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_scoria_wall"
+    },
+    {
+      "name": "create:polished_cut_scoria"
+    },
+    {
+      "name": "create:polished_cut_scoria_stairs"
+    },
+    {
+      "name": "create:polished_cut_scoria_slab"
+    },
+    {
+      "name": "create:polished_cut_scoria_wall"
+    },
+    {
+      "name": "create:cut_scoria_bricks"
+    },
+    {
+      "name": "create:cut_scoria_brick_stairs"
+    },
+    {
+      "name": "create:cut_scoria_brick_slab"
+    },
+    {
+      "name": "create:cut_scoria_brick_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cracked_scoria_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:chiseled_scoria"
+    },
+    {
+      "name": "fundamentallyfixed:scoria_pillar"
+    },
+
+
+    {
+      "name": "minecraft:tuff"
+    },
+    {
+      "name": "quark:tuff_stairs"
+    },
+    {
+      "name": "quark:tuff_slab"
+    },
+    {
+      "name": "quark:tuff_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_tuff"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_tuff_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_tuff_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_tuff_wall"
+    },
+    {
+      "name": "quark:polished_tuff"
+    },
+    {
+      "name": "quark:polished_tuff_stairs"
+    },
+    {
+      "name": "quark:polished_tuff_slab"
+    },
+    {
+      "name": "create:polished_cut_granite_wall"
+    },
+    {
+      "name": "quark:tuff_bricks"
+    },
+    {
+      "name": "quark:tuff_bricks_stairs"
+    },
+    {
+      "name": "quark:tuff_bricks_slab"
+    },
+    {
+      "name": "quark:tuff_bricks_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cracked_tuff_bricks"
+    },
+    {
+      "name": "quark:chiseled_tuff_bricks"
+    },
+    {
+      "name": "quark:tuff_pillar"
+    },
+
+
+    {
+      "name": "minecraft:deepslate"
+    },
+    {
+      "name": "fundamentallyfixed:deepslate_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:deepslate_slab"
+    },
+    {
+      "name": "fundamentallyfixed:deepslate_wall"
+    },
+    {
+      "name": "minecraft:cobbled_deepslate"
+    },
+    {
+      "name": "minecraft:cobbled_deepslate_stairs"
+    },
+    {
+      "name": "minecraft:cobbled_deepslate_slab"
+    },
+    {
+      "name": "minecraft:cobbled_deepslate_wall"
+    },
+    {
+      "name": "fundamentallyfixed:sturdy_deepslate"
+    },
+    {
+      "name": "minecraft:polished_deepslate"
+    },
+    {
+      "name": "minecraft:polished_deepslate_stairs"
+    },
+    {
+      "name": "minecraft:polished_deepslate_slab"
+    },
+    {
+      "name": "minecraft:polished_deepslate_wall"
+    },
+    {
+      "name": "minecraft:deepslate_bricks"
+    },
+    {
+      "name": "minecraft:deepslate_brick_stairs"
+    },
+    {
+      "name": "minecraft:deepslate_brick_slab"
+    },
+    {
+      "name": "minecraft:deepslate_brick_wall"
+    },
+    {
+      "name": "minecraft:veiny_deepslate_bricks"
+    },
+    {
+      "name": "minecraft:veiny_deepslate_brick_stairs"
+    },
+    {
+      "name": "minecraft:veiny_deepslate_brick_slab"
+    },
+    {
+      "name": "minecraft:veiny_deepslate_brick_wall"
+    },
+    {
+      "name": "minecraft:cracked_deepslate_bricks"
+    },
+    {
+      "name": "minecraft:chiseled_deepslate"
+    },
+    {
+      "name": "fundamentallyfixed:deepslate_pillar"
+    },
+    {
+      "name": "minecraft:deepslate_tiles"
+    },
+    {
+      "name": "minecraft:deepslate_tile_stairs"
+    },
+    {
+      "name": "minecraft:deepslate_tile_slab"
+    },
+    {
+      "name": "minecraft:deepslate_tile_wall"
+    },
+    {
+      "name": "supplementaries:deepslate_lamp"
+    },
+    {
+      "name": "minecraft:reinforced_deepslate"
+    },
+
+
+    {
+      "name": "create:scorchia"
+    },
+    {
+      "name": "create:cut_scorchia_stairs"
+    },
+    {
+      "name": "create:cut_scorchia_slab"
+    },
+    {
+      "name": "create:cut_scorchia_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_scorchia"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_scorchia_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_scorchia_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_scorchia_wall"
+    },
+    {
+      "name": "create:polished_cut_scorchia"
+    },
+    {
+      "name": "create:polished_cut_scorchia_stairs"
+    },
+    {
+      "name": "create:polished_cut_scorchia_slab"
+    },
+    {
+      "name": "create:polished_cut_scorchia_wall"
+    },
+    {
+      "name": "create:cut_scorchia_bricks"
+    },
+    {
+      "name": "create:cut_scorchia_brick_stairs"
+    },
+    {
+      "name": "create:cut_scorchia_brick_slab"
+    },
+    {
+      "name": "create:cut_scorchia_brick_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cracked_scorchia_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:chiseled_scorchia"
+    },
+    {
+      "name": "fundamentallyfixed:scorchia_pillar"
+    },
+
+
+    {
+      "name": "minecraft:dripstone_block"
+    },
+    {
+      "name": "paletteblocks:dripstone_stairs"
+    },
+    {
+      "name": "paletteblocks:dripstone_slab"
+    },
+    {
+      "name": "paletteblocks:dripstone_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_dripstone"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_dripstone_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_dripstone_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_dripstone_wall"
+    },
+    {
+      "name": "paletteblocks:polished_dripstone"
+    },
+    {
+      "name": "paletteblocks:polished_dripstone_stairs"
+    },
+    {
+      "name": "paletteblocks:polished_dripstone_slab"
+    },
+    {
+      "name": "paletteblocks:polished_dripstone_wall"
+    },
+    {
+      "name": "quark:dripstone_bricks"
+    },
+    {
+      "name": "quark:dripstone_bricks_stairs"
+    },
+    {
+      "name": "quark:dripstone_bricks_slab"
+    },
+    {
+      "name": "quark:dripstone_bricks_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cracked_dripstone_bricks"
+    },
+    {
+      "name": "quark:chiseled_dripstone_bricks"
+    },
+    {
+      "name": "quark:dripstone_pillar"
+    },
+
+
+    {
+      "name": "quark:limestone"
+    },
+    {
+      "name": "quark:limestone_stairs"
+    },
+    {
+      "name": "quark:limestone_slab"
+    },
+    {
+      "name": "quark:limestone_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_limestone"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_limestone_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_limestone_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_limestone_wall"
+    },
+    {
+      "name": "quark:polished_limestone"
+    },
+    {
+      "name": "quark:polished_limestone_stairs"
+    },
+    {
+      "name": "quark:polished_limestone_slab"
+    },
+    {
+      "name": "create:polished_cut_diorite_wall"
+    },
+    {
+      "name": "quark:limestone_bricks"
+    },
+    {
+      "name": "quark:limestone_bricks_stairs"
+    },
+    {
+      "name": "quark:limestone_bricks_slab"
+    },
+    {
+      "name": "quark:limestone_bricks_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cracked_limestone_bricks"
+    },
+    {
+      "name": "quark:chiseled_limestone_bricks"
+    },
+    {
+      "name": "quark:limestone_pillar"
+    },
+
+
+    {
+      "name": "create:ochrum"
+    },
+    {
+      "name": "create:cut_diorite_brick_stairs"
+    },
+    {
+      "name": "create:cut_diorite_brick_slab"
+    },
+    {
+      "name": "create:cut_diorite_brick_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_ochrum"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_ochrum_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_ochrum_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_ochrum_wall"
+    },
+    {
+      "name": "create:polished_cut_ochrum"
+    },
+    {
+      "name": "create:polished_cut_ochrum_stairs"
+    },
+    {
+      "name": "create:polished_cut_ochrum_slab"
+    },
+    {
+      "name": "create:polished_cut_ochrum_wall"
+    },
+    {
+      "name": "create:cut_ochrum_bricks"
+    },
+    {
+      "name": "create:cut_ochrum_brick_stairs"
+    },
+    {
+      "name": "create:cut_ochrum_brick_slab"
+    },
+    {
+      "name": "create:cut_ochrum_brick_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cracked_ochrum_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:chiseled_ochrum"
+    },
+    {
+      "name": "fundamentallyfixed:ochrum_pillar"
+    },
+
+
+    {
+      "name": "quark:jasper"
+    },
+    {
+      "name": "quark:jasper_stairs"
+    },
+    {
+      "name": "quark:jasper_slab"
+    },
+    {
+      "name": "quark:jasper_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_jasper"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_jasper_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_jasper_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_jasper_wall"
+    },
+    {
+      "name": "quark:polished_jasper"
+    },
+    {
+      "name": "quark:polished_jasper_stairs"
+    },
+    {
+      "name": "quark:polished_jasper_slab"
+    },
+    {
+      "name": "create:cut_andesite_wall"
+    },
+    {
+      "name": "quark:jasper_bricks"
+    },
+    {
+      "name": "quark:jasper_bricks_stairs"
+    },
+    {
+      "name": "quark:jasper_bricks_slab"
+    },
+    {
+      "name": "quark:jasper_bricks_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cracked_jasper_bricks"
+    },
+    {
+      "name": "quark:chiseled_jasper_bricks"
+    },
+    {
+      "name": "quark:jasper_pillar"
+    },
+
+
+    {
+      "name": "oreganized:glance"
+    },
+    {
+      "name": "oreganized:spotted_glance"
+    },
+    {
+      "name": "oreganized:waxed_spotted_glance"
+    },
+    {
+      "name": "oreganized:glance_stairs"
+    },
+    {
+      "name": "oreganized:glance_slab"
+    },
+    {
+      "name": "oreganized:glance_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_glance"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_glance_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_glance_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_glance_wall"
+    },
+    {
+      "name": "oreganized:polished_glance"
+    },
+    {
+      "name": "oreganized:polished_glance_stairs"
+    },
+    {
+      "name": "oreganized:polished_glance_slab"
+    },
+    {
+      "name": "create:polished_cut_andesite_wall"
+    },
+    {
+      "name": "oreganized:glance_bricks"
+    },
+    {
+      "name": "oreganized:glance_brick_stairs"
+    },
+    {
+      "name": "oreganized:glance_brick_slab"
+    },
+    {
+      "name": "oreganized:glance_brick_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cracked_glance_bricks"
+    },
+    {
+      "name": "oreganized:chiseled_glance"
+    },
+    {
+      "name": "fundamentallyfixed:glance_pillar"
+    },
+
+
+    {
+      "name": "upgrade_aquatic:coralstone"
+    },
+    {
+      "name": "upgrade_aquatic:coralstone_stairs"
+    },
+    {
+      "name": "upgrade_aquatic:coralstone_slab"
+    },
+    {
+      "name": "upgrade_aquatic:coralstone_wall"
+    },
+    {
+      "name": "upgrade_aquatic:chiseled_coralstone"
+    },
+    {
+      "name": "upgrade_aquatic:prismarine_coral_block"
+    },
+    {
+      "name": "upgrade_aquatic:prismarine_coralstone"
+    },
+    {
+      "name": "upgrade_aquatic:prismarine_coralstone_stairs"
+    },
+    {
+      "name": "upgrade_aquatic:prismarine_coralstone_slab"
+    },
+    {
+      "name": "upgrade_aquatic:prismarine_coralstone_wall"
+    },
+    {
+      "name": "upgrade_aquatic:chiseled_prismarine_coralstone"
+    },
+    {
+      "name": "upgrade_aquatic:elder_prismarine_coral_block"
+    },
+    {
+      "name": "upgrade_aquatic:elder_prismarine_coralstone"
+    },
+    {
+      "name": "upgrade_aquatic:elder_prismarine_coralstone_stairs"
+    },
+    {
+      "name": "upgrade_aquatic:elder_prismarine_coralstone_slab"
+    },
+    {
+      "name": "upgrade_aquatic:elder_prismarine_coralstone_wall"
+    },
+    {
+      "name": "upgrade_aquatic:chiseled_elder_prismarine_coralstone"
+    },
+
+
+    {
+      "name": "minecraft:prismarine"
+    },
+    {
+      "name": "minecraft:prismarine_stairs"
+    },
+    {
+      "name": "minecraft:prismarine_slab"
+    },
+    {
+      "name": "minecraft:prismarine_wall"
+    },
+    {
+      "name": "fundamentallyfixed:polished_phyton"
+    },
+    {
+      "name": "fundamentallyfixed:polished_phyton_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:polished_phyton_slab"
+    },
+    {
+      "name": "fundamentallyfixed:polished_phyton_wall"
+    },
+    {
+      "name": "minecraft:prismarine_bricks"
+    },
+    {
+      "name": "minecraft:prismarine_brick_stairs"
+    },
+    {
+      "name": "minecraft:prismarine_brick_slab"
+    },
+    {
+      "name": "create:cut_andesite_brick_wall"
+    },
+    {
+      "name": "minecraft:dark_prismarine"
+    },
+    {
+      "name": "minecraft:dark_prismarine_stairs"
+    },
+    {
+      "name": "minecraft:dark_prismarine_slab"
+    },
+    {
+      "name": "create:small_andesite_brick_wall"
+    },
+    {
+      "name": "upgrade_aquatic:luminous_prismarine"
+    },
+    {
+      "name": "upgrade_aquatic:luminous_prismarine_stairs"
+    },
+    {
+      "name": "upgrade_aquatic:luminous_prismarine_slab"
+    },
+    {
+      "name": "fundamentallyfixed:luminous_prismarine_wall"
+    },
+    {
+      "name": "upgrade_aquatic:prismarine_rod_bundle"
+    },
+
+
+    {
+      "name": "aether:holystone"
+    },
+    {
+      "name": "aether:holystone_stairs"
+    },
+    {
+      "name": "aether:holystone_slab"
+    },
+    {
+      "name": "aether:holystone_wall"
+    },
+    {
+      "name": "aether:mossy_holystone"
+    },
+    {
+      "name": "aether:mossy_holystone_stairs"
+    },
+    {
+      "name": "aether:mossy_holystone_slab"
+    },
+    {
+      "name": "aether:mossy_holystone_wall"
+    },
+    {
+      "name": "aether:holystone_bricks"
+    },
+    {
+      "name": "aether:holystone_brick_stairs"
+    },
+    {
+      "name": "aether:holystone_brick_slab"
+    },
+    {
+      "name": "aether:holystone_brick_wall"
+    },
+
+
+    {
+      "name": "quark:permafrost"
+    },
+    {
+      "name": "quark:permafrost_stairs"
+    },
+    {
+      "name": "quark:permafrost_slab"
+    },
+    {
+      "name": "quark:permafrost_wall"
+    },
+    {
+      "name": "quark:permafrost_bricks"
+    },
+    {
+      "name": "quark:permafrost_bricks_stairs"
+    },
+    {
+      "name": "quark:permafrost_bricks_slab"
+    },
+    {
+      "name": "quark:permafrost_bricks_wall"
+    },
+    {
+      "name": "fundamentallyfixed:permafrost_pillar"
+    },
+
+
+    {
+      "name": "aether:quicksoil"
+    },
+    {
+      "name": "quark:gravisand"
+    },
+
+
+    {
+      "name": "minecraft:netherrack"
+    },
+    {
+      "name": "fundamentallyfixed:netherrack_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:netherrack_slab"
+    },
+    {
+      "name": "fundamentallyfixed:netherrack_wall"
+    },
+    {
+      "name": "paletteblocks:polished_netherrack"
+    },
+    {
+      "name": "paletteblocks:polished_netherrack_stairs"
+    },
+    {
+      "name": "paletteblocks:polished_netherrack_slab"
+    },
+    {
+      "name": "paletteblocks:polished_netherrack_wall"
+    },
+    {
+      "name": "quark:netherrack_bricks"
+    },
+    {
+      "name": "quark:netherrack_bricks_stairs"
+    },
+    {
+      "name": "quark:netherrack_bricks_slab"
+    },
+    {
+      "name": "quark:netherrack_bricks_wall"
+    },
+
+    {
+      "name": "minecraft:nether_bricks"
+    },
+    {
+      "name": "minecraft:nether_brick_stairs"
+    },
+    {
+      "name": "minecraft:nether_brick_slab"
+    },
+    {
+      "name": "minecraft:nether_brick_wall"
+    },
+    {
+      "name": "minecraft:cracked_nether_bricks"
+    },
+    {
+      "name": "minecraft:chiseled_nether_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:nether_brick_pillar"
+    },
+    {
+      "name": "minecraft:red_nether_bricks"
+    },
+    {
+      "name": "minecraft:red_nether_brick_stairs"
+    },
+    {
+      "name": "minecraft:red_nether_brick_slab"
+    },
+    {
+      "name": "minecraft:red_nether_brick_wall"
+    },
+    {
+      "name": "fundamentallyfixed:red_nether_brick_pillar"
+    },
+    {
+      "name": "quark:blue_nether_bricks"
+    },
+    {
+      "name": "quark:blue_nether_bricks_stairs"
+    },
+    {
+      "name": "quark:blue_nether_bricks_slab"
+    },
+    {
+      "name": "quark:blue_nether_bricks_wall"
+    },
+    {
+      "name": "fundamentallyfixed:blue_nether_brick_pillar"
+    },
+
+
+    {
+      "name": "infernalexp:rubble"
+    },
+    {
+      "name": "minecraft:blackstone"
+    },
+    {
+      "name": "minecraft:blackstone_stairs"
+    },
+    {
+      "name": "minecraft:blackstone_slab"
+    },
+    {
+      "name": "minecraft:blackstone_wall"
+    },
+    {
+      "name": "minecraft:polished_blackstone"
+    },
+    {
+      "name": "minecraft:polished_blackstone_stairs"
+    },
+    {
+      "name": "minecraft:polished_blackstone_slab"
+    },
+    {
+      "name": "minecraft:polished_blackstone_wall"
+    },
+    {
+      "name": "minecraft:chiseled_polished_blackstone"
+    },
+    {
+      "name": "fundamentallyfixed:blackstone_pillar"
+    },
+    {
+      "name": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "name": "minecraft:polished_blackstone_brick_stairs"
+    },
+    {
+      "name": "minecraft:polished_blackstone_brick_slab"
+    },
+    {
+      "name": "minecraft:polished_blackstone_brick_wall"
+    },
+    {
+      "name": "minecraft:cracked_polished_blackstone_bricks"
+    },
+    {
+      "name": "supplementaries:blackstone_tile"
+    },
+    {
+      "name": "supplementaries:blackstone_tile_stairs"
+    },
+    {
+      "name": "supplementaries:blackstone_tile_slab"
+    },
+    {
+      "name": "supplementaries:blackstone_tile_wall"
+    },
+    {
+      "name": "infernalexp:crumbling_blackstone"
+    },
+    {
+      "name": "supplementaries:blackstone_lamp"
+    },
+
+
+    {
+      "name": "infernalexp:silt"
+    },
+    {
+      "name": "minecraft:basalt"
+    },
+    {
+      "name": "infernalexp:basalt_stairs"
+    },
+    {
+      "name": "infernalexp:basalt_slab"
+    },
+    {
+      "name": "minecraft:basalt_wall"
+    },
+    {
+      "name": "infernalexp:basalt_cobbled"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_basalt_stairs"
+    },
+    {
+      "name": "infernalexp:basalt_cobbled_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cobbled_basalt_wall"
+    },
+    {
+      "name": "minecraft:smooth_basalt"
+    },
+    {
+      "name": "fundamentallyfixed:smooth_basalt_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:smooth_basalt_slab"
+    },
+    {
+      "name": "fundamentallyfixed:smooth_basalt_wall"
+    },
+    {
+      "name": "minecraft:polished_basalt"
+    },
+    {
+      "name": "fundamentallyfixed:polished_basalt_stairs"
+    },
+    {
+      "name": "infernalexp:polished_basalt_slab"
+    },
+    {
+      "name": "fundamentallyfixed:polished_basalt_wall"
+    },
+    {
+      "name": "infernalexp:basalt_bricks"
+    },
+    {
+      "name": "infernalexp:basalt_brick_stairs"
+    },
+    {
+      "name": "infernalexp:basalt_brick_slab"
+    },
+    {
+      "name": "infernalexp:basalt_brick_wall"
+    },
+    {
+      "name": "infernalexp:chiseled_basalt_bricks"
+    },
+    {
+      "name": "infernalexp:polished_basalt_tiles"
+    },
+    {
+      "name": "fundamentallyfixed:polished_basalt_tile_stairs"
+    },
+    {
+      "name": "infernalexp:polished_basalt_tiles_slab"
+    },
+    {
+      "name": "fundamentallyfixed:polished_basalt_tile_wall"
+    },
+    {
+      "name": "infernalexp:magmatic_chiseled_basalt_bricks"
+    },
+    {
+      "name": "infernalexp:basaltic_magma"
+    },
+    {
+      "name": "minecraft:magma_block"
+    },
+
+
+    {
+      "name": "infernalexp:dullstone"
+    },
+    {
+      "name": "infernalexp:dullstone_stairs"
+    },
+    {
+      "name": "infernalexp:dullstone_slab"
+    },
+    {
+      "name": "fundamentallyfixed:dullstone_wall"
+    },
+    {
+      "name": "infernalexp:dullstone_bricks"
+    },
+    {
+      "name": "infernalexp:dullstone_brick_stairs"
+    },
+    {
+      "name": "infernalexp:dullstone_brick_slab"
+    },
+    {
+      "name": "infernalexp:dullstone_brick_wall"
+    },
+    {
+      "name": "infernalexp:cracked_dullstone_bricks"
+    },
+    {
+      "name": "infernalexp:chiseled_dullstone_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:dullstone_pillar"
+    },
+    {
+      "name": "infernalexp:dimstone"
+    },
+    {
+      "name": "infernalexp:dimstone_stairs"
+    },
+    {
+      "name": "infernalexp:dimstone_slab"
+    },
+    {
+      "name": "fundamentallyfixed:dimstone_wall"
+    },
+    {
+      "name": "infernalexp:dimstone_bricks"
+    },
+    {
+      "name": "infernalexp:dimstone_brick_stairs"
+    },
+    {
+      "name": "infernalexp:dimstone_brick_slab"
+    },
+    {
+      "name": "infernalexp:dimstone_brick_wall"
+    },
+    {
+      "name": "infernalexp:cracked_dimstone_bricks"
+    },
+    {
+      "name": "infernalexp:chiseled_dimstone_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:dimstone_pillar"
+    },
+    {
+      "name": "minecraft:glowstone"
+    },
+    {
+      "name": "infernalexp:glowstone_stairs"
+    },
+    {
+      "name": "infernalexp:glowstone_slab"
+    },
+    {
+      "name": "fundamentallyfixed:glowstone_wall"
+    },
+    {
+      "name": "infernalexp:glowstone_bricks"
+    },
+    {
+      "name": "infernalexp:glowstone_brick_stairs"
+    },
+    {
+      "name": "infernalexp:glowstone_brick_slab"
+    },
+    {
+      "name": "infernalexp:glowstone_brick_wall"
+    },
+    {
+      "name": "infernalexp:cracked_glowstone_bricks"
+    },
+    {
+      "name": "infernalexp:chiseled_glowstone_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:glowstone_pillar"
+    },
+    {
+      "name": "infernalexp:glowdust"
+    },
+    {
+      "name": "infernalexp:trapped_glowdust_sand"
+    },
+    {
+      "name": "infernalexp:glowdust_sand"
+    },
+    {
+      "name": "infernalexp:glowdust_stone"
+    },
+    {
+      "name": "infernalexp:glowdust_stone_stairs"
+    },
+    {
+      "name": "infernalexp:glowdust_stone_slab"
+    },
+    {
+      "name": "infernalexp:glowdust_stone_wall"
+    },
+    {
+      "name": "infernalexp:glowdust_stone_bricks"
+    },
+    {
+      "name": "infernalexp:glowdust_stone_brick_stairs"
+    },
+    {
+      "name": "infernalexp:glowdust_stone_brick_slab"
+    },
+    {
+      "name": "infernalexp:glowdust_stone_brick_wall"
+    },
+    {
+      "name": "infernalexp:cracked_glowdust_stone_bricks"
+    },
+    {
+      "name": "infernalexp:chiseled_glowdust_stone_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:shimmer_stone_pillar"
+    },
+
+
+    {
+      "name": "minecraft:soul_sand"
+    },
+    {
+      "name": "infernalexp:soul_sand_stairs"
+    },
+    {
+      "name": "infernalexp:soul_sand_slab"
+    },
+    {
+      "name": "minecraft:soul_soil"
+    },
+    {
+      "name": "infernalexp:soul_soil_stairs"
+    },
+    {
+      "name": "infernalexp:soul_soil_slab"
+    },
+    {
+      "name": "nethersdelight:soul_compost"
+    },
+    {
+      "name": "nethersdelight:rich_soul_soil"
+    },
+    {
+      "name": "infernalexp:soul_stone"
+    },
+    {
+      "name": "infernalexp:soul_stone_stairs"
+    },
+    {
+      "name": "infernalexp:soul_stone_slab"
+    },
+    {
+      "name": "infernalexp:soul_stone_wall"
+    },
+    {
+      "name": "infernalexp:soul_slate"
+    },
+    {
+      "name": "infernalexp:soul_slate_stairs"
+    },
+    {
+      "name": "infernalexp:soul_slate_slab"
+    },
+    {
+      "name": "infernalexp:soul_slate_wall"
+    },
+    {
+      "name": "infernalexp:soul_stone_bricks"
+    },
+    {
+      "name": "infernalexp:soul_stone_brick_stairs"
+    },
+    {
+      "name": "infernalexp:soul_stone_brick_slab"
+    },
+    {
+      "name": "infernalexp:soul_stone_brick_wall"
+    },
+    {
+      "name": "infernalexp:cracked_soul_stone_bricks"
+    },
+    {
+      "name": "infernalexp:chiseled_soul_stone_bricks"
+    },
+    {
+      "name": "infernalexp:charged_chiseled_soul_stone_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:soul_slate_pillar"
+    },
+
+
+    {
+      "name": "spelunkery:salt_block"
+    },
+    {
+      "name": "spelunkery:rock_salt_block"
+    },
+    {
+      "name": "spelunkery:rock_salt_stairs"
+    },
+    {
+      "name": "spelunkery:rock_salt_slab"
+    },
+    {
+      "name": "spelunkery:rock_salt_wall"
+    },
+    {
+      "name": "spelunkery:polished_rock_salt"
+    },
+    {
+      "name": "spelunkery:polished_rock_salt_stairs"
+    },
+    {
+      "name": "spelunkery:polished_rock_salt_slab"
+    },
+    {
+      "name": "spelunkery:polished_rock_salt_wall"
+    },
+    {
+      "name": "spelunkery:rock_salt_bricks"
+    },
+    {
+      "name": "spelunkery:rock_salt_brick_stairs"
+    },
+    {
+      "name": "spelunkery:rock_salt_brick_slab"
+    },
+    {
+      "name": "spelunkery:rock_salt_brick_wall"
+    },
+    {
+      "name": "fundamentallyfixed:rock_salt_pillar"
+    },
+
+
+    {
+      "name": "ecologics:thin_ice"
+    },
+    {
+      "name": "windswept:ice_sheet"
+    },
+    {
+      "name": "minecraft:ice"
+    },
+    {
+      "name": "minecraft:packed_ice"
+    },
+    {
+      "name": "windswept:packed_ice_bricks"
+    },
+    {
+      "name": "windswept:packed_ice_brick_stairs"
+    },
+    {
+      "name": "windswept:packed_ice_brick_slab"
+    },
+    {
+      "name": "windswept:packed_ice_brick_wall"
+    },
+    {
+      "name": "windswept:chiseled_packed_ice_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:packed_ice_pillar"
+    },
+    {
+      "name": "minecraft:blue_ice"
+    },
+    {
+      "name": "windswept:blue_ice_bricks"
+    },
+    {
+      "name": "windswept:blue_ice_brick_stairs"
+    },
+    {
+      "name": "windswept:blue_ice_brick_slab"
+    },
+    {
+      "name": "windswept:blue_ice_brick_wall"
+    },
+    {
+      "name": "windswept:chiseled_blue_ice_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:blue_ice_pillar"
+    },
+    {
+      "name": "minecraft:snow"
+    },
+    {
+      "name": "minecraft:snow_block"
+    },
+    {
+      "name": "windswept:snow_bricks"
+    },
+    {
+      "name": "windswept:snow_brick_stairs"
+    },
+    {
+      "name": "windswept:snow_brick_slab"
+    },
+    {
+      "name": "windswept:snow_brick_wall"
+    },
+    {
+      "name": "fundamentallyfixed:snow_pillar"
+    },
+    {
+      "name": "neapolitan:vanilla_ice_cream_block"
+    },
+    {
+      "name": "neapolitan:chocolate_ice_cream_block"
+    },
+    {
+      "name": "neapolitan:strawberry_ice_cream_block"
+    },
+
+
+    //{
+    //  "name": "upgrade_aquatic:tooth_block"
+    //},
+    //{
+    //  "name": "upgrade_aquatic:tooth_tiles"
+    //},
+    //{
+    //  "name": "upgrade_aquatic:tooth_stairs"
+    //},
+    //{
+    //  "name": "upgrade_aquatic:tooth_slab"
+    //},
+    //{
+    //  "name": "upgrade_aquatic:tooth_wall"
+    //},
+    //{
+    //  "name": "upgrade_aquatic:tooth_bricks"
+    //},
+    //{
+    //  "name": "upgrade_aquatic:tooth_brick_stairs"
+    //},
+    //{
+    //  "name": "upgrade_aquatic:tooth_brick_slab"
+    //},
+    //{
+    //  "name": "upgrade_aquatic:tooth_brick_wall"
+    //},
+    //{
+    //  "name": "upgrade_aquatic:chiseled_tooth_bricks"
+    //},
+
+
+    {
+      "name": "minecraft:glass"
+    },
+    {
+      "name": "minecraft:glass_pane"
+    },
+    {
+      "name": "quark:framed_glass"
+    },
+    {
+      "name": "quark:framed_glass_pane"
+    },
+    //{
+    //  "name": "create:framed_glass"
+    //},
+    //{
+    //  "name": "create:framed_glass_pane"
+    //},
+    //{
+    //  "name": "create:horizontal_framed_glass"
+    //},
+    //{
+    //  "name": "create:horizontal_framed_glass_pane"
+    //},
+    //{
+    //  "name": "create:vertical_framed_glass"
+    //},
+    //{
+    //  "name": "create:vertical_framed_glass_pane"
+    //},
+    //{
+    //  "name": "create:tiled_glass"
+    //},
+    //{
+    //  "name": "create:tiled_glass_pane"
+    //},
+    {
+      "name": "infernalexp:quartz_glass"
+    },
+    {
+      "name": "infernalexp:quartz_glass_pane"
+    },
+    {
+      "name": "fundamentallyfixed:framed_quartz_glass"
+    },
+    {
+      "name": "fundamentallyfixed:framed_quartz_glass_pane"
+    },
+    {
+      "name": "infernalexp:glow_glass"
+    },
+    {
+      "name": "infernalexp:glow_glass_pane"
+    },
+    {
+      "name": "fundamentallyfixed:framed_glow_glass"
+    },
+    {
+      "name": "fundamentallyfixed:framed_glow_glass_pane"
+    },
+    {
+      "name": "minecraft:tinted_glass"
+    },
+    {
+      "name": "fundamentallyfixed:tinted_glass_pane"
+    },
+    {
+      "name": "naturalist:verdant_froglass"
+    },
+    {
+      "name": "naturalist:crimson_froglass"
+    },
+    {
+      "name": "naturalist:azure_froglass"
+    },
+    {
+      "name": "minecraft:verdant_froglight"
+    },
+    {
+      "name": "minecraft:ochre_froglight"
+    },
+    {
+      "name": "minecraft:pearlescent_froglight"
+    },
+
+
+    {
+      "name": "minecraft:obsidian"
+    },
+    {
+      "name": "minecraft:crying_obsidian"
+    },
+    {
+      "name": "minecraft:bedrock"
+    },
+    {
+      "name": "minecraft:end_stone"
+    },
+    {
+      "name": "minecraft:end_stone_bricks"
+    },
+    {
+      "name": "minecraft:end_stone_brick_stairs"
+    },
+    {
+      "name": "minecraft:end_stone_brick_slab"
+    },
+    {
+      "name": "minecraft:end_stone_brick_wall"
+    },
+    {
+      "name": "fundamentallyfixed:end_stone_pillar"
+    },
+    {
+      "name": "supplementaries:end_stone_lamp"
+    },
+    {
+      "name": "minecraft:purpur_block"
+    },
+    {
+      "name": "minecraft:purpur_stairs"
+    },
+    {
+      "name": "minecraft:purpur_slab"
+    },
+    {
+      "name": "fundamentallyfixed:purpur_wall"
+    },
+    {
+      "name": "minecraft:purpur_pillar"
+    },
+    {
+      "name": "quark:duskbound_block"
+    },
+    {
+      "name": "quark:duskbound_block_stairs"
+    },
+    {
+      "name": "quark:duskbound_block_slab"
+    },
+    {
+      "name": "fundamentallyfixed:duskbound_block_wall"
+    },
+    {
+      "name": "quark:duskbound_lantern"
+    },
+    {
+      "name": "quark:midori_block"
+    },
+    {
+      "name": "quark:midori_block_stairs"
+    },
+    {
+      "name": "quark:midori_block_slab"
+    },
+    {
+      "name": "fundamentallyfixed:midori_wall"
+    },
+    {
+      "name": "quark:midori_pillar"
+    },
+
+
+    {
+      "name": "supplementaries:checker_block"
+    },
+    {
+      "name": "minecraft:bone_block"
+    },
+    {
+      "name": "upgrade_aquatic:scute_block"
+    },
+    {
+      "name": "upgrade_aquatic:scute_pavement"
+    },
+    {
+      "name": "upgrade_aquatic:scute_pavement_stairs"
+    },
+    {
+      "name": "upgrade_aquatic:scute_pavement_slab"
+    },
+    {
+      "name": "upgrade_aquatic:scute_pavement_wall"
+    },
+    {
+      "name": "upgrade_aquatic:scute_shingles"
+    },
+    {
+      "name": "upgrade_aquatic:scute_shingle_stairs"
+    },
+    {
+      "name": "upgrade_aquatic:scute_shingle_slab"
+    },
+    {
+      "name": "upgrade_aquatic:scute_shingle_wall"
+    },
+    {
+      "name": "upgrade_aquatic:chiseled_scute_shingles"
+    },
+    {
+      "name": "ecologics:seashell_block"
+    },
+    {
+      "name": "ecologics:seashell_tiles"
+    },
+    {
+      "name": "ecologics:seashell_tile_stairs"
+    },
+    {
+      "name": "ecologics:seashell_tile_slab"
+    },
+    {
+      "name": "ecologics:seashell_tile_wall"
+    },
+    {
+      "name": "autumnity:snail_shell_block"
+    },
+    {
+      "name": "autumnity:snail_shell_tiles"
+    },
+    {
+      "name": "autumnity:snail_shell_tile_stairs"
+    },
+    {
+      "name": "autumnity:snail_shell_tile_slab"
+    },
+    {
+      "name": "autumnity:snail_shell_tile_wall"
+    },
+    {
+      "name": "autumnity:snail_shell_bricks"
+    },
+    {
+      "name": "autumnity:snail_shell_brick_stairs"
+    },
+    {
+      "name": "autumnity:snail_shell_brick_slab"
+    },
+    {
+      "name": "autumnity:snail_shell_brick_wall"
+    },
+    {
+      "name": "autumnity:chiseled_snail_shell_bricks"
+    },
+    {
+      "name": "supplementaries:daub"
+    },
+    {
+      "name": "supplementaries:daub_frame"
+    },
+    {
+      "name": "supplementaries:daub_brace"
+    },
+    {
+      "name": "supplementaries:daub_cross_brace"
+    },
+    {
+      "name": "suppsquared:daub_stairs"
+    },
+    {
+      "name": "suppsquared:daub_frame_stairs"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:plank_block"
+    },
+    {
+      "name": "fundamentallyfixed:bark_block"
+    },
+    {
+      "name": "supplementaries:flint_block"
+    },
+    {
+      "name": "quark:stick_block"
+    },
+    {
+      "name": "environmental:grass_thatch"
+    },
+    {
+      "name": "fundamentallyfixed:fiber_block"
+    },
+    {
+      "name": "fundamentallyfixed:moss_paste_block"
+    },
+    {
+      "name": "fundamentallyfixed:rope_block"
+    },
+    {
+      "name": "fundamentallyfixed:canvas_block"
+    },
+    {
+      "name": "fundamentallyfixed:rocky_shell_block"
+    },
+    {
+      "name": "quark:bonded_rabbit_hide"
+    },
+    {
+      "name": "fundamentallyfixed:bonded_reptile_hide"
+    },
+    {
+      "name": "fundamentallyfixed:bonded_hoglin_hide"
+    },
+    {
+      "name": "fundamentallyfixed:rotten_flesh_block"
+    },
+    {
+      "name": "quark:bonded_leather"
+    },
+    {
+      "name": "environmental:yak_hair_block"
+    },
+    {
+      "name": "environmental:yak_hair_rug"
+    },
+    {
+      "name": "alexsmobs:bison_fur_block"
+    },
+    {
+      "name": "alexsmobs:bison_carpet"
+    },
+    {
+      "name": "fundamentallyfixed:raccoon_tail_block"
+    },
+    {
+      "name": "fundamentallyfixed:cloth_block"
+    },
+    {
+      "name": "supplementaries:feather_block"
+    },
+    {
+      "name": "fundamentallyfixed:emu_feather_block"
+    },
+    {
+      "name": "fundamentallyfixed:penguin_feather_block"
+    },
+    {
+      "name": "fundamentallyfixed:maggot_block"
+    },
+    {
+      "name": "upgrade_aquatic:scute_block"
+    },
+    {
+      "name": "alexsabnormalities:crocodile_scute_block"
+    },
+    {
+      "name": "fundamentallyfixed:nautilus_shell_block"
+    },
+    {
+      "name": "fundamentallyfixed:pearl_block"
+    },
+    {
+      "name": "fundamentallyfixed:ink_sack"
+    },
+    {
+      "name": "fundamentallyfixed:glow_ink_sack"
+    },
+    {
+      "name": "minecraft:bone_block"
+    },
+    {
+      "name": "upgrade_aquatic:tooth_block"
+    },
+    {
+      "name": "alexsabnormalities:bone_serpent_tooth_block"
+    },
+    {
+      "name": "alexsabnormalities:cachalot_whale_tooth_block"
+    },
+    {
+      "name": "fundamentallyfixed:fertilizer_block"
+    },
+    {
+      "name": "fundamentallyfixed:string_block"
+    },
+
+
+    {
+      "name": "supplementaries:sugar_cube"
+    },
+    {
+      "name": "farmersdelight:carrot_crate"
+    },
+    {
+      "name": "farmersdelight:potato_crate"
+    },
+    {
+      "name": "farmersdelight:cabbage_crate"
+    },
+    {
+      "name": "farmersdelight:tomato_crate"
+    },
+    {
+      "name": "farmersdelight:onion_crate"
+    },
+    {
+      "name": "culturaldelights:cucumber_crate"
+    },
+    {
+      "name": "culturaldelights:pickle_crate"
+    },
+    {
+      "name": "incubation:chicken_egg_crate"
+    },
+    {
+      "name": "autumnity:turkey_egg_crate"
+    },
+    {
+      "name": "environmental:duck_egg_crate"
+    },
+    {
+      "name": "incubation:turtle_egg_crate"
+    },
+    {
+      "name": "neapolitan:vanilla_pod_block"
+    },
+    {
+      "name": "neapolitan:dried_vanilla_pod_block"
+    },
+    {
+      "name": "minecraft:dried_kelp_block"
+    },
+    {
+      "name": "quark:cocoa_beans_sack"
+    },
+    {
+      "name": "quark:nether_wart_sack"
+    },
+    {
+      "name": "quark:gunpowder_sack"
+    },
+    {
+      "name": "savage_and_ravage:creeper_spore_sack"
+    },
+    {
+      "name": "neapolitan:mint_basket"
+    },
+    {
+      "name": "autumnity:foul_berry_sack"
+    },
+    {
+      "name": "environmental:cattail_seed_sack"
+    },
+    {
+      "name": "farmersdelight:rice_bag"
+    },
+    {
+      "name": "farmersrespite:green_tea_leaves_sack"
+    },
+    {
+      "name": "farmersrespite:yellow_tea_leaves_sack"
+    },
+    {
+      "name": "farmersrespite:black_tea_leaves_sack"
+    },
+    {
+      "name": "atmospheric:aloe_bundle"
+    },
+    {
+      "name": "minecraft:hay_block"
+    },
+    {
+      "name": "farmersdelight:rice_bale"
+    },
+    {
+      "name": "quark:chorus_fruit_block"
+    }
+  ]
+}

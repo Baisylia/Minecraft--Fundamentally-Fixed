@@ -1,0 +1,927 @@
+{
+  "tab_enabled": true,
+  "tab_name": "plants",
+  "tab_stack": { "name": "minecraft:grass"},
+  "tab_items": [
+    {
+      "name": "fundamentallyfixed:acorn"
+    },
+    {
+      "name": "minecraft:oak_sapling"
+    },
+    {
+      "name": "minecraft:oak_leaves"
+    },
+    {
+      "name": "woodworks:oak_leaf_pile"
+    },
+    {
+      "name": "quark:oak_hedge"
+    },
+    {
+      "name": "minecraft:vines"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:wisteria_pod"
+    },
+    {
+      "name": "environmental:white_wisteria_sapling"
+    },
+    {
+      "name": "environmental:pink_wisteria_sapling"
+    },
+    {
+      "name": "environmental:purple_wisteria_sapling"
+    },
+    {
+      "name": "environmental:blue_wisteria_sapling"
+    },
+    {
+      "name": "environmental:white_wisteria_leaves"
+    },
+    {
+      "name": "environmental:pink_wisteria_leaves"
+    },
+    {
+      "name": "environmental:purple_wisteria_leaves"
+    },
+    {
+      "name": "environmental:blue_wisteria_leaves"
+    },
+    {
+      "name": "environmental:white_hanging_wisteria_leaves"
+    },
+    {
+      "name": "environmental:pink_hanging_wisteria_leaves"
+    },
+    {
+      "name": "environmental:purple_hanging_wisteria_leaves"
+    },
+    {
+      "name": "environmental:blue_hanging_wisteria_leaves"
+    },
+    {
+      "name": "environmental:white_wisteria_leaf_pile"
+    },
+    {
+      "name": "environmental:pink_wisteria_leaf_pile"
+    },
+    {
+      "name": "environmental:purple_wisteria_leaf_pile"
+    },
+    {
+      "name": "environmental:blue_wisteria_leaf_pile"
+    },
+    {
+      "name": "environmental:white_wisteria_hedge"
+    },
+    {
+      "name": "environmental:pink_wisteria_hedge"
+    },
+    {
+      "name": "environmental:purple_wisteria_hedge"
+    },
+    {
+      "name": "environmental:blue_wisteria_hedge"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:birch_nutlet"
+    },
+    {
+      "name": "minecraft:birch_sapling"
+    },
+    {
+      "name": "minecraft:birch_leaves"
+    },
+    {
+      "name": "woodworks:birch_leaf_pile"
+    },
+    {
+      "name": "quark:birch_hedge"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:grimwood_seeds"
+    },
+    {
+      "name": "atmospheric:grimwood_sapling"
+    },
+    {
+      "name": "atmospheric:grimwood_leaves"
+    },
+    {
+      "name": "atmospheric:grimwood_leaf_pile"
+    },
+    {
+      "name": "atmospheric:grimwood_hedge"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:sprucecone"
+    },
+    {
+      "name": "minecraft:spruce_sapling"
+    },
+    {
+      "name": "minecraft:spruce_leaves"
+    },
+    {
+      "name": "woodworks:spruce_leaf_pile"
+    },
+    {
+      "name": "quark:spruce_hedge"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:mahogany_capsule"
+    },
+    {
+      "name": "minecraft:mangrove_propagule"
+    },
+    {
+      "name": "minecraft:mangrove_leaves"
+    },
+    {
+      "name": "woodworks:mangrove_leaf_pile"
+    },
+    {
+      "name": "quark:mangrove_hedge"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:maple_seeds"
+    },
+    {
+      "name": "autumnity:maple_sapling"
+    },
+    {
+      "name": "autumnity:yellow_maple_sapling"
+    },
+    {
+      "name": "autumnity:orange_maple_sapling"
+    },
+    {
+      "name": "autumnity:red_maple_sapling"
+    },
+    {
+      "name": "autumnity:maple_leaves"
+    },
+    {
+      "name": "autumnity:yellow_maple_leaves"
+    },
+    {
+      "name": "autumnity:orange_maple_leaves"
+    },
+    {
+      "name": "autumnity:red_maple_leaves"
+    },
+    {
+      "name": "autumnity:maple_leaf_pile"
+    },
+    {
+      "name": "autumnity:yellow_maple_leaf_pile"
+    },
+    {
+      "name": "autumnity:orange_maple_leaf_pile"
+    },
+    {
+      "name": "autumnity:red_maple_leaf_pile"
+    },
+    {
+      "name": "autumnity:maple_hedge"
+    },
+    {
+      "name": "autumnity:yellow_maple_hedge"
+    },
+    {
+      "name": "autumnity:orange_maple_hedge"
+    },
+    {
+      "name": "autumnity:red_maple_hedge"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:aspen_catkin"
+    },
+    {
+      "name": "atmospheric:aspen_sapling"
+    },
+    {
+      "name": "atmospheric:aspen_leaves"
+    },
+    {
+      "name": "atmospheric:aspen_leaf_pile"
+    },
+    {
+      "name": "atmospheric:aspen_hedge"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:azalea_seeds"
+    },
+    {
+      "name": "minecraft:azalea"
+    },
+    {
+      "name": "minecraft:flowering_azalea"
+    },
+    {
+      "name": "minecraft:azalea_leaves"
+    },
+    {
+      "name": "minecraft:flowering_azalea_leaves"
+    },
+    {
+      "name": "woodworks:azalea_leaf_pile"
+    },
+    {
+      "name": "woodworks:flowering_azalea_leaf_pile"
+    },
+    {
+      "name": "quark:azalea_hedge"
+    },
+    {
+      "name": "quark:flowering_azalea_hedge"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:willow_seeds"
+    },
+    {
+      "name": "environmental:willow_sapling"
+    },
+    {
+      "name": "environmental:willow_leaves"
+    },
+    {
+      "name": "environmental:hanging_willow_leaves"
+    },
+    {
+      "name": "environmental:willow_leaf_pile"
+    },
+    {
+      "name": "environmental:willow_hedge"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:kousa_berries"
+    },
+    {
+      "name": "atmospheric:kousa_sapling"
+    },
+    {
+      "name": "atmospheric:kousa_leaves"
+    },
+    {
+      "name": "atmospheric:kousa_leaf_pile"
+    },
+    {
+      "name": "atmospheric:kousa_hedge"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:cherry_pips"
+    },
+    {
+      "name": "environmental:cherry_sapling"
+    },
+    {
+      "name": "environmental:cherry_leaves"
+    },
+    {
+      "name": "environmental:cherry_leaf_pile"
+    },
+    {
+      "name": "environmental:cherry_hedge"
+    },
+
+
+    {
+      "name": "atmospheric:yucca_flower"
+    },
+    {
+      "name": "atmospheric:tall_yucca_flower"
+    },
+    {
+      "name": "atmospheric:yucca_sapling"
+    },
+    {
+      "name": "atmospheric:yucca_leaves"
+    },
+    {
+      "name": "atmospheric:yucca_leaf_pile"
+    },
+    {
+      "name": "atmospheric:yucca_hedge"
+    },
+    {
+      "name": "atmospheric:yucca_branch"
+    },
+    {
+      "name": "atmospheric:yucca_bundle"
+    },
+    {
+      "name": "atmospheric:roasted_yucca_bundle"
+    },
+
+
+    {
+      "name": "ecologics:coconut_seedling"
+    },
+    {
+      "name": "ecologics:coconut_sapling"
+    },
+    {
+      "name": "ecologics:coconut_leaves"
+    },
+    {
+      "name": "everycomp:abnww/ecologics/coconut_leaf_pile"
+    },
+    {
+      "name": "everycomp:q/ecologics/coconut_hedge"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:passionfruit_seeds"
+    },
+    {
+      "name": "atmospheric:morado_sapling"
+    },
+    {
+      "name": "atmospheric:morado_leaves"
+    },
+    {
+      "name": "atmospheric:flowering_morado_leaves"
+    },
+    {
+      "name": "atmospheric:morado_leaf_pile"
+    },
+    {
+      "name": "atmospheric:flowering_morado_leaf_pile"
+    },
+    {
+      "name": "atmospheric:morado_hedge"
+    },
+    {
+      "name": "atmospheric:flowering_morado_hedge"
+    },
+    {
+      "name": "atmospheric:passion_vine"
+    },
+    {
+      "name": "atmospheric:passion_vine_coil"
+    },
+    {
+      "name": "atmospheric:passion_vine_bundle"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:acacia_blossoms"
+    },
+    {
+      "name": "minecraft:acacia_sapling"
+    },
+    {
+      "name": "minecraft:acacia_leaves"
+    },
+    {
+      "name": "woodworks:acacia_leaf_pile"
+    },
+    {
+      "name": "quark:acacia_hedge"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:cocoa_seeds"
+    },
+    {
+      "name": "minecraft:jungle_sapling"
+    },
+    {
+      "name": "minecraft:jungle_leaves"
+    },
+    {
+      "name": "woodworks:jungle_leaf_pile"
+    },
+    {
+      "name": "quark:jungle_hedge"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:rosewood_seeds"
+    },
+    {
+      "name": "atmospheric:rosewood_sapling"
+    },
+    {
+      "name": "atmospheric:rosewood_leaves"
+    },
+    {
+      "name": "atmospheric:rosewood_leaf_pile"
+    },
+    {
+      "name": "atmospheric:rosewood_hedge"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:avocado_pit"
+    },
+    {
+      "name": "culturaldelights:avocado_sapling"
+    },
+    {
+      "name": "culturaldelights:avocado_leaves"
+    },
+    {
+      "name": "culturaldelights:fruiting_avocado_leaves"
+    },
+    {
+      "name": "everycomp:abnww/culturaldelights/avocado_leaf_pile"
+    },
+    {
+      "name": "everycomp:abnww/culturaldelights/fruiting_avocado_leaf_pile"
+    },
+    {
+      "name": "everycomp:q/culturaldelights/avocado_hedge"
+    },
+    {
+      "name": "everycomp:q/culturaldelights/fruiting_avocado_hedge"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:bamboo_seeds"
+    },
+    {
+      "name": "minecraft:bamboo"
+    },
+    {
+      "name": "neapolitan:small_banana_frond"
+    },
+    {
+      "name": "neapolitan:banana_frond"
+    },
+    {
+      "name": "neapolitan:large_banana_frond"
+    },
+    {
+      "name": "neapolitan:banana_stalk"
+    },
+    {
+      "name": "neapolitan:carved_banana_stalk"
+    },
+    {
+      "name": "neapolitan:banana_thatch"
+    },
+    {
+      "name": "neapolitan:banana_thatch_stairs"
+    },
+    {
+      "name": "neapolitan:banana_thatch_slab"
+    },
+    {
+      "name": "upgrade_aquatic:beachgrass"
+    },
+    {
+      "name": "upgrade_aquatic:tall_beachgrass"
+    },
+    {
+      "name": "upgrade_aquatic:beachgrass_thatch"
+    },
+    {
+      "name": "upgrade_aquatic:beachgrass_thatch_stairs"
+    },
+    {
+      "name": "upgrade_aquatic:beachgrass_thatch_slab"
+    },
+    {
+      "name": "environmental:duckweed"
+    },
+    {
+      "name": "environmental:duckweed_thatch"
+    },
+    {
+      "name": "environmental:duckweed_thatch_stairs"
+    },
+    {
+      "name": "environmental:duckweed_thatch_slab"
+    },
+    {
+      "name": "environmental:cattail_seeds"
+    },
+    {
+      "name": "environmental:cattail"
+    },
+    {
+      "name": "environmental:tall_cattail"
+    },
+    {
+      "name": "environmental:cattail_thatch"
+    },
+    {
+      "name": "environmental:cattail_thatch_stairs"
+    },
+    {
+      "name": "environmental:cattail_thatch_slab"
+    },
+    {
+      "name": "fundamentallyfixed:grass_seeds"
+    },
+    {
+      "name": "minecraft:grass"
+    },
+    {
+      "name": "minecraft:tall_grass"
+    },
+    {
+      "name": "environmental:grass_thatch"
+    },
+    {
+      "name": "environmental:grass_thatch_stairs"
+    },
+    {
+      "name": "environmental:grass_thatch_slab"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:fern_spores"
+    },
+    {
+      "name": "minecraft:fern"
+    },
+    {
+      "name": "minecraft:large_fern"
+    },
+    {
+      "name": "fundamentallyfixed:wheat_seeds_fixed"
+    },
+    {
+      "name": "culturaldelights:wild_corn"
+    },
+    {
+      "name": "culturaldelights:corn_kernels"
+    },
+    {
+      "name": "farmersdelight:wild_rice"
+    },
+    {
+      "name": "farmersdelight:rice"
+    },
+    {
+      "name": "farmersdelight:rice_panicle"
+    },
+    {
+      "name": "farmersdelight:wild_potatoes"
+    },
+    {
+      "name": "minecraft:potato"
+    },
+    {
+      "name": "farmersdelight:wild_carrots"
+    },
+    {
+      "name": "minecraft:carrot"
+    },
+    {
+      "name": "culturaldelights:wild_eggplants"
+    },
+    {
+      "name": "culturaldelights:eggplant_seeds"
+    },
+    {
+      "name": "farmersdelight:wild_cabbages"
+    },
+    {
+      "name": "farmersdelight:cabbage_seeds"
+    },
+    {
+      "name": "farmersdelight:wild_tomatoes"
+    },
+    {
+      "name": "farmersdelight:tomato_seeds"
+    },
+    //{
+    //  "name": "culturaldelights:wild_cucumbers"
+    //},
+    //{
+    //  "name": "culturaldelights:cucumber_seeds"
+    //},
+    {
+      "name": "minecraft:allium"
+    },
+    {
+      "name": "farmersdelight:onion"
+    },
+    {
+      "name": "neapolitan:mint_sprout"
+    },
+    {
+      "name": "berry_good:sweet_berry_pips"
+    },
+    {
+      "name": "berry_good:glow_berry_pips"
+    },
+    {
+      "name": "autumnity:foul_berry_pips"
+    },
+    {
+      "name": "atmospheric:aloe_kernels"
+    },
+    {
+      "name": "farmersrespite:rose_hips"
+    },
+    {
+      "name": "minecraft:rose_bush"
+    },
+    {
+      "name": "minecraft:wither_rose"
+    },
+    {
+      "name": "minecraft:sunflower"
+    },
+    {
+      "name": "minecraft:blue_orchid"
+    },
+    {
+      "name": "minecraft:dandelion"
+    },
+    {
+      "name": "minecraft:cornflower"
+    },
+    {
+      "name": "minecraft:pink_tulip"
+    },
+    {
+      "name": "minecraft:oxeye_daisy"
+    },
+    {
+      "name": "minecraft:poppy"
+    },
+    {
+      "name": "minecraft:lily_of_the_valley"
+    },
+    {
+      "name": "minecraft:lilac"
+    },
+    {
+      "name": "minecraft:peony"
+    },
+    {
+      "name": "farmersrespite:wild_tea_bush"
+    },
+    {
+      "name": "farmersrespite:tea_seeds"
+    },
+
+
+    {
+      "name": "minecraft:pumpkin_seeds"
+    },
+    {
+      "name": "minecraft:pumpkin"
+    },
+    {
+      "name": "autumnity:large_pumpkin_slice"
+    },
+    {
+      "name": "minecraft:carved_pumpkin"
+    },
+    {
+      "name": "autumnity:carved_large_pumpkin_slice"
+    },
+    {
+      "name": "minecraft:jack_o_lantern"
+    },
+    {
+      "name": "autumnity:large_jack_o_lantern_slice"
+    },
+    {
+      "name": "autumnity:soul_jack_o_lantern"
+    },
+    {
+      "name": "autumnity:large_soul_jack_o_lantern_slice"
+    },
+    {
+      "name": "autumnity:redstone_jack_o_lantern"
+    },
+    {
+      "name": "autumnity:large_redstone_jack_o_lantern_slice"
+    },
+    {
+      "name": "minecraft:melon_seeds"
+    },
+    {
+      "name": "minecraft:melon"
+    },
+
+
+    {
+      "name": "ecologics:prickly_pear"
+    },
+    {
+      "name": "minecraft:cactus"
+    },
+    {
+      "name": "minecraft:sugarcane"
+    },
+    {
+      "name": "minecraft:kelp"
+    },
+    {
+      "name": "minecraft:seagrass"
+    },
+    {
+      "name": "atmospheric:arid_sprouts"
+    },
+    {
+      "name": "minecraft:dead_bush"
+    },
+    {
+      "name": "environmental:tall_dead_bush"
+    },
+    {
+      "name": "minecraft:hanging_roots"
+    },
+    {
+      "name": "spelunkery:tangle_roots"
+    },
+    {
+      "name": "infernalexp:dullthorns"
+    },
+    {
+      "name": "minecraft:small_dripleaf"
+    },
+    {
+      "name": "minecraft:big_dripleaf"
+    },
+    {
+      "name": "minecraft:spore_blossom"
+    },
+    {
+      "name": "minecraft:lily_pad"
+    },
+    {
+      "name": "environmental:large_lily_pad"
+    },
+    {
+      "name": "environmental:giant_lily_pad"
+    },
+    {
+      "name": "minecraft:sea_pickle"
+    },
+    {
+      "name": "spelunkery:sporophyte"
+    },
+    {
+      "name": "spelunkery:tall_sporophyte"
+    },
+    {
+      "name": "upgrade_aquatic:blue_pickerelweed"
+    },
+    {
+      "name": "upgrade_aquatic:purple_pickerelweed"
+    },
+
+
+    {
+      "name": "minecraft:glow_lichen"
+    },
+    {
+      "name": "quark:glow_lichen_growth"
+    },
+    {
+      "name": "quark:glow_shroom_ring"
+    },
+    {
+      "name": "quark:glow_shroom"
+    },
+    {
+      "name": "quark:glow_shroom_block"
+    },
+    {
+      "name": "environmental:mycelium_sprouts"
+    },
+    {
+      "name": "minecraft:brown_mushroom"
+    },
+    {
+      "name": "farmersdelight:brown_mushroom_colony"
+    },
+    {
+      "name": "minecraft:brown_mushroom_block"
+    },
+    {
+      "name": "minecraft:red_mushroom"
+    },
+    {
+      "name": "farmersdelight:red_mushroom_colony"
+    },
+    {
+      "name": "minecraft:red_mushroom_block"
+    },
+    {
+      "name": "minecraft:nether_sprouts"
+    },
+    {
+      "name": "minecraft:warped_roots"
+    },
+    {
+      "name": "minecraft:warped_fungus"
+    },
+    {
+      "name": "nethersdelight:warped_fungus_colony"
+    },
+    {
+      "name": "infernalexp:warped_fungus_cap"
+    },
+    {
+      "name": "minecraft:warped_wart_block"
+    },
+    {
+      "name": "minecraft:twisting_vines"
+    },
+    {
+      "name": "minecraft:crimson_roots"
+    },
+    {
+      "name": "minecraft:crimson_fungus"
+    },
+    {
+      "name": "nethersdelight:crimson_fungus_colony"
+    },
+    {
+      "name": "infernalexp:crimson_fungus_cap"
+    },
+    {
+      "name": "minecraft:nether_wart_block"
+    },
+    {
+      "name": "minecraft:weeping_vines"
+    },
+    {
+      "name": "infernalexp:luminous_fungus"
+    },
+    {
+      "name": "infernalexp:luminous_fungus_cap"
+    },
+    {
+      "name": "infernalexp:luminous_wart_block"
+    },
+    {
+      "name": "minecraft:shroomlight"
+    },
+    {
+      "name": "infernalexp:shroomlight_fungus"
+    },
+    {
+      "name": "nethersdelight:propelplant_cane"
+    },
+    {
+      "name": "minecraft:nether_wart"
+    },
+
+
+    {
+      "name": "quark:chorus_weeds"
+    },
+    {
+      "name": "quark:chorus_twist"
+    },
+    {
+      "name": "minecraft:chorus_plant"
+    },
+    {
+      "name": "minecraft:chorus_flower"
+    },
+
+
+    {
+      "name": "neapolitan:magic_beans"
+    },
+    {
+      "name": "neapolitan:beanstalk"
+    },
+    {
+      "name": "neapolitan:beanstalk_thorns"
+    }
+  ]
+}

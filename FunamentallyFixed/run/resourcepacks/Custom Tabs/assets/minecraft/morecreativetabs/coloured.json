@@ -1,0 +1,2197 @@
+{
+  "tab_enabled": true,
+  "tab_name": "coloured",
+  "tab_stack": { "name": "minecraft:cyan_wool"},
+  "tab_items": [
+    {
+      "name": "minecraft:white_wool"
+    },
+    {
+      "name": "minecraft:white_carpet"
+    },
+    {
+      "name": "upgrade_aquatic:white_bedroll"
+    },
+    {
+      "name": "sleep_tight:hammock_white"
+    },
+    {
+      "name": "minecraft:white_bed"
+    },
+    {
+      "name": "create:white_seat"
+    },
+    {
+      "name": "minecraft:white_concrete_powder"
+    },
+    {
+      "name": "oreganized:waxed_white_concrete_powder"
+    },
+    {
+      "name": "minecraft:white_concrete"
+    },
+    {
+      "name": "minecraft:white_terracotta"
+    },
+    {
+      "name": "clayworks:white_terracotta_stairs"
+    },
+    {
+      "name": "clayworks:white_terracotta_slab"
+    },
+    {
+      "name": "clayworks:white_terracotta_wall"
+    },
+    {
+      "name": "quark:white_shingles"
+    },
+    {
+      "name": "quark:white_shingles_stairs"
+    },
+    {
+      "name": "quark:white_shingles_slab"
+    },
+    {
+      "name": "fundamentallyfixed:white_shingle_wall"
+    },
+    {
+      "name": "clayworks:white_terracotta_bricks"
+    },
+    {
+      "name": "clayworks:white_terracotta_brick_stairs"
+    },
+    {
+      "name": "clayworks:white_terracotta_brick_slab"
+    },
+    {
+      "name": "clayworks:white_terracotta_brick_wall"
+    },
+    {
+      "name": "clayworks:chiseled_white_terracotta_bricks"
+    },
+    {
+      "name": "minecraft:white_glazed_terracotta"
+    },
+    {
+      "name": "oreganized:white_crystal_glass"
+    },
+    {
+      "name": "oreganized:white_crystal_glass_pane"
+    },
+    {
+      "name": "minecraft:white_stained_glass"
+    },
+    {
+      "name": "minecraft:white_stained_glass_pane"
+    },
+    {
+      "name": "quark:white_framed_glass"
+    },
+    {
+      "name": "quark:white_framed_glass_pane"
+    },
+    {
+      "name": "minecraft:white_shulker_box"
+    },
+    {
+      "name": "minecraft:white_candle"
+    },
+    {
+      "name": "supplementaries:candle_holder_white"
+    },
+    {
+      "name": "minecraft:white_glowstick"
+    },
+    {
+      "name": "moreminecarts:color_detector_rail_white"
+    },
+    {
+      "name": "moreminecarts:rail_signal_white"
+    },
+    {
+      "name": "minecraft:white_banner"
+    },
+    {
+      "name": "supplementaries:flag_white"
+    },
+    {
+      "name": "farmersdelight:white_canvas_sign"
+    },
+    {
+      "name": "suppsquared:sack_white"
+    },
+    {
+      "name": "supplementaries:present_white"
+    },
+    {
+      "name": "supplementaries:trapped_present_white"
+    },
+    {
+      "name": "another_furniture:white_sofa"
+    },
+    {
+      "name": "another_furniture:white_tall_stool"
+    },
+    {
+      "name": "another_furniture:white_lamp"
+    },
+    {
+      "name": "another_furniture:white_curtain"
+    },
+
+
+    {
+      "name": "minecraft:pink_wool"
+    },
+    {
+      "name": "minecraft:pink_carpet"
+    },
+    {
+      "name": "upgrade_aquatic:pink_bedroll"
+    },
+    {
+      "name": "sleep_tight:hammock_pink"
+    },
+    {
+      "name": "minecraft:pink_bed"
+    },
+    {
+      "name": "create:pink_seat"
+    },
+    {
+      "name": "minecraft:pink_concrete_powder"
+    },
+    {
+      "name": "oreganized:waxed_pink_concrete_powder"
+    },
+    {
+      "name": "minecraft:pink_concrete"
+    },
+    {
+      "name": "minecraft:pink_terracotta"
+    },
+    {
+      "name": "clayworks:pink_terracotta_stairs"
+    },
+    {
+      "name": "clayworks:pink_terracotta_slab"
+    },
+    {
+      "name": "clayworks:pink_terracotta_wall"
+    },
+    {
+      "name": "quark:pink_shingles"
+    },
+    {
+      "name": "quark:pink_shingles_stairs"
+    },
+    {
+      "name": "quark:pink_shingles_slab"
+    },
+    {
+      "name": "fundamentallyfixed:pink_shingle_wall"
+    },
+    {
+      "name": "clayworks:pink_terracotta_bricks"
+    },
+    {
+      "name": "clayworks:pink_terracotta_brick_stairs"
+    },
+    {
+      "name": "clayworks:pink_terracotta_brick_slab"
+    },
+    {
+      "name": "clayworks:pink_terracotta_brick_wall"
+    },
+    {
+      "name": "clayworks:chiseled_pink_terracotta_bricks"
+    },
+    {
+      "name": "minecraft:pink_glazed_terracotta"
+    },
+    {
+      "name": "oreganized:pink_crystal_glass"
+    },
+    {
+      "name": "oreganized:pink_crystal_glass_pane"
+    },
+    {
+      "name": "minecraft:pink_stained_glass"
+    },
+    {
+      "name": "minecraft:pink_stained_glass_pane"
+    },
+    {
+      "name": "quark:pink_framed_glass"
+    },
+    {
+      "name": "quark:pink_framed_glass_pane"
+    },
+    {
+      "name": "minecraft:pink_shulker_box"
+    },
+    {
+      "name": "minecraft:pink_candle"
+    },
+    {
+      "name": "supplementaries:candle_holder_pink"
+    },
+    {
+      "name": "minecraft:pink_glowstick"
+    },
+    {
+      "name": "moreminecarts:color_detector_rail_pink"
+    },
+    {
+      "name": "moreminecarts:rail_signal_pink"
+    },
+    {
+      "name": "minecraft:pink_banner"
+    },
+    {
+      "name": "supplementaries:flag_pink"
+    },
+    {
+      "name": "farmersdelight:pink_canvas_sign"
+    },
+    {
+      "name": "suppsquared:sack_pink"
+    },
+    {
+      "name": "supplementaries:present_pink"
+    },
+    {
+      "name": "supplementaries:trapped_present_pink"
+    },
+    {
+      "name": "another_furniture:pink_sofa"
+    },
+    {
+      "name": "another_furniture:pink_tall_stool"
+    },
+    {
+      "name": "another_furniture:pink_lamp"
+    },
+    {
+      "name": "another_furniture:pink_curtain"
+    },
+
+
+    {
+      "name": "minecraft:magenta_wool"
+    },
+    {
+      "name": "minecraft:magenta_carpet"
+    },
+    {
+      "name": "upgrade_aquatic:magenta_bedroll"
+    },
+    {
+      "name": "sleep_tight:hammock_magenta"
+    },
+    {
+      "name": "minecraft:magenta_bed"
+    },
+    {
+      "name": "create:magenta_seat"
+    },
+    {
+      "name": "minecraft:magenta_concrete_powder"
+    },
+    {
+      "name": "oreganized:waxed_magenta_concrete_powder"
+    },
+    {
+      "name": "minecraft:magenta_concrete"
+    },
+    {
+      "name": "minecraft:magenta_terracotta"
+    },
+    {
+      "name": "clayworks:magenta_terracotta_stairs"
+    },
+    {
+      "name": "clayworks:magenta_terracotta_slab"
+    },
+    {
+      "name": "clayworks:magenta_terracotta_wall"
+    },
+    {
+      "name": "quark:magenta_shingles"
+    },
+    {
+      "name": "quark:magenta_shingles_stairs"
+    },
+    {
+      "name": "quark:magenta_shingles_slab"
+    },
+    {
+      "name": "fundamentallyfixed:magenta_shingle_wall"
+    },
+    {
+      "name": "clayworks:magenta_terracotta_bricks"
+    },
+    {
+      "name": "clayworks:magenta_terracotta_brick_stairs"
+    },
+    {
+      "name": "clayworks:magenta_terracotta_brick_slab"
+    },
+    {
+      "name": "clayworks:magenta_terracotta_brick_wall"
+    },
+    {
+      "name": "clayworks:chiseled_magenta_terracotta_bricks"
+    },
+    {
+      "name": "minecraft:magenta_glazed_terracotta"
+    },
+    {
+      "name": "oreganized:magenta_crystal_glass"
+    },
+    {
+      "name": "oreganized:magenta_crystal_glass_pane"
+    },
+    {
+      "name": "minecraft:magenta_stained_glass"
+    },
+    {
+      "name": "minecraft:magenta_stained_glass_pane"
+    },
+    {
+      "name": "quark:magenta_framed_glass"
+    },
+    {
+      "name": "quark:magenta_framed_glass_pane"
+    },
+    {
+      "name": "minecraft:magenta_shulker_box"
+    },
+    {
+      "name": "minecraft:magenta_candle"
+    },
+    {
+      "name": "supplementaries:candle_holder_magenta"
+    },
+    {
+      "name": "minecraft:magenta_glowstick"
+    },
+    {
+      "name": "moreminecarts:color_detector_rail_magenta"
+    },
+    {
+      "name": "moreminecarts:rail_signal_magenta"
+    },
+    {
+      "name": "minecraft:magenta_banner"
+    },
+    {
+      "name": "supplementaries:flag_magenta"
+    },
+    {
+      "name": "farmersdelight:magenta_canvas_sign"
+    },
+    {
+      "name": "suppsquared:sack_magenta"
+    },
+    {
+      "name": "supplementaries:present_magenta"
+    },
+    {
+      "name": "supplementaries:trapped_present_magenta"
+    },
+    {
+      "name": "another_furniture:magenta_sofa"
+    },
+    {
+      "name": "another_furniture:magenta_tall_stool"
+    },
+    {
+      "name": "another_furniture:magenta_lamp"
+    },
+    {
+      "name": "another_furniture:magenta_curtain"
+    },
+
+
+    {
+      "name": "minecraft:purple_wool"
+    },
+    {
+      "name": "minecraft:purple_carpet"
+    },
+    {
+      "name": "upgrade_aquatic:purple_bedroll"
+    },
+    {
+      "name": "sleep_tight:hammock_purple"
+    },
+    {
+      "name": "minecraft:purple_bed"
+    },
+    {
+      "name": "create:purple_seat"
+    },
+    {
+      "name": "minecraft:purple_concrete_powder"
+    },
+    {
+      "name": "oreganized:waxed_purple_concrete_powder"
+    },
+    {
+      "name": "minecraft:purple_concrete"
+    },
+    {
+      "name": "minecraft:purple_terracotta"
+    },
+    {
+      "name": "clayworks:purple_terracotta_stairs"
+    },
+    {
+      "name": "clayworks:purple_terracotta_slab"
+    },
+    {
+      "name": "clayworks:purple_terracotta_wall"
+    },
+    {
+      "name": "quark:purple_shingles"
+    },
+    {
+      "name": "quark:purple_shingles_stairs"
+    },
+    {
+      "name": "quark:purple_shingles_slab"
+    },
+    {
+      "name": "fundamentallyfixed:purple_shingle_wall"
+    },
+    {
+      "name": "clayworks:purple_terracotta_bricks"
+    },
+    {
+      "name": "clayworks:purple_terracotta_brick_stairs"
+    },
+    {
+      "name": "clayworks:purple_terracotta_brick_slab"
+    },
+    {
+      "name": "clayworks:purple_terracotta_brick_wall"
+    },
+    {
+      "name": "clayworks:chiseled_purple_terracotta_bricks"
+    },
+    {
+      "name": "minecraft:purple_glazed_terracotta"
+    },
+    {
+      "name": "oreganized:purple_crystal_glass"
+    },
+    {
+      "name": "oreganized:purple_crystal_glass_pane"
+    },
+    {
+      "name": "minecraft:purple_stained_glass"
+    },
+    {
+      "name": "minecraft:purple_stained_glass_pane"
+    },
+    {
+      "name": "quark:purple_framed_glass"
+    },
+    {
+      "name": "quark:purple_framed_glass_pane"
+    },
+    {
+      "name": "minecraft:purple_shulker_box"
+    },
+    {
+      "name": "minecraft:purple_candle"
+    },
+    {
+      "name": "supplementaries:candle_holder_purple"
+    },
+    {
+      "name": "minecraft:purple_glowstick"
+    },
+    {
+      "name": "moreminecarts:color_detector_rail_purple"
+    },
+    {
+      "name": "moreminecarts:rail_signal_purple"
+    },
+    {
+      "name": "minecraft:purple_banner"
+    },
+    {
+      "name": "supplementaries:flag_purple"
+    },
+    {
+      "name": "farmersdelight:purple_canvas_sign"
+    },
+    {
+      "name": "suppsquared:sack_purple"
+    },
+    {
+      "name": "supplementaries:present_purple"
+    },
+    {
+      "name": "supplementaries:trapped_present_purple"
+    },
+    {
+      "name": "another_furniture:purple_sofa"
+    },
+    {
+      "name": "another_furniture:purple_tall_stool"
+    },
+    {
+      "name": "another_furniture:purple_lamp"
+    },
+    {
+      "name": "another_furniture:purple_curtain"
+    },
+
+
+    {
+      "name": "minecraft:blue_wool"
+    },
+    {
+      "name": "minecraft:blue_carpet"
+    },
+    {
+      "name": "upgrade_aquatic:blue_bedroll"
+    },
+    {
+      "name": "sleep_tight:hammock_blue"
+    },
+    {
+      "name": "minecraft:blue_bed"
+    },
+    {
+      "name": "create:blue_seat"
+    },
+    {
+      "name": "minecraft:blue_concrete_powder"
+    },
+    {
+      "name": "oreganized:waxed_blue_concrete_powder"
+    },
+    {
+      "name": "minecraft:blue_concrete"
+    },
+    {
+      "name": "minecraft:blue_terracotta"
+    },
+    {
+      "name": "clayworks:blue_terracotta_stairs"
+    },
+    {
+      "name": "clayworks:blue_terracotta_slab"
+    },
+    {
+      "name": "clayworks:blue_terracotta_wall"
+    },
+    {
+      "name": "quark:blue_shingles"
+    },
+    {
+      "name": "quark:blue_shingles_stairs"
+    },
+    {
+      "name": "quark:blue_shingles_slab"
+    },
+    {
+      "name": "fundamentallyfixed:blue_shingle_wall"
+    },
+    {
+      "name": "clayworks:blue_terracotta_bricks"
+    },
+    {
+      "name": "clayworks:blue_terracotta_brick_stairs"
+    },
+    {
+      "name": "clayworks:blue_terracotta_brick_slab"
+    },
+    {
+      "name": "clayworks:blue_terracotta_brick_wall"
+    },
+    {
+      "name": "clayworks:chiseled_blue_terracotta_bricks"
+    },
+    {
+      "name": "minecraft:blue_glazed_terracotta"
+    },
+    {
+      "name": "oreganized:blue_crystal_glass"
+    },
+    {
+      "name": "oreganized:blue_crystal_glass_pane"
+    },
+    {
+      "name": "minecraft:blue_stained_glass"
+    },
+    {
+      "name": "minecraft:blue_stained_glass_pane"
+    },
+    {
+      "name": "quark:blue_framed_glass"
+    },
+    {
+      "name": "quark:blue_framed_glass_pane"
+    },
+    {
+      "name": "minecraft:blue_shulker_box"
+    },
+    {
+      "name": "minecraft:blue_candle"
+    },
+    {
+      "name": "supplementaries:candle_holder_blue"
+    },
+    {
+      "name": "minecraft:blue_glowstick"
+    },
+    {
+      "name": "moreminecarts:color_detector_rail_blue"
+    },
+    {
+      "name": "moreminecarts:rail_signal_blue"
+    },
+    {
+      "name": "minecraft:blue_banner"
+    },
+    {
+      "name": "supplementaries:flag_blue"
+    },
+    {
+      "name": "farmersdelight:blue_canvas_sign"
+    },
+    {
+      "name": "suppsquared:sack_blue"
+    },
+    {
+      "name": "supplementaries:present_blue"
+    },
+    {
+      "name": "supplementaries:trapped_present_blue"
+    },
+    {
+      "name": "another_furniture:blue_sofa"
+    },
+    {
+      "name": "another_furniture:blue_tall_stool"
+    },
+    {
+      "name": "another_furniture:blue_lamp"
+    },
+    {
+      "name": "another_furniture:blue_curtain"
+    },
+
+
+    {
+      "name": "minecraft:light_blue_wool"
+    },
+    {
+      "name": "minecraft:light_blue_carpet"
+    },
+    {
+      "name": "upgrade_aquatic:light_blue_bedroll"
+    },
+    {
+      "name": "sleep_tight:hammock_light_blue"
+    },
+    {
+      "name": "minecraft:light_blue_bed"
+    },
+    {
+      "name": "create:light_blue_seat"
+    },
+    {
+      "name": "minecraft:light_blue_concrete_powder"
+    },
+    {
+      "name": "oreganized:waxed_light_blue_concrete_powder"
+    },
+    {
+      "name": "minecraft:light_blue_concrete"
+    },
+    {
+      "name": "minecraft:light_blue_terracotta"
+    },
+    {
+      "name": "clayworks:light_blue_terracotta_stairs"
+    },
+    {
+      "name": "clayworks:light_blue_terracotta_slab"
+    },
+    {
+      "name": "clayworks:light_blue_terracotta_wall"
+    },
+    {
+      "name": "quark:light_blue_shingles"
+    },
+    {
+      "name": "quark:light_blue_shingles_stairs"
+    },
+    {
+      "name": "quark:light_blue_shingles_slab"
+    },
+    {
+      "name": "fundamentallyfixed:light_blue_shingle_wall"
+    },
+    {
+      "name": "clayworks:light_blue_terracotta_bricks"
+    },
+    {
+      "name": "clayworks:light_blue_terracotta_brick_stairs"
+    },
+    {
+      "name": "clayworks:light_blue_terracotta_brick_slab"
+    },
+    {
+      "name": "clayworks:light_blue_terracotta_brick_wall"
+    },
+    {
+      "name": "clayworks:chiseled_light_blue_terracotta_bricks"
+    },
+    {
+      "name": "minecraft:light_blue_glazed_terracotta"
+    },
+    {
+      "name": "oreganized:light_blue_crystal_glass"
+    },
+    {
+      "name": "oreganized:light_blue_crystal_glass_pane"
+    },
+    {
+      "name": "minecraft:light_blue_stained_glass"
+    },
+    {
+      "name": "minecraft:light_blue_stained_glass_pane"
+    },
+    {
+      "name": "quark:light_blue_framed_glass"
+    },
+    {
+      "name": "quark:light_blue_framed_glass_pane"
+    },
+    {
+      "name": "minecraft:light_blue_shulker_box"
+    },
+    {
+      "name": "minecraft:light_blue_candle"
+    },
+    {
+      "name": "supplementaries:candle_holder_light_blue"
+    },
+    {
+      "name": "minecraft:light_blue_glowstick"
+    },
+    {
+      "name": "moreminecarts:color_detector_rail_light_blue"
+    },
+    {
+      "name": "moreminecarts:rail_signal_light_blue"
+    },
+    {
+      "name": "minecraft:light_blue_banner"
+    },
+    {
+      "name": "supplementaries:flag_light_blue"
+    },
+    {
+      "name": "farmersdelight:light_blue_canvas_sign"
+    },
+    {
+      "name": "suppsquared:sack_light_blue"
+    },
+    {
+      "name": "supplementaries:present_light_blue"
+    },
+    {
+      "name": "supplementaries:trapped_present_light_blue"
+    },
+    {
+      "name": "another_furniture:light_blue_sofa"
+    },
+    {
+      "name": "another_furniture:light_blue_tall_stool"
+    },
+    {
+      "name": "another_furniture:light_blue_lamp"
+    },
+    {
+      "name": "another_furniture:light_blue_curtain"
+    },
+
+
+    {
+      "name": "minecraft:cyan_wool"
+    },
+    {
+      "name": "minecraft:cyan_carpet"
+    },
+    {
+      "name": "upgrade_aquatic:cyan_bedroll"
+    },
+    {
+      "name": "sleep_tight:hammock_cyan"
+    },
+    {
+      "name": "minecraft:cyan_bed"
+    },
+    {
+      "name": "create:cyan_seat"
+    },
+    {
+      "name": "minecraft:cyan_concrete_powder"
+    },
+    {
+      "name": "oreganized:waxed_cyan_concrete_powder"
+    },
+    {
+      "name": "minecraft:cyan_concrete"
+    },
+    {
+      "name": "minecraft:cyan_terracotta"
+    },
+    {
+      "name": "clayworks:cyan_terracotta_stairs"
+    },
+    {
+      "name": "clayworks:cyan_terracotta_slab"
+    },
+    {
+      "name": "clayworks:cyan_terracotta_wall"
+    },
+    {
+      "name": "quark:cyan_shingles"
+    },
+    {
+      "name": "quark:cyan_shingles_stairs"
+    },
+    {
+      "name": "quark:cyan_shingles_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cyan_shingle_wall"
+    },
+    {
+      "name": "clayworks:cyan_terracotta_bricks"
+    },
+    {
+      "name": "clayworks:cyan_terracotta_brick_stairs"
+    },
+    {
+      "name": "clayworks:cyan_terracotta_brick_slab"
+    },
+    {
+      "name": "clayworks:cyan_terracotta_brick_wall"
+    },
+    {
+      "name": "clayworks:chiseled_cyan_terracotta_bricks"
+    },
+    {
+      "name": "minecraft:cyan_glazed_terracotta"
+    },
+    {
+      "name": "oreganized:cyan_crystal_glass"
+    },
+    {
+      "name": "oreganized:cyan_crystal_glass_pane"
+    },
+    {
+      "name": "minecraft:cyan_stained_glass"
+    },
+    {
+      "name": "minecraft:cyan_stained_glass_pane"
+    },
+    {
+      "name": "quark:cyan_framed_glass"
+    },
+    {
+      "name": "quark:cyan_framed_glass_pane"
+    },
+    {
+      "name": "minecraft:cyan_shulker_box"
+    },
+    {
+      "name": "minecraft:cyan_candle"
+    },
+    {
+      "name": "supplementaries:candle_holder_cyan"
+    },
+    {
+      "name": "minecraft:cyan_glowstick"
+    },
+    {
+      "name": "moreminecarts:color_detector_rail_cyan"
+    },
+    {
+      "name": "moreminecarts:rail_signal_cyan"
+    },
+    {
+      "name": "minecraft:cyan_banner"
+    },
+    {
+      "name": "supplementaries:flag_cyan"
+    },
+    {
+      "name": "farmersdelight:cyan_canvas_sign"
+    },
+    {
+      "name": "suppsquared:sack_cyan"
+    },
+    {
+      "name": "supplementaries:present_cyan"
+    },
+    {
+      "name": "supplementaries:trapped_present_cyan"
+    },
+    {
+      "name": "another_furniture:cyan_sofa"
+    },
+    {
+      "name": "another_furniture:cyan_tall_stool"
+    },
+    {
+      "name": "another_furniture:cyan_lamp"
+    },
+    {
+      "name": "another_furniture:cyan_curtain"
+    },
+
+
+    {
+      "name": "minecraft:green_wool"
+    },
+    {
+      "name": "minecraft:green_carpet"
+    },
+    {
+      "name": "upgrade_aquatic:green_bedroll"
+    },
+    {
+      "name": "sleep_tight:hammock_green"
+    },
+    {
+      "name": "minecraft:green_bed"
+    },
+    {
+      "name": "create:green_seat"
+    },
+    {
+      "name": "minecraft:green_concrete_powder"
+    },
+    {
+      "name": "oreganized:waxed_green_concrete_powder"
+    },
+    {
+      "name": "minecraft:green_concrete"
+    },
+    {
+      "name": "minecraft:green_terracotta"
+    },
+    {
+      "name": "clayworks:green_terracotta_stairs"
+    },
+    {
+      "name": "clayworks:green_terracotta_slab"
+    },
+    {
+      "name": "clayworks:green_terracotta_wall"
+    },
+    {
+      "name": "quark:green_shingles"
+    },
+    {
+      "name": "quark:green_shingles_stairs"
+    },
+    {
+      "name": "quark:green_shingles_slab"
+    },
+    {
+      "name": "fundamentallyfixed:green_shingle_wall"
+    },
+    {
+      "name": "clayworks:green_terracotta_bricks"
+    },
+    {
+      "name": "clayworks:green_terracotta_brick_stairs"
+    },
+    {
+      "name": "clayworks:green_terracotta_brick_slab"
+    },
+    {
+      "name": "clayworks:green_terracotta_brick_wall"
+    },
+    {
+      "name": "clayworks:chiseled_green_terracotta_bricks"
+    },
+    {
+      "name": "minecraft:green_glazed_terracotta"
+    },
+    {
+      "name": "oreganized:green_crystal_glass"
+    },
+    {
+      "name": "oreganized:green_crystal_glass_pane"
+    },
+    {
+      "name": "minecraft:green_stained_glass"
+    },
+    {
+      "name": "minecraft:green_stained_glass_pane"
+    },
+    {
+      "name": "quark:green_framed_glass"
+    },
+    {
+      "name": "quark:green_framed_glass_pane"
+    },
+    {
+      "name": "minecraft:green_shulker_box"
+    },
+    {
+      "name": "minecraft:green_candle"
+    },
+    {
+      "name": "supplementaries:candle_holder_green"
+    },
+    {
+      "name": "minecraft:green_glowstick"
+    },
+    {
+      "name": "moreminecarts:color_detector_rail_green"
+    },
+    {
+      "name": "moreminecarts:rail_signal_green"
+    },
+    {
+      "name": "minecraft:green_banner"
+    },
+    {
+      "name": "supplementaries:flag_green"
+    },
+    {
+      "name": "farmersdelight:green_canvas_sign"
+    },
+    {
+      "name": "suppsquared:sack_green"
+    },
+    {
+      "name": "supplementaries:present_green"
+    },
+    {
+      "name": "supplementaries:trapped_present_green"
+    },
+    {
+      "name": "another_furniture:green_sofa"
+    },
+    {
+      "name": "another_furniture:green_tall_stool"
+    },
+    {
+      "name": "another_furniture:green_lamp"
+    },
+    {
+      "name": "another_furniture:green_curtain"
+    },
+
+
+    {
+      "name": "minecraft:lime_wool"
+    },
+    {
+      "name": "minecraft:lime_carpet"
+    },
+    {
+      "name": "upgrade_aquatic:lime_bedroll"
+    },
+    {
+      "name": "sleep_tight:hammock_lime"
+    },
+    {
+      "name": "minecraft:lime_bed"
+    },
+    {
+      "name": "create:lime_seat"
+    },
+    {
+      "name": "minecraft:lime_concrete_powder"
+    },
+    {
+      "name": "oreganized:waxed_lime_concrete_powder"
+    },
+    {
+      "name": "minecraft:lime_concrete"
+    },
+    {
+      "name": "minecraft:lime_terracotta"
+    },
+    {
+      "name": "clayworks:lime_terracotta_stairs"
+    },
+    {
+      "name": "clayworks:lime_terracotta_slab"
+    },
+    {
+      "name": "clayworks:lime_terracotta_wall"
+    },
+    {
+      "name": "quark:lime_shingles"
+    },
+    {
+      "name": "quark:lime_shingles_stairs"
+    },
+    {
+      "name": "quark:lime_shingles_slab"
+    },
+    {
+      "name": "fundamentallyfixed:lime_shingle_wall"
+    },
+    {
+      "name": "clayworks:lime_terracotta_bricks"
+    },
+    {
+      "name": "clayworks:lime_terracotta_brick_stairs"
+    },
+    {
+      "name": "clayworks:lime_terracotta_brick_slab"
+    },
+    {
+      "name": "clayworks:lime_terracotta_brick_wall"
+    },
+    {
+      "name": "clayworks:chiseled_lime_terracotta_bricks"
+    },
+    {
+      "name": "minecraft:lime_glazed_terracotta"
+    },
+    {
+      "name": "oreganized:lime_crystal_glass"
+    },
+    {
+      "name": "oreganized:lime_crystal_glass_pane"
+    },
+    {
+      "name": "minecraft:lime_stained_glass"
+    },
+    {
+      "name": "minecraft:lime_stained_glass_pane"
+    },
+    {
+      "name": "quark:lime_framed_glass"
+    },
+    {
+      "name": "quark:lime_framed_glass_pane"
+    },
+    {
+      "name": "minecraft:lime_shulker_box"
+    },
+    {
+      "name": "minecraft:lime_candle"
+    },
+    {
+      "name": "supplementaries:candle_holder_lime"
+    },
+    {
+      "name": "minecraft:lime_glowstick"
+    },
+    {
+      "name": "moreminecarts:color_detector_rail_lime"
+    },
+    {
+      "name": "moreminecarts:rail_signal_lime"
+    },
+    {
+      "name": "minecraft:lime_banner"
+    },
+    {
+      "name": "supplementaries:flag_lime"
+    },
+    {
+      "name": "farmersdelight:lime_canvas_sign"
+    },
+    {
+      "name": "suppsquared:sack_lime"
+    },
+    {
+      "name": "supplementaries:present_lime"
+    },
+    {
+      "name": "supplementaries:trapped_present_lime"
+    },
+    {
+      "name": "another_furniture:lime_sofa"
+    },
+    {
+      "name": "another_furniture:lime_tall_stool"
+    },
+    {
+      "name": "another_furniture:lime_lamp"
+    },
+    {
+      "name": "another_furniture:lime_curtain"
+    },
+
+
+    {
+      "name": "minecraft:yellow_wool"
+    },
+    {
+      "name": "minecraft:yellow_carpet"
+    },
+    {
+      "name": "upgrade_aquatic:yellow_bedroll"
+    },
+    {
+      "name": "sleep_tight:hammock_yellow"
+    },
+    {
+      "name": "minecraft:yellow_bed"
+    },
+    {
+      "name": "create:yellow_seat"
+    },
+    {
+      "name": "minecraft:yellow_concrete_powder"
+    },
+    {
+      "name": "oreganized:waxed_yellow_concrete_powder"
+    },
+    {
+      "name": "minecraft:yellow_concrete"
+    },
+    {
+      "name": "minecraft:yellow_terracotta"
+    },
+    {
+      "name": "clayworks:yellow_terracotta_stairs"
+    },
+    {
+      "name": "clayworks:yellow_terracotta_slab"
+    },
+    {
+      "name": "clayworks:yellow_terracotta_wall"
+    },
+    {
+      "name": "quark:yellow_shingles"
+    },
+    {
+      "name": "quark:yellow_shingles_stairs"
+    },
+    {
+      "name": "quark:yellow_shingles_slab"
+    },
+    {
+      "name": "fundamentallyfixed:yellow_shingle_wall"
+    },
+    {
+      "name": "clayworks:yellow_terracotta_bricks"
+    },
+    {
+      "name": "clayworks:yellow_terracotta_brick_stairs"
+    },
+    {
+      "name": "clayworks:yellow_terracotta_brick_slab"
+    },
+    {
+      "name": "clayworks:yellow_terracotta_brick_wall"
+    },
+    {
+      "name": "clayworks:chiseled_yellow_terracotta_bricks"
+    },
+    {
+      "name": "minecraft:yellow_glazed_terracotta"
+    },
+    {
+      "name": "oreganized:yellow_crystal_glass"
+    },
+    {
+      "name": "oreganized:yellow_crystal_glass_pane"
+    },
+    {
+      "name": "minecraft:yellow_stained_glass"
+    },
+    {
+      "name": "minecraft:yellow_stained_glass_pane"
+    },
+    {
+      "name": "quark:yellow_framed_glass"
+    },
+    {
+      "name": "quark:yellow_framed_glass_pane"
+    },
+    {
+      "name": "minecraft:yellow_shulker_box"
+    },
+    {
+      "name": "minecraft:yellow_candle"
+    },
+    {
+      "name": "supplementaries:candle_holder_yellow"
+    },
+    {
+      "name": "minecraft:yellow_glowstick"
+    },
+    {
+      "name": "moreminecarts:color_detector_rail_yellow"
+    },
+    {
+      "name": "moreminecarts:rail_signal_yellow"
+    },
+    {
+      "name": "minecraft:yellow_banner"
+    },
+    {
+      "name": "supplementaries:flag_yellow"
+    },
+    {
+      "name": "farmersdelight:yellow_canvas_sign"
+    },
+    {
+      "name": "suppsquared:sack_yellow"
+    },
+    {
+      "name": "supplementaries:present_yellow"
+    },
+    {
+      "name": "supplementaries:trapped_present_yellow"
+    },
+    {
+      "name": "another_furniture:yellow_sofa"
+    },
+    {
+      "name": "another_furniture:yellow_tall_stool"
+    },
+    {
+      "name": "another_furniture:yellow_lamp"
+    },
+    {
+      "name": "another_furniture:yellow_curtain"
+    },
+
+
+    {
+      "name": "minecraft:orange_wool"
+    },
+    {
+      "name": "minecraft:orange_carpet"
+    },
+    {
+      "name": "upgrade_aquatic:orange_bedroll"
+    },
+    {
+      "name": "sleep_tight:hammock_orange"
+    },
+    {
+      "name": "minecraft:orange_bed"
+    },
+    {
+      "name": "create:orange_seat"
+    },
+    {
+      "name": "minecraft:orange_concrete_powder"
+    },
+    {
+      "name": "oreganized:waxed_orange_concrete_powder"
+    },
+    {
+      "name": "minecraft:orange_concrete"
+    },
+    {
+      "name": "minecraft:orange_terracotta"
+    },
+    {
+      "name": "clayworks:orange_terracotta_stairs"
+    },
+    {
+      "name": "clayworks:orange_terracotta_slab"
+    },
+    {
+      "name": "clayworks:orange_terracotta_wall"
+    },
+    {
+      "name": "quark:orange_shingles"
+    },
+    {
+      "name": "quark:orange_shingles_stairs"
+    },
+    {
+      "name": "quark:orange_shingles_slab"
+    },
+    {
+      "name": "fundamentallyfixed:orange_shingle_wall"
+    },
+    {
+      "name": "clayworks:orange_terracotta_bricks"
+    },
+    {
+      "name": "clayworks:orange_terracotta_brick_stairs"
+    },
+    {
+      "name": "clayworks:orange_terracotta_brick_slab"
+    },
+    {
+      "name": "clayworks:orange_terracotta_brick_wall"
+    },
+    {
+      "name": "clayworks:chiseled_orange_terracotta_bricks"
+    },
+    {
+      "name": "minecraft:orange_glazed_terracotta"
+    },
+    {
+      "name": "oreganized:orange_crystal_glass"
+    },
+    {
+      "name": "oreganized:orange_crystal_glass_pane"
+    },
+    {
+      "name": "minecraft:orange_stained_glass"
+    },
+    {
+      "name": "minecraft:orange_stained_glass_pane"
+    },
+    {
+      "name": "quark:orange_framed_glass"
+    },
+    {
+      "name": "quark:orange_framed_glass_pane"
+    },
+    {
+      "name": "minecraft:orange_shulker_box"
+    },
+    {
+      "name": "minecraft:orange_candle"
+    },
+    {
+      "name": "supplementaries:candle_holder_orange"
+    },
+    {
+      "name": "minecraft:orange_glowstick"
+    },
+    {
+      "name": "moreminecarts:color_detector_rail_orange"
+    },
+    {
+      "name": "moreminecarts:rail_signal_orange"
+    },
+    {
+      "name": "minecraft:orange_banner"
+    },
+    {
+      "name": "supplementaries:flag_orange"
+    },
+    {
+      "name": "farmersdelight:orange_canvas_sign"
+    },
+    {
+      "name": "suppsquared:sack_orange"
+    },
+    {
+      "name": "supplementaries:present_orange"
+    },
+    {
+      "name": "supplementaries:trapped_present_orange"
+    },
+    {
+      "name": "another_furniture:orange_sofa"
+    },
+    {
+      "name": "another_furniture:orange_tall_stool"
+    },
+    {
+      "name": "another_furniture:orange_lamp"
+    },
+    {
+      "name": "another_furniture:orange_curtain"
+    },
+
+
+    {
+      "name": "minecraft:red_wool"
+    },
+    {
+      "name": "minecraft:red_carpet"
+    },
+    {
+      "name": "upgrade_aquatic:red_bedroll"
+    },
+    {
+      "name": "sleep_tight:hammock_red"
+    },
+    {
+      "name": "minecraft:red_bed"
+    },
+    {
+      "name": "create:red_seat"
+    },
+    {
+      "name": "minecraft:red_concrete_powder"
+    },
+    {
+      "name": "oreganized:waxed_red_concrete_powder"
+    },
+    {
+      "name": "minecraft:red_concrete"
+    },
+    {
+      "name": "minecraft:red_terracotta"
+    },
+    {
+      "name": "clayworks:red_terracotta_stairs"
+    },
+    {
+      "name": "clayworks:red_terracotta_slab"
+    },
+    {
+      "name": "clayworks:red_terracotta_wall"
+    },
+    {
+      "name": "quark:red_shingles"
+    },
+    {
+      "name": "quark:red_shingles_stairs"
+    },
+    {
+      "name": "quark:red_shingles_slab"
+    },
+    {
+      "name": "fundamentallyfixed:red_shingle_wall"
+    },
+    {
+      "name": "clayworks:red_terracotta_bricks"
+    },
+    {
+      "name": "clayworks:red_terracotta_brick_stairs"
+    },
+    {
+      "name": "clayworks:red_terracotta_brick_slab"
+    },
+    {
+      "name": "clayworks:red_terracotta_brick_wall"
+    },
+    {
+      "name": "clayworks:chiseled_red_terracotta_bricks"
+    },
+    {
+      "name": "minecraft:red_glazed_terracotta"
+    },
+    {
+      "name": "oreganized:red_crystal_glass"
+    },
+    {
+      "name": "oreganized:red_crystal_glass_pane"
+    },
+    {
+      "name": "minecraft:red_stained_glass"
+    },
+    {
+      "name": "minecraft:red_stained_glass_pane"
+    },
+    {
+      "name": "quark:red_framed_glass"
+    },
+    {
+      "name": "quark:red_framed_glass_pane"
+    },
+    {
+      "name": "minecraft:red_shulker_box"
+    },
+    {
+      "name": "minecraft:red_candle"
+    },
+    {
+      "name": "supplementaries:candle_holder_red"
+    },
+    {
+      "name": "minecraft:red_glowstick"
+    },
+    {
+      "name": "moreminecarts:color_detector_rail_red"
+    },
+    {
+      "name": "moreminecarts:rail_signal_red"
+    },
+    {
+      "name": "minecraft:red_banner"
+    },
+    {
+      "name": "supplementaries:flag_red"
+    },
+    {
+      "name": "farmersdelight:red_canvas_sign"
+    },
+    {
+      "name": "suppsquared:sack_red"
+    },
+    {
+      "name": "supplementaries:present_red"
+    },
+    {
+      "name": "supplementaries:trapped_present_red"
+    },
+    {
+      "name": "another_furniture:red_sofa"
+    },
+    {
+      "name": "another_furniture:red_tall_stool"
+    },
+    {
+      "name": "another_furniture:red_lamp"
+    },
+    {
+      "name": "another_furniture:red_curtain"
+    },
+
+
+    {
+      "name": "minecraft:brown_wool"
+    },
+    {
+      "name": "minecraft:brown_carpet"
+    },
+    {
+      "name": "upgrade_aquatic:brown_bedroll"
+    },
+    {
+      "name": "sleep_tight:hammock_brown"
+    },
+    {
+      "name": "minecraft:brown_bed"
+    },
+    {
+      "name": "create:brown_seat"
+    },
+    {
+      "name": "minecraft:brown_concrete_powder"
+    },
+    {
+      "name": "oreganized:waxed_brown_concrete_powder"
+    },
+    {
+      "name": "minecraft:brown_concrete"
+    },
+    {
+      "name": "minecraft:brown_terracotta"
+    },
+    {
+      "name": "clayworks:brown_terracotta_stairs"
+    },
+    {
+      "name": "clayworks:brown_terracotta_slab"
+    },
+    {
+      "name": "clayworks:brown_terracotta_wall"
+    },
+    {
+      "name": "quark:brown_shingles"
+    },
+    {
+      "name": "quark:brown_shingles_stairs"
+    },
+    {
+      "name": "quark:brown_shingles_slab"
+    },
+    {
+      "name": "fundamentallyfixed:brown_shingle_wall"
+    },
+    {
+      "name": "clayworks:brown_terracotta_bricks"
+    },
+    {
+      "name": "clayworks:brown_terracotta_brick_stairs"
+    },
+    {
+      "name": "clayworks:brown_terracotta_brick_slab"
+    },
+    {
+      "name": "clayworks:brown_terracotta_brick_wall"
+    },
+    {
+      "name": "clayworks:chiseled_brown_terracotta_bricks"
+    },
+    {
+      "name": "minecraft:brown_glazed_terracotta"
+    },
+    {
+      "name": "oreganized:brown_crystal_glass"
+    },
+    {
+      "name": "oreganized:brown_crystal_glass_pane"
+    },
+    {
+      "name": "minecraft:brown_stained_glass"
+    },
+    {
+      "name": "minecraft:brown_stained_glass_pane"
+    },
+    {
+      "name": "quark:brown_framed_glass"
+    },
+    {
+      "name": "quark:brown_framed_glass_pane"
+    },
+    {
+      "name": "minecraft:brown_shulker_box"
+    },
+    {
+      "name": "minecraft:brown_candle"
+    },
+    {
+      "name": "supplementaries:candle_holder_brown"
+    },
+    {
+      "name": "minecraft:brown_glowstick"
+    },
+    {
+      "name": "moreminecarts:color_detector_rail_brown"
+    },
+    {
+      "name": "moreminecarts:rail_signal_brown"
+    },
+    {
+      "name": "minecraft:brown_banner"
+    },
+    {
+      "name": "supplementaries:flag_brown"
+    },
+    {
+      "name": "farmersdelight:brown_canvas_sign"
+    },
+    {
+      "name": "suppsquared:sack_brown"
+    },
+    {
+      "name": "supplementaries:present_brown"
+    },
+    {
+      "name": "supplementaries:trapped_present_brown"
+    },
+    {
+      "name": "another_furniture:brown_sofa"
+    },
+    {
+      "name": "another_furniture:brown_tall_stool"
+    },
+    {
+      "name": "another_furniture:brown_lamp"
+    },
+    {
+      "name": "another_furniture:brown_curtain"
+    },
+
+
+    {
+      "name": "minecraft:black_wool"
+    },
+    {
+      "name": "minecraft:black_carpet"
+    },
+    {
+      "name": "upgrade_aquatic:black_bedroll"
+    },
+    {
+      "name": "sleep_tight:hammock_black"
+    },
+    {
+      "name": "minecraft:black_bed"
+    },
+    {
+      "name": "create:black_seat"
+    },
+    {
+      "name": "minecraft:black_concrete_powder"
+    },
+    {
+      "name": "oreganized:waxed_black_concrete_powder"
+    },
+    {
+      "name": "minecraft:black_concrete"
+    },
+    {
+      "name": "minecraft:black_terracotta"
+    },
+    {
+      "name": "clayworks:black_terracotta_stairs"
+    },
+    {
+      "name": "clayworks:black_terracotta_slab"
+    },
+    {
+      "name": "clayworks:black_terracotta_wall"
+    },
+    {
+      "name": "quark:black_shingles"
+    },
+    {
+      "name": "quark:black_shingles_stairs"
+    },
+    {
+      "name": "quark:black_shingles_slab"
+    },
+    {
+      "name": "fundamentallyfixed:black_shingle_wall"
+    },
+    {
+      "name": "clayworks:black_terracotta_bricks"
+    },
+    {
+      "name": "clayworks:black_terracotta_brick_stairs"
+    },
+    {
+      "name": "clayworks:black_terracotta_brick_slab"
+    },
+    {
+      "name": "clayworks:black_terracotta_brick_wall"
+    },
+    {
+      "name": "clayworks:chiseled_black_terracotta_bricks"
+    },
+    {
+      "name": "minecraft:black_glazed_terracotta"
+    },
+    {
+      "name": "oreganized:black_crystal_glass"
+    },
+    {
+      "name": "oreganized:black_crystal_glass_pane"
+    },
+    {
+      "name": "minecraft:black_stained_glass"
+    },
+    {
+      "name": "minecraft:black_stained_glass_pane"
+    },
+    {
+      "name": "quark:black_framed_glass"
+    },
+    {
+      "name": "quark:black_framed_glass_pane"
+    },
+    {
+      "name": "minecraft:black_shulker_box"
+    },
+    {
+      "name": "minecraft:black_candle"
+    },
+    {
+      "name": "supplementaries:candle_holder_black"
+    },
+    {
+      "name": "minecraft:black_glowstick"
+    },
+    {
+      "name": "moreminecarts:color_detector_rail_black"
+    },
+    {
+      "name": "moreminecarts:rail_signal_black"
+    },
+    {
+      "name": "minecraft:black_banner"
+    },
+    {
+      "name": "supplementaries:flag_black"
+    },
+    {
+      "name": "farmersdelight:black_canvas_sign"
+    },
+    {
+      "name": "suppsquared:sack_black"
+    },
+    {
+      "name": "supplementaries:present_black"
+    },
+    {
+      "name": "supplementaries:trapped_present_black"
+    },
+    {
+      "name": "another_furniture:black_sofa"
+    },
+    {
+      "name": "another_furniture:black_tall_stool"
+    },
+    {
+      "name": "another_furniture:black_lamp"
+    },
+    {
+      "name": "another_furniture:black_curtain"
+    },
+
+
+    {
+      "name": "minecraft:gray_wool"
+    },
+    {
+      "name": "minecraft:gray_carpet"
+    },
+    {
+      "name": "upgrade_aquatic:gray_bedroll"
+    },
+    {
+      "name": "sleep_tight:hammock_gray"
+    },
+    {
+      "name": "minecraft:gray_bed"
+    },
+    {
+      "name": "create:gray_seat"
+    },
+    {
+      "name": "minecraft:gray_concrete_powder"
+    },
+    {
+      "name": "oreganized:waxed_gray_concrete_powder"
+    },
+    {
+      "name": "minecraft:gray_concrete"
+    },
+    {
+      "name": "minecraft:gray_terracotta"
+    },
+    {
+      "name": "clayworks:gray_terracotta_stairs"
+    },
+    {
+      "name": "clayworks:gray_terracotta_slab"
+    },
+    {
+      "name": "clayworks:gray_terracotta_wall"
+    },
+    {
+      "name": "quark:gray_shingles"
+    },
+    {
+      "name": "quark:gray_shingles_stairs"
+    },
+    {
+      "name": "quark:gray_shingles_slab"
+    },
+    {
+      "name": "fundamentallyfixed:gray_shingle_wall"
+    },
+    {
+      "name": "clayworks:gray_terracotta_bricks"
+    },
+    {
+      "name": "clayworks:gray_terracotta_brick_stairs"
+    },
+    {
+      "name": "clayworks:gray_terracotta_brick_slab"
+    },
+    {
+      "name": "clayworks:gray_terracotta_brick_wall"
+    },
+    {
+      "name": "clayworks:chiseled_gray_terracotta_bricks"
+    },
+    {
+      "name": "minecraft:gray_glazed_terracotta"
+    },
+    {
+      "name": "oreganized:gray_crystal_glass"
+    },
+    {
+      "name": "oreganized:gray_crystal_glass_pane"
+    },
+    {
+      "name": "minecraft:gray_stained_glass"
+    },
+    {
+      "name": "minecraft:gray_stained_glass_pane"
+    },
+    {
+      "name": "quark:gray_framed_glass"
+    },
+    {
+      "name": "quark:gray_framed_glass_pane"
+    },
+    {
+      "name": "minecraft:gray_shulker_box"
+    },
+    {
+      "name": "minecraft:gray_candle"
+    },
+    {
+      "name": "supplementaries:candle_holder_gray"
+    },
+    {
+      "name": "minecraft:gray_glowstick"
+    },
+    {
+      "name": "moreminecarts:color_detector_rail_gray"
+    },
+    {
+      "name": "moreminecarts:rail_signal_gray"
+    },
+    {
+      "name": "minecraft:gray_banner"
+    },
+    {
+      "name": "supplementaries:flag_gray"
+    },
+    {
+      "name": "farmersdelight:gray_canvas_sign"
+    },
+    {
+      "name": "suppsquared:sack_gray"
+    },
+    {
+      "name": "supplementaries:present_gray"
+    },
+    {
+      "name": "supplementaries:trapped_present_gray"
+    },
+    {
+      "name": "another_furniture:gray_sofa"
+    },
+    {
+      "name": "another_furniture:gray_tall_stool"
+    },
+    {
+      "name": "another_furniture:gray_lamp"
+    },
+    {
+      "name": "another_furniture:gray_curtain"
+    },
+
+
+    {
+      "name": "minecraft:light_gray_wool"
+    },
+    {
+      "name": "minecraft:light_gray_carpet"
+    },
+    {
+      "name": "upgrade_aquatic:light_gray_bedroll"
+    },
+    {
+      "name": "sleep_tight:hammock_light_gray"
+    },
+    {
+      "name": "minecraft:light_gray_bed"
+    },
+    {
+      "name": "create:light_gray_seat"
+    },
+    {
+      "name": "minecraft:light_gray_concrete_powder"
+    },
+    {
+      "name": "oreganized:waxed_light_gray_concrete_powder"
+    },
+    {
+      "name": "minecraft:light_gray_concrete"
+    },
+    {
+      "name": "minecraft:light_gray_terracotta"
+    },
+    {
+      "name": "clayworks:light_gray_terracotta_stairs"
+    },
+    {
+      "name": "clayworks:light_gray_terracotta_slab"
+    },
+    {
+      "name": "clayworks:light_gray_terracotta_wall"
+    },
+    {
+      "name": "quark:light_gray_shingles"
+    },
+    {
+      "name": "quark:light_gray_shingles_stairs"
+    },
+    {
+      "name": "quark:light_gray_shingles_slab"
+    },
+    {
+      "name": "fundamentallyfixed:light_gray_shingle_wall"
+    },
+    {
+      "name": "clayworks:light_gray_terracotta_bricks"
+    },
+    {
+      "name": "clayworks:light_gray_terracotta_brick_stairs"
+    },
+    {
+      "name": "clayworks:light_gray_terracotta_brick_slab"
+    },
+    {
+      "name": "clayworks:light_gray_terracotta_brick_wall"
+    },
+    {
+      "name": "clayworks:chiseled_light_gray_terracotta_bricks"
+    },
+    {
+      "name": "minecraft:light_gray_glazed_terracotta"
+    },
+    {
+      "name": "oreganized:light_gray_crystal_glass"
+    },
+    {
+      "name": "oreganized:light_gray_crystal_glass_pane"
+    },
+    {
+      "name": "minecraft:light_gray_stained_glass"
+    },
+    {
+      "name": "minecraft:light_gray_stained_glass_pane"
+    },
+    {
+      "name": "quark:light_gray_framed_glass"
+    },
+    {
+      "name": "quark:light_gray_framed_glass_pane"
+    },
+    {
+      "name": "minecraft:light_gray_shulker_box"
+    },
+    {
+      "name": "minecraft:light_gray_candle"
+    },
+    {
+      "name": "supplementaries:candle_holder_light_gray"
+    },
+    {
+      "name": "minecraft:light_gray_glowstick"
+    },
+    {
+      "name": "moreminecarts:color_detector_rail_light_gray"
+    },
+    {
+      "name": "moreminecarts:rail_signal_light_gray"
+    },
+    {
+      "name": "minecraft:light_gray_banner"
+    },
+    {
+      "name": "supplementaries:flag_light_gray"
+    },
+    {
+      "name": "farmersdelight:light_gray_canvas_sign"
+    },
+    {
+      "name": "suppsquared:sack_light_gray"
+    },
+    {
+      "name": "supplementaries:present_light_gray"
+    },
+    {
+      "name": "supplementaries:trapped_present_light_gray"
+    },
+    {
+      "name": "another_furniture:light_gray_sofa"
+    },
+    {
+      "name": "another_furniture:light_gray_tall_stool"
+    },
+    {
+      "name": "another_furniture:light_gray_lamp"
+    },
+    {
+      "name": "another_furniture:light_gray_curtain"
+    }
+  ]
+}

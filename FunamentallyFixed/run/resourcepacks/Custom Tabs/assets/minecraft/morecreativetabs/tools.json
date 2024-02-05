@@ -1,0 +1,657 @@
+{
+  "tab_enabled": true,
+  "tab_name": "tools",
+  "tab_stack": { "name": "minecraft:diamond_pickaxe"},
+  "tab_items": [
+    {
+      "name": "fundamentallyfixed:flint_knife"
+    },
+    {
+      "name": "fundamentallyfixed:flint_hatchet"
+    },
+    {
+      "name": "fundamentallyfixed:flint_pick"
+    },
+    {
+      "name": "minecraft:wooden_sword"
+    },
+    {
+      "name": "minecraft:wooden_shovel"
+    },
+    {
+      "name": "shieldexp:wooden_shield"
+    },
+    {
+      "name": "modestmining:fiber_cap"
+    },
+    {
+      "name": "modestmining:fiber_tunic"
+    },
+    {
+      "name": "modestmining:fiber_pants"
+    },
+    {
+      "name": "modestmining:fiber_boots"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:copper_knife"
+    },
+    {
+      "name": "fundamentallyfixed:copper_hatchet"
+    },
+    {
+      "name": "fundamentallyfixed:copper_pick"
+    },
+    {
+      "name": "shieldexp:golden_shield"
+    },
+    {
+      "name": "minecraft:leather_helmet"
+    },
+    {
+      "name": "minecraft:leather_chestplate"
+    },
+    {
+      "name": "minecraft:leather_leggings"
+    },
+    {
+      "name": "minecraft:leather_boots"
+    },
+    {
+      "name": "minecraft:leather_horse_armor"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:bronze_knife"
+    },
+    {
+      "name": "fundamentallyfixed:bronze_axe"
+    },
+    {
+      "name": "fundamentallyfixed:bronze_pickaxe"
+    },
+    {
+      "name": "fundamentallyfixed:bronze_sword"
+    },
+    {
+      "name": "fundamentallyfixed:bronze_shovel"
+    },
+    {
+      "name": "fundamentallyfixed:bronze_hoe"
+    },
+    {
+      "name": "fundamentallyfixed:bronze_helmet"
+    },
+    {
+      "name": "fundamentallyfixed:bronze_chestplate"
+    },
+    {
+      "name": "fundamentallyfixed:bronze_leggings"
+    },
+    {
+      "name": "fundamentallyfixed:bronze_boots"
+    },
+
+
+    {
+      "name": "farmersdelight:iron_knife"
+    },
+    {
+      "name": "minecraft:iron_axe"
+    },
+    {
+      "name": "minecraft:iron_pickaxe"
+    },
+    {
+      "name": "minecraft:iron_sword"
+    },
+    {
+      "name": "minecraft:iron_shovel"
+    },
+    {
+      "name": "minecraft:iron_hoe"
+    },
+    {
+      "name": "shieldexp:iron_shield"
+    },
+    {
+      "name": "minecraft:iron_helmet"
+    },
+    {
+      "name": "minecraft:iron_chestplate"
+    },
+    {
+      "name": "minecraft:iron_leggings"
+    },
+    {
+      "name": "minecraft:iron_boots"
+    },
+    {
+      "name": "minecraft:iron_horse_armor"
+    },
+
+
+    {
+      "name": "delightfulmining:steel_knife"
+    },
+    {
+      "name": "modestmining:steel_axe"
+    },
+    {
+      "name": "modestmining:steel_pickaxe"
+    },
+    {
+      "name": "modestmining:steel_sword"
+    },
+    {
+      "name": "modestmining:steel_shovel"
+    },
+    {
+      "name": "modestmining:steel_hoe"
+    },
+    {
+      "name": "shieldexp:steel_shield"
+    },
+    {
+      "name": "modestmining:steel_helmet"
+    },
+    {
+      "name": "modestmining:steel_chestplate"
+    },
+    {
+      "name": "modestmining:steel_leggings"
+    },
+    {
+      "name": "modestmining:steel_boots"
+    },
+
+
+    {
+      "name": "farmersdelight:diamond_knife"
+    },
+    {
+      "name": "minecraft:diamond_axe"
+    },
+    {
+      "name": "minecraft:diamond_pickaxe"
+    },
+    {
+      "name": "minecraft:diamond_sword"
+    },
+    {
+      "name": "minecraft:diamond_shovel"
+    },
+    {
+      "name": "minecraft:diamond_hoe"
+    },
+    {
+      "name": "shieldexp:diamond_shield"
+    },
+    {
+      "name": "minecraft:diamond_helmet"
+    },
+    {
+      "name": "minecraft:diamond_chestplate"
+    },
+    {
+      "name": "minecraft:diamond_leggings"
+    },
+    {
+      "name": "minecraft:diamond_boots"
+    },
+    {
+      "name": "minecraft:diamond_horse_armor"
+    },
+
+
+    {
+      "name": "farmersdelight:netherite_knife"
+    },
+    {
+      "name": "minecraft:netherite_axe"
+    },
+    {
+      "name": "minecraft:netherite_pickaxe"
+    },
+    {
+      "name": "minecraft:netherite_sword"
+    },
+    {
+      "name": "minecraft:netherite_shovel"
+    },
+    {
+      "name": "minecraft:netherite_hoe"
+    },
+    {
+      "name": "shieldexp:netherite_shield"
+    },
+    {
+      "name": "minecraft:netherite_helmet"
+    },
+    {
+      "name": "minecraft:netherite_chestplate"
+    },
+    {
+      "name": "minecraft:netherite_leggings"
+    },
+    {
+      "name": "minecraft:netherite_boots"
+    },
+
+
+    {
+      "name": "delightfulmining:prismarite_knife"
+    },
+    {
+      "name": "modestmining:prismarite_axe"
+    },
+    {
+      "name": "modestmining:prismarite_pickaxe"
+    },
+    {
+      "name": "modestmining:prismarite_sword"
+    },
+    {
+      "name": "modestmining:prismarite_shovel"
+    },
+    {
+      "name": "modestmining:prismarite_hoe"
+    },
+    {
+      "name": "fundamentallyfixed:prismarite_shield"
+    },
+    {
+      "name": "modestmining:prismarite_helmet"
+    },
+    {
+      "name": "modestmining:prismarite_chestplate"
+    },
+    {
+      "name": "modestmining:prismarite_leggings"
+    },
+    {
+      "name": "modestmining:prismarite_boots"
+    },
+
+
+    {
+      "name": "oreganized:electrum_knife"
+    },
+    {
+      "name": "oreganized:electrum_axe"
+    },
+    {
+      "name": "oreganized:electrum_pickaxe"
+    },
+    {
+      "name": "oreganized:electrum_sword"
+    },
+    {
+      "name": "oreganized:electrum_shovel"
+    },
+    {
+      "name": "oreganized:electrum_hoe"
+    },
+    {
+      "name": "oreganized:electrum_shield"
+    },
+    {
+      "name": "oreganized:electrum_helmet"
+    },
+    {
+      "name": "oreganized:electrum_chestplate"
+    },
+    {
+      "name": "oreganized:electrum_leggings"
+    },
+    {
+      "name": "oreganized:electrum_boots"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:griefer_knife"
+    },
+    {
+      "name": "fundamentallyfixed:griefer_axe"
+    },
+    {
+      "name": "fundamentallyfixed:griefer_pickaxe"
+    },
+    {
+      "name": "fundamentallyfixed:griefer_sword"
+    },
+    {
+      "name": "fundamentallyfixed:griefer_shovel"
+    },
+    {
+      "name": "fundamentallyfixed:griefer_hoe"
+    },
+    {
+      "name": "shieldexp:griefer_shield"
+    },
+    {
+      "name": "savage_and_ravage:griefer_helmet"
+    },
+    {
+      "name": "savage_and_ravage:griefer_chestplate"
+    },
+    {
+      "name": "savage_and_ravage:griefer_leggings"
+    },
+    {
+      "name": "savage_and_ravage:griefer_boots"
+    },
+
+
+    {
+      "name": "sullysmod:jade_shield"
+    },
+    {
+      "name": "minecraft:turtle_helmet"
+    },
+    {
+      "name": "alexsmobs:crocodile_chestplate"
+    },
+    {
+      "name": "alexsmobs:flying_fish_boots"
+    },
+    {
+      "name": "alexsmobs:frontier_cap"
+    },
+    {
+      "name": "autumnity:snail_shell_chestplate"
+    },
+    {
+      "name": "environmental:yak_pants"
+    },
+    {
+      "name": "windswept:snow_boots"
+    },
+    {
+      "name": "savage_and_ravage:mask_of_dishonesty"
+    },
+    {
+      "name": "alexsmobs:rocky_chestplate"
+    },
+    {
+      "name": "alexsmobs:centipede_leggings"
+    },
+    {
+      "name": "alexsmobs:roadrunner_boots"
+    },
+    {
+      "name": "alexsmobs:fedora"
+    },
+    {
+      "name": "minecraft:elytra"
+    },
+    {
+      "name": "alexsmobs:emu_leggings"
+    },
+    {
+      "name": "minecraft:shulker_shell"
+    },
+    {
+      "name": "quark:backpack"
+    },
+
+
+    {
+      "name": "savage_and_ravage:cleaver_of_beheading"
+    },
+    {
+      "name": "minecraft:trident"
+    },
+    {
+      "name": "supplementaries:quiver"
+    },
+    {
+      "name": "minecraft:bow"
+    },
+    {
+      "name": "minecraft:crossbow"
+    },
+    {
+      "name": "alexsmobs:squid_grapple"
+    },
+    {
+      "name": "supplementaries:slingshot"
+    },
+    {
+      "name": "minecraft:fishing_rod"
+    },
+    {
+      "name": "minecraft:carrot_on_a_stick"
+    },
+    {
+      "name": "minecraft:warped_fungus_on_a_stick"
+    },
+    {
+      "name": "quark:trowel"
+    },
+    {
+      "name": "minecraft:flint_and_steel"
+    },
+    {
+      "name": "modestmining:brush"
+    },
+    {
+      "name": "modestmining:chisel"
+    },
+    {
+      "name": "davespotioneering:white_umbrella"
+    },
+    {
+      "name": "davespotioneering:pink_umbrella"
+    },
+    {
+      "name": "davespotioneering:magenta_umbrella"
+    },
+    {
+      "name": "davespotioneering:purple_umbrella"
+    },
+    {
+      "name": "davespotioneering:blue_umbrella"
+    },
+    {
+      "name": "davespotioneering:light_blue_umbrella"
+    },
+    {
+      "name": "davespotioneering:cyan_umbrella"
+    },
+    {
+      "name": "davespotioneering:green_umbrella"
+    },
+    {
+      "name": "davespotioneering:lime_umbrella"
+    },
+    {
+      "name": "davespotioneering:yellow_umbrella"
+    },
+    {
+      "name": "davespotioneering:orange_umbrella"
+    },
+    {
+      "name": "davespotioneering:red_umbrella"
+    },
+    {
+      "name": "davespotioneering:brown_umbrella"
+    },
+    {
+      "name": "davespotioneering:black_umbrella"
+    },
+    {
+      "name": "davespotioneering:gray_umbrella"
+    },
+    {
+      "name": "davespotioneering:light_gray_umbrella"
+    },
+    {
+      "name": "create:wrench"
+    },
+    {
+      "name": "quark:echorang"
+    },
+    {
+      "name": "spelunkery:echo_fork"
+    },
+
+
+    {
+      "name": "windswept:wooden_bucket"
+    },
+    {
+      "name": "minecraft:bucket"
+    },
+    {
+      "name": "minecraft:clock"
+    },
+    {
+      "name": "spelunkery:depth_gauge"
+    },
+    {
+      "name": "minecraft:compass"
+    },
+    {
+      "name": "spelunkery:magnetic_compass"
+    },
+    {
+      "name": "alexsmobs:echolocator"
+    },
+    {
+      "name": "minecraft:recovery_compass"
+    },
+    {
+      "name": "quark:abacus"
+    },
+    {
+      "name": "spelunkery:item_magnet"
+    },
+    {
+      "name": "heartstone:heartstone"
+    },
+    {
+      "name": "oreganized:silver_mirror"
+    },
+    {
+      "name": "spelunkery:nephrite_charm"
+    },
+    {
+      "name": "savage_and_ravage:conch_of_conjuring"
+    },
+    {
+      "name": "minecraft:totem_of_undying"
+    },
+    {
+      "name": "pet_cemetery:pet_collar"
+    },
+    {
+      "name": "supplementaries:bomb"
+    },
+    {
+      "name": "supplementaries:bomb_blue"
+    },
+    {
+      "name": "supplementaries:bomb_spiky"
+    },
+    {
+      "name": "spelunkery:mineomite"
+    },
+    {
+      "name": "alexsmobs:straddleboard"
+    },
+    {
+      "name": "minecraft:saddle"
+    },
+    {
+      "name": "alexsmobs:straddle_saddle"
+    },
+    {
+      "name": "alexsmobs:straddle_helmet"
+    },
+    {
+      "name": "supplementaries:flute"
+    },
+    {
+      "name": "alexsmobs:pigshoes"
+    },
+
+
+    {
+      "name": "minecraft:lead"
+    },
+    {
+      "name": "alexsmobs:vine_lasso"
+    },
+    {
+      "name": "minecraft:name_tag"
+    },
+    {
+      "name": "minecraft:goat_horn"
+    },
+    {
+      "name": "minecraft:spyglass"
+    },
+    {
+      "name": "minecraft:bundle"
+    },
+    {
+      "name": "quark:seed_pouch"
+    },
+    {
+      "name": "supplementaries:key"
+    },
+    {
+      "name": "quark:bottled_cloud"
+    },
+    {
+      "name": "minecraft:arrow"
+    },
+    {
+      "name": "minecraft:torch_arrow"
+    },
+    {
+      "name": "neapolitan:bananarrow"
+    },
+    {
+      "name": "savage_and_ravage:mischief_arrow"
+    },
+    {
+      "name": "alexsmobs:shark_tooth_arrow"
+    },
+    {
+      "name": "supplementaries:rope_arrow"
+    },
+    {
+      "name": "minecraft:spectral_arrow"
+    },
+    {
+      "name": "minecraft:map"
+    },
+    {
+      "name": "minecraft:filled_map"
+    },
+    {
+      "name": "minecraft:writable_book"
+    },
+    {
+      "name": "minecraft:written_book"
+    },
+    {
+      "name": "minecraft:knowledge_book"
+    },
+    {
+      "name": "minecraft:enchanted_book"
+    },
+    {
+      "name": "quark:ancient_tome"
+    },
+    {
+      "name": "minecraft:debug_stick"
+    }
+  ]
+}

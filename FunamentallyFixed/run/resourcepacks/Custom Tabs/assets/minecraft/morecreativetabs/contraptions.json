@@ -1,0 +1,729 @@
+{
+  "tab_enabled": true,
+  "tab_name": "contraptions",
+  "tab_stack": { "name": "create:cogwheel"},
+  "tab_items": [
+    {
+      "name": "minecraft:redstone"
+    },
+    {
+      "name": "minecraft:redstone_block"
+    },
+    {
+      "name": "minecraft:redstone_torch"
+    },
+    {
+      "name": "minecraft:repeater"
+    },
+    {
+      "name": "minecraft:comparator"
+    },
+    {
+      "name": "minecraft:lever"
+    },
+    {
+      "name": "create:analog_lever"
+    },
+    {
+      "name": "create:hand_crank"
+    },
+
+
+    //{
+    //  "name": "create:andesite_casing"
+    //},
+    //{
+    //  "name": "create:brass_casing"
+    //},
+    {
+      "name": "create:shaft"
+    },
+    {
+      "name": "create:cogwheel"
+    },
+    {
+      "name": "create:large_cogwheel"
+    },
+    {
+      "name": "create:mechanical_press"
+    },
+    {
+      "name": "create:millstone"
+    },
+    {
+      "name": "create:gearbox"
+    },
+    {
+      "name": "create:vertical_gearbox"
+    },
+    {
+      "name": "supplementaries:relayer"
+    },
+    {
+      "name": "minecraft:observer"
+    },
+    {
+      "name": "minecraft:dropper"
+    },
+    {
+      "name": "minecraft:dispenser"
+    },
+    {
+      "name": "quark:chute"
+    },
+
+
+    {
+      "name": "create:encased_chain_drive"
+    },
+    {
+      "name": "create:adjustable_chain_gearshift"
+    },
+    {
+      "name": "create:gearshift"
+    },
+    {
+      "name": "create:clutch"
+    },
+
+
+    {
+      "name": "oreganized:exposer"
+    },
+    {
+      "name": "alexsmobs:gustmaker"
+    },
+    {
+      "name": "supplementaries:crystal_display"
+    },
+    {
+      "name": "minecraft:hopper"
+    },
+    {
+      "name": "supplementaries:wind_vane"
+    },
+    {
+      "name": "minecraft:daylight_detector"
+    },
+    {
+      "name": "cold_sweat:thermolith"
+    },
+    {
+      "name": "quark:ender_watcher"
+    },
+    {
+      "name": "supplementaries:target"
+    },
+    {
+      "name": "upgrade_aquatic:elder_eye"
+    },
+    {
+      "name": "upgrade_aquatic:guardian_spine"
+    },
+    {
+      "name": "upgrade_aquatic:elder_guardian_spine"
+    },
+    {
+      "name": "minecraft:redstone_lamp"
+    },
+    {
+      "name": "create:rose_quartz_lamp"
+    },
+    {
+      "name": "supplementaries:redstone_illuminator"
+    },
+    {
+      "name": "spelunkery:carved_nephrite"
+    },
+    {
+      "name": "spelunkery:nephrite_diode"
+    },
+    {
+      "name": "spelunkery:nephrite_siphon"
+    },
+    {
+      "name": "spelunkery:nephrite_spout"
+    },
+    {
+      "name": "minecraft:sculk_catalyst"
+    },
+    {
+      "name": "minecraft:sculk"
+    },
+    {
+      "name": "minecraft:sculk_vein"
+    },
+    {
+      "name": "minecraft:sculk_shrieker"
+    },
+    {
+      "name": "minecraft:sculk_sensor"
+    },
+    {
+      "name": "create:redstone_link"
+    },
+    {
+      "name": "create:linked_controller"
+    },
+
+
+    {
+      "name": "minecraft:tripwire_hook"
+    },
+    {
+      "name": "minecraft:string"
+    },
+    {
+      "name": "minecraft:chain"
+    },
+    {
+      "name": "create:water_wheel"
+    },
+    {
+      "name": "create:windmill_bearing"
+    },
+    {
+      "name": "create:sail_frame"
+    },
+    {
+      "name": "create:white_sail"
+    },
+    {
+      "name": "create:piston_extension_pole"
+    },
+    {
+      "name": "create:mechanical_piston"
+    },
+    {
+      "name": "create:sticky_mechanical_piston"
+    },
+    {
+      "name": "create:mechanical_bearing"
+    },
+    {
+      "name": "create:clockwork_bearing"
+    },
+    {
+      "name": "minecraft:noteblock"
+    },
+    {
+      "name": "minecraft:jukebox"
+    },
+    {
+      "name": "create:portable_storage_interface"
+    },
+    {
+      "name": "create:item_vault"
+    },
+    {
+      "name": "create:mechanical_saw"
+    },
+    {
+      "name": "create:mechanical_drill"
+    },
+    {
+      "name": "create:mechanical_harvest"
+    },
+    {
+      "name": "create:mechanical_plough"
+    },
+    {
+      "name": "create:encased_fan"
+    },
+    {
+      "name": "create:gantry_shaft"
+    },
+    {
+      "name": "create:gantry_carriage"
+    },
+    {
+      "name": "create:belt_connector"
+    },
+    {
+      "name": "create:rope_pulley"
+    },
+    {
+      "name": "create:fluid_pipe"
+    },
+    {
+      "name": "create:mechanical_pump"
+    },
+    {
+      "name": "create:fluid_valve"
+    },
+    {
+      "name": "create:item_drain"
+    },
+    {
+      "name": "create:fluid_tank"
+    },
+    {
+      "name": "create:hose_pulley"
+    },
+    {
+      "name": "create:portable_fluid_interface"
+    },
+    {
+      "name": "create:super_glue"
+    },
+
+
+    {
+      "name": "spelunkery:wooden_rail"
+    },
+    {
+      "name": "minecraft:rail"
+    },
+    {
+      "name": "moreminecarts:cross_rail"
+    },
+    {
+      "name": "moreminecarts:rail_turn"
+    },
+    {
+      "name": "moreminecarts:parallel_rail"
+    },
+    {
+      "name": "minecraft:detector_rail"
+    },
+    {
+      "name": "moreminecarts:color_detector_rail_white"
+    },
+    {
+      "name": "moreminecarts:color_detector_rail_pink"
+    },
+    {
+      "name": "moreminecarts:color_detector_rail_magenta"
+    },
+    {
+      "name": "moreminecarts:color_detector_rail_purple"
+    },
+    {
+      "name": "moreminecarts:color_detector_rail_blue"
+    },
+    {
+      "name": "moreminecarts:color_detector_rail_light_blue"
+    },
+    {
+      "name": "moreminecarts:color_detector_rail_cyan"
+    },
+    {
+      "name": "moreminecarts:color_detector_rail_green"
+    },
+    {
+      "name": "moreminecarts:color_detector_rail_lime"
+    },
+    {
+      "name": "moreminecarts:color_detector_rail_yellow"
+    },
+    {
+      "name": "moreminecarts:color_detector_rail_orange"
+    },
+    {
+      "name": "moreminecarts:color_detector_rail_red"
+    },
+    {
+      "name": "moreminecarts:color_detector_rail_brown"
+    },
+    {
+      "name": "moreminecarts:color_detector_rail_black"
+    },
+    {
+      "name": "moreminecarts:color_detector_rail_light_gray"
+    },
+    {
+      "name": "moreminecarts:color_detector_rail_gray"
+    },
+    {
+      "name": "minecraft:activator_rail"
+    },
+    {
+      "name": "create:controller_rail"
+    },
+    {
+      "name": "moreminecarts:lightspeed_powered_rail"
+    },
+
+
+    {
+      "name": "moreminecarts:wooden_pushcart"
+    },
+    {
+      "name": "moreminecarts:iron_pushcart"
+    },
+    {
+      "name": "moreminecarts:campfire_cart"
+    },
+    {
+      "name": "moreminecarts:soulfire_cart"
+    },
+    {
+      "name": "minecraft:minecart"
+    },
+    {
+      "name": "minecraft:chest_minecart"
+    },
+    {
+      "name": "minecraft:furnace_minecart"
+    },
+    {
+      "name": "minecraft:hopper_minecart"
+    },
+    {
+      "name": "supplementaries:dispenser_minecart"
+    },
+    {
+      "name": "minecraft:tnt_minecart"
+    },
+    {
+      "name": "minecraft:shrapnel_bomb_minecart"
+    },
+    {
+      "name": "moreminecarts:pearl_stasis_minecart"
+    },
+    {
+      "name": "moreminecarts:flag_cart"
+    },
+    {
+      "name": "moreminecarts:rail_signal_white"
+    },
+    {
+      "name": "moreminecarts:rail_signal_pink"
+    },
+    {
+      "name": "moreminecarts:rail_signal_magenta"
+    },
+    {
+      "name": "moreminecarts:rail_signal_purple"
+    },
+    {
+      "name": "moreminecarts:rail_signal_blue"
+    },
+    {
+      "name": "moreminecarts:rail_signal_light_blue"
+    },
+    {
+      "name": "moreminecarts:rail_signal_cyan"
+    },
+    {
+      "name": "moreminecarts:rail_signal_green"
+    },
+    {
+      "name": "moreminecarts:rail_signal_lime"
+    },
+    {
+      "name": "moreminecarts:rail_signal_yellow"
+    },
+    {
+      "name": "moreminecarts:rail_signal_orange"
+    },
+    {
+      "name": "moreminecarts:rail_signal_red"
+    },
+    {
+      "name": "moreminecarts:rail_signal_brown"
+    },
+    {
+      "name": "moreminecarts:rail_signal_black"
+    },
+    {
+      "name": "moreminecarts:rail_signal_light_gray"
+    },
+    {
+      "name": "moreminecarts:rail_signal_gray"
+    },
+    {
+      "name": "create:minecart_coupling"
+    },
+    {
+      "name": "create:cart_assembler"
+    },
+
+
+    {
+      "name": "modestmining:varied_plank_button"
+    },
+    {
+      "name": "minecraft:stone_button"
+    },
+    {
+      "name": "minecraft:polished_blackstone_button"
+    },
+    {
+      "name": "aether:holystone_button"
+    },
+    {
+      "name": "quark:iron_button"
+    },
+    {
+      "name": "quark:gold_button"
+    },
+    {
+      "name": "fundamentallyfixed:lead_button"
+    },
+    {
+      "name": "fundamentallyfixed:silver_button"
+    },
+    {
+      "name": "fundamentallyfixed:aluminium_button"
+    },
+    {
+      "name": "infernalexp:smooth_dullstone_button"
+    },
+    {
+      "name": "infernalexp:smooth_dimstone_button"
+    },
+    {
+      "name": "infernalexp:smooth_glowstone_button"
+    },
+    {
+      "name": "infernalexp:basalt_button"
+    },
+    {
+      "name": "infernalexp:soul_slate_button"
+    },
+    {
+      "name": "windswept:polished_deepslate_button"
+    },
+    {
+      "name": "sullysmod:copper_button"
+    },
+    {
+      "name": "sullysmod:exposed_copper_button"
+    },
+    {
+      "name": "sullysmod:weathered_copper_button"
+    },
+    {
+      "name": "sullysmod:oxidized_copper_button"
+    },
+    {
+      "name": "sullysmod:waxed_copper_button"
+    },
+    {
+      "name": "sullysmod:waxed_exposed_copper_button"
+    },
+    {
+      "name": "sullysmod:waxed_weathered_copper_button"
+    },
+    {
+      "name": "sullysmod:waxed_oxidized_copper_button"
+    },
+
+
+    {
+      "name": "modestmining:varied_plank_pressure_plate"
+    },
+    {
+      "name": "minecraft:stone_pressure_plate"
+    },
+    {
+      "name": "minecraft:polished_blackstone_pressure_plate"
+    },
+    {
+      "name": "aether:holystone_pressure_plate"
+    },
+    {
+      "name": "minecraft:heavy_weighted_pressure_plate"
+    },
+    {
+      "name": "minecraft:light_weighted_pressure_plate"
+    },
+    {
+      "name": "fundamentallyfixed:lead_pressure_plate"
+    },
+    {
+      "name": "fundamentallyfixed:silver_pressure_plate"
+    },
+    {
+      "name": "fundamentallyfixed:aluminium_pressure_plate"
+    },
+    {
+      "name": "infernalexp:smooth_dullstone_pressure_plate"
+    },
+    {
+      "name": "infernalexp:smooth_dimstone_pressure_plate"
+    },
+    {
+      "name": "infernalexp:smooth_glowstone_pressure_plate"
+    },
+    {
+      "name": "infernalexp:polished_basalt_pressure_plate"
+    },
+    {
+      "name": "infernalexp:soul_slate_pressure_plate"
+    },
+    {
+      "name": "windswept:polished_deepslate_pressure_plate"
+    },
+    {
+      "name": "cooperative:copper_pressure_plate"
+    },
+    {
+      "name": "cooperative:exposed_copper_pressure_plate"
+    },
+    {
+      "name": "cooperative:weathered_copper_pressure_plate"
+    },
+    {
+      "name": "cooperative:oxidized_copper_pressure_plate"
+    },
+    {
+      "name": "cooperative:waxed_copper_pressure_plate"
+    },
+    {
+      "name": "cooperative:waxed_exposed_copper_pressure_plate"
+    },
+    {
+      "name": "cooperative:waxed_weathered_copper_pressure_plate"
+    },
+    {
+      "name": "cooperative:waxed_oxidized_copper_pressure_plate"
+    },
+    {
+      "name": "quark:obsidian_pressure_plate"
+    },
+
+
+    {
+      "name": "minecraft:music_disc_13"
+    },
+    {
+      "name": "minecraft:music_disc_cat"
+    },
+    {
+      "name": "minecraft:music_disc_blocks"
+    },
+    {
+      "name": "minecraft:music_disc_chirp"
+    },
+    {
+      "name": "minecraft:music_disc_far"
+    },
+    {
+      "name": "minecraft:music_disc_mall"
+    },
+    {
+      "name": "minecraft:music_disc_mellohi"
+    },
+    {
+      "name": "minecraft:music_disc_stal"
+    },
+    {
+      "name": "minecraft:music_disc_strad"
+    },
+    {
+      "name": "minecraft:music_disc_ward"
+    },
+    {
+      "name": "minecraft:music_disc_11"
+    },
+    {
+      "name": "minecraft:music_disc_wait"
+    },
+    {
+      "name": "minecraft:music_disc_otherside"
+    },
+    {
+      "name": "minecraft:music_disc_5"
+    },
+    {
+      "name": "minecraft:music_disc_pigstep"
+    },
+    {
+      "name": "quark:music_disc_endermosh"
+    },
+    {
+      "name": "quark:music_disc_drips"
+    },
+    {
+      "name": "quark:music_disc_ocean"
+    },
+    {
+      "name": "quark:music_disc_rain"
+    },
+    {
+      "name": "quark:music_disc_wind"
+    },
+    {
+      "name": "quark:music_disc_fire"
+    },
+    {
+      "name": "quark:music_disc_clock"
+    },
+    {
+      "name": "quark:music_disc_crickets"
+    },
+    {
+      "name": "quark:music_disc_chatter"
+    },
+    {
+      "name": "quark:music_disc_structure"
+    },
+    {
+      "name": "berry_good:music_disc_fox"
+    },
+    {
+      "name": "environmental:music_disc_leaving_home"
+    },
+    {
+      "name": "environmental:music_disc_slabrave"
+    },
+    {
+      "name": "neapolitan:music_disc_hullabaloo"
+    },
+    {
+      "name": "infernalexp:music_disc_soul_spunk"
+    },
+    {
+      "name": "infernalexp:music_disc_flush"
+    },
+    {
+      "name": "windswept:music_disc_rain"
+    },
+    {
+      "name": "windswept:music_disc_snow"
+    },
+    {
+      "name": "windswept:music_disc_bumblebee"
+    },
+    {
+      "name": "sullysmod:music_disc_scour"
+    },
+    {
+      "name": "ecologics:music_disc_coconut"
+    },
+    {
+      "name": "alexsmobs:music_disc_thime"
+    },
+    {
+      "name": "alexsmobs:music_disc_daze"
+    },
+
+
+    {
+      "name": "minecraft:command_block_minecart"
+    },
+    {
+      "name": "minecraft:command_block"
+    },
+    {
+      "name": "minecraft:repeating_command_block"
+    },
+    {
+      "name": "minecraft:chain_command_block"
+    },
+    {
+      "name": "minecraft:structure_block"
+    },
+    {
+      "name": "minecraft:jigsaw"
+    },
+    {
+      "name": "minecraft:structure_void"
+    },
+    {
+      "name": "minecraft:barrier"
+    }
+  ]
+}

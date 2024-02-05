@@ -1,0 +1,3876 @@
+{
+  "tab_enabled": true,
+  "tab_name": "wooden",
+  "tab_stack": { "name": "minecraft:oak_log"},
+  "tab_items": [
+    {
+      "name": "windswept:chestnut_log"
+    },
+    {
+      "name": "windswept:chestnut_wood"
+    },
+    {
+      "name": "windswept:stripped_chestnut_log"
+    },
+    {
+      "name": "windswept:stripped_chestnut_wood"
+    },
+    {
+      "name": "everycomp:q/windswept/hollow_chestnut_log"
+    },
+    {
+      "name": "modestmining:varied_planks"
+    },
+    {
+      "name": "modestmining:varied_plank_stairs"
+    },
+    {
+      "name": "modestmining:varied_plank_slab"
+    },
+    {
+      "name": "modestmining:varied_plank_fence"
+    },
+    {
+      "name": "modestmining:varied_plank_fence_gate"
+    },
+    {
+      "name": "windswept:chestnut_post"
+    },
+    {
+      "name": "windswept:stripped_chestnut_post"
+    },
+    {
+      "name": "windswept:chestnut_boards"
+    },
+    {
+      "name": "modestmining:varied_boards"
+    },
+    {
+      "name": "modestmining:varied_tiles"
+    },
+    {
+      "name": "modestmining:varied_pillar"
+    },
+    {
+      "name": "modestmining:carved_varied_planks"
+    },
+    {
+      "name": "modestmining:chiseled_varied_planks"
+    },
+    {
+      "name": "everycomp:c/windswept/chestnut_window"
+    },
+    {
+      "name": "everycomp:c/windswept/chestnut_window_pane"
+    },
+
+
+    {
+      "name": "windswept:chestnut_ladder"
+    },
+    {
+      "name": "windswept:chestnut_door"
+    },
+    {
+      "name": "windswept:chestnut_trapdoor"
+    },
+    {
+      "name": "windswept:chestnut_sign"
+    },
+    {
+      "name": "supplementaries:windswept/hanging_sign_chestnut"
+    },
+    {
+      "name": "supplementaries:windswept/sign_post_chestnut"
+    },
+    {
+      "name": "suppsquared:windswept/item_shelf_chestnut"
+    },
+    {
+      "name": "windswept:chestnut_bookshelf"
+    },
+    {
+      "name": "minecraft:chest"
+    },
+    {
+      "name": "minecraft:trapped_chest"
+    },
+    {
+      "name": "windswept:chestnut_boat"
+    },
+    {
+      "name": "windswept:chestnut_chest_boat"
+    },
+    {
+      "name": "windswept:chestnut_furnace_boat"
+    },
+    {
+      "name": "windswept:large_chestnut_boat"
+    },
+    {
+      "name": "windswept:chestnut_beehive"
+    },
+    {
+      "name": "windswept:chestnut_cabinet"
+    },
+    {
+      "name": "everycomp:af/windswept/chestnut_drawer"
+    },
+    {
+      "name": "everycomp:af/windswept/chestnut_shutter"
+    },
+    {
+      "name": "everycomp:af/windswept/chestnut_planter_box"
+    },
+    {
+      "name": "everycomp:af/windswept/chestnut_shelf"
+    },
+    {
+      "name": "everycomp:af/windswept/chestnut_table"
+    },
+    {
+      "name": "everycomp:af/windswept/chestnut_chair"
+    },
+    {
+      "name": "modestmining:varied_plank_button"
+    },
+    {
+      "name": "modestmining:varied_plank_pressure_plate"
+    },
+
+
+
+    {
+      "name": "minecraft:oak_log"
+    },
+    {
+      "name": "fundamentallyfixed:sappy_oak_log"
+    },
+    {
+      "name": "minecraft:oak_wood"
+    },
+    {
+      "name": "minecraft:stripped_oak_log"
+    },
+    {
+      "name": "minecraft:stripped_oak_wood"
+    },
+    {
+      "name": "quark:hollow_oak_log"
+    },
+    {
+      "name": "minecraft:oak_planks"
+    },
+    {
+      "name": "minecraft:oak_stairs"
+    },
+    {
+      "name": "minecraft:oak_slab"
+    },
+    {
+      "name": "minecraft:oak_fence"
+    },
+    {
+      "name": "minecraft:oak_fence_gate"
+    },
+    {
+      "name": "quark:oak_post"
+    },
+    {
+      "name": "quark:stripped_oak_post"
+    },
+    {
+      "name": "modestmining:carved_oak_planks"
+    },
+    {
+      "name": "modestmining:oak_carved_plank_stairs"
+    },
+    {
+      "name": "modestmining:oak_carved_plank_slab"
+    },
+    {
+      "name": "modestmining:oak_carved_plank_wall"
+    },
+    {
+      "name": "modestmining:oak_boards"
+    },
+    {
+      "name": "modestmining:oak_board_stairs"
+    },
+    {
+      "name": "modestmining:oak_board_slab"
+    },
+    {
+      "name": "modestmining:oak_board_wall"
+    },
+    {
+      "name": "modestmining:oak_tiles"
+    },
+    {
+      "name": "modestmining:oak_tile_stairs"
+    },
+    {
+      "name": "modestmining:oak_tile_slab"
+    },
+    {
+      "name": "modestmining:oak_tile_wall"
+    },
+    {
+      "name": "modestmining:chiseled_oak_planks"
+    },
+    {
+      "name": "modestmining:oak_pillar"
+    },
+    {
+      "name": "woodworks:oak_boards"
+    },
+    {
+      "name": "create:oak_window"
+    },
+    {
+      "name": "create:oak_window_pane"
+    },
+
+
+    {
+      "name": "minecraft:ladder"
+    },
+    {
+      "name": "minecraft:oak_door"
+    },
+    {
+      "name": "minecraft:oak_trapdoor"
+    },
+    {
+      "name": "minecraft:oak_sign"
+    },
+    {
+      "name": "supplementaries:hanging_sign_oak"
+    },
+    {
+      "name": "supplementaries:sign_post_oak"
+    },
+    {
+      "name": "suppsquared:item_shelf_oak"
+    },
+    {
+      "name": "minecraft:bookshelf"
+    },
+    {
+      "name": "woodworks:oak_chest"
+    },
+    {
+      "name": "woodworks:oak_trapped_chest"
+    },
+    {
+      "name": "minecraft:oak_boat"
+    },
+    {
+      "name": "minecraft:oak_chest_boat"
+    },
+    {
+      "name": "boatload:oak_furnace_boat"
+    },
+    {
+      "name": "boatload:large_oak_boat"
+    },
+    {
+      "name": "minecraft:beehive"
+    },
+    {
+      "name": "farmersdelight:oak_cabinet"
+    },
+    {
+      "name": "another_furniture:oak_drawer"
+    },
+    {
+      "name": "another_furniture:oak_shutter"
+    },
+    {
+      "name": "another_furniture:oak_planter_box"
+    },
+    {
+      "name": "another_furniture:oak_shelf"
+    },
+    {
+      "name": "another_furniture:oak_table"
+    },
+    {
+      "name": "another_furniture:oak_chair"
+    },
+    {
+      "name": "minecraft:oak_button"
+    },
+    {
+      "name": "minecraft:oak_pressure_plate"
+    },
+
+
+    {
+      "name": "environmental:wisteria_log"
+    },
+    {
+      "name": "environmental:wisteria_wood"
+    },
+    {
+      "name": "environmental:stripped_wisteria_log"
+    },
+    {
+      "name": "environmental:stripped_wisteria_wood"
+    },
+    {
+      "name": "everycomp:q/environmental/hollow_wisteria_log"
+    },
+    {
+      "name": "environmental:wisteria_planks"
+    },
+    {
+      "name": "environmental:wisteria_stairs"
+    },
+    {
+      "name": "environmental:wisteria_slab"
+    },
+    {
+      "name": "environmental:wisteria_fence"
+    },
+    {
+      "name": "environmental:wisteria_fence_gate"
+    },
+    {
+      "name": "environmental:wisteria_post"
+    },
+    {
+      "name": "environmental:stripped_wisteria_post"
+    },
+    {
+      "name": "abnormalmining:carved_wisteria_planks"
+    },
+    {
+      "name": "abnormalmining:wisteria_carved_plank_stairs"
+    },
+    {
+      "name": "abnormalmining:wisteria_carved_plank_slab"
+    },
+    {
+      "name": "abnormalmining:wisteria_carved_plank_wall"
+    },
+    {
+      "name": "abnormalmining:wisteria_boards"
+    },
+    {
+      "name": "abnormalmining:wisteria_board_stairs"
+    },
+    {
+      "name": "abnormalmining:wisteria_board_slab"
+    },
+    {
+      "name": "abnormalmining:wisteria_board_wall"
+    },
+    {
+      "name": "abnormalmining:wisteria_tiles"
+    },
+    {
+      "name": "abnormalmining:wisteria_tile_stairs"
+    },
+    {
+      "name": "abnormalmining:wisteria_tile_slab"
+    },
+    {
+      "name": "abnormalmining:wisteria_tile_wall"
+    },
+    {
+      "name": "abnormalmining:chiseled_wisteria_planks"
+    },
+    {
+      "name": "abnormalmining:wisteria_pillar"
+    },
+    {
+      "name": "environmental:wisteria_boards"
+    },
+    {
+      "name": "everycomp:c/environmental/wisteria_window"
+    },
+    {
+      "name": "everycomp:c/environmental/wisteria_window_pane"
+    },
+
+
+    {
+      "name": "environmental:wisteria_ladder"
+    },
+    {
+      "name": "environmental:wisteria_door"
+    },
+    {
+      "name": "environmental:wisteria_trapdoor"
+    },
+    {
+      "name": "environmental:wisteria_sign"
+    },
+    {
+      "name": "supplementaries:environmental/hanging_sign_wisteria"
+    },
+    {
+      "name": "supplementaries:environmental/sign_post_wisteria"
+    },
+    {
+      "name": "suppsquared:environmental/item_shelf_wisteria"
+    },
+    {
+      "name": "environmental:wisteria_bookshelf"
+    },
+    {
+      "name": "environmental:wisteria_chest"
+    },
+    {
+      "name": "environmental:wisteria_trapped_chest"
+    },
+    {
+      "name": "environmental:wisteria_boat"
+    },
+    {
+      "name": "environmental:wisteria_chest_boat"
+    },
+    {
+      "name": "environmental:wisteria_furnace_boat"
+    },
+    {
+      "name": "environmental:large_wisteria_boat"
+    },
+    {
+      "name": "environmental:wisteria_beehive"
+    },
+    {
+      "name": "abnormals_delight:wisteria_cabinet"
+    },
+    {
+      "name": "everycomp:af/environmental/wisteria_drawer"
+    },
+    {
+      "name": "everycomp:af/environmental/wisteria_shutter"
+    },
+    {
+      "name": "everycomp:af/environmental/wisteria_planter_box"
+    },
+    {
+      "name": "everycomp:af/environmental/wisteria_shelf"
+    },
+    {
+      "name": "everycomp:af/environmental/wisteria_table"
+    },
+    {
+      "name": "everycomp:af/environmental/wisteria_chair"
+    },
+    {
+      "name": "environmental:wisteria_button"
+    },
+    {
+      "name": "environmental:wisteria_pressure_plate"
+    },
+
+
+    {
+      "name": "minecraft:birch_log"
+    },
+    {
+      "name": "minecraft:birch_wood"
+    },
+    {
+      "name": "minecraft:stripped_birch_log"
+    },
+    {
+      "name": "minecraft:stripped_birch_wood"
+    },
+    {
+      "name": "quark:hollow_birch_log"
+    },
+    {
+      "name": "minecraft:birch_planks"
+    },
+    {
+      "name": "minecraft:birch_stairs"
+    },
+    {
+      "name": "minecraft:birch_slab"
+    },
+    {
+      "name": "minecraft:birch_fence"
+    },
+    {
+      "name": "minecraft:birch_fence_gate"
+    },
+    {
+      "name": "quark:birch_post"
+    },
+    {
+      "name": "quark:stripped_birch_post"
+    },
+    {
+      "name": "modestmining:carved_birch_planks"
+    },
+    {
+      "name": "modestmining:birch_carved_plank_stairs"
+    },
+    {
+      "name": "modestmining:birch_carved_plank_slab"
+    },
+    {
+      "name": "modestmining:birch_carved_plank_wall"
+    },
+    {
+      "name": "modestmining:birch_boards"
+    },
+    {
+      "name": "modestmining:birch_board_stairs"
+    },
+    {
+      "name": "modestmining:birch_board_slab"
+    },
+    {
+      "name": "modestmining:birch_board_wall"
+    },
+    {
+      "name": "modestmining:birch_tiles"
+    },
+    {
+      "name": "modestmining:birch_tile_stairs"
+    },
+    {
+      "name": "modestmining:birch_tile_slab"
+    },
+    {
+      "name": "modestmining:birch_tile_wall"
+    },
+    {
+      "name": "modestmining:chiseled_birch_planks"
+    },
+    {
+      "name": "modestmining:birch_pillar"
+    },
+    {
+      "name": "woodworks:birch_boards"
+    },
+    {
+      "name": "create:birch_window"
+    },
+    {
+      "name": "create:birch_window_pane"
+    },
+
+
+    {
+      "name": "woodworks:birch_ladder"
+    },
+    {
+      "name": "minecraft:birch_door"
+    },
+    {
+      "name": "minecraft:birch_trapdoor"
+    },
+    {
+      "name": "minecraft:birch_sign"
+    },
+    {
+      "name": "supplementaries:hanging_sign_birch"
+    },
+    {
+      "name": "supplementaries:sign_post_birch"
+    },
+    {
+      "name": "suppsquared:item_shelf_birch"
+    },
+    {
+      "name": "woodworks:birch_bookshelf"
+    },
+    {
+      "name": "woodworks:birch_chest"
+    },
+    {
+      "name": "woodworks:birch_trapped_chest"
+    },
+    {
+      "name": "minecraft:birch_boat"
+    },
+    {
+      "name": "minecraft:birch_chest_boat"
+    },
+    {
+      "name": "boatload:birch_furnace_boat"
+    },
+    {
+      "name": "boatload:large_birch_boat"
+    },
+    {
+      "name": "woodworks:birch_beehive"
+    },
+    {
+      "name": "farmersdelight:birch_cabinet"
+    },
+    {
+      "name": "another_furniture:birch_drawer"
+    },
+    {
+      "name": "another_furniture:birch_shutter"
+    },
+    {
+      "name": "another_furniture:birch_planter_box"
+    },
+    {
+      "name": "another_furniture:birch_shelf"
+    },
+    {
+      "name": "another_furniture:birch_table"
+    },
+    {
+      "name": "another_furniture:birch_chair"
+    },
+    {
+      "name": "minecraft:birch_button"
+    },
+    {
+      "name": "minecraft:birch_pressure_plate"
+    },
+
+
+    {
+      "name": "upgrade_aquatic:driftwood_log"
+    },
+    {
+      "name": "upgrade_aquatic:driftwood"
+    },
+    {
+      "name": "upgrade_aquatic:stripped_driftwood_log"
+    },
+    {
+      "name": "upgrade_aquatic:stripped_driftwood"
+    },
+    {
+      "name": "everycomp:q/upgrade_aquatic/hollow_driftwood_log"
+    },
+    {
+      "name": "upgrade_aquatic:driftwood_planks"
+    },
+    {
+      "name": "upgrade_aquatic:driftwood_stairs"
+    },
+    {
+      "name": "upgrade_aquatic:driftwood_slab"
+    },
+    {
+      "name": "upgrade_aquatic:driftwood_fence"
+    },
+    {
+      "name": "upgrade_aquatic:driftwood_fence_gate"
+    },
+    {
+      "name": "upgrade_aquatic:driftwood_post"
+    },
+    {
+      "name": "upgrade_aquatic:stripped_driftwood_post"
+    },
+    {
+      "name": "abnormalmining:carved_driftwood_planks"
+    },
+    {
+      "name": "abnormalmining:driftwood_carved_plank_stairs"
+    },
+    {
+      "name": "abnormalmining:driftwood_carved_plank_slab"
+    },
+    {
+      "name": "abnormalmining:driftwood_carved_plank_wall"
+    },
+    {
+      "name": "abnormalmining:driftwood_boards"
+    },
+    {
+      "name": "abnormalmining:driftwood_board_stairs"
+    },
+    {
+      "name": "abnormalmining:driftwood_board_slab"
+    },
+    {
+      "name": "abnormalmining:driftwood_board_wall"
+    },
+    {
+      "name": "abnormalmining:driftwood_tiles"
+    },
+    {
+      "name": "abnormalmining:driftwood_tile_stairs"
+    },
+    {
+      "name": "abnormalmining:driftwood_tile_slab"
+    },
+    {
+      "name": "abnormalmining:driftwood_tile_wall"
+    },
+    {
+      "name": "abnormalmining:chiseled_driftwood_planks"
+    },
+    {
+      "name": "abnormalmining:driftwood_pillar"
+    },
+    {
+      "name": "upgrade_aquatic:driftwood_boards"
+    },
+    {
+      "name": "everycomp:c/upgrade_aquatic/driftwood_window"
+    },
+    {
+      "name": "everycomp:c/upgrade_aquatic/driftwood_window_pane"
+    },
+
+
+    {
+      "name": "upgrade_aquatic:driftwood_ladder"
+    },
+    {
+      "name": "upgrade_aquatic:driftwood_door"
+    },
+    {
+      "name": "upgrade_aquatic:driftwood_trapdoor"
+    },
+    {
+      "name": "upgrade_aquatic:driftwood_sign"
+    },
+    {
+      "name": "supplementaries:upgrade_aquatic/hanging_sign_driftwood"
+    },
+    {
+      "name": "supplementaries:upgrade_aquatic/sign_post_driftwood"
+    },
+    {
+      "name": "suppsquared:upgrade_aquatic/item_shelf_driftwood"
+    },
+    {
+      "name": "upgrade_aquatic:driftwood_bookshelf"
+    },
+    {
+      "name": "upgrade_aquatic:driftwood_chest"
+    },
+    {
+      "name": "upgrade_aquatic:driftwood_trapped_chest"
+    },
+    {
+      "name": "upgrade_aquatic:driftwood_boat"
+    },
+    {
+      "name": "upgrade_aquatic:driftwood_chest_boat"
+    },
+    {
+      "name": "upgrade_aquatic:driftwood_furnace_boat"
+    },
+    {
+      "name": "upgrade_aquatic:large_driftwood_boat"
+    },
+    {
+      "name": "upgrade_aquatic:driftwood_beehive"
+    },
+    {
+      "name": "abnormals_delight:driftwood_cabinet"
+    },
+    {
+      "name": "everycomp:af/upgrade_aquatic/driftwood_drawer"
+    },
+    {
+      "name": "everycomp:af/upgrade_aquatic/driftwood_shutter"
+    },
+    {
+      "name": "everycomp:af/upgrade_aquatic/driftwood_planter_box"
+    },
+    {
+      "name": "everycomp:af/upgrade_aquatic/driftwood_shelf"
+    },
+    {
+      "name": "everycomp:af/upgrade_aquatic/driftwood_table"
+    },
+    {
+      "name": "everycomp:af/upgrade_aquatic/driftwood_chair"
+    },
+    {
+      "name": "upgrade_aquatic:driftwood_button"
+    },
+    {
+      "name": "upgrade_aquatic:driftwood_pressure_plate"
+    },
+
+
+    {
+      "name": "atmospheric:grimwood_log"
+    },
+    {
+      "name": "atmospheric:grimwood"
+    },
+    {
+      "name": "atmospheric:stripped_grimwood_log"
+    },
+    {
+      "name": "atmospheric:stripped_grimwood"
+    },
+    {
+      "name": "everycomp:q/atmospheric/hollow_grimwood_log"
+    },
+    {
+      "name": "atmospheric:grimwood_planks"
+    },
+    {
+      "name": "atmospheric:grimwood_stairs"
+    },
+    {
+      "name": "atmospheric:grimwood_slab"
+    },
+    {
+      "name": "atmospheric:grimwood_fence"
+    },
+    {
+      "name": "atmospheric:grimwood_fence_gate"
+    },
+    {
+      "name": "atmospheric:grimwood_post"
+    },
+    {
+      "name": "atmospheric:stripped_grimwood_post"
+    },
+    {
+      "name": "abnormalmining:carved_grimwood_planks"
+    },
+    {
+      "name": "abnormalmining:grimwood_carved_plank_stairs"
+    },
+    {
+      "name": "abnormalmining:grimwood_carved_plank_slab"
+    },
+    {
+      "name": "abnormalmining:grimwood_carved_plank_wall"
+    },
+    {
+      "name": "abnormalmining:grimwood_boards"
+    },
+    {
+      "name": "abnormalmining:grimwood_board_stairs"
+    },
+    {
+      "name": "abnormalmining:grimwood_board_slab"
+    },
+    {
+      "name": "abnormalmining:grimwood_board_wall"
+    },
+    {
+      "name": "abnormalmining:grimwood_tiles"
+    },
+    {
+      "name": "abnormalmining:grimwood_tile_stairs"
+    },
+    {
+      "name": "abnormalmining:grimwood_tile_slab"
+    },
+    {
+      "name": "abnormalmining:grimwood_tile_wall"
+    },
+    {
+      "name": "abnormalmining:chiseled_grimwood_planks"
+    },
+    {
+      "name": "abnormalmining:grimwood_pillar"
+    },
+    {
+      "name": "atmospheric:grimwood_boards"
+    },
+    {
+      "name": "everycomp:c/atmospheric/grimwood_window"
+    },
+    {
+      "name": "everycomp:c/atmospheric/grimwood_window_pane"
+    },
+
+
+    {
+      "name": "atmospheric:grimwood_ladder"
+    },
+    {
+      "name": "atmospheric:grimwood_door"
+    },
+    {
+      "name": "atmospheric:grimwood_trapdoor"
+    },
+    {
+      "name": "atmospheric:grimwood_sign"
+    },
+    {
+      "name": "supplementaries:atmospheric/hanging_sign_grimwood"
+    },
+    {
+      "name": "supplementaries:atmospheric/sign_post_grimwood"
+    },
+    {
+      "name": "suppsquared:atmospheric/item_shelf_grimwood"
+    },
+    {
+      "name": "atmospheric:grimwood_bookshelf"
+    },
+    {
+      "name": "atmospheric:grimwood_chest"
+    },
+    {
+      "name": "atmospheric:grimwood_trapped_chest"
+    },
+    {
+      "name": "atmospheric:grimwood_boat"
+    },
+    {
+      "name": "atmospheric:grimwood_chest_boat"
+    },
+    {
+      "name": "atmospheric:grimwood_furnace_boat"
+    },
+    {
+      "name": "atmospheric:large_grimwood_boat"
+    },
+    {
+      "name": "atmospheric:grimwood_beehive"
+    },
+    {
+      "name": "abnormals_delight:grimwood_cabinet"
+    },
+    {
+      "name": "everycomp:af/atmospheric/grimwood_drawer"
+    },
+    {
+      "name": "everycomp:af/atmospheric/grimwood_shutter"
+    },
+    {
+      "name": "everycomp:af/atmospheric/grimwood_planter_box"
+    },
+    {
+      "name": "everycomp:af/atmospheric/grimwood_shelf"
+    },
+    {
+      "name": "everycomp:af/atmospheric/grimwood_table"
+    },
+    {
+      "name": "everycomp:af/atmospheric/grimwood_chair"
+    },
+    {
+      "name": "atmospheric:grimwood_button"
+    },
+    {
+      "name": "atmospheric:grimwood_pressure_plate"
+    },
+
+
+    {
+      "name": "minecraft:spruce_log"
+    },
+    {
+      "name": "minecraft:spruce_wood"
+    },
+    {
+      "name": "minecraft:stripped_spruce_log"
+    },
+    {
+      "name": "minecraft:stripped_spruce_wood"
+    },
+    {
+      "name": "quark:hollow_spruce_log"
+    },
+    {
+      "name": "minecraft:spruce_planks"
+    },
+    {
+      "name": "minecraft:spruce_stairs"
+    },
+    {
+      "name": "minecraft:spruce_slab"
+    },
+    {
+      "name": "minecraft:spruce_fence"
+    },
+    {
+      "name": "minecraft:spruce_fence_gate"
+    },
+    {
+      "name": "quark:spruce_post"
+    },
+    {
+      "name": "quark:stripped_spruce_post"
+    },
+    {
+      "name": "modestmining:carved_spruce_planks"
+    },
+    {
+      "name": "modestmining:spruce_carved_plank_stairs"
+    },
+    {
+      "name": "modestmining:spruce_carved_plank_slab"
+    },
+    {
+      "name": "modestmining:spruce_carved_plank_wall"
+    },
+    {
+      "name": "modestmining:spruce_boards"
+    },
+    {
+      "name": "modestmining:spruce_board_stairs"
+    },
+    {
+      "name": "modestmining:spruce_board_slab"
+    },
+    {
+      "name": "modestmining:spruce_board_wall"
+    },
+    {
+      "name": "modestmining:spruce_tiles"
+    },
+    {
+      "name": "modestmining:spruce_tile_stairs"
+    },
+    {
+      "name": "modestmining:spruce_tile_slab"
+    },
+    {
+      "name": "modestmining:spruce_tile_wall"
+    },
+    {
+      "name": "modestmining:chiseled_spruce_planks"
+    },
+    {
+      "name": "modestmining:spruce_pillar"
+    },
+    {
+      "name": "woodworks:spruce_boards"
+    },
+    {
+      "name": "create:spruce_window"
+    },
+    {
+      "name": "create:spruce_window_pane"
+    },
+
+
+    {
+      "name": "woodworks:spruce_ladder"
+    },
+    {
+      "name": "minecraft:spruce_door"
+    },
+    {
+      "name": "minecraft:spruce_trapdoor"
+    },
+    {
+      "name": "minecraft:spruce_sign"
+    },
+    {
+      "name": "supplementaries:hanging_sign_spruce"
+    },
+    {
+      "name": "supplementaries:sign_post_spruce"
+    },
+    {
+      "name": "suppsquared:item_shelf_spruce"
+    },
+    {
+      "name": "woodworks:spruce_bookshelf"
+    },
+    {
+      "name": "woodworks:spruce_chest"
+    },
+    {
+      "name": "woodworks:spruce_trapped_chest"
+    },
+    {
+      "name": "minecraft:spruce_boat"
+    },
+    {
+      "name": "minecraft:spruce_chest_boat"
+    },
+    {
+      "name": "boatload:spruce_furnace_boat"
+    },
+    {
+      "name": "boatload:large_spruce_boat"
+    },
+    {
+      "name": "woodworks:spruce_beehive"
+    },
+    {
+      "name": "farmersdelight:spruce_cabinet"
+    },
+    {
+      "name": "another_furniture:spruce_drawer"
+    },
+    {
+      "name": "another_furniture:spruce_shutter"
+    },
+    {
+      "name": "another_furniture:spruce_planter_box"
+    },
+    {
+      "name": "another_furniture:spruce_shelf"
+    },
+    {
+      "name": "another_furniture:spruce_table"
+    },
+    {
+      "name": "another_furniture:spruce_chair"
+    },
+    {
+      "name": "minecraft:spruce_button"
+    },
+    {
+      "name": "minecraft:spruce_pressure_plate"
+    },
+
+
+    {
+      "name": "minecraft:mangrove_log"
+    },
+    {
+      "name": "minecraft:mangrove_wood"
+    },
+    {
+      "name": "minecraft:stripped_mangrove_log"
+    },
+    {
+      "name": "minecraft:stripped_mangrove_wood"
+    },
+    {
+      "name": "quark:hollow_mangrove_log"
+    },
+    {
+      "name": "minecraft:mangrove_planks"
+    },
+    {
+      "name": "minecraft:mangrove_stairs"
+    },
+    {
+      "name": "minecraft:mangrove_slab"
+    },
+    {
+      "name": "minecraft:mangrove_fence"
+    },
+    {
+      "name": "minecraft:mangrove_fence_gate"
+    },
+    {
+      "name": "quark:mangrove_post"
+    },
+    {
+      "name": "quark:stripped_mangrove_post"
+    },
+    {
+      "name": "modestmining:carved_mangrove_planks"
+    },
+    {
+      "name": "modestmining:mangrove_carved_plank_stairs"
+    },
+    {
+      "name": "modestmining:mangrove_carved_plank_slab"
+    },
+    {
+      "name": "modestmining:mangrove_carved_plank_wall"
+    },
+    {
+      "name": "modestmining:mangrove_boards"
+    },
+    {
+      "name": "modestmining:mangrove_board_stairs"
+    },
+    {
+      "name": "modestmining:mangrove_board_slab"
+    },
+    {
+      "name": "modestmining:mangrove_board_wall"
+    },
+    {
+      "name": "modestmining:mangrove_tiles"
+    },
+    {
+      "name": "modestmining:mangrove_tile_stairs"
+    },
+    {
+      "name": "modestmining:mangrove_tile_slab"
+    },
+    {
+      "name": "modestmining:mangrove_tile_wall"
+    },
+    {
+      "name": "modestmining:chiseled_mangrove_planks"
+    },
+    {
+      "name": "modestmining:mangrove_pillar"
+    },
+    {
+      "name": "woodworks:mangrove_boards"
+    },
+    {
+      "name": "create:mangrove_window"
+    },
+    {
+      "name": "create:mangrove_window_pane"
+    },
+
+
+    {
+      "name": "woodworks:mangrove_ladder"
+    },
+    {
+      "name": "minecraft:mangrove_door"
+    },
+    {
+      "name": "minecraft:mangrove_trapdoor"
+    },
+    {
+      "name": "minecraft:mangrove_sign"
+    },
+    {
+      "name": "supplementaries:hanging_sign_mangrove"
+    },
+    {
+      "name": "supplementaries:sign_post_mangrove"
+    },
+    {
+      "name": "suppsquared:item_shelf_mangrove"
+    },
+    {
+      "name": "woodworks:mangrove_bookshelf"
+    },
+    {
+      "name": "woodworks:mangrove_chest"
+    },
+    {
+      "name": "woodworks:mangrove_trapped_chest"
+    },
+    {
+      "name": "minecraft:mangrove_boat"
+    },
+    {
+      "name": "minecraft:mangrove_chest_boat"
+    },
+    {
+      "name": "boatload:mangrove_furnace_boat"
+    },
+    {
+      "name": "boatload:large_mangrove_boat"
+    },
+    {
+      "name": "woodworks:mangrove_beehive"
+    },
+    {
+      "name": "farmersdelight:mangrove_cabinet"
+    },
+    {
+      "name": "another_furniture:mangrove_drawer"
+    },
+    {
+      "name": "another_furniture:mangrove_shutter"
+    },
+    {
+      "name": "another_furniture:mangrove_planter_box"
+    },
+    {
+      "name": "another_furniture:mangrove_shelf"
+    },
+    {
+      "name": "another_furniture:mangrove_table"
+    },
+    {
+      "name": "another_furniture:mangrove_chair"
+    },
+    {
+      "name": "minecraft:mangrove_button"
+    },
+    {
+      "name": "minecraft:mangrove_pressure_plate"
+    },
+
+
+    {
+      "name": "autumnity:maple_log"
+    },
+    {
+      "name": "fundamentallyfixed:sappy_maple_log"
+    },
+    {
+      "name": "autumnity:maple_wood"
+    },
+    {
+      "name": "autumnity:stripped_maple_log"
+    },
+    {
+      "name": "autumnity:stripped_maple_wood"
+    },
+    {
+      "name": "everycomp:q/autumnity/hollow_maple_log"
+    },
+    {
+      "name": "autumnity:maple_planks"
+    },
+    {
+      "name": "autumnity:maple_stairs"
+    },
+    {
+      "name": "autumnity:maple_slab"
+    },
+    {
+      "name": "autumnity:maple_fence"
+    },
+    {
+      "name": "autumnity:maple_fence_gate"
+    },
+    {
+      "name": "autumnity:maple_post"
+    },
+    {
+      "name": "autumnity:stripped_maple_post"
+    },
+    {
+      "name": "abnormalmining:carved_maple_planks"
+    },
+    {
+      "name": "abnormalmining:maple_carved_plank_stairs"
+    },
+    {
+      "name": "abnormalmining:maple_carved_plank_slab"
+    },
+    {
+      "name": "abnormalmining:maple_carved_plank_wall"
+    },
+    {
+      "name": "abnormalmining:maple_boards"
+    },
+    {
+      "name": "abnormalmining:maple_board_stairs"
+    },
+    {
+      "name": "abnormalmining:maple_board_slab"
+    },
+    {
+      "name": "abnormalmining:maple_board_wall"
+    },
+    {
+      "name": "abnormalmining:maple_tiles"
+    },
+    {
+      "name": "abnormalmining:maple_tile_stairs"
+    },
+    {
+      "name": "abnormalmining:maple_tile_slab"
+    },
+    {
+      "name": "abnormalmining:maple_tile_wall"
+    },
+    {
+      "name": "abnormalmining:chiseled_maple_planks"
+    },
+    {
+      "name": "abnormalmining:maple_pillar"
+    },
+    {
+      "name": "autumnity:maple_boards"
+    },
+    {
+      "name": "everycomp:c/autumnity/maple_window"
+    },
+    {
+      "name": "everycomp:c/autumnity/maple_window_pane"
+    },
+
+
+    {
+      "name": "autumnity:maple_ladder"
+    },
+    {
+      "name": "autumnity:maple_door"
+    },
+    {
+      "name": "autumnity:maple_trapdoor"
+    },
+    {
+      "name": "autumnity:maple_sign"
+    },
+    {
+      "name": "supplementaries:autumnity/hanging_sign_maple"
+    },
+    {
+      "name": "supplementaries:autumnity/sign_post_maple"
+    },
+    {
+      "name": "suppsquared:autumnity/item_shelf_maple"
+    },
+    {
+      "name": "autumnity:maple_bookshelf"
+    },
+    {
+      "name": "autumnity:maple_chest"
+    },
+    {
+      "name": "autumnity:maple_trapped_chest"
+    },
+    {
+      "name": "autumnity:maple_boat"
+    },
+    {
+      "name": "autumnity:maple_chest_boat"
+    },
+    {
+      "name": "autumnity:maple_furnace_boat"
+    },
+    {
+      "name": "autumnity:large_maple_boat"
+    },
+    {
+      "name": "autumnity:maple_beehive"
+    },
+    {
+      "name": "abnormals_delight:maple_cabinet"
+    },
+    {
+      "name": "everycomp:af/autumnity/maple_drawer"
+    },
+    {
+      "name": "everycomp:af/autumnity/maple_shutter"
+    },
+    {
+      "name": "everycomp:af/autumnity/maple_planter_box"
+    },
+    {
+      "name": "everycomp:af/autumnity/maple_shelf"
+    },
+    {
+      "name": "everycomp:af/autumnity/maple_table"
+    },
+    {
+      "name": "everycomp:af/autumnity/maple_chair"
+    },
+    {
+      "name": "autumnity:maple_button"
+    },
+    {
+      "name": "autumnity:maple_pressure_plate"
+    },
+    {
+      "name": "autumnity:maple_pressure_plate"
+    },
+
+
+    {
+      "name": "atmospheric:aspen_log"
+    },
+    {
+      "name": "atmospheric:watchful_aspen_log"
+    },
+    {
+      "name": "atmospheric:crustose_log"
+    },
+    {
+      "name": "atmospheric:aspen_wood"
+    },
+    {
+      "name": "atmospheric:watchful_aspen_wood"
+    },
+    {
+      "name": "atmospheric:crustose_wood"
+    },
+    {
+      "name": "atmospheric:stripped_aspen_log"
+    },
+    {
+      "name": "atmospheric:stripped_aspen_wood"
+    },
+    {
+      "name": "everycomp:q/atmospheric/hollow_aspen_log"
+    },
+    {
+      "name": "atmospheric:aspen_planks"
+    },
+    {
+      "name": "atmospheric:aspen_stairs"
+    },
+    {
+      "name": "atmospheric:aspen_slab"
+    },
+    {
+      "name": "atmospheric:aspen_fence"
+    },
+    {
+      "name": "atmospheric:aspen_fence_gate"
+    },
+    {
+      "name": "atmospheric:aspen_post"
+    },
+    {
+      "name": "atmospheric:stripped_aspen_post"
+    },
+    {
+      "name": "abnormalmining:carved_aspen_planks"
+    },
+    {
+      "name": "abnormalmining:aspen_carved_plank_stairs"
+    },
+    {
+      "name": "abnormalmining:aspen_carved_plank_slab"
+    },
+    {
+      "name": "abnormalmining:aspen_carved_plank_wall"
+    },
+    {
+      "name": "abnormalmining:aspen_boards"
+    },
+    {
+      "name": "abnormalmining:aspen_board_stairs"
+    },
+    {
+      "name": "abnormalmining:aspen_board_slab"
+    },
+    {
+      "name": "abnormalmining:aspen_board_wall"
+    },
+    {
+      "name": "abnormalmining:aspen_tiles"
+    },
+    {
+      "name": "abnormalmining:aspen_tile_stairs"
+    },
+    {
+      "name": "abnormalmining:aspen_tile_slab"
+    },
+    {
+      "name": "abnormalmining:aspen_tile_wall"
+    },
+    {
+      "name": "abnormalmining:chiseled_aspen_planks"
+    },
+    {
+      "name": "abnormalmining:aspen_pillar"
+    },
+    {
+      "name": "atmospheric:aspen_boards"
+    },
+    {
+      "name": "everycomp:c/atmospheric/aspen_window"
+    },
+    {
+      "name": "everycomp:c/atmospheric/aspen_window_pane"
+    },
+
+
+    {
+      "name": "atmospheric:aspen_ladder"
+    },
+    {
+      "name": "atmospheric:aspen_door"
+    },
+    {
+      "name": "atmospheric:aspen_trapdoor"
+    },
+    {
+      "name": "atmospheric:aspen_sign"
+    },
+    {
+      "name": "atmospheric:hanging_sign_aspen"
+    },
+    {
+      "name": "atmospheric:sign_post_aspen"
+    },
+    {
+      "name": "atmospheric:item_shelf_aspen"
+    },
+    {
+      "name": "atmospheric:aspen_bookshelf"
+    },
+    {
+      "name": "atmospheric:aspen_chest"
+    },
+    {
+      "name": "atmospheric:aspen_trapped_chest"
+    },
+    {
+      "name": "atmospheric:aspen_boat"
+    },
+    {
+      "name": "atmospheric:aspen_chest_boat"
+    },
+    {
+      "name": "atmospheric:aspen_furnace_boat"
+    },
+    {
+      "name": "atmospheric:large_aspen_boat"
+    },
+    {
+      "name": "atmospheric:aspen_beehive"
+    },
+    {
+      "name": "abnormals_delight:aspen_cabinet"
+    },
+    {
+      "name": "everycomp:af/atmospheric/aspen_drawer"
+    },
+    {
+      "name": "everycomp:af/atmospheric/aspen_shutter"
+    },
+    {
+      "name": "everycomp:af/atmospheric/aspen_planter_box"
+    },
+    {
+      "name": "everycomp:af/atmospheric/aspen_shelf"
+    },
+    {
+      "name": "everycomp:af/atmospheric/aspen_table"
+    },
+    {
+      "name": "everycomp:af/atmospheric/aspen_chair"
+    },
+    {
+      "name": "atmospheric:aspen_button"
+    },
+    {
+      "name": "atmospheric:aspen_pressure_plate"
+    },
+
+
+    {
+      "name": "quark:azalea_log"
+    },
+    {
+      "name": "quark:azalea_wood"
+    },
+    {
+      "name": "quark:stripped_azalea_log"
+    },
+    {
+      "name": "quark:stripped_azalea_wood"
+    },
+    {
+      "name": "quark:hollow_azalea_log"
+    },
+    {
+      "name": "quark:azalea_planks"
+    },
+    {
+      "name": "quark:azalea_planks_stairs"
+    },
+    {
+      "name": "quark:azalea_planks_slab"
+    },
+    {
+      "name": "quark:azalea_fence"
+    },
+    {
+      "name": "quark:azalea_fence_gate"
+    },
+    {
+      "name": "quark:azalea_post"
+    },
+    {
+      "name": "quark:stripped_azalea_post"
+    },
+    {
+      "name": "modestmining:carved_acacia_planks"
+    },
+    {
+      "name": "modestmining:acacia_carved_plank_stairs"
+    },
+    {
+      "name": "modestmining:acacia_carved_plank_slab"
+    },
+    {
+      "name": "modestmining:acacia_carved_plank_wall"
+    },
+    {
+      "name": "modestmining:acacia_boards"
+    },
+    {
+      "name": "modestmining:acacia_board_stairs"
+    },
+    {
+      "name": "modestmining:acacia_board_slab"
+    },
+    {
+      "name": "modestmining:acacia_board_wall"
+    },
+    {
+      "name": "modestmining:acacia_tiles"
+    },
+    {
+      "name": "modestmining:acacia_tile_stairs"
+    },
+    {
+      "name": "modestmining:acacia_tile_slab"
+    },
+    {
+      "name": "modestmining:acacia_tile_wall"
+    },
+    {
+      "name": "modestmining:chiseled_acacia_planks"
+    },
+    {
+      "name": "modestmining:acacia_pillar"
+    },
+    {
+      "name": "everycomp:abnww/quark/azalea_boards"
+    },
+    {
+      "name": "everycomp:c/quark/azalea_window"
+    },
+    {
+      "name": "everycomp:c/quark/azalea_window_pane"
+    },
+
+
+    {
+      "name": "quark:azalea_ladder"
+    },
+    {
+      "name": "quark:azalea_door"
+    },
+    {
+      "name": "quark:azalea_trapdoor"
+    },
+    {
+      "name": "quark:azalea_sign"
+    },
+    {
+      "name": "supplementaries:quark/hanging_sign_azalea"
+    },
+    {
+      "name": "supplementaries:quark/sign_post_azalea"
+    },
+    {
+      "name": "suppsquared:quark/item_shelf_azalea"
+    },
+    {
+      "name": "quark:azalea_bookshelf"
+    },
+    {
+      "name": "quark:azalea_chest"
+    },
+    {
+      "name": "quark:azalea_trapped_chest"
+    },
+    {
+      "name": "quark:azalea_boat"
+    },
+    {
+      "name": "quark:azalea_chest_boat"
+    },
+    {
+      "name": "windswept:holly_furnace_boat"
+    },
+    {
+      "name": "windswept:large_holly_boat"
+    },
+    {
+      "name": "everycomp:abnww/quark/azalea_beehive"
+    },
+    {
+      "name": "everycomp:fd/quark/azalea_cabinet"
+    },
+    {
+      "name": "everycomp:af/quark/azalea_drawer"
+    },
+    {
+      "name": "everycomp:af/quark/azalea_shutter"
+    },
+    {
+      "name": "everycomp:af/quark/azalea_planter_box"
+    },
+    {
+      "name": "everycomp:af/quark/azalea_shelf"
+    },
+    {
+      "name": "everycomp:af/quark/azalea_table"
+    },
+    {
+      "name": "everycomp:af/quark/azalea_chair"
+    },
+    {
+      "name": "quark:azalea_button"
+    },
+    {
+      "name": "quark:azalea_pressure_plate"
+    },
+
+
+    {
+      "name": "environmental:willow_log"
+    },
+    {
+      "name": "environmental:willow_wood"
+    },
+    {
+      "name": "environmental:stripped_willow_log"
+    },
+    {
+      "name": "environmental:stripped_willow_wood"
+    },
+    {
+      "name": "everycomp:q/environmental/hollow_willow_log"
+    },
+    {
+      "name": "environmental:willow_planks"
+    },
+    {
+      "name": "environmental:willow_stairs"
+    },
+    {
+      "name": "environmental:willow_slab"
+    },
+    {
+      "name": "environmental:willow_fence"
+    },
+    {
+      "name": "environmental:willow_fence_gate"
+    },
+    {
+      "name": "environmental:willow_post"
+    },
+    {
+      "name": "environmental:stripped_willow_post"
+    },
+    {
+      "name": "abnormalmining:carved_willow_planks"
+    },
+    {
+      "name": "abnormalmining:willow_carved_plank_stairs"
+    },
+    {
+      "name": "abnormalmining:willow_carved_plank_slab"
+    },
+    {
+      "name": "abnormalmining:willow_carved_plank_wall"
+    },
+    {
+      "name": "abnormalmining:willow_boards"
+    },
+    {
+      "name": "abnormalmining:willow_board_stairs"
+    },
+    {
+      "name": "abnormalmining:willow_board_slab"
+    },
+    {
+      "name": "abnormalmining:willow_board_wall"
+    },
+    {
+      "name": "abnormalmining:willow_tiles"
+    },
+    {
+      "name": "abnormalmining:willow_tile_stairs"
+    },
+    {
+      "name": "abnormalmining:willow_tile_slab"
+    },
+    {
+      "name": "abnormalmining:willow_tile_wall"
+    },
+    {
+      "name": "abnormalmining:chiseled_willow_planks"
+    },
+    {
+      "name": "abnormalmining:willow_pillar"
+    },
+    {
+      "name": "environmental:willow_boards"
+    },
+    {
+      "name": "everycomp:c/environmental/willow_window"
+    },
+    {
+      "name": "everycomp:c/environmental/willow_window_pane"
+    },
+
+
+    {
+      "name": "environmental:willow_ladder"
+    },
+    {
+      "name": "environmental:willow_door"
+    },
+    {
+      "name": "environmental:willow_trapdoor"
+    },
+    {
+      "name": "environmental:willow_sign"
+    },
+    {
+      "name": "supplementaries:environmental/hanging_sign_willow"
+    },
+    {
+      "name": "supplementaries:environmental/sign_post_willow"
+    },
+    {
+      "name": "suppsquared:environmental/item_shelf_willow"
+    },
+    {
+      "name": "environmental:willow_bookshelf"
+    },
+    {
+      "name": "environmental:willow_chest"
+    },
+    {
+      "name": "environmental:willow_trapped_chest"
+    },
+    {
+      "name": "environmental:willow_boat"
+    },
+    {
+      "name": "environmental:willow_chest_boat"
+    },
+    {
+      "name": "environmental:willow_furnace_boat"
+    },
+    {
+      "name": "environmental:large_willow_boat"
+    },
+    {
+      "name": "environmental:willow_beehive"
+    },
+    {
+      "name": "abnormals_delight:willow_cabinet"
+    },
+    {
+      "name": "everycomp:af/environmental/willow_drawer"
+    },
+    {
+      "name": "everycomp:af/environmental/willow_shutter"
+    },
+    {
+      "name": "everycomp:af/environmental/willow_planter_box"
+    },
+    {
+      "name": "everycomp:af/environmental/willow_shelf"
+    },
+    {
+      "name": "everycomp:af/environmental/willow_table"
+    },
+    {
+      "name": "everycomp:af/environmental/willow_chair"
+    },
+    {
+      "name": "environmental:willow_button"
+    },
+    {
+      "name": "environmental:willow_pressure_plate"
+    },
+
+
+    {
+      "name": "minecraft:warped_stem"
+    },
+    {
+      "name": "minecraft:warped_hyphae"
+    },
+    {
+      "name": "minecraft:stripped_warped_stem"
+    },
+    {
+      "name": "minecraft:stripped_warped_hyphae"
+    },
+    {
+      "name": "quark:hollow_warped_stem"
+    },
+    {
+      "name": "minecraft:warped_planks"
+    },
+    {
+      "name": "minecraft:warped_stairs"
+    },
+    {
+      "name": "minecraft:warped_slab"
+    },
+    {
+      "name": "minecraft:warped_fence"
+    },
+    {
+      "name": "minecraft:warped_fence_gate"
+    },
+    {
+      "name": "quark:warped_post"
+    },
+    {
+      "name": "quark:stripped_warped_post"
+    },
+    {
+      "name": "modestmining:carved_warped_planks"
+    },
+    {
+      "name": "modestmining:warped_carved_plank_stairs"
+    },
+    {
+      "name": "modestmining:warped_carved_plank_slab"
+    },
+    {
+      "name": "modestmining:warped_carved_plank_wall"
+    },
+    {
+      "name": "modestmining:warped_boards"
+    },
+    {
+      "name": "modestmining:warped_board_stairs"
+    },
+    {
+      "name": "modestmining:warped_board_slab"
+    },
+    {
+      "name": "modestmining:warped_board_wall"
+    },
+    {
+      "name": "modestmining:warped_tiles"
+    },
+    {
+      "name": "modestmining:warped_tile_stairs"
+    },
+    {
+      "name": "modestmining:warped_tile_slab"
+    },
+    {
+      "name": "modestmining:warped_tile_wall"
+    },
+    {
+      "name": "modestmining:chiseled_warped_planks"
+    },
+    {
+      "name": "modestmining:warped_pillar"
+    },
+    {
+      "name": "woodworks:warped_boards"
+    },
+    {
+      "name": "create:warped_window"
+    },
+    {
+      "name": "create:warped_window_pane"
+    },
+
+
+    {
+      "name": "woodworks:warped_ladder"
+    },
+    {
+      "name": "minecraft:warped_door"
+    },
+    {
+      "name": "minecraft:warped_trapdoor"
+    },
+    {
+      "name": "minecraft:warped_sign"
+    },
+    {
+      "name": "supplementaries:hanging_sign_warped"
+    },
+    {
+      "name": "supplementaries:sign_post_warped"
+    },
+    {
+      "name": "suppsquared:item_shelf_warped"
+    },
+    {
+      "name": "woodworks:warped_bookshelf"
+    },
+    {
+      "name": "woodworks:warped_chest"
+    },
+    {
+      "name": "woodworks:warped_trapped_chest"
+    },
+    {
+      "name": "boatload:warped_boat"
+    },
+    {
+      "name": "boatload:warped_chest_boat"
+    },
+    {
+      "name": "boatload:warped_furnace_boat"
+    },
+    {
+      "name": "boatload:large_warped_boat"
+    },
+    {
+      "name": "woodworks:warped_beehive"
+    },
+    {
+      "name": "farmersdelight:warped_cabinet"
+    },
+    {
+      "name": "another_furniture:warped_drawer"
+    },
+    {
+      "name": "another_furniture:warped_shutter"
+    },
+    {
+      "name": "another_furniture:warped_planter_box"
+    },
+    {
+      "name": "another_furniture:warped_shelf"
+    },
+    {
+      "name": "another_furniture:warped_table"
+    },
+    {
+      "name": "another_furniture:warped_chair"
+    },
+    {
+      "name": "minecraft:warped_button"
+    },
+    {
+      "name": "minecraft:warped_pressure_plate"
+    },
+
+
+    {
+      "name": "atmospheric:kousa_log"
+    },
+    {
+      "name": "atmospheric:watchful_kousa_log"
+    },
+    {
+      "name": "atmospheric:kousa_wood"
+    },
+    {
+      "name": "atmospheric:watchful_kousa_wood"
+    },
+    {
+      "name": "atmospheric:stripped_kousa_log"
+    },
+    {
+      "name": "atmospheric:stripped_kousa_wood"
+    },
+    {
+      "name": "everycomp:q/atmospheric/hollow_kousa_log"
+    },
+    {
+      "name": "atmospheric:kousa_planks"
+    },
+    {
+      "name": "atmospheric:kousa_stairs"
+    },
+    {
+      "name": "atmospheric:kousa_slab"
+    },
+    {
+      "name": "atmospheric:kousa_fence"
+    },
+    {
+      "name": "atmospheric:kousa_fence_gate"
+    },
+    {
+      "name": "atmospheric:kousa_post"
+    },
+    {
+      "name": "atmospheric:stripped_kousa_post"
+    },
+    {
+      "name": "abnormalmining:carved_kousa_planks"
+    },
+    {
+      "name": "abnormalmining:kousa_carved_plank_stairs"
+    },
+    {
+      "name": "abnormalmining:kousa_carved_plank_slab"
+    },
+    {
+      "name": "abnormalmining:kousa_carved_plank_wall"
+    },
+    {
+      "name": "abnormalmining:kousa_boards"
+    },
+    {
+      "name": "abnormalmining:kousa_board_stairs"
+    },
+    {
+      "name": "abnormalmining:kousa_board_slab"
+    },
+    {
+      "name": "abnormalmining:kousa_board_wall"
+    },
+    {
+      "name": "abnormalmining:kousa_tiles"
+    },
+    {
+      "name": "abnormalmining:kousa_tile_stairs"
+    },
+    {
+      "name": "abnormalmining:kousa_tile_slab"
+    },
+    {
+      "name": "abnormalmining:kousa_tile_wall"
+    },
+    {
+      "name": "abnormalmining:chiseled_kousa_planks"
+    },
+    {
+      "name": "abnormalmining:kousa_pillar"
+    },
+    {
+      "name": "atmospheric:kousa_boards"
+    },
+    {
+      "name": "everycomp:c/atmospheric/kousa_window"
+    },
+    {
+      "name": "everycomp:c/atmospheric/kousa_window_pane"
+    },
+
+
+    {
+      "name": "atmospheric:kousa_ladder"
+    },
+    {
+      "name": "atmospheric:kousa_door"
+    },
+    {
+      "name": "atmospheric:kousa_trapdoor"
+    },
+    {
+      "name": "atmospheric:kousa_sign"
+    },
+    {
+      "name": "supplementaries:atmospheric/hanging_sign_kousa"
+    },
+    {
+      "name": "supplementaries:atmospheric/sign_post_kousa"
+    },
+    {
+      "name": "suppsquared:atmospheric/item_shelf_kousa"
+    },
+    {
+      "name": "atmospheric:kousa_bookshelf"
+    },
+    {
+      "name": "atmospheric:kousa_chest"
+    },
+    {
+      "name": "atmospheric:kousa_trapped_chest"
+    },
+    {
+      "name": "atmospheric:kousa_boat"
+    },
+    {
+      "name": "atmospheric:kousa_chest_boat"
+    },
+    {
+      "name": "atmospheric:kousa_furnace_boat"
+    },
+    {
+      "name": "atmospheric:large_kousa_boat"
+    },
+    {
+      "name": "atmospheric:kousa_beehive"
+    },
+    {
+      "name": "abnormals_delight:kousa_cabinet"
+    },
+    {
+      "name": "everycomp:af/atmospheric/kousa_drawer"
+    },
+    {
+      "name": "everycomp:af/atmospheric/kousa_shutter"
+    },
+    {
+      "name": "everycomp:af/atmospheric/kousa_planter_box"
+    },
+    {
+      "name": "everycomp:af/atmospheric/kousa_shelf"
+    },
+    {
+      "name": "everycomp:af/atmospheric/kousa_table"
+    },
+    {
+      "name": "everycomp:af/atmospheric/kousa_chair"
+    },
+    {
+      "name": "atmospheric:kousa_button"
+    },
+    {
+      "name": "atmospheric:kousa_pressure_plate"
+    },
+
+
+    {
+      "name": "atmospheric:morado_log"
+    },
+    {
+      "name": "atmospheric:morado_wood"
+    },
+    {
+      "name": "atmospheric:stripped_morado_log"
+    },
+    {
+      "name": "atmospheric:stripped_morado_wood"
+    },
+    {
+      "name": "everycomp:q/atmospheric/hollow_morado_log"
+    },
+    {
+      "name": "atmospheric:morado_planks"
+    },
+    {
+      "name": "atmospheric:morado_stairs"
+    },
+    {
+      "name": "atmospheric:morado_slab"
+    },
+    {
+      "name": "atmospheric:morado_fence"
+    },
+    {
+      "name": "atmospheric:morado_fence_gate"
+    },
+    {
+      "name": "atmospheric:morado_post"
+    },
+    {
+      "name": "atmospheric:stripped_morado_post"
+    },
+    {
+      "name": "abnormalmining:carved_morado_planks"
+    },
+    {
+      "name": "abnormalmining:morado_carved_plank_stairs"
+    },
+    {
+      "name": "abnormalmining:morado_carved_plank_slab"
+    },
+    {
+      "name": "abnormalmining:morado_carved_plank_wall"
+    },
+    {
+      "name": "abnormalmining:morado_boards"
+    },
+    {
+      "name": "abnormalmining:morado_board_stairs"
+    },
+    {
+      "name": "abnormalmining:morado_board_slab"
+    },
+    {
+      "name": "abnormalmining:morado_board_wall"
+    },
+    {
+      "name": "abnormalmining:morado_tiles"
+    },
+    {
+      "name": "abnormalmining:morado_tile_stairs"
+    },
+    {
+      "name": "abnormalmining:morado_tile_slab"
+    },
+    {
+      "name": "abnormalmining:morado_tile_wall"
+    },
+    {
+      "name": "abnormalmining:chiseled_morado_planks"
+    },
+    {
+      "name": "abnormalmining:morado_pillar"
+    },
+    {
+      "name": "atmospheric:morado_boards"
+    },
+    {
+      "name": "everycomp:c/atmospheric/morado_window"
+    },
+    {
+      "name": "everycomp:c/atmospheric/morado_window_pane"
+    },
+
+
+    {
+      "name": "atmospheric:morado_ladder"
+    },
+    {
+      "name": "atmospheric:morado_door"
+    },
+    {
+      "name": "atmospheric:morado_trapdoor"
+    },
+    {
+      "name": "atmospheric:morado_sign"
+    },
+    {
+      "name": "supplementaries:atmospheric/hanging_sign_morado"
+    },
+    {
+      "name": "supplementaries:atmospheric/sign_post_morado"
+    },
+    {
+      "name": "suppsquared:atmospheric/item_shelf_morado"
+    },
+    {
+      "name": "atmospheric:morado_bookshelf"
+    },
+    {
+      "name": "atmospheric:morado_chest"
+    },
+    {
+      "name": "atmospheric:morado_trapped_chest"
+    },
+    {
+      "name": "atmospheric:morado_boat"
+    },
+    {
+      "name": "atmospheric:morado_chest_boat"
+    },
+    {
+      "name": "atmospheric:morado_furnace_boat"
+    },
+    {
+      "name": "atmospheric:large_morado_boat"
+    },
+    {
+      "name": "atmospheric:morado_beehive"
+    },
+    {
+      "name": "abnormals_delight:morado_cabinet"
+    },
+    {
+      "name": "everycomp:af/atmospheric/morado_drawer"
+    },
+    {
+      "name": "everycomp:af/atmospheric/morado_shutter"
+    },
+    {
+      "name": "everycomp:af/atmospheric/morado_planter_box"
+    },
+    {
+      "name": "everycomp:af/atmospheric/morado_shelf"
+    },
+    {
+      "name": "everycomp:af/atmospheric/morado_table"
+    },
+    {
+      "name": "everycomp:af/atmospheric/morado_chair"
+    },
+    {
+      "name": "atmospheric:morado_button"
+    },
+    {
+      "name": "atmospheric:morado_pressure_plate"
+    },
+
+
+    {
+      "name": "atmospheric:rosewood_log"
+    },
+    {
+      "name": "atmospheric:rosewood_wood"
+    },
+    {
+      "name": "atmospheric:stripped_rosewood_log"
+    },
+    {
+      "name": "atmospheric:stripped_rosewood_wood"
+    },
+    {
+      "name": "everycomp:q/atmospheric/hollow_rosewood_log"
+    },
+    {
+      "name": "atmospheric:rosewood_planks"
+    },
+    {
+      "name": "atmospheric:rosewood_stairs"
+    },
+    {
+      "name": "atmospheric:rosewood_slab"
+    },
+    {
+      "name": "atmospheric:rosewood_fence"
+    },
+    {
+      "name": "atmospheric:rosewood_fence_gate"
+    },
+    {
+      "name": "atmospheric:rosewood_post"
+    },
+    {
+      "name": "atmospheric:stripped_rosewood_post"
+    },
+    {
+      "name": "abnormalmining:carved_rosewood_planks"
+    },
+    {
+      "name": "abnormalmining:rosewood_carved_plank_stairs"
+    },
+    {
+      "name": "abnormalmining:rosewood_carved_plank_slab"
+    },
+    {
+      "name": "abnormalmining:rosewood_carved_plank_wall"
+    },
+    {
+      "name": "abnormalmining:rosewood_boards"
+    },
+    {
+      "name": "abnormalmining:rosewood_board_stairs"
+    },
+    {
+      "name": "abnormalmining:rosewood_board_slab"
+    },
+    {
+      "name": "abnormalmining:rosewood_board_wall"
+    },
+    {
+      "name": "abnormalmining:rosewood_tiles"
+    },
+    {
+      "name": "abnormalmining:rosewood_tile_stairs"
+    },
+    {
+      "name": "abnormalmining:rosewood_tile_slab"
+    },
+    {
+      "name": "abnormalmining:rosewood_tile_wall"
+    },
+    {
+      "name": "abnormalmining:chiseled_rosewood_planks"
+    },
+    {
+      "name": "abnormalmining:rosewood_pillar"
+    },
+    {
+      "name": "atmospheric:rosewood_boards"
+    },
+    {
+      "name": "everycomp:c/atmospheric/rosewood_window"
+    },
+    {
+      "name": "everycomp:c/atmospheric/rosewood_window_pane"
+    },
+
+
+    {
+      "name": "atmospheric:rosewood_ladder"
+    },
+    {
+      "name": "atmospheric:rosewood_door"
+    },
+    {
+      "name": "atmospheric:rosewood_trapdoor"
+    },
+    {
+      "name": "atmospheric:rosewood_sign"
+    },
+    {
+      "name": "supplementaries:atmospheric/hanging_sign_rosewood"
+    },
+    {
+      "name": "supplementaries:atmospheric/sign_post_rosewood"
+    },
+    {
+      "name": "suppsquared:atmospheric/item_shelf_rosewood"
+    },
+    {
+      "name": "atmospheric:rosewood_bookshelf"
+    },
+    {
+      "name": "atmospheric:rosewood_chest"
+    },
+    {
+      "name": "atmospheric:rosewood_trapped_chest"
+    },
+    {
+      "name": "atmospheric:rosewood_boat"
+    },
+    {
+      "name": "atmospheric:rosewood_chest_boat"
+    },
+    {
+      "name": "atmospheric:rosewood_furnace_boat"
+    },
+    {
+      "name": "atmospheric:large_rosewood_boat"
+    },
+    {
+      "name": "atmospheric:rosewood_beehive"
+    },
+    {
+      "name": "abnormals_delight:rosewood_cabinet"
+    },
+    {
+      "name": "everycomp:af/atmospheric/rosewood_drawer"
+    },
+    {
+      "name": "everycomp:af/atmospheric/rosewood_shutter"
+    },
+    {
+      "name": "everycomp:af/atmospheric/rosewood_planter_box"
+    },
+    {
+      "name": "everycomp:af/atmospheric/rosewood_shelf"
+    },
+    {
+      "name": "everycomp:af/atmospheric/rosewood_table"
+    },
+    {
+      "name": "everycomp:af/atmospheric/rosewood_chair"
+    },
+    {
+      "name": "atmospheric:rosewood_button"
+    },
+    {
+      "name": "atmospheric:rosewood_pressure_plate"
+    },
+
+
+    {
+      "name": "minecraft:crimson_stem"
+    },
+    {
+      "name": "minecraft:crimson_hyphae"
+    },
+    {
+      "name": "minecraft:stripped_crimson_stem"
+    },
+    {
+      "name": "minecraft:stripped_crimson_hyphae"
+    },
+    {
+      "name": "quark:hollow_crimson_stem"
+    },
+    {
+      "name": "minecraft:crimson_planks"
+    },
+    {
+      "name": "minecraft:crimson_stairs"
+    },
+    {
+      "name": "minecraft:crimson_slab"
+    },
+    {
+      "name": "minecraft:crimson_fence"
+    },
+    {
+      "name": "minecraft:crimson_fence_gate"
+    },
+    {
+      "name": "quark:crimson_post"
+    },
+    {
+      "name": "quark:stripped_crimson_post"
+    },
+    {
+      "name": "modestmining:carved_crimson_planks"
+    },
+    {
+      "name": "modestmining:crimson_carved_plank_stairs"
+    },
+    {
+      "name": "modestmining:crimson_carved_plank_slab"
+    },
+    {
+      "name": "modestmining:crimson_carved_plank_wall"
+    },
+    {
+      "name": "modestmining:crimson_boards"
+    },
+    {
+      "name": "modestmining:crimson_board_stairs"
+    },
+    {
+      "name": "modestmining:crimson_board_slab"
+    },
+    {
+      "name": "modestmining:crimson_board_wall"
+    },
+    {
+      "name": "modestmining:crimson_tiles"
+    },
+    {
+      "name": "modestmining:crimson_tile_stairs"
+    },
+    {
+      "name": "modestmining:crimson_tile_slab"
+    },
+    {
+      "name": "modestmining:crimson_tile_wall"
+    },
+    {
+      "name": "modestmining:chiseled_crimson_planks"
+    },
+    {
+      "name": "modestmining:crimson_pillar"
+    },
+    {
+      "name": "woodworks:crimson_boards"
+    },
+    {
+      "name": "create:crimson_window"
+    },
+    {
+      "name": "create:crimson_window_pane"
+    },
+
+
+    {
+      "name": "woodworks:crimson_ladder"
+    },
+    {
+      "name": "minecraft:crimson_door"
+    },
+    {
+      "name": "minecraft:crimson_trapdoor"
+    },
+    {
+      "name": "minecraft:crimson_sign"
+    },
+    {
+      "name": "supplementaries:hanging_sign_crimson"
+    },
+    {
+      "name": "supplementaries:sign_post_crimson"
+    },
+    {
+      "name": "suppsquared:item_shelf_crimson"
+    },
+    {
+      "name": "woodworks:crimson_bookshelf"
+    },
+    {
+      "name": "woodworks:crimson_chest"
+    },
+    {
+      "name": "woodworks:crimson_trapped_chest"
+    },
+    {
+      "name": "boatload:crimson_boat"
+    },
+    {
+      "name": "boatload:crimson_chest_boat"
+    },
+    {
+      "name": "boatload:crimson_furnace_boat"
+    },
+    {
+      "name": "boatload:large_crimson_boat"
+    },
+    {
+      "name": "woodworks:crimson_beehive"
+    },
+    {
+      "name": "farmersdelight:crimson_cabinet"
+    },
+    {
+      "name": "another_furniture:crimson_drawer"
+    },
+    {
+      "name": "another_furniture:crimson_shutter"
+    },
+    {
+      "name": "another_furniture:crimson_planter_box"
+    },
+    {
+      "name": "another_furniture:crimson_shelf"
+    },
+    {
+      "name": "another_furniture:crimson_table"
+    },
+    {
+      "name": "another_furniture:crimson_chair"
+    },
+    {
+      "name": "minecraft:crimson_button"
+    },
+    {
+      "name": "minecraft:crimson_pressure_plate"
+    },
+
+
+    {
+      "name": "environmental:cherry_log"
+    },
+    {
+      "name": "environmental:cherry_wood"
+    },
+    {
+      "name": "environmental:stripped_cherry_log"
+    },
+    {
+      "name": "environmental:stripped_cherry_wood"
+    },
+    {
+      "name": "everycomp:q/environmental/hollow_cherry_log"
+    },
+    {
+      "name": "environmental:cherry_planks"
+    },
+    {
+      "name": "environmental:cherry_stairs"
+    },
+    {
+      "name": "environmental:cherry_slab"
+    },
+    {
+      "name": "environmental:cherry_fence"
+    },
+    {
+      "name": "environmental:cherry_fence_gate"
+    },
+    {
+      "name": "environmental:cherry_post"
+    },
+    {
+      "name": "environmental:stripped_cherry_post"
+    },
+    {
+      "name": "abnormalmining:carved_cherry_planks"
+    },
+    {
+      "name": "abnormalmining:cherry_carved_plank_stairs"
+    },
+    {
+      "name": "abnormalmining:cherry_carved_plank_slab"
+    },
+    {
+      "name": "abnormalmining:cherry_carved_plank_wall"
+    },
+    {
+      "name": "abnormalmining:cherry_boards"
+    },
+    {
+      "name": "abnormalmining:cherry_board_stairs"
+    },
+    {
+      "name": "abnormalmining:cherry_board_slab"
+    },
+    {
+      "name": "abnormalmining:cherry_board_wall"
+    },
+    {
+      "name": "abnormalmining:cherry_tiles"
+    },
+    {
+      "name": "abnormalmining:cherry_tile_stairs"
+    },
+    {
+      "name": "abnormalmining:cherry_tile_slab"
+    },
+    {
+      "name": "abnormalmining:cherry_tile_wall"
+    },
+    {
+      "name": "abnormalmining:chiseled_cherry_planks"
+    },
+    {
+      "name": "abnormalmining:cherry_pillar"
+    },
+    {
+      "name": "environmental:cherry_boards"
+    },
+    {
+      "name": "everycomp:c/environmental/cherry_window"
+    },
+    {
+      "name": "everycomp:c/environmental/cherry_window_pane"
+    },
+
+
+    {
+      "name": "environmental:cherry_ladder"
+    },
+    {
+      "name": "environmental:cherry_door"
+    },
+    {
+      "name": "environmental:cherry_trapdoor"
+    },
+    {
+      "name": "environmental:cherry_sign"
+    },
+    {
+      "name": "supplementaries:environmental/hanging_sign_cherry"
+    },
+    {
+      "name": "supplementaries:environmental/sign_post_cherry"
+    },
+    {
+      "name": "suppsquared:environmental/item_shelf_cherry"
+    },
+    {
+      "name": "environmental:cherry_bookshelf"
+    },
+    {
+      "name": "environmental:cherry_chest"
+    },
+    {
+      "name": "environmental:cherry_trapped_chest"
+    },
+    {
+      "name": "environmental:cherry_boat"
+    },
+    {
+      "name": "environmental:cherry_chest_boat"
+    },
+    {
+      "name": "environmental:cherry_furnace_boat"
+    },
+    {
+      "name": "environmental:large_cherry_boat"
+    },
+    {
+      "name": "environmental:cherry_beehive"
+    },
+    {
+      "name": "abnormals_delight:cherry_cabinet"
+    },
+    {
+      "name": "everycomp:af/environmental/cherry_drawer"
+    },
+    {
+      "name": "everycomp:af/environmental/cherry_shutter"
+    },
+    {
+      "name": "everycomp:af/environmental/cherry_planter_box"
+    },
+    {
+      "name": "everycomp:af/environmental/cherry_shelf"
+    },
+    {
+      "name": "everycomp:af/environmental/cherry_table"
+    },
+    {
+      "name": "everycomp:af/environmental/cherry_chair"
+    },
+    {
+      "name": "environmental:cherry_button"
+    },
+    {
+      "name": "environmental:cherry_pressure_plate"
+    },
+
+
+    {
+      "name": "atmospheric:yucca_log"
+    },
+    {
+      "name": "atmospheric:yucca_wood"
+    },
+    {
+      "name": "atmospheric:stripped_yucca_log"
+    },
+    {
+      "name": "atmospheric:stripped_yucca_wood"
+    },
+    {
+      "name": "everycomp:q/atmospheric/hollow_yucca_log"
+    },
+    {
+      "name": "atmospheric:yucca_planks"
+    },
+    {
+      "name": "atmospheric:yucca_stairs"
+    },
+    {
+      "name": "atmospheric:yucca_slab"
+    },
+    {
+      "name": "atmospheric:yucca_fence"
+    },
+    {
+      "name": "atmospheric:yucca_fence_gate"
+    },
+    {
+      "name": "atmospheric:yucca_post"
+    },
+    {
+      "name": "atmospheric:stripped_yucca_post"
+    },
+    {
+      "name": "abnormalmining:carved_yucca_planks"
+    },
+    {
+      "name": "abnormalmining:yucca_carved_plank_stairs"
+    },
+    {
+      "name": "abnormalmining:yucca_carved_plank_slab"
+    },
+    {
+      "name": "abnormalmining:yucca_carved_plank_wall"
+    },
+    {
+      "name": "abnormalmining:yucca_boards"
+    },
+    {
+      "name": "abnormalmining:yucca_board_stairs"
+    },
+    {
+      "name": "abnormalmining:yucca_board_slab"
+    },
+    {
+      "name": "abnormalmining:yucca_board_wall"
+    },
+    {
+      "name": "abnormalmining:yucca_tiles"
+    },
+    {
+      "name": "abnormalmining:yucca_tile_stairs"
+    },
+    {
+      "name": "abnormalmining:yucca_tile_slab"
+    },
+    {
+      "name": "abnormalmining:yucca_tile_wall"
+    },
+    {
+      "name": "abnormalmining:chiseled_yucca_planks"
+    },
+    {
+      "name": "abnormalmining:yucca_pillar"
+    },
+    {
+      "name": "atmospheric:yucca_boards"
+    },
+    {
+      "name": "everycomp:c/atmospheric/yucca_window"
+    },
+    {
+      "name": "everycomp:c/atmospheric/yucca_window_pane"
+    },
+
+
+    {
+      "name": "atmospheric:yucca_ladder"
+    },
+    {
+      "name": "atmospheric:yucca_door"
+    },
+    {
+      "name": "atmospheric:yucca_trapdoor"
+    },
+    {
+      "name": "atmospheric:yucca_sign"
+    },
+    {
+      "name": "supplementaries:atmospheric/hanging_sign_yucca"
+    },
+    {
+      "name": "supplementaries:atmospheric/sign_post_yucca"
+    },
+    {
+      "name": "suppsquared:atmospheric/item_shelf_yucca"
+    },
+    {
+      "name": "atmospheric:yucca_bookshelf"
+    },
+    {
+      "name": "atmospheric:yucca_chest"
+    },
+    {
+      "name": "atmospheric:yucca_trapped_chest"
+    },
+    {
+      "name": "atmospheric:yucca_boat"
+    },
+    {
+      "name": "atmospheric:yucca_chest_boat"
+    },
+    {
+      "name": "atmospheric:yucca_furnace_boat"
+    },
+    {
+      "name": "atmospheric:large_yucca_boat"
+    },
+    {
+      "name": "atmospheric:yucca_beehive"
+    },
+    {
+      "name": "abnormals_delight:yucca_cabinet"
+    },
+    {
+      "name": "everycomp:af/atmospheric/yucca_drawer"
+    },
+    {
+      "name": "everycomp:af/atmospheric/yucca_shutter"
+    },
+    {
+      "name": "everycomp:af/atmospheric/yucca_planter_box"
+    },
+    {
+      "name": "everycomp:af/atmospheric/yucca_shelf"
+    },
+    {
+      "name": "everycomp:af/atmospheric/yucca_table"
+    },
+    {
+      "name": "everycomp:af/atmospheric/yucca_chair"
+    },
+    {
+      "name": "atmospheric:yucca_button"
+    },
+    {
+      "name": "atmospheric:yucca_pressure_plate"
+    },
+
+
+    //{
+    //  "name": "ecologics:coconut_log"
+    //},
+    //{
+    //  "name": "ecologics:coconut_wood"
+    //},
+    //{
+    //  "name": "ecologics:stripped_coconut_log"
+    //},
+    //{
+    //  "name": "ecologics:stripped_coconut_wood"
+    //},
+    //{
+    //  "name": "everycomp:q/ecologics/hollow_coconut_log"
+    //},
+    //{
+    //  "name": "ecologics:coconut_planks"
+    //},
+    //{
+    //  "name": "ecologics:coconut_stairs"
+    //},
+    //{
+    //  "name": "ecologics:coconut_slab"
+    //},
+    //{
+    //  "name": "ecologics:coconut_fence"
+    //},
+    //{
+    //  "name": "ecologics:coconut_fence_gate"
+    //},
+    //{
+    //  "name": "everycomp:q/ecclogics/coconut_post"
+    //},
+    //{
+    //  "name": "everycomp:q/ecclogics/stripped_coconut_post"
+    //},
+    //{
+    //  "name": "everycomp:abnww/ecclogics/coconut_boards"
+    //},
+    //{
+    //  "name": "modestmining:coconut_boards"
+    //},
+    //{
+    //  "name": "modestmining:coconut_tiles"
+    //},
+    //{
+    //  "name": "modestmining:coconut_pillar"
+    //},
+    //{
+    //  "name": "modestmining:carved_coconut_planks"
+    //},
+    //{
+    //  "name": "modestmining:chiseled_coconut_planks"
+    //},
+    //{
+    //  "name": "everycomp:c/ecologics/coconut_window"
+    //},
+    //{
+    //  "name": "everycomp:c/ecologics/coconut_window_pane"
+    //},
+
+
+    //{
+    //  "name": "everycomp:abnww/ecologics/coconut_ladder"
+    //},
+    //{
+    //  "name": "ecologics:coconut_door"
+    //},
+    //{
+      //  "name": "ecologics:coconut_trapdoor"
+    //},
+    //{
+    //  "name": "ecologics:coconut_sign"
+    //},
+    //{
+    //  "name": "supplementaries:ecologics/hanging_sign_coconut"
+    //},
+    //{
+    //  "name": "supplementaries:ecologics/sign_post_coconut"
+    //},
+    //{
+    //  "name": "suppsquared:ecologics/item_shelf_coconut"
+    //},
+    //{
+    //  "name": "everycomp:abnww/ecologics/coconut_bookshelf"
+    //},
+    //{
+    //  "name": "everycomp:q/ecologics/coconut_chest"
+    //},
+    //{
+    //  "name": "everycomp:q/ecologics/coconut_trapped_chest"
+    //},
+    //{
+    //  "name": "ecologics:coconut_boat"
+    //},
+    //{
+    //  "name": "ecologics:coconut_chest_boat"
+    //},
+    //{
+    //  "name": "upgrade_aquatic:river_furnace_boat"
+    //},
+    //{
+    //  "name": "upgrade_aquatic:large_river_boat"
+    //},
+    //{
+    //  "name": "everycomp:abnww/ecologics/coconut_beehive"
+    //},
+    //{
+    //  "name": "everycomp:fd/ecologics/coconut_cabinet"
+    //},
+    //{
+    //  "name": "everycomp:af/ecologics/coconut_drawer"
+    //},
+    //{
+    //  "name": "everycomp:af/ecologics/coconut_shutter"
+    //},
+    //{
+    //  "name": "everycomp:af/ecologics/coconut_planter_box"
+    //},
+    //{
+    //  "name": "everycomp:af/ecologics/coconut_shelf"
+    //},
+    //{
+    //  "name": "everycomp:af/ecologics/coconut_table"
+    //},
+    //{
+    //  "name": "everycomp:af/ecologics/coconut_chair"
+    //},
+
+
+    //{
+    //  "name": "minecraft:acacia_log"
+    //},
+    //{
+    //  "name": "minecraft:acacia_wood"
+    //},
+    //{
+    //  "name": "minecraft:stripped_acacia_log"
+    //},
+    //{
+    //  "name": "minecraft:stripped_acacia_wood"
+    //},
+    //{
+    //  "name": "quark:hollow_acacia_log"
+    //},
+    //{
+    //  "name": "minecraft:acacia_planks"
+    //},
+    //{
+    //  "name": "minecraft:acacia_stairs"
+    //},
+    //{
+    //  "name": "minecraft:acacia_slab"
+    //},
+    //{
+    //  "name": "minecraft:acacia_fence"
+    //},
+    //{
+    //  "name": "minecraft:acacia_fence_gate"
+    //},
+    //{
+    //  "name": "quark:acacia_post"
+    //},
+    //{
+    //  "name": "quark:stripped_acacia_post"
+    //},
+    //{
+    //  "name": "modestmining:carved_acacia_planks"
+    //},
+    //{
+    //  "name": "modestmining:acacia_carved_plank_stairs"
+    //},
+    //{
+    //  "name": "modestmining:acacia_carved_plank_slab"
+    //},
+    //{
+    //  "name": "modestmining:acacia_carved_plank_wall"
+    //},
+    //{
+    //  "name": "modestmining:acacia_boards"
+    //},
+    //{
+    //  "name": "modestmining:acacia_board_stairs"
+    //},
+    //{
+    //  "name": "modestmining:acacia_board_slab"
+    //},
+    //{
+    //  "name": "modestmining:acacia_board_wall"
+    //},
+    //{
+    //  "name": "modestmining:acacia_tiles"
+    //},
+    //{
+    //  "name": "modestmining:acacia_tile_stairs"
+    //},
+    //{
+    //  "name": "modestmining:acacia_tile_slab"
+    //},
+    //{
+    //  "name": "modestmining:acacia_tile_wall"
+    //},
+    //{
+    //  "name": "modestmining:chiseled_acacia_planks"
+    //},
+    //{
+    //  "name": "modestmining:acacia_pillar"
+    //},
+    //{
+    //  "name": "woodworks:acacia_boards"
+    //},
+    //{
+    //  "name": "create:acacia_window"
+    //},
+    //{
+    //  "name": "create:acacia_window_pane"
+    //},
+
+
+    //{
+    //  "name": "woodworks:acacia_ladder"
+    //},
+    //{
+    //  "name": "minecraft:acacia_door"
+    //},
+    //{
+    //  "name": "minecraft:acacia_trapdoor"
+    // },
+    //{
+    //  "name": "minecraft:acacia_sign"
+    //},
+    //{
+    //  "name": "supplementaries:hanging_sign_acacia"
+    //},
+    //{
+    //  "name": "supplementaries:sign_post_acacia"
+    //},
+    //{
+    //  "name": "suppsquared:item_shelf_acacia"
+    //},
+    //{
+    //  "name": "woodworks:acacia_bookshelf"
+    //},
+    //{
+    //  "name": "woodworks:acacia_chest"
+    //},
+    //{
+    //  "name": "woodworks:acacia_trapped_chest"
+    //},
+    //{
+    //  "name": "minecraft:acacia_boat"
+    //},
+    //{
+    //  "name": "minecraft:acacia_chest_boat"
+    //},
+    //{
+    //  "name": "boatload:acacia_furnace_boat"
+    //},
+    //{
+    //  "name": "boatload:large_acacia_boat"
+    //},
+    //{
+    //  "name": "woodworks:acacia_beehive"
+    //},
+    //{
+    //  "name": "farmersdelight:acacia_cabinet"
+    //},
+    //{
+    //  "name": "another_furniture:acacia_drawer"
+    //},
+    //{
+    //  "name": "another_furniture:acacia_shutter"
+    //},
+    //{
+    //  "name": "another_furniture:acacia_planter_box"
+    //},
+    //{
+    //  "name": "another_furniture:acacia_shelf"
+    //},
+    //{
+    //  "name": "another_furniture:acacia_table"
+    //},
+    //{
+    //  "name": "another_furniture:acacia_chair"
+    //},
+
+
+    {
+      "name": "minecraft:jungle_log"
+    },
+    {
+      "name": "minecraft:jungle_wood"
+    },
+    {
+      "name": "minecraft:stripped_jungle_log"
+    },
+    {
+      "name": "minecraft:stripped_jungle_wood"
+    },
+    {
+      "name": "quark:hollow_jungle_log"
+    },
+    {
+      "name": "minecraft:jungle_planks"
+    },
+    {
+      "name": "minecraft:jungle_stairs"
+    },
+    {
+      "name": "minecraft:jungle_slab"
+    },
+    {
+      "name": "minecraft:jungle_fence"
+    },
+    {
+      "name": "minecraft:jungle_fence_gate"
+    },
+    {
+      "name": "quark:jungle_post"
+    },
+    {
+      "name": "quark:stripped_jungle_post"
+    },
+    {
+      "name": "modestmining:carved_jungle_planks"
+    },
+    {
+      "name": "modestmining:jungle_carved_plank_stairs"
+    },
+    {
+      "name": "modestmining:jungle_carved_plank_slab"
+    },
+    {
+      "name": "modestmining:jungle_carved_plank_wall"
+    },
+    {
+      "name": "modestmining:jungle_boards"
+    },
+    {
+      "name": "modestmining:jungle_board_stairs"
+    },
+    {
+      "name": "modestmining:jungle_board_slab"
+    },
+    {
+      "name": "modestmining:jungle_board_wall"
+    },
+    {
+      "name": "modestmining:jungle_tiles"
+    },
+    {
+      "name": "modestmining:jungle_tile_stairs"
+    },
+    {
+      "name": "modestmining:jungle_tile_slab"
+    },
+    {
+      "name": "modestmining:jungle_tile_wall"
+    },
+    {
+      "name": "modestmining:chiseled_jungle_planks"
+    },
+    {
+      "name": "modestmining:jungle_pillar"
+    },
+    {
+      "name": "woodworks:jungle_boards"
+    },
+    {
+      "name": "create:jungle_window"
+    },
+    {
+      "name": "create:jungle_window_pane"
+    },
+
+
+    {
+      "name": "woodworks:jungle_ladder"
+    },
+    {
+      "name": "minecraft:jungle_door"
+    },
+    {
+      "name": "minecraft:jungle_trapdoor"
+    },
+    {
+      "name": "minecraft:jungle_sign"
+    },
+    {
+      "name": "supplementaries:hanging_sign_jungle"
+    },
+    {
+      "name": "supplementaries:sign_post_jungle"
+    },
+    {
+      "name": "suppsquared:item_shelf_jungle"
+    },
+    {
+      "name": "woodworks:jungle_bookshelf"
+    },
+    {
+      "name": "woodworks:jungle_chest"
+    },
+    {
+      "name": "woodworks:jungle_trapped_chest"
+    },
+    {
+      "name": "minecraft:jungle_boat"
+    },
+    {
+      "name": "minecraft:jungle_chest_boat"
+    },
+    {
+      "name": "boatload:jungle_furnace_boat"
+    },
+    {
+      "name": "boatload:large_jungle_boat"
+    },
+    {
+      "name": "woodworks:jungle_beehive"
+    },
+    {
+      "name": "farmersdelight:jungle_cabinet"
+    },
+    {
+      "name": "another_furniture:jungle_drawer"
+    },
+    {
+      "name": "another_furniture:jungle_shutter"
+    },
+    {
+      "name": "another_furniture:jungle_planter_box"
+    },
+    {
+      "name": "another_furniture:jungle_shelf"
+    },
+    {
+      "name": "another_furniture:jungle_table"
+    },
+    {
+      "name": "another_furniture:jungle_chair"
+    },
+    {
+      "name": "minecraft:jungle_button"
+    },
+    {
+      "name": "minecraft:jungle_pressure_plate"
+    },
+
+
+    {
+      "name": "quark:bamboo_block"
+    },
+    {
+      "name": "fundamentallyfixed:cut_bamboo"
+    },
+    {
+      "name": "quark:stripped_bamboo_block"
+    },
+    {
+      "name": "fundamentallyfixed:stripped_cut_bamboo"
+    },
+    {
+      "name": "quark:bamboo_planks"
+    },
+    {
+      "name": "quark:bamboo_planks_stairs"
+    },
+    {
+      "name": "quark:bamboo_planks_slab"
+    },
+    {
+      "name": "quark:bamboo_fence"
+    },
+    {
+      "name": "quark:bamboo_fence_gate"
+    },
+    {
+      "name": "quark:bamboo_post"
+    },
+    {
+      "name": "quark:stripped_bamboo_post"
+    },
+    {
+      "name": "abnormalmining:carved_river_planks"
+    },
+    {
+      "name": "abnormalmining:river_carved_plank_stairs"
+    },
+    {
+      "name": "abnormalmining:river_carved_plank_slab"
+    },
+    {
+      "name": "abnormalmining:river_carved_plank_wall"
+    },
+    {
+      "name": "abnormalmining:river_boards"
+    },
+    {
+      "name": "abnormalmining:river_board_stairs"
+    },
+    {
+      "name": "abnormalmining:river_board_slab"
+    },
+    {
+      "name": "abnormalmining:river_board_wall"
+    },
+    {
+      "name": "abnormalmining:river_tiles"
+    },
+    {
+      "name": "abnormalmining:river_tile_stairs"
+    },
+    {
+      "name": "abnormalmining:river_tile_slab"
+    },
+    {
+      "name": "abnormalmining:river_tile_wall"
+    },
+    {
+      "name": "abnormalmining:chiseled_river_planks"
+    },
+    {
+      "name": "abnormalmining:river_pillar"
+    },
+    {
+      "name": "woodworks:river_boards"
+    },
+    {
+      "name": "everycomp:c/quark/bamboo_window"
+    },
+    {
+      "name": "everycomp:c/quark/bamboo_window_pane"
+    },
+
+
+    {
+      "name": "quark:bamboo_ladder"
+    },
+    {
+      "name": "quark:bamboo_door"
+    },
+    {
+      "name": "quark:bamboo_trapdoor"
+    },
+    {
+      "name": "quark:bamboo_sign"
+    },
+    {
+      "name": "supplementaries:quark/hanging_sign_bamboo"
+    },
+    {
+      "name": "supplementaries:quark/sign_post_bamboo"
+    },
+    {
+      "name": "suppsquared:item_shelf_bamboo"
+    },
+    {
+      "name": "quark:bamboo_bookshelf"
+    },
+    {
+      "name": "quark:bamboo_chest"
+    },
+    {
+      "name": "quark:bamboo_trapped_chest"
+    },
+    {
+      "name": "quark:bamboo_boat"
+    },
+    {
+      "name": "quark:bamboo_chest_boat"
+    },
+    {
+      "name": "quark:bamboo_furnace_boat"
+    },
+    {
+      "name": "quark:large_bamboo_boat"
+    },
+    {
+      "name": "everycomp:abnww/quark/bamboo_beehive"
+    },
+    {
+      "name": "everycomp:fd/quark/bamboo_cabinet"
+    },
+    {
+      "name": "everycomp:af/quark/bamboo_drawer"
+    },
+    {
+      "name": "everycomp:af/quark/bamboo_shutter"
+    },
+    {
+      "name": "everycomp:af/quark/bamboo_planter_box"
+    },
+    {
+      "name": "everycomp:af/quark/bamboo_shelf"
+    },
+    {
+      "name": "everycomp:af/quark/bamboo_table"
+    },
+    {
+      "name": "everycomp:af/quark/bamboo_chair"
+    },
+    {
+      "name": "quark:bamboo_button"
+    },
+    {
+      "name": "quark:bamboo_pressure_plate"
+    },
+
+
+    {
+      "name": "minecraft:dark_oak_log"
+    },
+    {
+      "name": "minecraft:dark_oak_wood"
+    },
+    {
+      "name": "minecraft:stripped_dark_oak_log"
+    },
+    {
+      "name": "minecraft:stripped_dark_oak_wood"
+    },
+    {
+      "name": "quark:hollow_dark_oak_log"
+    },
+    {
+      "name": "minecraft:dark_oak_planks"
+    },
+    {
+      "name": "minecraft:dark_oak_stairs"
+    },
+    {
+      "name": "minecraft:dark_oak_slab"
+    },
+    {
+      "name": "minecraft:dark_oak_fence"
+    },
+    {
+      "name": "minecraft:dark_oak_fence_gate"
+    },
+    {
+      "name": "quark:dark_oak_post"
+    },
+    {
+      "name": "quark:stripped_dark_oak_post"
+    },
+    {
+      "name": "modestmining:carved_dark_oak_planks"
+    },
+    {
+      "name": "modestmining:dark_oak_carved_plank_stairs"
+    },
+    {
+      "name": "modestmining:dark_oak_carved_plank_slab"
+    },
+    {
+      "name": "modestmining:dark_oak_carved_plank_wall"
+    },
+    {
+      "name": "modestmining:dark_oak_boards"
+    },
+    {
+      "name": "modestmining:dark_oak_board_stairs"
+    },
+    {
+      "name": "modestmining:dark_oak_board_slab"
+    },
+    {
+      "name": "modestmining:dark_oak_board_wall"
+    },
+    {
+      "name": "modestmining:dark_oak_tiles"
+    },
+    {
+      "name": "modestmining:dark_oak_tile_stairs"
+    },
+    {
+      "name": "modestmining:dark_oak_tile_slab"
+    },
+    {
+      "name": "modestmining:dark_oak_tile_wall"
+    },
+    {
+      "name": "modestmining:chiseled_dark_oak_planks"
+    },
+    {
+      "name": "modestmining:dark_oak_pillar"
+    },
+    {
+      "name": "woodworks:dark_oak_boards"
+    },
+    {
+      "name": "create:dark_oak_window"
+    },
+    {
+      "name": "create:dark_oak_window_pane"
+    },
+
+
+    {
+      "name": "woodworks:dark_oak_ladder"
+    },
+    {
+      "name": "minecraft:dark_oak_door"
+    },
+    {
+      "name": "minecraft:dark_oak_trapdoor"
+    },
+    {
+      "name": "minecraft:dark_oak_sign"
+    },
+    {
+      "name": "supplementaries:hanging_sign_dark_oak"
+    },
+    {
+      "name": "supplementaries:sign_post_dark_oak"
+    },
+    {
+      "name": "suppsquared:item_shelf_dark_oak"
+    },
+    {
+      "name": "woodworks:dark_oak_bookshelf"
+    },
+    {
+      "name": "woodworks:dark_oak_chest"
+    },
+    {
+      "name": "woodworks:dark_oak_trapped_chest"
+    },
+    {
+      "name": "minecraft:dark_oak_boat"
+    },
+    {
+      "name": "minecraft:dark_oak_chest_boat"
+    },
+    {
+      "name": "boatload:dark_oak_furnace_boat"
+    },
+    {
+      "name": "boatload:large_dark_oak_boat"
+    },
+    {
+      "name": "woodworks:dark_oak_beehive"
+    },
+    {
+      "name": "farmersdelight:dark_oak_cabinet"
+    },
+    {
+      "name": "another_furniture:dark_oak_drawer"
+    },
+    {
+      "name": "another_furniture:dark_oak_shutter"
+    },
+    {
+      "name": "another_furniture:dark_oak_planter_box"
+    },
+    {
+      "name": "another_furniture:dark_oak_shelf"
+    },
+    {
+      "name": "another_furniture:dark_oak_table"
+    },
+    {
+      "name": "another_furniture:dark_oak_chair"
+    },
+    {
+      "name": "minecraft:dark_oak_button"
+    },
+    {
+      "name": "minecraft:dark_oak_pressure_plate"
+    }
+  ]
+}

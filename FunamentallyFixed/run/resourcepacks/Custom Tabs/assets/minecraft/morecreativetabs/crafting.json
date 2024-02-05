@@ -1,0 +1,984 @@
+{
+  "tab_enabled": true,
+  "tab_name": "crafting",
+  "tab_stack": { "name": "minecraft:stick"},
+  "tab_items": [
+    {
+      "name": "minecraft:flint"
+    },
+    {
+      "name": "minecraft:stick"
+    },
+    {
+      "name": "modestmining:plank"
+    },
+    {
+      "name": "farmersdelight:tree_bark"
+    },
+    {
+      "name": "fundamentallyfixed:loose_grass"
+    },
+    {
+      "name": "farmersdelight:straw"
+    },
+    //{
+    //  "name": "modestmining:fiber"
+    //},
+    {
+      "name": "quark:moss_paste"
+    },
+    {
+      "name": "supplementaries:rope"
+    },
+    {
+      "name": "farmersdelight:canvas"
+    },
+    {
+      "name": "modestmining:rocks"
+    },
+    {
+      "name": "fundamentallyfixed:deepslate_rocks"
+    },
+    {
+      "name": "fundamentallyfixed:end_stone_rocks"
+    },
+    {
+      "name": "alexsmobs:rocky_shell"
+    },
+    //{
+    //  "name": "fundamentallyfixed:cow_hide"
+    //},
+    {
+      "name": "fundamentallyfixed:mammal_hide"
+    },
+    {
+      "name": "naturalist:reptile_hide"
+    },
+    //{
+    //  "name": "fundamentallyfixed:horse_hide"
+    //},
+    {
+      "name": "cold_sweat:hoglin_hide"
+    },
+    {
+      "name": "quark:ravager_hide"
+    },
+    //{
+    //  "name": "fundamentallyfixed:llama_hide"
+    //},
+    //{
+    //  "name": "minecraft:rabbit_hide"
+    //},
+    //{
+    //  "name": "alexsmobs:kangaroo_hide"
+    //},
+    //{
+    //  "name": "nethersdelight:hoglin_hide"
+    //},
+    {
+      "name": "minecraft:rotten_flesh"
+    },
+    //{
+    //  "name": "windswept:frozen_flesh"
+    //},
+    {
+      "name": "modestmining:flesh"
+    },
+    {
+      "name": "minecraft:leather"
+    },
+    {
+      "name": "cold_sweat:fur"
+    },
+    {
+      "name": "environmental:yak_hair"
+    },
+    //{
+    //  "name": "naturalist:bear_fur"
+    //},
+    //{
+    //  "name": "alexsmobs:bison_fur"
+    //},
+    {
+      "name": "alexsmobs:raccoon_tail"
+    },
+    {
+      "name": "fundamentallyfixed:cloth"
+    },
+
+
+    {
+      "name": "minecraft:feather"
+    },
+    {
+      "name": "alexsmobs:emu_feather"
+    },
+    {
+      "name": "ecologics:penguin_feather"
+    },
+    {
+      "name": "alexsmobs:shed_snake_skin"
+    },
+    {
+      "name": "alexsmobs:rattlesnake_rattle"
+    },
+    {
+      "name": "alexsmobs:dropbear_claw"
+    },
+    {
+      "name": "minecraft:rabbit_foot"
+    },
+    {
+      "name": "alexsmobs:maggot"
+    },
+    {
+      "name": "alexsmobs:mosquito_larva"
+    },
+    {
+      "name": "alexsmobs:mosquito_proboscis"
+    },
+    {
+      "name": "naturalist:antler"
+    },
+    {
+      "name": "minecraft:scute"
+    },
+    {
+      "name": "alexsmobs:crocodile_scute"
+    },
+    {
+      "name": "alexsmobs:centipede_leg"
+    },
+    {
+      "name": "minecraft:nautilus_shell"
+    },
+    {
+      "name": "modestmining:shell"
+    },
+    {
+      "name": "modestmining:pearl"
+    },
+    {
+      "name": "minecraft:ink_sac"
+    },
+    {
+      "name": "minecraft:glow_ink_sac"
+    },
+    {
+      "name": "alexsmobs:lost_tentacle"
+    },
+    {
+      "name": "minecraft:bone"
+    },
+    {
+      "name": "upgrade_aquatic:thrasher_tooth"
+    },
+    {
+      "name": "alexsmobs:bone_serpent_tooth"
+    },
+    {
+      "name": "alexsmobs:cachalot_whale_tooth"
+    },
+    {
+      "name": "minecraft:bone_meal"
+    },
+
+
+    {
+    "name": "minecraft:string"
+    },
+    {
+      "name": "alexsmobs:mungal_spores"
+    },
+    {
+      "name": "minecraft:slime_ball"
+    },
+    {
+      "name": "alexsmobs:banana_slug_slime"
+    },
+    {
+      "name": "minecraft:magma_cream"
+    },
+    {
+      "name": "autumnity:snail_goo"
+    },
+    {
+      "name": "alexsmobs:mimicream"
+    },
+    {
+      "name": "minecraft:popped_chorus_fruit"
+    },
+    {
+      "name": "minecraft:ender_pearl"
+    },
+    {
+      "name": "minecraft:ender_eye"
+    },
+    {
+      "name": "minecraft:blaze_rod"
+    },
+    {
+      "name": "minecraft:blaze_powder"
+    },
+    {
+      "name": "fundamentallyfixed:breeze_rod"
+    },
+    {
+      "name": "fundamentallyfixed:breeze_powder"
+    },
+    {
+      "name": "alexsmobs:guster_eye"
+    },
+    {
+      "name": "alexsmobs:ambegris"
+    },
+    {
+      "name": "alexsmobs:leafcutter_ant_pupa"
+    },
+    {
+      "name": "autumnity:snail_shell_piece"
+    },
+    {
+      "name": "minecraft:phantom_membrane"
+    },
+
+
+    {
+      "name": "minecraft:clay_ball"
+    },
+    {
+      "name": "minecraft:brick"
+    },
+    {
+      "name": "modestmining:adobe_brick"
+    },
+    {
+      "name": "fundamentallyfixed:terracotta_fracture"
+    },
+    {
+      "name": "supplementaries:ash"
+    },
+    {
+      "name": "supplementaries:ash_brick"
+    },
+    {
+      "name": "minecraft:nether_brick"
+    },
+    {
+      "name": "minecraft:prismarine_shard"
+    },
+    {
+      "name": "minecraft:gunpowder"
+    },
+    {
+      "name": "minecraft:spider_eye"
+    },
+    {
+      "name": "minecraft:ghast_tear"
+    },
+    {
+      "name": "naturalist:glow_goop"
+    },
+    {
+      "name": "environmental:mud_ball"
+    },
+    {
+      "name": "minecraft:snowball"
+    },
+    {
+      "name": "spelunkery:rock_salt"
+    },
+    {
+      "name": "minecraft:paper"
+    },
+    {
+      "name": "minecraft:book"
+    },
+    {
+      "name": "minecraft:sugar"
+    },
+    {
+      "name": "fundamentallyfixed:sand_pile"
+    },
+    {
+      "name": "fundamentallyfixed:dirt_pile"
+    },
+    {
+      "name": "fundamentallyfixed:soul_sand_pile"
+    },
+    {
+      "name": "fundamentallyfixed:red_sand_pile"
+    },
+    {
+      "name": "fundamentallyfixed:quicksoil_pile"
+    },
+    {
+      "name": "fundamentallyfixed:florarock_pile"
+    },
+    {
+      "name": "spelunkery:salt"
+    },
+    {
+      "name": "fundamentallyfixed:calcium_powder"
+    },
+    {
+      "name": "fundamentallyfixed:ground_prismarine"
+    },
+    {
+      "name": "fundamentallyfixed:cocoa_powder"
+    },
+    {
+      "name": "fundamentallyfixed:acorn_flour"
+    },
+    {
+      "name": "fundamentallyfixed:wheat_flour"
+    },
+    {
+      "name": "infernalexp:glownuggets"
+    },
+    {
+      "name": "minecraft:glowstone_dust"
+    },
+    {
+      "name": "minecraft:fire_charge"
+    },
+    {
+      "name": "infernalexp:ascus_bomb"
+    },
+    {
+      "name": "infernalexp:moth_dust"
+    },
+    {
+      "name": "minecraft:nether_star"
+    },
+    {
+      "name": "create:experience_nugget"
+    },
+    {
+      "name": "minecraft:experience_bottle"
+    },
+
+
+    {
+      "name": "minecraft:heart_of_the_sea"
+    },
+    {
+      "name": "minecraft:conduit"
+    },
+    {
+      "name": "minecraft:firework_star"
+    },
+    {
+      "name": "minecraft:firework_rocket"
+    },
+    {
+      "name": "minecraft:honeycomb"
+    },
+    {
+      "name": "savage_and_ravage:creeper_spores"
+    },
+
+
+    {
+      "name": "farmersrespite:green_tea_leaves"
+    },
+    {
+      "name": "farmersrespite:yellow_tea_leaves"
+    },
+    {
+      "name": "farmersrespite:black_tea_leaves"
+    },
+    {
+      "name": "buzzier_bees:four_leaf_clover"
+    },
+    {
+      "name": "fundamentallyfixed:worm"
+    },
+    {
+      "name": "minecraft:bowl"
+    },
+    {
+      "name": "brewinandchewin:tankard"
+    },
+    {
+      "name": "minecraft:bottle"
+    },
+    {
+      "name": "supplementaries:antique_ink"
+    },
+
+
+    {
+      "name": "modestmining:charcoal_chunk"
+    },
+    {
+      "name": "minecraft:charcoal"
+    },
+    {
+      "name": "modestmining:coal_chunk"
+    },
+    {
+      "name": "minecraft:coal"
+    },
+    {
+      "name": "modestmining:coal_powder"
+    },
+    {
+      "name": "fundamentallyfixed:netherrack_powder"
+    },
+    {
+      "name": "modestmining:coke_chunk"
+    },
+    {
+      "name": "modestmining:coke"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:raw_copper_nugget"
+    },
+    {
+      "name": "modestmining:copper_nugget"
+    },
+    {
+      "name": "minecraft:raw_copper"
+    },
+    {
+      "name": "modestmining:copper_dust"
+    },
+    {
+      "name": "minecraft:copper_ingot"
+    },
+    {
+      "name": "create:copper_sheet"
+    },
+    {
+      "name": "modestmining:copper_screw"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:raw_aluminium_nugget"
+    },
+    {
+      "name": "fundamentallyfixed:aluminium_nugget"
+    },
+    {
+      "name": "fundamentallyfixed:raw_aluminium"
+    },
+    {
+      "name": "fundamentallyfixed:aluminium_dust"
+    },
+    {
+      "name": "fundamentallyfixed:aluminium_ingot"
+    },
+    {
+      "name": "fundamentallyfixed:aluminium_sheet"
+    },
+    {
+      "name": "fundamentallyfixed:hook"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:bronze_nugget"
+    },
+    {
+      "name": "fundamentallyfixed:bronze_ingot"
+    },
+    {
+      "name": "fundamentallyfixed:bronze_sheet"
+    },
+    {
+      "name": "fundamentallyfixed:item_holder"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:raw_iron_nugget"
+    },
+    {
+      "name": "minecraft:iron_nugget"
+    },
+    {
+      "name": "minecraft:raw_iron"
+    },
+    {
+      "name": "modestmining:iron_dust"
+    },
+    {
+      "name": "minecraft:iron_ingot"
+    },
+    {
+      "name": "create:iron_sheet"
+    },
+    {
+      "name": "fundamentallyfixed:spring"
+    },
+
+
+
+    {
+      "name": "oreganized:lead_nugget"
+    },
+    {
+      "name": "fundamentallyfixed:raw_lead_nugget"
+    },
+    {
+      "name": "oreganized:raw_lead"
+    },
+    {
+      "name": "fundamentallyfixed:lead_dust"
+    },
+    {
+      "name": "oreganized:lead_ingot"
+    },
+    {
+      "name": "fundamentallyfixed:lead_sheet"
+    },
+    {
+      "name": "minecraft:chain"
+    },
+
+
+    {
+      "name": "modestmining:steel_nugget"
+    },
+    {
+      "name": "modestmining:steel_ingot"
+    },
+    {
+      "name": "fundamentallyfixed:steel_sheet"
+    },
+    {
+      "name": "create:propeller"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:raw_gold_nugget"
+    },
+    {
+      "name": "minecraft:gold_nugget"
+    },
+    {
+      "name": "minecraft:raw_gold"
+    },
+    {
+      "name": "modestmining:gold_dust"
+    },
+    {
+      "name": "minecraft:gold_ingot"
+    },
+    {
+      "name": "create:gold_sheet"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:raw_silver_nugget"
+    },
+    {
+      "name": "oreganized:silver_nugget"
+    },
+    {
+      "name": "oreganized:raw_silver"
+    },
+    {
+      "name": "fundamentallyfixed:silver_dust"
+    },
+    {
+      "name": "oreganized:silver_ingot"
+    },
+    {
+      "name": "fundamentallyfixed:silver_sheet"
+    },
+
+
+    {
+      "name": "spelunkery:rough_diamond_shard"
+    },
+    {
+      "name": "modestmining:diamond_shard"
+    },
+    {
+      "name": "spelunkery:rough_diamond"
+    },
+    {
+      "name": "fundamentallyfixed:diamond_dust"
+    },
+    {
+      "name": "minecraft:diamond"
+    },
+
+
+    {
+      "name": "oreganized:electrum_nugget"
+    },
+    {
+      "name": "oreganized:electrum_ingot"
+    },
+    {
+      "name": "fundamentallyfixed:electrum_sheet"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:raw_infernum_nugget"
+    },
+    {
+      "name": "fundamentallyfixed:raw_infernum_debris"
+    },
+    {
+      "name": "modestmining:debris_dust"
+    },
+    {
+      "name": "minecraft:netherite_scrap"
+    },
+    {
+      "name": "oreganized:netherite_nugget"
+    },
+    {
+      "name": "minecraft:netherite_ingot"
+    },
+    {
+      "name": "fundamentallyfixed:netherite_sheet"
+    },
+
+
+    //{
+    //  "name": "fundamentallyfixed:raw_phyton_nugget"
+    //},
+    //{
+    //  "name": "fundamentallyfixed:raw_phyton_remains"
+    //},
+    //{
+    //  "name": "modestmining:remaining_dust"
+    //},
+    //{
+    //  "name": "modestmining:prismarite_scrap"
+    //},
+    {
+      "name": "fundamentallyfixed:prismarine_shard"
+    },
+    {
+      "name": "minecraft:prismarine_crystals"
+    },
+    {
+      "name": "minecraft:amethyst_shard"
+    },
+    {
+      "name": "modestmining:prismarite_nugget"
+    },
+    {
+      "name": "modestmining:prismarite_ingot"
+    },
+    {
+      "name": "fundamentallyfixed:prismarite_sheet"
+    },
+    {
+      "name": "spelunkery:raw_magnetite_nugget"
+    },
+
+
+    {
+      "name": "spelunkery:magnetite_chunk"
+    },
+    {
+      "name": "fundamentallyfixed:meteorite_dust"
+    },
+    {
+      "name": "fundamentallyfixed:meteorite_scrap"
+    },
+    {
+      "name": "fundamentallyfixed:meteorite_nugget"
+    },
+    {
+      "name": "fundamentallyfixed:meteorite_ingot"
+    },
+    {
+      "name": "fundamentallyfixed:meteorite_sheet"
+    },
+
+
+    {
+      "name": "spelunkery:rough_emerald_shard"
+    },
+    {
+      "name": "spelunkery:emerald_shard"
+    },
+    {
+      "name": "spelunkery:rough_emerald"
+    },
+    {
+      "name": "minecraft:emerald"
+    },
+
+
+    {
+      "name": "spelunkery:rough_cinnabar_shard"
+    },
+    {
+      "name": "spelunkery:cinnabar_shard"
+    },
+    {
+      "name": "spelunkery:rough_cinnabar"
+    },
+    {
+      "name": "fundamentallyfixed:redstone_dust"
+    },
+    {
+      "name": "spelunkery:cinnabar"
+    },
+
+
+    {
+      "name": "spelunkery:rough_lazurite_shard"
+    },
+    {
+      "name": "spelunkery:lapis_lazuli_shard"
+    },
+    {
+      "name": "spelunkery:rough_lazurite"
+    },
+    {
+      "name": "minecraft:lapis_lazuli"
+    },
+
+
+    //{
+    //  "name": "fundamentallyfixed:rough_ruby_shard"
+    //},
+    //{
+    //  "name": "fundamentallyfixed:ruby_shard"
+    //},
+    //{
+    //  "name": "fundamentallyfixed:rough_ruby"
+    //},
+    //{
+    //  "name": "fundamentallyfixed:ruby"
+    //},
+
+
+    {
+      "name": "fundamentallyfixed:rough_quartz_shard"
+    },
+    {
+      "name": "fundamentallyfixed:quartz_shard"
+    },
+    {
+      "name": "minecraft:quartz"
+    },
+    {
+      "name": "fundamentallyfixed:quartz"
+    },
+
+
+    {
+      "name": "minecraft:white_dye"
+    },
+    {
+      "name": "minecraft:pink_dye"
+    },
+    {
+      "name": "minecraft:magenta_dye"
+    },
+    {
+      "name": "minecraft:purple_dye"
+    },
+    {
+      "name": "minecraft:blue_dye"
+    },
+    {
+      "name": "minecraft:light_blue_dye"
+    },
+    {
+      "name": "minecraft:cyan_dye"
+    },
+    {
+      "name": "minecraft:green_dye"
+    },
+    {
+      "name": "minecraft:lime_dye"
+    },
+    {
+      "name": "minecraft:yellow_dye"
+    },
+    {
+      "name": "minecraft:orange_dye"
+    },
+    {
+      "name": "minecraft:red_dye"
+    },
+    {
+      "name": "minecraft:brown_dye"
+    },
+    {
+      "name": "minecraft:black_dye"
+    },
+    {
+      "name": "minecraft:gray_dye"
+    },
+    {
+      "name": "minecraft:light_gray_dye"
+    },
+    {
+      "name": "quark:clear_shard"
+    },
+    {
+      "name": "quark:white_shard"
+    },
+    {
+      "name": "quark:pink_shard"
+    },
+    {
+      "name": "quark:magenta_shard"
+    },
+    {
+      "name": "quark:purple_shard"
+    },
+    {
+      "name": "quark:blue_shard"
+    },
+    {
+      "name": "quark:light_blue_shard"
+    },
+    {
+      "name": "quark:cyan_shard"
+    },
+    {
+      "name": "quark:green_shard"
+    },
+    {
+      "name": "quark:lime_shard"
+    },
+    {
+      "name": "quark:yellow_shard"
+    },
+    {
+      "name": "quark:orange_shard"
+    },
+    {
+      "name": "quark:red_shard"
+    },
+    {
+      "name": "quark:brown_shard"
+    },
+    {
+      "name": "quark:black_shard"
+    },
+    {
+      "name": "quark:gray_shard"
+    },
+    {
+      "name": "quark:light_gray_shard"
+    },
+    {
+      "name": "quark:blank_rune"
+    },
+    {
+      "name": "quark:white_rune"
+    },
+    {
+      "name": "quark:pink_rune"
+    },
+    {
+      "name": "quark:magenta_rune"
+    },
+    {
+      "name": "quark:purple_rune"
+    },
+    {
+      "name": "quark:blue_rune"
+    },
+    {
+      "name": "quark:light_blue_rune"
+    },
+    {
+      "name": "quark:cyan_rune"
+    },
+    {
+      "name": "quark:green_rune"
+    },
+    {
+      "name": "quark:lime_rune"
+    },
+    {
+      "name": "quark:yellow_rune"
+    },
+    {
+      "name": "quark:orange_rune"
+    },
+    {
+      "name": "quark:red_rune"
+    },
+    {
+      "name": "quark:brown_rune"
+    },
+    {
+      "name": "quark:black_rune"
+    },
+    {
+      "name": "quark:gray_rune"
+    },
+    {
+      "name": "quark:light_gray_rune"
+    },
+
+
+    {
+      "name": "minecraft:flower_banner_pattern"
+    },
+    {
+      "name": "minecraft:creeper_banner_pattern"
+    },
+    {
+      "name": "minecraft:skull_banner_pattern"
+    },
+    {
+      "name": "minecraft:mojang_banner_pattern"
+    },
+    {
+      "name": "minecraft:globe_banner_pattern"
+    },
+    {
+      "name": "minecraft:piglin_banner_pattern"
+    },
+    {
+      "name": "autumnity:maple_leaf_banner_pattern"
+    },
+    {
+      "name": "autumnity:swirl_banner_pattern"
+    },
+    {
+      "name": "buzzier_bees:honeycomb_banner_pattern"
+    },
+    {
+      "name": "neapolitan:chimpanzee_banner_pattern"
+    },
+    {
+      "name": "windswept:snow_golem_banner_pattern"
+    },
+    {
+      "name": "windswept:rose_flower_banner_pattern"
+    },
+    {
+      "name": "sleep_tight:moon_banner_pattern"
+    },
+    {
+      "name": "alexsmobs:banner_pattern_bear"
+    },
+    {
+      "name": "alexsmobs:banner_pattern_australia_0"
+    },
+    {
+      "name": "alexsmobs:banner_pattern_australia_1"
+    },
+    {
+      "name": "alexsmobs:banner_pattern_new_mexico"
+    },
+    {
+      "name": "alexsmobs:banner_pattern_brazil"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "tab_enabled": true,
+  "tab_name": "potions",
+  "tab_stack": { "name": "minecraft:glass_bottle"},
+  "tab_items": [
+    {
+      "name": "minecraft:glass_bottle"
+    }
+  ]
+}

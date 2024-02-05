@@ -1,0 +1,903 @@
+{
+  "tab_enabled": true,
+  "tab_name": "food",
+  "tab_stack": { "name": "minecraft:apple"},
+  "tab_items": [
+    {
+      "name": "minecraft:apple"
+    },
+    {
+      "name": "minecraft:golden_apple"
+    },
+    {
+      "name": "minecraft:enchanted_golden_apple"
+    },
+    {
+      "name": "farmersdelight:cabbage"
+    },
+    {
+      "name": "farmersdelight:cabbage_leaf"
+    },
+    {
+      "name": "minecraft:carrot"
+    },
+    {
+      "name": "minecraft:golden_carrot"
+    },
+    {
+      "name": "farmersdelight:tomato"
+    },
+    {
+      "name": "farmersdelight:rotten_tomato"
+    },
+    {
+      "name": "farmersdelight:tomato_sauce"
+    },
+    {
+      "name": "minecraft:potato"
+    },
+    {
+      "name": "minecraft:poisonous_potato"
+    },
+    {
+      "name": "atmospheric:passionfruit"
+    },
+    {
+      "name": "atmospheric:shimmering_passionfruit"
+    },
+    {
+      "name": "minecraft:melon_slice"
+    },
+    {
+      "name": "minecraft:glistering_melon_slice"
+    },
+    {
+      "name": "farmersdelight:pumpkin_slice"
+    },
+    {
+      "name": "culturaldelights:corn_cob"
+    },
+    {
+      "name": "culturaldelights:popcorn"
+    },
+    {
+      "name": "farmersdelight:rice"
+    },
+    {
+      "name": "farmersdelight:cooked_rice"
+    },
+    {
+      "name": "culturaldelights:avocado"
+    },
+    {
+      "name": "culturaldelights:cut_avocado"
+    },
+    {
+      "name": "atmospheric:yucca_fruit"
+    },
+    {
+      "name": "atmospheric:roasted_yucca_fruit"
+    },
+    //{
+    //  "name": "culturaldelights:cucumber"
+    //},
+    //{
+    //  "name": "culturaldelights:cut_cucumber"
+    //},
+    //{
+    //  "name": "culturaldelights:pickle"
+    //},
+    //{
+    //  "name": "culturaldelights:cut_pickle"
+    //},
+    {
+      "name": "ecologics:coconut"
+    },
+    {
+      "name": "ecologics:coconut_slice"
+    },
+    {
+      "name": "ecologics:coconut_husk"
+    },
+    {
+      "name": "ecologics:prickly_pear"
+    },
+    {
+      "name": "ecologics:cooked_prickly_pear"
+    },
+    {
+      "name": "minecraft:sweet_berries"
+    },
+    {
+      "name": "autumnity:foul_berries"
+    },
+    {
+      "name": "environmental:cherries"
+    },
+    {
+      "name": "minecraft:glow_berries"
+    },
+    {
+      "name": "atmospheric:aloe_leaves"
+    },
+    {
+      "name": "neapolitan:banana_bunch"
+    },
+    {
+      "name": "neapolitan:banana"
+    },
+    {
+      "name": "neapolitan:dried_banana"
+    },
+    {
+      "name": "minecraft:dried_kelp"
+    },
+    {
+      "name": "upgrade_aquatic:boiled_blue_pickerelweed"
+    },
+    {
+      "name": "upgrade_aquatic:boiled_purple_pickerelweed"
+    },
+    {
+      "name": "neapolitan:vanilla_pods"
+    },
+    {
+      "name": "neapolitan:dried_vanilla_pods"
+    },
+    {
+      "name": "minecraft:chorus_fruit"
+    },
+    {
+      "name": "nethersdelight:propelpearl"
+    },
+    {
+      "name": "alexsmobs:gongylidia"
+    },
+    {
+      "name": "culturaldelights:eggplant"
+    },
+    {
+      "name": "culturaldelights:cut_eggplant"
+    },
+    {
+      "name": "culturaldelights:smoked_eggplant"
+    },
+    {
+      "name": "culturaldelights:smoked_cut_eggplant"
+    },
+    {
+      "name": "culturaldelights:white_eggplant"
+    },
+    {
+      "name": "culturaldelights:smoked_white_eggplant"
+    },
+
+
+    {
+      "name": "minecraft:porkchop"
+    },
+    {
+      "name": "farmersdelight:bacon"
+    },
+    {
+      "name": "minecraft:cooked_porkchop"
+    },
+    {
+      "name": "farmersdelight:cooked_bacon"
+    },
+    {
+      "name": "farmersdelight:ham"
+    },
+    {
+      "name": "farmersdelight:smoked_ham"
+    },
+    //{
+    //  "name": "nethersdelight:hoglin_loin"
+    //},
+    //{
+    //  "name": "nethersdelight:hoglin_sirloin"
+    //},
+    {
+      "name": "minecraft:beef"
+    },
+    {
+      "name": "farmersdelight:minced_beef"
+    },
+    {
+      "name": "minecraft:cooked_beef"
+    },
+    {
+      "name": "farmersdelight:beef_patty"
+    },
+    {
+      "name": "minecraft:chicken"
+    },
+    {
+      "name": "farmersdelight:chicken_cuts"
+    },
+    {
+      "name": "minecraft:cooked_chicken"
+    },
+    {
+      "name": "farmersdelight:cooked_chicken_cuts"
+    },
+    //{
+    //  "name": "autumnity:turkey"
+    //},
+    //{
+    //  "name": "autumnity:turkey_piece"
+    //},
+    //{
+    //  "name": "autumnity:cooked_turkey"
+    //},
+    //{
+    //  "name": "autumnity:cooked_turkey_piece"
+    //},
+    //{
+    //  "name": "environmental:duck"
+    //},
+    //{
+    //  "name": "environmental:duck_fillet"
+    //},
+    //{
+    //  "name": "environmental:cooked_duck"
+    //},
+    //{
+    //  "name": "environmental:cooked_duck_fillet"
+    //},
+    //{
+    //  "name": "minecraft:rabbit"
+    //},
+    //{
+    //  "name": "minecraft:cooked_rabbit"
+    //},
+    {
+      "name": "minecraft:mutton"
+    },
+    {
+      "name": "farmersdelight:mutton_chops"
+    },
+    {
+      "name": "minecraft:cooked_mutton"
+    },
+    {
+      "name": "farmersdelight:cooked_mutton_chops"
+    },
+    //{
+    //  "name": "windswept:goat"
+    //},
+    //{
+    //  "name": "windswept:goat_shanks"
+    //},
+    //{
+    //  "name": "windswept:cooked_goat"
+    //},
+    //{
+    //  "name": "windswept:cooked_goat_shanks"
+    //},
+    //{
+    //  "name": "alexsmobs:kangaroo_meat"
+    //},
+    //{
+    //  "name": "alexsmobs:cooked_kangaroo_meat"
+    //},
+    {
+      "name": "environmental:vension"
+    },
+    {
+      "name": "environmental:vension_shanks"
+    },
+    {
+      "name": "environmental:cooked_vension"
+    },
+    {
+      "name": "environmental:cooked_vension_shanks"
+    },
+
+
+    //{
+    //  "name": "farmersdelight:cod_slice"
+    //},
+    //{
+    //  "name": "farmersdelight:cooked_cod_slice"
+    //},
+    //{
+    //  "name": "upgrade_aquatic:cooked_lionfish"
+    //},
+    {
+      "name": "upgrade_aquatic:pike"
+    },
+    {
+      "name": "upgrade_aquatic:perch"
+    },
+    {
+      "name": "environmental:koi"
+    },
+    {
+      "name": "naturalist:catfish"
+    },
+    {
+      "name": "upgrade_aquatic:cooked_pike"
+    },
+    {
+      "name": "abnormals_delight:pike_slice"
+    },
+    {
+      "name": "abnormals_delight:cooked_pike_slice"
+    },
+
+    {
+      "name": "minecraft:cod"
+    },
+    {
+      "name": "minecraft:salmon"
+    },
+    {
+      "name": "upgrade_aquatic:lionfish"
+    },
+    {
+      "name": "alexsmobs:flying_fish"
+    },
+    {
+      "name": "minecraft:cooked_salmon"
+    },
+    {
+      "name": "farmersdelight:salmon_slice"
+    },
+    {
+      "name": "farmersdelight:cooked_salmon_slice"
+    },
+
+    {
+      "name": "minecraft:tropical_fish"
+    },
+    {
+      "name": "minecraft:pufferfish"
+    },
+    {
+      "name": "sullysmod:lanternfish"
+    },
+    {
+      "name": "sullysmod:cooked_lanternfish"
+    },
+    {
+      "name": "sullysmod:lanternfish_slice"
+    },
+    {
+      "name": "sullysmod:cooked_lanternfish_slice"
+    },
+
+    {
+      "name": "alexsmobs:cosmic_cod"
+    },
+    {
+      "name": "upgrade_aquatic:cooked_perch"
+    },
+    {
+      "name": "abnormals_delight:perch_slice"
+    },
+    {
+      "name": "abnormals_delight:cooked_perch_slice"
+    },
+
+    {
+      "name": "culturaldelights:squid"
+    },
+    {
+      "name": "culturaldelights:glow_squid"
+    },
+    {
+      "name": "culturaldelights:raw_calamari"
+    },
+    {
+      "name": "culturaldelights:cooked_squid"
+    },
+    {
+      "name": "culturaldelights:cooked_calamari"
+    },
+    {
+      "name": "quark:crab_leg"
+    },
+    {
+      "name": "quark:cooked_crab_leg"
+    },
+    {
+      "name": "ecologics:crab_meat"
+    },
+    {
+      "name": "minecraft:spider_eye"
+    },
+
+    {
+      "name": "nethersdelight:strider_slice"
+    },
+    {
+      "name": "nethersdelight:ground_strider"
+    },
+    {
+      "name": "naturalist:lizard_tail"
+    },
+    {
+      "name": "naturalist:cooked_lizard_tail"
+    },
+
+
+
+    {
+      "name": "minecraft:egg"
+    },
+    {
+      "name": "autumnity:turkey_egg"
+    },
+    {
+      "name": "environmental:duck_egg"
+    },
+    {
+      "name": "alexsmobs:emu_egg"
+    },
+    {
+      "name": "farmersdelight:fried_egg"
+    },
+    {
+      "name": "incubation:scrambled_egg"
+    },
+    {
+      "name": "neapolitan:ice_cubes"
+    },
+    {
+      "name": "farmersdelight:wheat_dough"
+    },
+    {
+      "name": "farmersdelight:bread"
+    },
+    {
+      "name": "farmersdelight:raw_pasta"
+    },
+    {
+      "name": "culturaldelights:corn_dough"
+    },
+    {
+      "name": "culturaldelights:tortilla"
+    },
+    {
+      "name": "culturaldelights:tortilla_chips"
+    },
+    {
+      "name": "brewinandchewin:flaxen_cheese_wheel"
+    },
+    {
+      "name": "brewinandchewin:flaxen_cheese_wedge"
+    },
+    {
+      "name": "brewinandchewin:scarlet_cheese_wheel"
+    },
+    {
+      "name": "brewinandchewin:scarlet_cheese_wedge"
+    },
+    {
+      "name": "neapolitan:chocolate_bar"
+    },
+
+
+    {
+      "name": "culturaldelights:rice_ball"
+    },
+    {
+      "name": "farmersdelight:kelp_roll"
+    },
+    {
+      "name": "farmersdelight:kelp_roll_slice"
+    },
+    {
+      "name": "culturaldelights:midori_roll"
+    },
+    {
+      "name": "culturaldelights:midori_roll_slice"
+    },
+    {
+      "name": "culturaldelights:chicken_roll"
+    },
+    {
+      "name": "culturaldelights:chicken_roll_slice"
+    },
+    {
+      "name": "farmersdelight:cod_roll"
+    },
+    {
+      "name": "farmersdelight:salmon_roll"
+    },
+    {
+      "name": "culturaldelights:tropical_roll"
+    },
+    {
+      "name": "sullysmod:lanternfish_roll"
+    },
+    {
+      "name": "culturaldelights:calamari_roll"
+    },
+    {
+      "name": "culturaldelights:egg_roll"
+    },
+    //{
+    //  "name": "culturaldelights:pufferfish_roll"
+    //},
+    {
+      "name": "farmersdelight:rice_roll_medley_block"
+    },
+    {
+      "name": "culturaldelights:exotic_roll_medley"
+    },
+    {
+      "name": "farmersdelight:fried_rice"
+    },
+    {
+      "name": "farmersdelight:mushroom_rice"
+    },
+    {
+      "name": "culturaldelights:spicy_curry"
+    },
+
+
+    {
+      "name": "farmersdelight:egg_sandwich"
+    },
+    {
+      "name": "farmersdelight:chicken_sandwich"
+    },
+    {
+      "name": "farmersdelight:hamburger"
+    },
+    {
+      "name": "culturaldelights:eggplant_burger"
+    },
+    {
+      "name": "culturaldelights:mutton_sandwich"
+    },
+    {
+      "name": "farmersdelight:bacon_sandwich"
+    },
+    //{
+    //  "name": "alexsmobs:kangaroo_burger"
+    //},
+    {
+      "name": "brewinandchewin:ham_and_cheese_sandwich"
+    },
+    {
+      "name": "culturaldelights:avocado_toast"
+    },
+    {
+      "name": "farmersdelight:mutton_wrap"
+    },
+    {
+      "name": "culturaldelights:beef_burrito"
+    },
+    {
+      "name": "culturaldelights:pork_wrap"
+    },
+    {
+      "name": "culturaldelights:fish_taco"
+    },
+    {
+      "name": "culturaldelights:chicken_taco"
+    },
+    {
+      "name": "culturaldelights:empanada"
+    },
+    {
+      "name": "create:sweet_roll"
+    },
+    {
+      "name": "autumnity:pumpkin_bread"
+    },
+    {
+      "name": "neapolitan:banana_bread"
+    },
+
+
+    {
+      "name": "minecraft:pumpkin_pie"
+    },
+    {
+      "name": "farmersdelight:apple_pie"
+    },
+    {
+      "name": "farmersdelight:apple_pie_slice"
+    },
+    {
+      "name": "farmersdelight:chocolate_pie"
+    },
+    {
+      "name": "farmersdelight:chocolate_pie_slice"
+    },
+    {
+      "name": "brewinandchewin:quiche"
+    },
+    {
+      "name": "brewinandchewin:quiche_slice"
+    },
+    {
+      "name": "farmersdelight:sweet_berry_cheesecake"
+    },
+    {
+      "name": "farmersdelight:sweet_berry_cheesecake_slice"
+    },
+    {
+      "name": "farmersrespite:rose_hip_pie"
+    },
+    {
+      "name": "farmersrespite:rose_hip_pie_slice"
+    },
+    {
+      "name": "environmental:cherry_pie"
+    },
+    {
+      "name": "atmospheric:passionfruit_tart"
+    },
+    {
+      "name": "brewinandchewin:pizza"
+    },
+    {
+      "name": "brewinandchewin:pizza_slice"
+    },
+    {
+      "name": "atmospheric:yucca_gateau"
+    },
+    {
+      "name": "neapolitan:vanilla_cake"
+    },
+    {
+      "name": "abnormals_delight:vanilla_cake_slice"
+    },
+    {
+      "name": "neapolitan:chocolate_cake"
+    },
+    {
+      "name": "abnormals_delight:chocolate_cake_slice"
+    },
+    {
+      "name": "neapolitan:strawberry_cake"
+    },
+    {
+      "name": "abnormals_delight:strawberry_cake_slice"
+    },
+    {
+      "name": "supplementaries:pancake"
+    },
+    {
+      "name": "minecraft:cookie"
+    },
+    {
+      "name": "farmersdelight:honey_cookie"
+    },
+    {
+      "name": "farmersdelight:sweet_berry_cookie"
+    },
+    {
+      "name": "abnormals_delight:cherry_cookie"
+    },
+    {
+      "name": "farmersrespite:green_tea_cookie"
+    },
+    {
+      "name": "abnormals_delight:maple_cookie"
+    },
+    {
+      "name": "abnormals_delight:mulberry_cookie"
+    },
+    {
+      "name": "neapolitan:mint_chocolate"
+    },
+    {
+      "name": "neapolitan:vanilla_chocolate_fingers"
+    },
+    {
+      "name": "neapolitan:chocolate_strawberries"
+    },
+    {
+      "name": "neapolitan:chocolate_spider_eye"
+    },
+    {
+      "name": "farmersdelight:melon_popsicle"
+    },
+    {
+      "name": "neapolitan:vanilla_ice_cream"
+    },
+    {
+      "name": "neapolitan:chocolate_ice_cream"
+    },
+    {
+      "name": "neapolitan:strawberry_ice_cream"
+    },
+    {
+      "name": "atmospheric:passionfruit_sorbet"
+    },
+    {
+      "name": "farmersdelight:glow_berry_custard"
+    },
+
+
+    {
+      "name": "buzzier_bees:glazed_porkchop"
+    },
+    {
+      "name": "buzzier_bees:honey_apple"
+    },
+    {
+      "name": "abnormals_delight:maple_glazed_bacon"
+    },
+    {
+      "name": "cooked_neapolitan:mint_chops"
+    },
+    {
+      "name": "farmersdelight:cabbage_rolls"
+    },
+    {
+      "name": "farmersdelight:dumplings"
+    },
+    {
+      "name": "farmersdelight:barbecue_stick"
+    },
+    {
+      "name": "nethersdelight:nether_skewer"
+    },
+    {
+      "name": "farmersdelight:stuffed_potato"
+    },
+    {
+      "name": "abnormals_delight:escargot"
+    },
+    {
+      "name": "culturaldelights:elote"
+    },
+    {
+      "name": "culturaldelights:creamed_corn"
+    },
+
+
+    {
+      "name": "farmersdelight:vegetable_soup"
+    },
+    {
+      "name": "farmersdelight:chicken_soup"
+    },
+    {
+      "name": "farmersdelight:noodle_soup"
+    },
+    {
+      "name": "farmersdelight:pumpkin_soup"
+    },
+    {
+      "name": "windswept:goat_stew"
+    },
+    {
+      "name": "minecraft:rabbit_stew"
+    },
+    {
+      "name": "ecologics:tropical_stew"
+    },
+    {
+      "name": "nethersdelight:strider_moss_stew"
+    },
+    {
+      "name": "farmersdelight:beef_stew"
+    },
+    {
+      "name": "minecraft:mushroom_stew"
+    },
+    {
+      "name": "farmersdelight:fish_stew"
+    },
+    {
+      "name": "farmersdelight:baked_cod_stew"
+    },
+    {
+      "name": "farmersdelight:bone_broth"
+    },
+    {
+      "name": "farmersrespite:blazing_chili"
+    },
+    {
+      "name": "brewinandchewin:firey_fondue"
+    },
+    {
+      "name": "farmersdelight:mixed_salad"
+    },
+    {
+      "name": "culturaldelights:hearty_salad"
+    },
+
+
+    {
+      "name": "culturaldelights:fried_eggplant_pasta"
+    },
+    {
+      "name": "farmersdelight:squid_ink_pasta"
+    },
+    {
+      "name": "farmersdelight:pasta_with_meatballs"
+    },
+    {
+      "name": "farmersdelight:pasta_with_mutton_chop"
+    },
+    {
+      "name": "brewinandchewin:cheesey_pasta"
+    },
+    {
+      "name": "farmersdelight:ratatouille"
+    },
+    {
+      "name": "abnormals_delight:duck_noodles"
+    },
+    {
+      "name": "brewinandchewin:horror_lasagna"
+    },
+    {
+      "name": "farmersdelight:bacon_and_eggs"
+    },
+    {
+      "name": "abnormals_delight:dune_platter"
+    },
+    {
+      "name": "abnormals_delight:venison_bamboo_shoots"
+    },
+    {
+      "name": "abnormals_delight:passionfruit_glazed_duck"
+    },
+    {
+      "name": "brewinandchewin:scarlet_pierogies"
+    },
+    {
+      "name": "farmersdelight:roast_chicken_block"
+    },
+    {
+      "name": "farmersdelight:roast_chicken"
+    },
+    {
+      "name": "farmersdelight:shepherds_pie_block"
+    },
+    {
+      "name": "farmersdelight:shepherds_pie"
+    },
+    {
+      "name": "farmersrespite:tea_curry"
+    },
+    {
+      "name": "farmersrespite:black_cod"
+    },
+    {
+      "name": "farmersdelight:honey_glazed_ham_block"
+    },
+    {
+      "name": "farmersdelight:honey_glazed_ham"
+    },
+    {
+      "name": "abnormals_delight:seared_venison"
+    },
+    {
+      "name": "abnormals_delight:perch_with_mushrooms"
+    },
+    {
+      "name": "nethersdelight:grilled_strider"
+    },
+    {
+      "name": "nethersdelight:magma_gelatin"
+    },
+    {
+      "name": "nethersdelight:warped_moldy_meat"
+    },
+    {
+      "name": "nethersdelight:plate_of_stuffed_hoglin_snout"
+    },
+
+
+    {
+      "name": "farmersdelight:horse_feed"
+    },
+    {
+      "name": "farmersdelight:dog_food"
+    },
+    {
+      "name": "abnormals_delight:slabdish"
+    }
+  ]
+}
