@@ -1,0 +1,36 @@
+{
+  "type": "modestmining:forging",
+  "cooktime": 144,
+  "ingredients": [
+    {
+      "item": "savage_and_ravage:creeper_spores"
+    },
+    {
+      "item": "savage_and_ravage:creeper_spores"
+    },
+    {
+      "item": "savage_and_ravage:creeper_spores"
+    },
+    {
+      "item": "savage_and_ravage:creeper_spores"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "fuel": {
+    "tag": "fundamentallyfixed:forging_fuels_three"
+  },
+  "result": {
+    "item": "savage_and_ravage:blast_proof_plating"
+  }
+}

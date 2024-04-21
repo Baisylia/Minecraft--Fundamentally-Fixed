@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "fundamentallyfixed:block/cut_gold",
+    "side": "fundamentallyfixed:block/cut_gold",
+    "top": "fundamentallyfixed:block/cut_gold"
+  }
+}

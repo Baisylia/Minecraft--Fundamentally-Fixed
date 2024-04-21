@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "fundamentallyfixed:block/carved_prismarite",
+    "side": "fundamentallyfixed:block/carved_prismarite",
+    "top": "fundamentallyfixed:block/carved_prismarite"
+  }
+}

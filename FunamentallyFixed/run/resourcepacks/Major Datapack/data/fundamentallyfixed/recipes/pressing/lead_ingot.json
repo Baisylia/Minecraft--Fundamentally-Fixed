@@ -1,0 +1,15 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    [
+      {
+        "item": "oreganized:lead_ingot"
+      }
+    ]
+  ],
+  "results": [
+    {
+      "item": "fundamentallyfixed:lead_sheet"
+    }
+  ]
+}

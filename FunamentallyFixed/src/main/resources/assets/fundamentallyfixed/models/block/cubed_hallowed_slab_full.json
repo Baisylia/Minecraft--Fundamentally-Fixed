@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "fundamentallyfixed:block/cubed_hallowed",
+    "side": "fundamentallyfixed:block/cubed_hallowed",
+    "top": "fundamentallyfixed:block/cubed_hallowed"
+  }
+}

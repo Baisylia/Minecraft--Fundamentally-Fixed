@@ -1,20 +1,20 @@
 {
   "values": [
-    "quark:white_shingles_stairs",
-    "quark:light_gray_shingles_stairs",
-    "quark:gray_shingles_stairs",
-    "quark:black_shingles_stairs",
-    "quark:brown_shingles_stairs",
-    "quark:red_shingles_stairs",
-    "quark:orange_shingles_stairs",
-    "quark:yellow_shingles_stairs",
-    "quark:lime_shingles_stairs",
-    "quark:green_shingles_stairs",
-    "quark:cyan_shingles_stairs",
-    "quark:light_blue_shingles_stairs",
-    "quark:blue_shingles_stairs",
-    "quark:purple_shingles_stairs",
-    "quark:magenta_shingles_stairs",
-    "quark:pink_shingles_stairs"
+    "hnh:white_shingle_stairs",
+    "hnh:light_gray_shingle_stairs",
+    "hnh:gray_shingle_stairs",
+    "hnh:black_shingle_stairs",
+    "hnh:brown_shingle_stairs",
+    "hnh:red_shingle_stairs",
+    "hnh:orange_shingle_stairs",
+    "hnh:yellow_shingle_stairs",
+    "hnh:lime_shingle_stairs",
+    "hnh:green_shingle_stairs",
+    "hnh:cyan_shingle_stairs",
+    "hnh:light_blue_shingle_stairs",
+    "hnh:blue_shingle_stairs",
+    "hnh:purple_shingle_stairs",
+    "hnh:magenta_shingle_stairs",
+    "hnh:pink_shingle_stairs"
   ]
 }

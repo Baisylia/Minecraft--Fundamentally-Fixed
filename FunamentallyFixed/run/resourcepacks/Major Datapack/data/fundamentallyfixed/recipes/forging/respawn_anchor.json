@@ -1,0 +1,23 @@
+{
+  "type": "modestmining:forging_shaped",
+  "cooktime": 144,
+  "key": {
+    "#": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "G": {
+      "item": "minecraft:glowstone"
+    }
+  },
+  "pattern": [
+    "###",
+    "GGG",
+    "###"
+  ],
+  "fuel": {
+    "tag": "fundamentallyfixed:forging_fuels_three"
+  },
+  "result": {
+    "item": "minecraft:respawn_anchor"
+  }
+}

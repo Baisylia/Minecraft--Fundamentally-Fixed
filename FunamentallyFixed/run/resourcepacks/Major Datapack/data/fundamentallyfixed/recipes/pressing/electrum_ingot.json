@@ -1,0 +1,15 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    [
+      {
+        "item": "oreganized:electrum_ingot"
+      }
+    ]
+  ],
+  "results": [
+    {
+      "item": "fundamentallyfixed:electrum_sheet"
+    }
+  ]
+}

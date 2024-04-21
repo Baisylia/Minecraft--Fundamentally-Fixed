@@ -1,0 +1,15 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    [
+      {
+        "item": "modestmining:steel_ingot"
+      }
+    ]
+  ],
+  "results": [
+    {
+      "item": "fundamentallyfixed:steel_sheet"
+    }
+  ]
+}

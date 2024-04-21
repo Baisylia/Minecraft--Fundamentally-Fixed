@@ -608,6 +608,64 @@
     {
       "name": "quark:bottled_cloud"
     },
+
+
+    {
+      "name": "xercamusic:flute"
+    },
+    {
+      "name": "xercamusic:banjo"
+    },
+    {
+      "name": "xercamusic:guitar"
+    },
+    {
+      "name": "xercamusic:xylophone"
+    },
+    {
+      "name": "xercamusic:sansula"
+    },
+    {
+      "name": "xercamusic:drum"
+    },
+    {
+      "name": "xercamusic:xylophone"
+    },
+    {
+      "name": "xercamusic:cello"
+    },
+    {
+      "name": "xercamusic:violin"
+    },
+    {
+      "name": "xercamusic:saxophone"
+    },
+    {
+      "name": "xercamusic:cymbal"
+    },
+    {
+      "name": "xercamusic:french_horn"
+    },
+    {
+      "name": "xercamusic:oboe"
+    },
+    {
+      "name": "xercamusic:lyre"
+    },
+    {
+      "name": "xercamusic:tubular_bell"
+    },
+    {
+      "name": "xercamusic:god"
+    },
+    {
+      "name": "xercamusic:bass_guitar"
+    },
+    {
+      "name": "xercamusic:redstone_guitar"
+    },
+
+
     {
       "name": "minecraft:arrow"
     },

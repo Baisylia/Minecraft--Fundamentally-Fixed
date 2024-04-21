@@ -9,12 +9,786 @@ to make editing this file much easier.
 */
 [
 	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "true",
+			"fluffy": "true",
+			"cattails": "1",
+			"age": "0"
+		},
 		"Name": "environmental:cattail"
 	},
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
-			"waterlogged": "false"
+			"waterlogged": "false",
+			"top": "true",
+			"fluffy": "true",
+			"cattails": "1",
+			"age": "0"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "false",
+			"fluffy": "true",
+			"cattails": "1",
+			"age": "0"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "false",
+			"fluffy": "true",
+			"cattails": "1",
+			"age": "0"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "true",
+			"fluffy": "false",
+			"cattails": "1",
+			"age": "0"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "true",
+			"fluffy": "false",
+			"cattails": "1",
+			"age": "0"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "false",
+			"fluffy": "false",
+			"cattails": "1",
+			"age": "0"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "true",
+			"fluffy": "true",
+			"cattails": "2",
+			"age": "0"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "true",
+			"fluffy": "true",
+			"cattails": "2",
+			"age": "0"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "false",
+			"fluffy": "true",
+			"cattails": "2",
+			"age": "0"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "false",
+			"fluffy": "true",
+			"cattails": "2",
+			"age": "0"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "true",
+			"fluffy": "false",
+			"cattails": "2",
+			"age": "0"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "true",
+			"fluffy": "false",
+			"cattails": "2",
+			"age": "0"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "false",
+			"fluffy": "false",
+			"cattails": "2",
+			"age": "0"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "false",
+			"fluffy": "false",
+			"cattails": "2",
+			"age": "0"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "true",
+			"fluffy": "true",
+			"cattails": "3",
+			"age": "0"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "true",
+			"fluffy": "true",
+			"cattails": "3",
+			"age": "0"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "false",
+			"fluffy": "true",
+			"cattails": "3",
+			"age": "0"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "false",
+			"fluffy": "true",
+			"cattails": "3",
+			"age": "0"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "true",
+			"fluffy": "false",
+			"cattails": "3",
+			"age": "0"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "true",
+			"fluffy": "false",
+			"cattails": "3",
+			"age": "0"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "false",
+			"fluffy": "false",
+			"cattails": "3",
+			"age": "0"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "false",
+			"fluffy": "false",
+			"cattails": "3",
+			"age": "0"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "true",
+			"fluffy": "true",
+			"cattails": "1",
+			"age": "1"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "true",
+			"fluffy": "true",
+			"cattails": "1",
+			"age": "1"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "false",
+			"fluffy": "true",
+			"cattails": "1",
+			"age": "1"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "false",
+			"fluffy": "true",
+			"cattails": "1",
+			"age": "1"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "true",
+			"fluffy": "false",
+			"cattails": "1",
+			"age": "1"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "true",
+			"fluffy": "false",
+			"cattails": "1",
+			"age": "1"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "false",
+			"fluffy": "false",
+			"cattails": "1",
+			"age": "1"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "false",
+			"fluffy": "false",
+			"cattails": "1",
+			"age": "1"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "true",
+			"fluffy": "true",
+			"cattails": "2",
+			"age": "1"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "true",
+			"fluffy": "true",
+			"cattails": "2",
+			"age": "1"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "false",
+			"fluffy": "true",
+			"cattails": "2",
+			"age": "1"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "false",
+			"fluffy": "true",
+			"cattails": "2",
+			"age": "1"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "true",
+			"fluffy": "false",
+			"cattails": "2",
+			"age": "1"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "true",
+			"fluffy": "false",
+			"cattails": "2",
+			"age": "1"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "false",
+			"fluffy": "false",
+			"cattails": "2",
+			"age": "1"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "false",
+			"fluffy": "false",
+			"cattails": "2",
+			"age": "1"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "true",
+			"fluffy": "true",
+			"cattails": "3",
+			"age": "1"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "true",
+			"fluffy": "true",
+			"cattails": "3",
+			"age": "1"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "false",
+			"fluffy": "true",
+			"cattails": "3",
+			"age": "1"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "false",
+			"fluffy": "true",
+			"cattails": "3",
+			"age": "1"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "true",
+			"fluffy": "false",
+			"cattails": "3",
+			"age": "1"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "true",
+			"fluffy": "false",
+			"cattails": "3",
+			"age": "1"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "false",
+			"fluffy": "false",
+			"cattails": "3",
+			"age": "1"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "false",
+			"fluffy": "false",
+			"cattails": "3",
+			"age": "1"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "true",
+			"fluffy": "true",
+			"cattails": "1",
+			"age": "2"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "true",
+			"fluffy": "true",
+			"cattails": "1",
+			"age": "2"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "false",
+			"fluffy": "true",
+			"cattails": "1",
+			"age": "2"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "false",
+			"fluffy": "true",
+			"cattails": "1",
+			"age": "2"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "true",
+			"fluffy": "false",
+			"cattails": "1",
+			"age": "2"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "true",
+			"fluffy": "false",
+			"cattails": "1",
+			"age": "2"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "false",
+			"fluffy": "false",
+			"cattails": "1",
+			"age": "2"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "false",
+			"fluffy": "false",
+			"cattails": "1",
+			"age": "2"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "true",
+			"fluffy": "true",
+			"cattails": "2",
+			"age": "2"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "true",
+			"fluffy": "true",
+			"cattails": "2",
+			"age": "2"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "false",
+			"fluffy": "true",
+			"cattails": "2",
+			"age": "2"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "false",
+			"fluffy": "true",
+			"cattails": "2",
+			"age": "2"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "true",
+			"fluffy": "false",
+			"cattails": "2",
+			"age": "2"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "true",
+			"fluffy": "false",
+			"cattails": "2",
+			"age": "2"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "false",
+			"fluffy": "false",
+			"cattails": "2",
+			"age": "2"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "false",
+			"fluffy": "false",
+			"cattails": "2",
+			"age": "2"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "true",
+			"fluffy": "true",
+			"cattails": "3",
+			"age": "2"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "true",
+			"fluffy": "true",
+			"cattails": "3",
+			"age": "2"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "false",
+			"fluffy": "true",
+			"cattails": "3",
+			"age": "2"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "false",
+			"fluffy": "true",
+			"cattails": "3",
+			"age": "2"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "true",
+			"fluffy": "false",
+			"cattails": "3",
+			"age": "2"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "true",
+			"fluffy": "false",
+			"cattails": "3",
+			"age": "2"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "false",
+			"fluffy": "false",
+			"cattails": "3",
+			"age": "2"
+		},
+		"Name": "environmental:cattail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "false",
+			"fluffy": "false",
+			"cattails": "3",
+			"age": "2"
 		},
 		"Name": "environmental:cattail"
 	}

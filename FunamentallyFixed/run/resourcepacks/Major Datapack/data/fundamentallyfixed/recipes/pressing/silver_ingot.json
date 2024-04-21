@@ -1,0 +1,15 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    [
+      {
+        "item": "oreganized:silver_ingot"
+      }
+    ]
+  ],
+  "results": [
+    {
+      "item": "fundamentallyfixed:silver_sheet"
+    }
+  ]
+}

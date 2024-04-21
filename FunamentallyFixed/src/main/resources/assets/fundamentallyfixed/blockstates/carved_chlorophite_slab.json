@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "fundamentallyfixed:block/carved_chlorophite_slab"
+    },
+    "type=double": {
+      "model": "fundamentallyfixed:block/carved_chlorophite_slab_full"
+    },
+    "type=top": {
+      "model": "fundamentallyfixed:block/carved_chlorophite_slab_top"
+    }
+  }
+}

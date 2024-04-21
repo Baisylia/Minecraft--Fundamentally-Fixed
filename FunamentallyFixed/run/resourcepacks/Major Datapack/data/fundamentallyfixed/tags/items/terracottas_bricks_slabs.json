@@ -1,20 +1,20 @@
 {
   "values": [
-    "clayworks:white_terracotta_brick_slab",
-    "clayworks:light_gray_terracotta_brick_slab",
-    "clayworks:gray_terracotta_brick_slab",
-    "clayworks:black_terracotta_brick_slab",
-    "clayworks:brown_terracotta_brick_slab",
-    "clayworks:red_terracotta_brick_slab",
-    "clayworks:orange_terracotta_brick_slab",
-    "clayworks:yellow_terracotta_brick_slab",
-    "clayworks:lime_terracotta_brick_slab",
-    "clayworks:green_terracotta_brick_slab",
-    "clayworks:cyan_terracotta_brick_slab",
-    "clayworks:light_blue_terracotta_brick_slab",
-    "clayworks:blue_terracotta_brick_slab",
-    "clayworks:purple_terracotta_brick_slab",
-    "clayworks:magenta_terracotta_brick_slab",
-    "clayworks:pink_terracotta_brick_slab"
+    "hnh:white_terracotta_brick_slab",
+    "hnh:light_gray_terracotta_brick_slab",
+    "hnh:gray_terracotta_brick_slab",
+    "hnh:black_terracotta_brick_slab",
+    "hnh:brown_terracotta_brick_slab",
+    "hnh:red_terracotta_brick_slab",
+    "hnh:orange_terracotta_brick_slab",
+    "hnh:yellow_terracotta_brick_slab",
+    "hnh:lime_terracotta_brick_slab",
+    "hnh:green_terracotta_brick_slab",
+    "hnh:cyan_terracotta_brick_slab",
+    "hnh:light_blue_terracotta_brick_slab",
+    "hnh:blue_terracotta_brick_slab",
+    "hnh:purple_terracotta_brick_slab",
+    "hnh:magenta_terracotta_brick_slab",
+    "hnh:pink_terracotta_brick_slab"
   ]
 }

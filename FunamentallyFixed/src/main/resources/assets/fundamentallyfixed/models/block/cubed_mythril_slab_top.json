@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "fundamentallyfixed:block/cubed_mythril",
+    "side": "fundamentallyfixed:block/cubed_mythril",
+    "top": "fundamentallyfixed:block/cubed_mythril"
+  }
+}

@@ -19,15 +19,6 @@
       "name": "minecraft:furnace"
     },
     {
-      "name": "minecraft:smoker"
-    },
-    {
-      "name": "minecraft:blast_furnace"
-    },
-    {
-      "name": "clayworks:kiln"
-    },
-    {
       "name": "modestmining:forge"
     },
     //{
@@ -112,6 +103,12 @@
       "name": "cold_sweat:hearth"
     },
     {
+      "name": "xercamusic:drum_kit"
+    },
+    {
+      "name": "xercamusic:piano"
+    },
+    {
       "name": "minecraft:tnt"
     },
     {
@@ -147,34 +144,73 @@
 
 
     {
+      "name": "spelunkery:rope_ladder"
+    },
+    {
       "name": "minecraft:ladder"
     },
     {
-      "name": "spelunkery:rope_ladder"
+      "name": "minecraft:oak_door"
+    },
+    {
+      "name": "minecraft:oak_trapdoor"
     },
     {
       "name": "fundamentallyfixed:copper_ladder"
     },
     {
+      "name": "fundamentallyfixed:copper_door"
+    },
+    {
       "name": "fundamentallyfixed:aluminium_ladder"
     },
     {
-      "name": "fundamentallyfixed:iron_ladder"
+      "name": "fundamentallyfixed:aluminium_door"
+    },
+    {
+      "name": "quark:iron_ladder"
+    },
+    {
+      "name": "minecraft:iron_door"
+    },
+    {
+      "name": "minecraft:iron_trapdoor"
+    },
+    {
+      "name": "minecraft:iron_bars"
     },
     {
       "name": "fundamentallyfixed:lead_ladder"
     },
     {
+      "name": "supplementaries:lead_door"
+    },
+    {
+      "name": "supplementaries:lead_trapdoor"
+    },
+    {
       "name": "fundamentallyfixed:gold_ladder"
+    },
+    {
+      "name": "supplementaries:gold_door"
+    },
+    {
+      "name": "supplementaries:gold_trapdoor"
+    },
+    {
+      "name": "quark:gold_bars"
     },
     {
       "name": "fundamentallyfixed:silver_ladder"
     },
     {
-      "name": "fundamentallyfixed:bronze_ladder"
+      "name": "supplementaries:silver_door"
     },
     {
-      "name": "quark:iron_ladder"
+      "name": "supplementaries:silver_trapdoor"
+    },
+    {
+      "name": "fundamentallyfixed:bronze_ladder"
     },
     {
       "name": "fundamentallyfixed:electrum_ladder"
@@ -187,27 +223,6 @@
     },
     {
       "name": "fundamentallyfixed:magnetite_ladder"
-    },
-    {
-      "name": "minecraft:oak_door"
-    },
-    {
-      "name": "fundamentallyfixed:copper_door"
-    },
-    {
-      "name": "fundamentallyfixed:aluminium_door"
-    },
-    {
-      "name": "minecraft:iron_door"
-    },
-    {
-      "name": "supplementaries:lead_door"
-    },
-    {
-      "name": "supplementaries:gold_door"
-    },
-    {
-      "name": "supplementaries:silver_door"
     },
     {
       "name": "fundamentallyfixed:bronze_door"
@@ -228,25 +243,10 @@
       "name": "fundamentallyfixed:magnetite_door"
     },
     {
-      "name": "minecraft:oak_trapdoor"
-    },
-    {
       "name": "fundamentallyfixed:copper_trapdoor"
     },
     {
       "name": "fundamentallyfixed:aluminium_trapdoor"
-    },
-    {
-      "name": "minecraft:iron_trapdoor"
-    },
-    {
-      "name": "supplementaries:lead_trapdoor"
-    },
-    {
-      "name": "supplementaries:gold_trapdoor"
-    },
-    {
-      "name": "supplementaries:silver_trapdoor"
     },
     {
       "name": "fundamentallyfixed:bronze_trapdoor"
@@ -267,124 +267,7 @@
       "name": "fundamentallyfixed:magnetite_trapdoor"
     },
     {
-      "name": "minecraft:oak_sign"
-    },
-    {
-      "name": "farmersdelight:canvas_sign"
-    },
-    {
-      "name": "suppsquared:copper_plaque"
-    },
-    {
-      "name": "fundamentallyfixed:aluminium_plaque"
-    },
-    {
-      "name": "suppsquared:iron_plaque"
-    },
-    {
-      "name": "fundamentallyfixed:lead_plaque"
-    },
-    {
-      "name": "suppsquared:gold_plaque"
-    },
-    {
-      "name": "fundamentallyfixed:silver_plaque"
-    },
-    {
-      "name": "fundamentallyfixed:bronze_plaque"
-    },
-    {
-      "name": "fundamentallyfixed:steel_plaque"
-    },
-    {
-      "name": "fundamentallyfixed:electrum_plaque"
-    },
-    {
-      "name": "fundamentallyfixed:netherite_plaque"
-    },
-    {
-      "name": "fundamentallyfixed:prismarite_plaque"
-    },
-    {
-      "name": "fundamentallyfixed:magnetite_plaque"
-    },
-    {
-      "name": "supplementaries:hanging_sign_oak"
-    },
-    {
-      "name": "supplementaries:sign_post_oak"
-    },
-    {
-      "name": "suppsquared:item_shelf_oak"
-    },
-    {
-      "name": "minecraft:bookshelf"
-    },
-    {
-      "name": "minecraft:barrel"
-    },
-    {
-      "name": "minecraft:chest"
-    },
-    {
-      "name": "minecraft:trapped_chest"
-    },
-    {
-      "name": "minecraft:oak_boat"
-    },
-    {
-      "name": "minecraft:oak_chest_boat"
-    },
-    {
-      "name": "boatload:oak_furnace_boat"
-    },
-    {
-      "name": "boatload:large_oak_boat"
-    },
-    {
-      "name": "minecraft:beehive"
-    },
-    {
-      "name": "minecraft:bee_nest"
-    },
-    {
-      "name": "alexsmobs:leafcutter_ant_chamber"
-    },
-    {
-      "name": "alexsmobs:leafcutter_anthill"
-    },
-    {
-      "name": "farmersdelight:oak_cabinet"
-    },
-    {
-      "name": "supplementaries:sack"
-    },
-    {
-      "name": "supplementaries:present"
-    },
-    {
-      "name": "supplementaries:trapped_supplementaries"
-    },
-    {
-      "name": "minecraft:white_banner"
-    },
-    {
-      "name": "supplementaries:flag_white"
-    },
-    {
-      "name": "fundamentallyfixed:copper_bars"
-    },
-    {
-      "name": "fundamentallyfixed:aluminium_bars"
-    },
-    {
-      "name": "minecraft:iron_bars"
-    },
-    {
       "name": "fundamentallyfixed:lead_bars"
-    },
-    {
-      "name": "quark:gold_bars"
     },
     {
       "name": "fundamentallyfixed:silver_bars"
@@ -478,6 +361,81 @@
     },
     {
       "name": "fundamentallyfixed:soul_magnetite_lantern"
+    },
+    {
+      "name": "minecraft:oak_sign"
+    },
+    {
+      "name": "farmersdelight:canvas_sign"
+    },
+    {
+      "name": "supplementaries:hanging_sign_oak"
+    },
+    {
+      "name": "supplementaries:sign_post_oak"
+    },
+    {
+      "name": "suppsquared:item_shelf_oak"
+    },
+    {
+      "name": "minecraft:bookshelf"
+    },
+    {
+      "name": "minecraft:barrel"
+    },
+    {
+      "name": "minecraft:chest"
+    },
+    {
+      "name": "minecraft:trapped_chest"
+    },
+    {
+      "name": "minecraft:oak_boat"
+    },
+    {
+      "name": "minecraft:oak_chest_boat"
+    },
+    {
+      "name": "boatload:oak_furnace_boat"
+    },
+    {
+      "name": "boatload:large_oak_boat"
+    },
+    {
+      "name": "minecraft:beehive"
+    },
+    {
+      "name": "minecraft:bee_nest"
+    },
+    {
+      "name": "alexsmobs:leafcutter_ant_chamber"
+    },
+    {
+      "name": "alexsmobs:leafcutter_anthill"
+    },
+    {
+      "name": "farmersdelight:oak_cabinet"
+    },
+    {
+      "name": "supplementaries:sack"
+    },
+    {
+      "name": "supplementaries:present"
+    },
+    {
+      "name": "supplementaries:trapped_supplementaries"
+    },
+    {
+      "name": "minecraft:white_banner"
+    },
+    {
+      "name": "supplementaries:flag_white"
+    },
+    {
+      "name": "fundamentallyfixed:copper_bars"
+    },
+    {
+      "name": "fundamentallyfixed:aluminium_bars"
     },
     {
       "name": "quark:paper_wall"
@@ -582,6 +540,9 @@
     },
     {
       "name": "supplementaries:blackboard"
+    },
+    {
+      "name": "minecraft:reinforced_deepslate"
     },
     {
       "name": "minecraft:end_portal_frame"
@@ -696,6 +657,170 @@
     {
       "name": "minecraft:infested_deepslate"
     },
+    {
+      "name": "oreganized:waxed_spotted_glance"
+    },
+
+
+    {
+      "name": "minecraft:waxed_copper_block"
+    },
+    {
+      "name": "minecraft:waxed_cut_copper"
+    },
+    {
+      "name": "minecraft:waxed_cut_copper_stairs"
+    },
+    {
+      "name": "minecraft:waxed_cut_copper_slab"
+    },
+    {
+      "name": "fundamentallyfixed:waxed_cut_copper_wall"
+    },
+    {
+      "name": "create:waxed_copper_shingles"
+    },
+    {
+      "name": "create:waxed_copper_shingle_stairs"
+    },
+    {
+      "name": "create:waxed_copper_shingle_slab"
+    },
+    {
+      "name": "fundamentallyfixed:waxed_copper_shingle_wall"
+    },
+    {
+      "name": "create:waxed_copper_tiles"
+    },
+    {
+      "name": "create:waxed_copper_tile_stairs"
+    },
+    {
+      "name": "create:waxed_copper_tile_slab"
+    },
+    {
+      "name": "fundamentallyfixed:waxed_copper_tile_wall"
+    },
+    {
+      "name": "minecraft:waxed_exposed_copper"
+    },
+    {
+      "name": "minecraft:waxed_exposed_cut_copper"
+    },
+    {
+      "name": "minecraft:waxed_exposed_cut_copper_stairs"
+    },
+    {
+      "name": "minecraft:waxed_exposed_cut_copper_slab"
+    },
+    {
+      "name": "fundamentallyfixed:waxed_exposed_cut_copper_wall"
+    },
+    {
+      "name": "create:waxed_exposed_copper_shingles"
+    },
+    {
+      "name": "create:waxed_exposed_copper_shingle_stairs"
+    },
+    {
+      "name": "create:waxed_exposed_copper_shingle_slab"
+    },
+    {
+      "name": "fundamentallyfixed:waxed_exposed_copper_shingle_wall"
+    },
+    {
+      "name": "create:waxed_exposed_copper_tiles"
+    },
+    {
+      "name": "create:waxed_exposed_copper_tile_stairs"
+    },
+    {
+      "name": "create:waxed_exposed_copper_tile_slab"
+    },
+    {
+      "name": "fundamentallyfixed:waxed_exposed_copper_tile_wall"
+    },
+    {
+      "name": "minecraft:waxed_weathered_copper"
+    },
+    {
+      "name": "minecraft:waxed_weathered_cut_copper"
+    },
+    {
+      "name": "minecraft:waxed_weathered_cut_copper_stairs"
+    },
+    {
+      "name": "minecraft:waxed_weathered_cut_copper_slab"
+    },
+    {
+      "name": "fundamentallyfixed:waxed_weathered_cut_copper_wall"
+    },
+    {
+      "name": "create:waxed_weathered_copper_shingles"
+    },
+    {
+      "name": "create:waxed_weathered_copper_shingle_stairs"
+    },
+    {
+      "name": "create:waxed_weathered_copper_shingle_slab"
+    },
+    {
+      "name": "fundamentallyfixed:waxed_weathered_copper_shingle_wall"
+    },
+    {
+      "name": "create:waxed_weathered_copper_tiles"
+    },
+    {
+      "name": "create:waxed_weathered_copper_tile_stairs"
+    },
+    {
+      "name": "create:waxed_weathered_copper_tile_slab"
+    },
+    {
+      "name": "fundamentallyfixed:waxed_weathered_copper_tile_wall"
+    },
+    {
+      "name": "minecraft:waxed_oxidized_copper"
+    },
+    {
+      "name": "minecraft:waxed_oxidized_cut_copper"
+    },
+    {
+      "name": "minecraft:waxed_oxidized_cut_copper_stairs"
+    },
+    {
+      "name": "minecraft:waxed_oxidized_cut_copper_slab"
+    },
+    {
+      "name": "fundamentallyfixed:waxed_oxidized_cut_copper_wall"
+    },
+    {
+      "name": "create:waxed_oxidized_copper_shingles"
+    },
+    {
+      "name": "create:waxed_oxidized_copper_shingle_stairs"
+    },
+    {
+      "name": "create:waxed_oxidized_copper_shingle_slab"
+    },
+    {
+      "name": "fundamentallyfixed:waxed_oxidized_copper_shingle_wall"
+    },
+    {
+      "name": "create:waxed_oxidized_copper_tiles"
+    },
+    {
+      "name": "create:waxed_oxidized_copper_tile_stairs"
+    },
+    {
+      "name": "create:waxed_oxidized_copper_tile_slab"
+    },
+    {
+      "name": "fundamentallyfixed:waxed_oxidized_copper_tile_wall"
+    },
+
+
+
     {
       "name": "supplementaries:globe"
     },
@@ -883,6 +1008,510 @@
     },
     {
       "name": "minecraft:spawner"
+    },
+
+
+
+    {
+      "name": "minecraft:allay_spawn_egg"
+    },
+    {
+      "name": "alexsmobs:spawn_egg_anaconda"
+    },
+    {
+      "name": "alexsmobs:spawn_egg_leafcutter_ant"
+    },
+    {
+      "name": "minecraft:axolotl_spawn_egg"
+    },
+    {
+      "name": "minecraft:bat_spawn_egg"
+    },
+    {
+      "name": "infernalexp:basalt_giant_spawn_egg"
+    },
+    {
+      "name": "sleep_tight:bedbug_spawn_egg"
+    },
+    {
+      "name": "minecraft:bee_spawn_egg"
+    },
+    {
+      "name": "alexsmobs:spawn_egg_bison"
+    },
+    {
+      "name": "infernalexp:blackstone_dwarf_spawn_egg"
+    },
+    {
+      "name": "dungeons_mobs:blastling_spawn_egg"
+    },
+    {
+      "name": "minecraft:blaze_spawn_egg"
+    },
+    {
+      "name": "dungeons_mobs:mossy_skeleton_spawn_egg"
+    },
+    {
+      "name": "alexsmobs:spawn_egg_bone_serpent"
+    },
+    {
+      "name": "thebreeze:breeze_spawn_egg"
+    },
+    {
+      "name": "rottencreatures:burned_spawn_egg"
+    },
+    {
+      "name": "naturalist:butterfly_spawn_egg"
+    },
+    {
+      "name": "alexsmobs:spawn_egg_cachalot_whale"
+    },
+    {
+      "name": "minecraft:cat_spawn_egg"
+    },
+    {
+      "name": "naturalist:caterpillar_spawn_egg"
+    },
+    {
+      "name": "naturalist:catfish_spawn_egg"
+    },
+    {
+      "name": "alexsmobs:spawn_egg_centipede"
+    },
+    {
+      "name": "minecraft:cave_spider_spawn_egg"
+    },
+    {
+      "name": "minecraft:chicken_spawn_egg"
+    },
+    {
+      "name": "windswept:chilled_spawn_egg"
+    },
+    {
+      "name": "modestmining:clam_spawn_egg"
+    },
+    {
+      "name": "alexsmobs:spawn_egg_cockroach"
+    },
+    {
+      "name": "minecraft:cod_spawn_egg"
+    },
+    {
+      "name": "alexsmobs:spawn_egg_cosmaw"
+    },
+    {
+      "name": "alexsmobs:spawn_egg_cosmic_cod"
+    },
+    {
+      "name": "minecraft:cow_spawn_egg"
+    },
+    {
+      "name": "quark:crab_spawn_egg"
+    },
+    {
+      "name": "minecraft:creeper_spawn_egg"
+    },
+    {
+      "name": "naturalist:alligator_spawn_egg"
+    },
+    {
+      "name": "environmental:deer_spawn_egg"
+    },
+    {
+      "name": "minecraft:dolphin_spawn_egg"
+    },
+    {
+      "name": "minecraft:donkey_spawn_egg"
+    },
+    {
+      "name": "naturalist:dragonfly_spawn_egg"
+    },
+    {
+      "name": "alexsmobs:spawn_egg_dropbear"
+    },
+    {
+      "name": "minecraft:drowned_spawn_egg"
+    },
+    {
+      "name": "environmental:duck_spawn_egg"
+    },
+    {
+      "name": "minecraft:elder_guardian_spawn_egg"
+    },
+    {
+      "name": "alexsmobs:spawn_egg_elephant"
+    },
+    {
+      "name": "alexsmobs:spawn_egg_emu"
+    },
+    {
+      "name": "minecraft:enderman_spawn_egg"
+    },
+    {
+      "name": "minecraft:endermite_spawn_egg"
+    },
+    {
+      "name": "minecraft:evoker_spawn_egg"
+    },
+    {
+      "name": "savage_and_ravage:executioner_spawn_egg"
+    },
+    {
+      "name": "naturalist:firefly_spawn_egg"
+    },
+    {
+      "name": "upgrade_aquatic:flare_spawn_egg"
+    },
+    {
+      "name": "alexsmobs:spawn_egg_fly"
+    },
+    {
+      "name": "alexsmobs:spawn_egg_flying_fish"
+    },
+    {
+      "name": "aether:phyg_spawn_egg"
+    },
+    {
+      "name": "minecraft:fox_spawn_egg"
+    },
+    {
+      "name": "minecraft:frog_spawn_egg"
+    },
+    {
+      "name": "minecraft:ghast_spawn_egg"
+    },
+    {
+      "name": "minecraft:glow_squid_spawn_egg"
+    },
+    {
+      "name": "minecraft:goat_spawn_egg"
+    },
+    {
+      "name": "upgrade_aquatic:great_thrasher_spawn_egg"
+    },
+    {
+      "name": "savage_and_ravage:griefer_spawn_egg"
+    },
+    {
+      "name": "naturalist:bear_spawn_egg"
+    },
+    {
+      "name": "minecraft:guardian_spawn_egg"
+    },
+    {
+      "name": "alexsmobs:spawn_egg_guster"
+    },
+    {
+      "name": "minecraft:hoglin_spawn_egg"
+    },
+    {
+      "name": "minecraft:horse_spawn_egg"
+    },
+    {
+      "name": "minecraft:husk_spawn_egg"
+    },
+    {
+      "name": "savage_and_ravage:iceologer_spawn_egg"
+    },
+    {
+      "name": "dungeons_mobs:illusioner_spawn_egg"
+    },
+    {
+      "name": "dungeons_mobs:wildfire_spawn_egg"
+    },
+    {
+      "name": "alexsmobs:spawn_egg_kangaroo"
+    },
+    {
+      "name": "environmental:koi_spawn_egg"
+    },
+    {
+      "name": "sullysmod:lanternfish_spawn_egg"
+    },
+    {
+      "name": "alexsmobs:spawn_egg_laviathan"
+    },
+    {
+      "name": "upgrade_aquatic:lionfish_spawn_egg"
+    },
+    {
+      "name": "minecraft:llama_spawn_egg"
+    },
+    {
+      "name": "minecraft:magma_cube_spawn_egg"
+    },
+    {
+      "name": "alexsmobs:spawn_egg_mimicube"
+    },
+    {
+      "name": "buzzier_bees:moobloom_spawn_egg"
+    },
+    {
+      "name": "minecraft:mooshroom_spawn_egg"
+    },
+    {
+      "name": "minecraft:mule_spawn_egg"
+    },
+    {
+      "name": "rottencreatures:mummy_spawn_egg"
+    },
+    {
+      "name": "alexsmobs:spawn_egg_mungus"
+    },
+    {
+      "name": "upgrade_aquatic:nautilus_spawn_egg"
+    },
+    {
+      "name": "dungeons_mobs:necromancer_spawn_egg"
+    },
+    {
+      "name": "alexsmobs:spawn_egg_orca"
+    },
+    {
+      "name": "minecraft:parrot_spawn_egg"
+    },
+    {
+      "name": "ecologics:penguin_spawn_egg"
+    },
+    {
+      "name": "upgrade_aquatic:perch_spawn_egg"
+    },
+    {
+      "name": "minecraft:pig_spawn_egg"
+    },
+    {
+      "name": "minecraft:piglin_spawn_egg"
+    },
+    {
+      "name": "minecraft:piglin_brute_spawn_egg"
+    },
+    {
+      "name": "upgrade_aquatic:pike_spawn_egg"
+    },
+    {
+      "name": "minecraft:pillager_spawn_egg"
+    },
+    {
+      "name": "minecraft:phantom_spawn_egg"
+    },
+    {
+      "name": "alexsmobs:spawn_egg_platypus"
+    },
+    {
+      "name": "minecraft:pufferfish_spawn_egg"
+    },
+    {
+      "name": "alexsmobs:spawn_egg_raccoon"
+    },
+    {
+      "name": "minecraft:rabbit_spawn_egg"
+    },
+    {
+      "name": "naturalist:rattlesnake_spawn_egg"
+    },
+    {
+      "name": "minecraft:ravager_spawn_egg"
+    },
+    {
+      "name": "alexsmobs:spawn_egg_rocky_roller"
+    },
+    {
+      "name": "minecraft:salmon_spawn_egg"
+    },
+    {
+      "name": "alexsmobs:spawn_egg_seal"
+    },
+    {
+      "name": "minecraft:sheep_spawn_egg"
+    },
+    {
+      "name": "minecraft:shulker_spawn_egg"
+    },
+    {
+      "name": "infernalexp:shroomloin_spawn_egg"
+    },
+    {
+      "name": "minecraft:silverfish_spawn_egg"
+    },
+    {
+      "name": "minecraft:skeleton_spawn_egg"
+    },
+    {
+      "name": "minecraft:skeleton_horse_spawn_egg"
+    },
+    {
+      "name": "savage_and_ravage:skeleton_villager_spawn_egg"
+    },
+    {
+      "name": "environmental:slabfish_spawn_egg"
+    },
+    {
+      "name": "minecraft:slime_spawn_egg"
+    },
+    {
+      "name": "autumnity:snail_spawn_egg"
+    },
+    {
+      "name": "naturalist:snake_spawn_egg"
+    },
+    {
+      "name": "minecraft:spider_spawn_egg"
+    },
+    {
+      "name": "minecraft:squid_spawn_egg"
+    },
+    {
+      "name": "alexsmobs:spawn_egg_straddler"
+    },
+    {
+      "name": "alexsmobs:spawn_egg_stradpole"
+    },
+    {
+      "name": "minecraft:stray_spawn_egg"
+    },
+    {
+      "name": "minecraft:strider_spawn_egg"
+    },
+    {
+      "name": "dungeons_mobs:sunken_skeleton_spawn_egg"
+    },
+    {
+      "name": "rottencreatures:swampy_spawn_egg"
+    },
+    {
+      "name": "minecraft:tadpole_spawn_egg"
+    },
+    {
+      "name": "upgrade_aquatic:thrasher_spawn_egg"
+    },
+    {
+      "name": "savage_and_ravage:trickster_spawn_egg"
+    },
+    {
+      "name": "minecraft:tropical_fish_spawn_egg"
+    },
+    {
+      "name": "autumnity:turkey_spawn_egg"
+    },
+    {
+      "name": "minecraft:turtle_spawn_egg"
+    },
+    {
+      "name": "alexsmobs:spawn_egg_tusklin"
+    },
+    {
+      "name": "minecraft:vex_spawn_egg"
+    },
+    {
+      "name": "minecraft:villager_spawn_egg"
+    },
+    {
+      "name": "minecraft:vindicator_spawn_egg"
+    },
+    {
+      "name": "minecraft:warden_spawn_egg"
+    },
+    {
+      "name": "alexsmobs:spawn_egg_warped_toad"
+    },
+    {
+      "name": "minecraft:witch_spawn_egg"
+    },
+    {
+      "name": "minecraft:wither_skeleton_spawn_egg"
+    },
+    {
+      "name": "dungeons_mobs:wraith_spawn_egg"
+    },
+    {
+      "name": "rottencreatures:immortal_spawn_egg"
+    },
+    {
+      "name": "minecraft:wolf_spawn_egg"
+    },
+    {
+      "name": "environmental:yak_spawn_egg"
+    },
+    {
+      "name": "naturalist:zebra_spawn_egg"
+    },
+    {
+      "name": "aether:zephyr_spawn_egg"
+    },
+    {
+      "name": "minecraft:zoglin_spawn_egg"
+    },
+    {
+      "name": "minecraft:zombie_spawn_egg"
+    },
+    {
+      "name": "minecraft:zombie_horse_spawn_egg"
+    },
+    {
+      "name": "minecraft:zombie_villager_spawn_egg"
+    },
+    {
+      "name": "minecraft:zombified_piglin_spawn_egg"
+    },
+
+
+
+    {
+      "name": "naturalist:coral_snake_spawn_egg"
+    },
+    {
+      "name": "naturalist:lion_spawn_egg"
+    },
+    {
+      "name": "naturalist:giraffe_spawn_egg"
+    },
+    {
+      "name": "alexsmobs:spawn_egg_crimson_mosquito"
+    },
+    {
+      "name": "alexsmobs:spawn_egg_mantis_shrimp"
+    },
+    {
+      "name": "alexsmobs:spawn_egg_warped_mosco"
+    },
+    {
+      "name": "alexsmobs:spawn_egg_froststalker"
+    },
+    {
+      "name": "alexsmobs:spawn_egg_rhinoceros"
+    },
+    {
+      "name": "ecologics:coconut_crab_spawn_egg"
+    },
+    {
+      "name": "cold_sweat:chameleon_spawn_egg"
+    },
+    {
+      "name": "dungeons_mobs:geomancer_spawn_egg"
+    },
+    {
+      "name": "dungeons_mobs:redstone_golem_spawn_egg"
+    },
+    {
+      "name": "dungeons_mobs:leapleaf_spawn_egg"
+    },
+    {
+      "name": "dungeons_mobs:watchling_spawn_egg"
+    },
+    {
+      "name": "dungeons_mobs:windcaller_spawn_egg"
+    },
+    {
+      "name": "dungeons_mobs:snareling_spawn_egg"
+    },
+    {
+      "name": "dungeons_mobs:whisperer_spawn_egg"
+    },
+    {
+      "name": "dungeons_mobs:quick_growing_vine_spawn_egg"
+    },
+    {
+      "name": "dungeons_mobs:poison_quill_vine_spawn_egg"
     }
   ]
 }

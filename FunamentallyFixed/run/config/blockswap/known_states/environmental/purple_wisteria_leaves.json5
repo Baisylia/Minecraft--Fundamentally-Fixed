@@ -13,6 +13,7 @@ to make editing this file much easier.
 		"Properties": {
 			"waterlogged": "true",
 			"persistent": "true",
+			"half": "top",
 			"distance": "1"
 		},
 		"Name": "environmental:purple_wisteria_leaves"
@@ -22,6 +23,7 @@ to make editing this file much easier.
 		"Properties": {
 			"waterlogged": "false",
 			"persistent": "true",
+			"half": "top",
 			"distance": "1"
 		},
 		"Name": "environmental:purple_wisteria_leaves"
@@ -31,6 +33,7 @@ to make editing this file much easier.
 		"Properties": {
 			"waterlogged": "true",
 			"persistent": "false",
+			"half": "top",
 			"distance": "1"
 		},
 		"Name": "environmental:purple_wisteria_leaves"
@@ -40,6 +43,7 @@ to make editing this file much easier.
 		"Properties": {
 			"waterlogged": "false",
 			"persistent": "false",
+			"half": "top",
 			"distance": "1"
 		},
 		"Name": "environmental:purple_wisteria_leaves"
@@ -49,6 +53,47 @@ to make editing this file much easier.
 		"Properties": {
 			"waterlogged": "true",
 			"persistent": "true",
+			"half": "bottom",
+			"distance": "1"
+		},
+		"Name": "environmental:purple_wisteria_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"half": "bottom",
+			"distance": "1"
+		},
+		"Name": "environmental:purple_wisteria_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"half": "bottom",
+			"distance": "1"
+		},
+		"Name": "environmental:purple_wisteria_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"half": "bottom",
+			"distance": "1"
+		},
+		"Name": "environmental:purple_wisteria_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"half": "top",
 			"distance": "2"
 		},
 		"Name": "environmental:purple_wisteria_leaves"
@@ -58,6 +103,7 @@ to make editing this file much easier.
 		"Properties": {
 			"waterlogged": "false",
 			"persistent": "true",
+			"half": "top",
 			"distance": "2"
 		},
 		"Name": "environmental:purple_wisteria_leaves"
@@ -67,6 +113,7 @@ to make editing this file much easier.
 		"Properties": {
 			"waterlogged": "true",
 			"persistent": "false",
+			"half": "top",
 			"distance": "2"
 		},
 		"Name": "environmental:purple_wisteria_leaves"
@@ -76,6 +123,7 @@ to make editing this file much easier.
 		"Properties": {
 			"waterlogged": "false",
 			"persistent": "false",
+			"half": "top",
 			"distance": "2"
 		},
 		"Name": "environmental:purple_wisteria_leaves"
@@ -85,6 +133,47 @@ to make editing this file much easier.
 		"Properties": {
 			"waterlogged": "true",
 			"persistent": "true",
+			"half": "bottom",
+			"distance": "2"
+		},
+		"Name": "environmental:purple_wisteria_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"half": "bottom",
+			"distance": "2"
+		},
+		"Name": "environmental:purple_wisteria_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"half": "bottom",
+			"distance": "2"
+		},
+		"Name": "environmental:purple_wisteria_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"half": "bottom",
+			"distance": "2"
+		},
+		"Name": "environmental:purple_wisteria_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"half": "top",
 			"distance": "3"
 		},
 		"Name": "environmental:purple_wisteria_leaves"
@@ -94,6 +183,7 @@ to make editing this file much easier.
 		"Properties": {
 			"waterlogged": "false",
 			"persistent": "true",
+			"half": "top",
 			"distance": "3"
 		},
 		"Name": "environmental:purple_wisteria_leaves"
@@ -103,6 +193,7 @@ to make editing this file much easier.
 		"Properties": {
 			"waterlogged": "true",
 			"persistent": "false",
+			"half": "top",
 			"distance": "3"
 		},
 		"Name": "environmental:purple_wisteria_leaves"
@@ -112,6 +203,7 @@ to make editing this file much easier.
 		"Properties": {
 			"waterlogged": "false",
 			"persistent": "false",
+			"half": "top",
 			"distance": "3"
 		},
 		"Name": "environmental:purple_wisteria_leaves"
@@ -121,6 +213,47 @@ to make editing this file much easier.
 		"Properties": {
 			"waterlogged": "true",
 			"persistent": "true",
+			"half": "bottom",
+			"distance": "3"
+		},
+		"Name": "environmental:purple_wisteria_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"half": "bottom",
+			"distance": "3"
+		},
+		"Name": "environmental:purple_wisteria_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"half": "bottom",
+			"distance": "3"
+		},
+		"Name": "environmental:purple_wisteria_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"half": "bottom",
+			"distance": "3"
+		},
+		"Name": "environmental:purple_wisteria_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"half": "top",
 			"distance": "4"
 		},
 		"Name": "environmental:purple_wisteria_leaves"
@@ -130,6 +263,7 @@ to make editing this file much easier.
 		"Properties": {
 			"waterlogged": "false",
 			"persistent": "true",
+			"half": "top",
 			"distance": "4"
 		},
 		"Name": "environmental:purple_wisteria_leaves"
@@ -139,6 +273,7 @@ to make editing this file much easier.
 		"Properties": {
 			"waterlogged": "true",
 			"persistent": "false",
+			"half": "top",
 			"distance": "4"
 		},
 		"Name": "environmental:purple_wisteria_leaves"
@@ -148,6 +283,7 @@ to make editing this file much easier.
 		"Properties": {
 			"waterlogged": "false",
 			"persistent": "false",
+			"half": "top",
 			"distance": "4"
 		},
 		"Name": "environmental:purple_wisteria_leaves"
@@ -157,6 +293,47 @@ to make editing this file much easier.
 		"Properties": {
 			"waterlogged": "true",
 			"persistent": "true",
+			"half": "bottom",
+			"distance": "4"
+		},
+		"Name": "environmental:purple_wisteria_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"half": "bottom",
+			"distance": "4"
+		},
+		"Name": "environmental:purple_wisteria_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"half": "bottom",
+			"distance": "4"
+		},
+		"Name": "environmental:purple_wisteria_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"half": "bottom",
+			"distance": "4"
+		},
+		"Name": "environmental:purple_wisteria_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"half": "top",
 			"distance": "5"
 		},
 		"Name": "environmental:purple_wisteria_leaves"
@@ -166,6 +343,7 @@ to make editing this file much easier.
 		"Properties": {
 			"waterlogged": "false",
 			"persistent": "true",
+			"half": "top",
 			"distance": "5"
 		},
 		"Name": "environmental:purple_wisteria_leaves"
@@ -175,6 +353,7 @@ to make editing this file much easier.
 		"Properties": {
 			"waterlogged": "true",
 			"persistent": "false",
+			"half": "top",
 			"distance": "5"
 		},
 		"Name": "environmental:purple_wisteria_leaves"
@@ -184,6 +363,7 @@ to make editing this file much easier.
 		"Properties": {
 			"waterlogged": "false",
 			"persistent": "false",
+			"half": "top",
 			"distance": "5"
 		},
 		"Name": "environmental:purple_wisteria_leaves"
@@ -193,6 +373,47 @@ to make editing this file much easier.
 		"Properties": {
 			"waterlogged": "true",
 			"persistent": "true",
+			"half": "bottom",
+			"distance": "5"
+		},
+		"Name": "environmental:purple_wisteria_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"half": "bottom",
+			"distance": "5"
+		},
+		"Name": "environmental:purple_wisteria_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"half": "bottom",
+			"distance": "5"
+		},
+		"Name": "environmental:purple_wisteria_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"half": "bottom",
+			"distance": "5"
+		},
+		"Name": "environmental:purple_wisteria_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"half": "top",
 			"distance": "6"
 		},
 		"Name": "environmental:purple_wisteria_leaves"
@@ -202,6 +423,7 @@ to make editing this file much easier.
 		"Properties": {
 			"waterlogged": "false",
 			"persistent": "true",
+			"half": "top",
 			"distance": "6"
 		},
 		"Name": "environmental:purple_wisteria_leaves"
@@ -211,6 +433,7 @@ to make editing this file much easier.
 		"Properties": {
 			"waterlogged": "true",
 			"persistent": "false",
+			"half": "top",
 			"distance": "6"
 		},
 		"Name": "environmental:purple_wisteria_leaves"
@@ -220,6 +443,7 @@ to make editing this file much easier.
 		"Properties": {
 			"waterlogged": "false",
 			"persistent": "false",
+			"half": "top",
 			"distance": "6"
 		},
 		"Name": "environmental:purple_wisteria_leaves"
@@ -229,6 +453,47 @@ to make editing this file much easier.
 		"Properties": {
 			"waterlogged": "true",
 			"persistent": "true",
+			"half": "bottom",
+			"distance": "6"
+		},
+		"Name": "environmental:purple_wisteria_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"half": "bottom",
+			"distance": "6"
+		},
+		"Name": "environmental:purple_wisteria_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"half": "bottom",
+			"distance": "6"
+		},
+		"Name": "environmental:purple_wisteria_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"half": "bottom",
+			"distance": "6"
+		},
+		"Name": "environmental:purple_wisteria_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"half": "top",
 			"distance": "7"
 		},
 		"Name": "environmental:purple_wisteria_leaves"
@@ -238,6 +503,7 @@ to make editing this file much easier.
 		"Properties": {
 			"waterlogged": "false",
 			"persistent": "true",
+			"half": "top",
 			"distance": "7"
 		},
 		"Name": "environmental:purple_wisteria_leaves"
@@ -247,6 +513,7 @@ to make editing this file much easier.
 		"Properties": {
 			"waterlogged": "true",
 			"persistent": "false",
+			"half": "top",
 			"distance": "7"
 		},
 		"Name": "environmental:purple_wisteria_leaves"
@@ -256,6 +523,7 @@ to make editing this file much easier.
 		"Properties": {
 			"waterlogged": "false",
 			"persistent": "false",
+			"half": "top",
 			"distance": "7"
 		},
 		"Name": "environmental:purple_wisteria_leaves"
@@ -265,7 +533,8 @@ to make editing this file much easier.
 		"Properties": {
 			"waterlogged": "true",
 			"persistent": "true",
-			"distance": "8"
+			"half": "bottom",
+			"distance": "7"
 		},
 		"Name": "environmental:purple_wisteria_leaves"
 	},
@@ -274,7 +543,8 @@ to make editing this file much easier.
 		"Properties": {
 			"waterlogged": "false",
 			"persistent": "true",
-			"distance": "8"
+			"half": "bottom",
+			"distance": "7"
 		},
 		"Name": "environmental:purple_wisteria_leaves"
 	},
@@ -283,7 +553,8 @@ to make editing this file much easier.
 		"Properties": {
 			"waterlogged": "true",
 			"persistent": "false",
-			"distance": "8"
+			"half": "bottom",
+			"distance": "7"
 		},
 		"Name": "environmental:purple_wisteria_leaves"
 	},

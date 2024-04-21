@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "fundamentallyfixed:block/prismarite_sheet_block"
+    }
+  }
+}

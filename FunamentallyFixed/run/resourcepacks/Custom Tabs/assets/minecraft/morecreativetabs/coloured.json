@@ -43,25 +43,25 @@
       "name": "clayworks:white_terracotta_wall"
     },
     {
-      "name": "quark:white_shingles"
+      "name": "hnh:white_shingles"
     },
     {
-      "name": "quark:white_shingles_stairs"
+      "name": "hnh:white_shingle_stairs"
     },
     {
-      "name": "quark:white_shingles_slab"
+      "name": "hnh:white_shingle_slab"
     },
     {
       "name": "fundamentallyfixed:white_shingle_wall"
     },
     {
-      "name": "clayworks:white_terracotta_bricks"
+      "name": "hnh:white_terracotta_bricks"
     },
     {
-      "name": "clayworks:white_terracotta_brick_stairs"
+      "name": "hnh:white_terracotta_brick_stairs"
     },
     {
-      "name": "clayworks:white_terracotta_brick_slab"
+      "name": "hnh:white_terracotta_brick_slab"
     },
     {
       "name": "clayworks:white_terracotta_brick_wall"
@@ -180,25 +180,25 @@
       "name": "clayworks:pink_terracotta_wall"
     },
     {
-      "name": "quark:pink_shingles"
+      "name": "hnh:pink_shingles"
     },
     {
-      "name": "quark:pink_shingles_stairs"
+      "name": "hnh:pink_shingles_stairs"
     },
     {
-      "name": "quark:pink_shingles_slab"
+      "name": "hnh:pink_shingles_slab"
     },
     {
       "name": "fundamentallyfixed:pink_shingle_wall"
     },
     {
-      "name": "clayworks:pink_terracotta_bricks"
+      "name": "hnh:pink_terracotta_bricks"
     },
     {
-      "name": "clayworks:pink_terracotta_brick_stairs"
+      "name": "hnh:pink_terracotta_brick_stairs"
     },
     {
-      "name": "clayworks:pink_terracotta_brick_slab"
+      "name": "hnh:pink_terracotta_brick_slab"
     },
     {
       "name": "clayworks:pink_terracotta_brick_wall"
@@ -317,25 +317,25 @@
       "name": "clayworks:magenta_terracotta_wall"
     },
     {
-      "name": "quark:magenta_shingles"
+      "name": "hnh:magenta_shingles"
     },
     {
-      "name": "quark:magenta_shingles_stairs"
+      "name": "hnh:magenta_shingles_stairs"
     },
     {
-      "name": "quark:magenta_shingles_slab"
+      "name": "hnh:magenta_shingles_slab"
     },
     {
       "name": "fundamentallyfixed:magenta_shingle_wall"
     },
     {
-      "name": "clayworks:magenta_terracotta_bricks"
+      "name": "hnh:magenta_terracotta_bricks"
     },
     {
-      "name": "clayworks:magenta_terracotta_brick_stairs"
+      "name": "hnh:magenta_terracotta_brick_stairs"
     },
     {
-      "name": "clayworks:magenta_terracotta_brick_slab"
+      "name": "hnh:magenta_terracotta_brick_slab"
     },
     {
       "name": "clayworks:magenta_terracotta_brick_wall"
@@ -454,25 +454,25 @@
       "name": "clayworks:purple_terracotta_wall"
     },
     {
-      "name": "quark:purple_shingles"
+      "name": "hnh:purple_shingles"
     },
     {
-      "name": "quark:purple_shingles_stairs"
+      "name": "hnh:purple_shingles_stairs"
     },
     {
-      "name": "quark:purple_shingles_slab"
+      "name": "hnh:purple_shingles_slab"
     },
     {
       "name": "fundamentallyfixed:purple_shingle_wall"
     },
     {
-      "name": "clayworks:purple_terracotta_bricks"
+      "name": "hnh:purple_terracotta_bricks"
     },
     {
-      "name": "clayworks:purple_terracotta_brick_stairs"
+      "name": "hnh:purple_terracotta_brick_stairs"
     },
     {
-      "name": "clayworks:purple_terracotta_brick_slab"
+      "name": "hnh:purple_terracotta_brick_slab"
     },
     {
       "name": "clayworks:purple_terracotta_brick_wall"
@@ -591,25 +591,25 @@
       "name": "clayworks:blue_terracotta_wall"
     },
     {
-      "name": "quark:blue_shingles"
+      "name": "hnh:blue_shingles"
     },
     {
-      "name": "quark:blue_shingles_stairs"
+      "name": "hnh:blue_shingles_stairs"
     },
     {
-      "name": "quark:blue_shingles_slab"
+      "name": "hnh:blue_shingles_slab"
     },
     {
       "name": "fundamentallyfixed:blue_shingle_wall"
     },
     {
-      "name": "clayworks:blue_terracotta_bricks"
+      "name": "hnh:blue_terracotta_bricks"
     },
     {
-      "name": "clayworks:blue_terracotta_brick_stairs"
+      "name": "hnh:blue_terracotta_brick_stairs"
     },
     {
-      "name": "clayworks:blue_terracotta_brick_slab"
+      "name": "hnh:blue_terracotta_brick_slab"
     },
     {
       "name": "clayworks:blue_terracotta_brick_wall"
@@ -728,25 +728,25 @@
       "name": "clayworks:light_blue_terracotta_wall"
     },
     {
-      "name": "quark:light_blue_shingles"
+      "name": "hnh:light_blue_shingles"
     },
     {
-      "name": "quark:light_blue_shingles_stairs"
+      "name": "hnh:light_blue_shingles_stairs"
     },
     {
-      "name": "quark:light_blue_shingles_slab"
+      "name": "hnh:light_blue_shingles_slab"
     },
     {
       "name": "fundamentallyfixed:light_blue_shingle_wall"
     },
     {
-      "name": "clayworks:light_blue_terracotta_bricks"
+      "name": "hnh:light_blue_terracotta_bricks"
     },
     {
-      "name": "clayworks:light_blue_terracotta_brick_stairs"
+      "name": "hnh:light_blue_terracotta_brick_stairs"
     },
     {
-      "name": "clayworks:light_blue_terracotta_brick_slab"
+      "name": "hnh:light_blue_terracotta_brick_slab"
     },
     {
       "name": "clayworks:light_blue_terracotta_brick_wall"
@@ -865,25 +865,25 @@
       "name": "clayworks:cyan_terracotta_wall"
     },
     {
-      "name": "quark:cyan_shingles"
+      "name": "hnh:cyan_shingles"
     },
     {
-      "name": "quark:cyan_shingles_stairs"
+      "name": "hnh:cyan_shingles_stairs"
     },
     {
-      "name": "quark:cyan_shingles_slab"
+      "name": "hnh:cyan_shingles_slab"
     },
     {
       "name": "fundamentallyfixed:cyan_shingle_wall"
     },
     {
-      "name": "clayworks:cyan_terracotta_bricks"
+      "name": "hnh:cyan_terracotta_bricks"
     },
     {
-      "name": "clayworks:cyan_terracotta_brick_stairs"
+      "name": "hnh:cyan_terracotta_brick_stairs"
     },
     {
-      "name": "clayworks:cyan_terracotta_brick_slab"
+      "name": "hnh:cyan_terracotta_brick_slab"
     },
     {
       "name": "clayworks:cyan_terracotta_brick_wall"
@@ -1002,25 +1002,25 @@
       "name": "clayworks:green_terracotta_wall"
     },
     {
-      "name": "quark:green_shingles"
+      "name": "hnh:green_shingles"
     },
     {
-      "name": "quark:green_shingles_stairs"
+      "name": "hnh:green_shingles_stairs"
     },
     {
-      "name": "quark:green_shingles_slab"
+      "name": "hnh:green_shingles_slab"
     },
     {
       "name": "fundamentallyfixed:green_shingle_wall"
     },
     {
-      "name": "clayworks:green_terracotta_bricks"
+      "name": "hnh:green_terracotta_bricks"
     },
     {
-      "name": "clayworks:green_terracotta_brick_stairs"
+      "name": "hnh:green_terracotta_brick_stairs"
     },
     {
-      "name": "clayworks:green_terracotta_brick_slab"
+      "name": "hnh:green_terracotta_brick_slab"
     },
     {
       "name": "clayworks:green_terracotta_brick_wall"
@@ -1139,25 +1139,25 @@
       "name": "clayworks:lime_terracotta_wall"
     },
     {
-      "name": "quark:lime_shingles"
+      "name": "hnh:lime_shingles"
     },
     {
-      "name": "quark:lime_shingles_stairs"
+      "name": "hnh:lime_shingles_stairs"
     },
     {
-      "name": "quark:lime_shingles_slab"
+      "name": "hnh:lime_shingles_slab"
     },
     {
       "name": "fundamentallyfixed:lime_shingle_wall"
     },
     {
-      "name": "clayworks:lime_terracotta_bricks"
+      "name": "hnh:lime_terracotta_bricks"
     },
     {
-      "name": "clayworks:lime_terracotta_brick_stairs"
+      "name": "hnh:lime_terracotta_brick_stairs"
     },
     {
-      "name": "clayworks:lime_terracotta_brick_slab"
+      "name": "hnh:lime_terracotta_brick_slab"
     },
     {
       "name": "clayworks:lime_terracotta_brick_wall"
@@ -1276,25 +1276,25 @@
       "name": "clayworks:yellow_terracotta_wall"
     },
     {
-      "name": "quark:yellow_shingles"
+      "name": "hnh:yellow_shingles"
     },
     {
-      "name": "quark:yellow_shingles_stairs"
+      "name": "hnh:yellow_shingles_stairs"
     },
     {
-      "name": "quark:yellow_shingles_slab"
+      "name": "hnh:yellow_shingles_slab"
     },
     {
       "name": "fundamentallyfixed:yellow_shingle_wall"
     },
     {
-      "name": "clayworks:yellow_terracotta_bricks"
+      "name": "hnh:yellow_terracotta_bricks"
     },
     {
-      "name": "clayworks:yellow_terracotta_brick_stairs"
+      "name": "hnh:yellow_terracotta_brick_stairs"
     },
     {
-      "name": "clayworks:yellow_terracotta_brick_slab"
+      "name": "hnh:yellow_terracotta_brick_slab"
     },
     {
       "name": "clayworks:yellow_terracotta_brick_wall"
@@ -1413,25 +1413,25 @@
       "name": "clayworks:orange_terracotta_wall"
     },
     {
-      "name": "quark:orange_shingles"
+      "name": "hnh:orange_shingles"
     },
     {
-      "name": "quark:orange_shingles_stairs"
+      "name": "hnh:orange_shingles_stairs"
     },
     {
-      "name": "quark:orange_shingles_slab"
+      "name": "hnh:orange_shingles_slab"
     },
     {
       "name": "fundamentallyfixed:orange_shingle_wall"
     },
     {
-      "name": "clayworks:orange_terracotta_bricks"
+      "name": "hnh:orange_terracotta_bricks"
     },
     {
-      "name": "clayworks:orange_terracotta_brick_stairs"
+      "name": "hnh:orange_terracotta_brick_stairs"
     },
     {
-      "name": "clayworks:orange_terracotta_brick_slab"
+      "name": "hnh:orange_terracotta_brick_slab"
     },
     {
       "name": "clayworks:orange_terracotta_brick_wall"
@@ -1550,25 +1550,25 @@
       "name": "clayworks:red_terracotta_wall"
     },
     {
-      "name": "quark:red_shingles"
+      "name": "hnh:red_shingles"
     },
     {
-      "name": "quark:red_shingles_stairs"
+      "name": "hnh:red_shingles_stairs"
     },
     {
-      "name": "quark:red_shingles_slab"
+      "name": "hnh:red_shingles_slab"
     },
     {
       "name": "fundamentallyfixed:red_shingle_wall"
     },
     {
-      "name": "clayworks:red_terracotta_bricks"
+      "name": "hnh:red_terracotta_bricks"
     },
     {
-      "name": "clayworks:red_terracotta_brick_stairs"
+      "name": "hnh:red_terracotta_brick_stairs"
     },
     {
-      "name": "clayworks:red_terracotta_brick_slab"
+      "name": "hnh:red_terracotta_brick_slab"
     },
     {
       "name": "clayworks:red_terracotta_brick_wall"
@@ -1687,25 +1687,25 @@
       "name": "clayworks:brown_terracotta_wall"
     },
     {
-      "name": "quark:brown_shingles"
+      "name": "hnh:brown_shingles"
     },
     {
-      "name": "quark:brown_shingles_stairs"
+      "name": "hnh:brown_shingles_stairs"
     },
     {
-      "name": "quark:brown_shingles_slab"
+      "name": "hnh:brown_shingles_slab"
     },
     {
       "name": "fundamentallyfixed:brown_shingle_wall"
     },
     {
-      "name": "clayworks:brown_terracotta_bricks"
+      "name": "hnh:brown_terracotta_bricks"
     },
     {
-      "name": "clayworks:brown_terracotta_brick_stairs"
+      "name": "hnh:brown_terracotta_brick_stairs"
     },
     {
-      "name": "clayworks:brown_terracotta_brick_slab"
+      "name": "hnh:brown_terracotta_brick_slab"
     },
     {
       "name": "clayworks:brown_terracotta_brick_wall"
@@ -1824,25 +1824,25 @@
       "name": "clayworks:black_terracotta_wall"
     },
     {
-      "name": "quark:black_shingles"
+      "name": "hnh:black_shingles"
     },
     {
-      "name": "quark:black_shingles_stairs"
+      "name": "hnh:black_shingles_stairs"
     },
     {
-      "name": "quark:black_shingles_slab"
+      "name": "hnh:black_shingles_slab"
     },
     {
       "name": "fundamentallyfixed:black_shingle_wall"
     },
     {
-      "name": "clayworks:black_terracotta_bricks"
+      "name": "hnh:black_terracotta_bricks"
     },
     {
-      "name": "clayworks:black_terracotta_brick_stairs"
+      "name": "hnh:black_terracotta_brick_stairs"
     },
     {
-      "name": "clayworks:black_terracotta_brick_slab"
+      "name": "hnh:black_terracotta_brick_slab"
     },
     {
       "name": "clayworks:black_terracotta_brick_wall"
@@ -1961,25 +1961,25 @@
       "name": "clayworks:gray_terracotta_wall"
     },
     {
-      "name": "quark:gray_shingles"
+      "name": "hnh:gray_shingles"
     },
     {
-      "name": "quark:gray_shingles_stairs"
+      "name": "hnh:gray_shingles_stairs"
     },
     {
-      "name": "quark:gray_shingles_slab"
+      "name": "hnh:gray_shingles_slab"
     },
     {
       "name": "fundamentallyfixed:gray_shingle_wall"
     },
     {
-      "name": "clayworks:gray_terracotta_bricks"
+      "name": "hnh:gray_terracotta_bricks"
     },
     {
-      "name": "clayworks:gray_terracotta_brick_stairs"
+      "name": "hnh:gray_terracotta_brick_stairs"
     },
     {
-      "name": "clayworks:gray_terracotta_brick_slab"
+      "name": "hnh:gray_terracotta_brick_slab"
     },
     {
       "name": "clayworks:gray_terracotta_brick_wall"
@@ -2098,25 +2098,25 @@
       "name": "clayworks:light_gray_terracotta_wall"
     },
     {
-      "name": "quark:light_gray_shingles"
+      "name": "hnh:light_gray_shingles"
     },
     {
-      "name": "quark:light_gray_shingles_stairs"
+      "name": "hnh:light_gray_shingles_stairs"
     },
     {
-      "name": "quark:light_gray_shingles_slab"
+      "name": "hnh:light_gray_shingles_slab"
     },
     {
       "name": "fundamentallyfixed:light_gray_shingle_wall"
     },
     {
-      "name": "clayworks:light_gray_terracotta_bricks"
+      "name": "hnh:light_gray_terracotta_bricks"
     },
     {
-      "name": "clayworks:light_gray_terracotta_brick_stairs"
+      "name": "hnh:light_gray_terracotta_brick_stairs"
     },
     {
-      "name": "clayworks:light_gray_terracotta_brick_slab"
+      "name": "hnh:light_gray_terracotta_brick_slab"
     },
     {
       "name": "clayworks:light_gray_terracotta_brick_wall"

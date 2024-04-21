@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "fundamentallyfixed:block/cut_chlorophite",
+    "side": "fundamentallyfixed:block/cut_chlorophite",
+    "top": "fundamentallyfixed:block/cut_chlorophite"
+  }
+}

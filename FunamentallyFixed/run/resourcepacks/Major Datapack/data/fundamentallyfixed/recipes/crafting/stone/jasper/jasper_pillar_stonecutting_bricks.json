@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 1,
-  "ingredient": {
-    "item": "quark:jasper_bricks"
-  },
-  "result": "quark:jasper_pillar"
-}

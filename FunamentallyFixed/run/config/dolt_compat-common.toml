@@ -14,8 +14,6 @@
 	"Dolphins don't need air" = false
 	#If slime chunks should be smote into ten thousand pieces.
 	"Disable slime chunks" = false
-	#If the texture change of chests during Christmas should be removed
-	"Bah Humbug" = false
 
 ["Environmental changes"]
 	#If Good Ending's Muddy Oak should instead use Environmental's Willow blocks.

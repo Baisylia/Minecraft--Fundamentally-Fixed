@@ -822,9 +822,9 @@ for woodSet in woodSets {
     "count": 2, "ingredient": {"item": logItem}, "result": doorItem}}]});
 
     craftingTable.addShaped(door[1] + "_from_plank", <item:${doorItem}> * 3, [
-    [<item:modestmining:plank>, <item:${plankItem}>],
-    [<item:${plankItem}>, <item:modestmining:plank>],
-    [<item:modestmining:plank>, <item:${plankItem}>]
+    [<item:${plankItem}>, <item:${plankItem}>],
+    [<item:${plankItem}>, <item:${plankItem}>],
+    [<item:${plankItem}>, <item:${plankItem}>]
     ]);
 
     //Trapdoor
@@ -836,9 +836,10 @@ for woodSet in woodSets {
     "type": "forge:conditional", "recipes": [{"conditions": [{"type": "woodworks:config", "value": "sawmill"}], "recipe": {"type": "woodworks:sawmill",
     "count": 4, "ingredient": {"item": logItem}, "result": trapdoorItem}}]});
 
-    craftingTable.addShaped(trapdoor[1] + "_from_plank", <item:${trapdoorItem}> * 2, [
-    [<item:${plankItem}>, <item:modestmining:plank>],
-    [<item:modestmining:plank>, <item:${plankItem}>]
+    craftingTable.addShaped(trapdoor[1] + "_from_plank", <item:${trapdoorItem}> * 3, [
+    [<item:${plankItem}>],
+    [<item:${plankItem}>],
+    [<item:${plankItem}>]
     ]);
 
     // ------------------------ Signs

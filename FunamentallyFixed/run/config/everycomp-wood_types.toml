@@ -26,6 +26,15 @@
 		[types.leaves_type.environmental]
 			willow = true
 			cherry = true
+			hibiscus = true
+			pine = true
+			cheerful_cherry = true
+			moody_cherry = true
+			wisteria = true
+			pink_wisteria = true
+			blue_wisteria = true
+			purple_wisteria = true
+			white_wisteria = true
 
 		[types.leaves_type.atmospheric]
 			rosewood = true
@@ -35,6 +44,10 @@
 			kousa = true
 			aspen = true
 			grimwood = true
+			green_aspen = true
+			laurel = true
+			dry_laurel = true
+			currant = true
 
 		[types.leaves_type.autumnity]
 			maple = true
@@ -53,6 +66,9 @@
 			crystal_fruit = true
 			holiday = true
 			decorated_holiday = true
+
+		[types.leaves_type.architects_palette]
+			twisted = true
 
 	[types.wood_type]
 
@@ -74,6 +90,7 @@
 			willow = true
 			cherry = true
 			wisteria = true
+			pine = true
 
 		[types.wood_type.atmospheric]
 			rosewood = true
@@ -82,6 +99,7 @@
 			kousa = true
 			aspen = true
 			grimwood = true
+			laurel = true
 
 		[types.wood_type.autumnity]
 			maple = true
@@ -94,6 +112,15 @@
 
 		[types.wood_type.aether]
 			skyroot = true
+
+		[types.wood_type.caverns_and_chasms]
+			azalea = true
+
+		[types.wood_type.endergetic]
+			poise = true
+
+		[types.wood_type.architects_palette]
+			twisted = true
 
 [entries]
 
@@ -139,4 +166,14 @@
 			planter_box = true
 			bench = true
 			chair = true
+
+		[entries.wood_type.architects_palette]
+			board_stairs = true
+			railing = true
+			board_slab = true
+			boards = true
+			board_wall = true
+
+		[entries.wood_type.twigs]
+			table = true
 

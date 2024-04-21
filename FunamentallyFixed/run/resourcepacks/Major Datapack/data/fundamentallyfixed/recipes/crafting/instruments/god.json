@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "T": {
+      "item": "minecraft:gold_ingot"
+    },
+    "G": {
+      "tag": "fundamentallyfixed:soul_sands"
+    }
+  },
+  "pattern": [
+    "T  ",
+    "GT ",
+    " GT"
+  ],
+  "result": {
+    "item": "xercamusic:god"
+  }
+}

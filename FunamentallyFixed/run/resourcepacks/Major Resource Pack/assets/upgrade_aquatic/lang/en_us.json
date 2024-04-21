@@ -1,4 +1,8 @@
 {
-	"item.upgrade_aquatic.cooked_pike": "Cooked Freshwater Fish",
-	"item.upgrade_aquatic.cooked_perch": "Cooked Cosmic Cod"
+  "item.upgrade_aquatic.cooked_pike": "Cooked Freshwater Fish",
+  "item.upgrade_aquatic.cooked_perch": "Cooked Cosmic Cod",
+  "block.upgrade_aquatic.prismarine_rod_bundle": "Phyton Pillar",
+  "block.upgrade_aquatic.luminous_prismarine": "Luminous Phyton",
+  "block.upgrade_aquatic.luminous_prismarine_stairs": "Luminous Phyton Stairs",
+  "block.upgrade_aquatic.luminous_prismarine_slab": "Luminous Phyton Slab"
 }

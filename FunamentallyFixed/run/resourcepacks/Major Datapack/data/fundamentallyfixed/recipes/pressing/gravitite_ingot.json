@@ -1,0 +1,15 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    [
+      {
+        "item": "fundamentallyfixed:gravitite_ingot"
+      }
+    ]
+  ],
+  "results": [
+    {
+      "item": "fundamentallyfixed:gravitite_sheet"
+    }
+  ]
+}

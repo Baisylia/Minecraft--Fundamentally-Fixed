@@ -1,0 +1,26 @@
+{
+  "type": "modestmining:forging_shaped",
+  "cooktime": 144,
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "tag": "fundamentallyfixed:waters"
+    },
+    "G": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " G ",
+    "#S#",
+    "###"
+  ],
+  "fuel": {
+    "tag": "fundamentallyfixed:forging_fuels_one"
+  },
+  "result": {
+    "item": "farmersdelight:cooking_pot"
+  }
+}

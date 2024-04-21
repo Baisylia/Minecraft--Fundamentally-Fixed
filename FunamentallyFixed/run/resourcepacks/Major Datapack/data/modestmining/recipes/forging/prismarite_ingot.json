@@ -1,0 +1,36 @@
+{
+  "type": "modestmining:forging",
+  "cooktime": 144,
+  "ingredients": [
+    {
+      "item": "minecraft:amethyst_shard"
+    },
+    {
+      "item": "minecraft:amethyst_shard"
+    },
+    {
+      "item": "minecraft:amethyst_shard"
+    },
+    {
+      "item": "minecraft:amethyst_shard"
+    },
+    {
+      "item": "modestmining:pearl"
+    },
+    {
+      "item": "modestmining:pearl"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "fuel": {
+    "tag": "fundamentallyfixed:forging_fuels_three"
+  },
+  "result": {
+    "item": "modestmining:prismarite_ingot"
+  }
+}

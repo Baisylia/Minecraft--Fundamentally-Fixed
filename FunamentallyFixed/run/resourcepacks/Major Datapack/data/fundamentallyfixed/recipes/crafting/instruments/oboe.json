@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "T": {
+      "item": "modestmining:steel_ingot"
+    },
+    "W": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "  T",
+    " T ",
+    "W  "
+  ],
+  "result": {
+    "item": "xercamusic:oboe"
+  }
+}

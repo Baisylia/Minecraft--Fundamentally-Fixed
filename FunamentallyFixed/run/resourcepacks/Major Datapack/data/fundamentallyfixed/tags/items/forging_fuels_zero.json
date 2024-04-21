@@ -1,0 +1,12 @@
+{
+  "values": [
+    "modestmining:coal_chunk",
+    "modestmining:charcoal_chunk",
+    "modestmining:coke_chunk",
+    "minecraft:coal",
+    "minecraft:charcoal",
+    "modestmining:coal_powder",
+    "modestmining:coke",
+    "minecraft:blaze_powder"
+  ]
+}

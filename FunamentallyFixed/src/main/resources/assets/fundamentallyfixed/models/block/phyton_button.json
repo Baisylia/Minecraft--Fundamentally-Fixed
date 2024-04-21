@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button",
+  "textures": {
+    "texture": "fundamentallyfixed:block/polished_phyton"
+  }
+}

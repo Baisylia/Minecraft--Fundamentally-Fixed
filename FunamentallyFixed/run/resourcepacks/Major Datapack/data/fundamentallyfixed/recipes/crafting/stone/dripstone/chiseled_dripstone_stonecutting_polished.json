@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 1,
-  "ingredient": {
-    "item": "paletteblocks:polished_dripstone"
-  },
-  "result": "quark:chiseled_dripstone_bricks"
-}

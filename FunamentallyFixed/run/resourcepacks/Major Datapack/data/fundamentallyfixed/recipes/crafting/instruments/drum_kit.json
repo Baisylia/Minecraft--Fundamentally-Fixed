@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "W": {
+      "item": "xercamusic:drum"
+    },
+    "C": {
+      "item": "xercamusic:cymbal"
+    },
+    "T": {
+      "item": "minecraft:stick"
+    },
+    "N": {
+      "item": "fundamentallyfixed:bronze_nugget"
+    }
+  },
+  "pattern": [
+    "C C",
+    "TWT",
+    "WNW"
+  ],
+  "result": {
+    "item": "xercamusic:drum_kit"
+  }
+}

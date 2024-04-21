@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "farmersdelight:canvas"
+    },
+    "W": {
+      "tag": "fundamentallyfixed:plank_blocks"
+    },
+    "T": {
+      "item": "modestmining:plank"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    " ST",
+    "WTS",
+    "#W "
+  ],
+  "result": {
+    "item": "xercamusic:banjo"
+  }
+}

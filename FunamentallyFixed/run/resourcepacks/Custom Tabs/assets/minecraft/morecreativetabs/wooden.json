@@ -4,143 +4,6 @@
   "tab_stack": { "name": "minecraft:oak_log"},
   "tab_items": [
     {
-      "name": "windswept:chestnut_log"
-    },
-    {
-      "name": "windswept:chestnut_wood"
-    },
-    {
-      "name": "windswept:stripped_chestnut_log"
-    },
-    {
-      "name": "windswept:stripped_chestnut_wood"
-    },
-    {
-      "name": "everycomp:q/windswept/hollow_chestnut_log"
-    },
-    {
-      "name": "modestmining:varied_planks"
-    },
-    {
-      "name": "modestmining:varied_plank_stairs"
-    },
-    {
-      "name": "modestmining:varied_plank_slab"
-    },
-    {
-      "name": "modestmining:varied_plank_fence"
-    },
-    {
-      "name": "modestmining:varied_plank_fence_gate"
-    },
-    {
-      "name": "windswept:chestnut_post"
-    },
-    {
-      "name": "windswept:stripped_chestnut_post"
-    },
-    {
-      "name": "windswept:chestnut_boards"
-    },
-    {
-      "name": "modestmining:varied_boards"
-    },
-    {
-      "name": "modestmining:varied_tiles"
-    },
-    {
-      "name": "modestmining:varied_pillar"
-    },
-    {
-      "name": "modestmining:carved_varied_planks"
-    },
-    {
-      "name": "modestmining:chiseled_varied_planks"
-    },
-    {
-      "name": "everycomp:c/windswept/chestnut_window"
-    },
-    {
-      "name": "everycomp:c/windswept/chestnut_window_pane"
-    },
-
-
-    {
-      "name": "windswept:chestnut_ladder"
-    },
-    {
-      "name": "windswept:chestnut_door"
-    },
-    {
-      "name": "windswept:chestnut_trapdoor"
-    },
-    {
-      "name": "windswept:chestnut_sign"
-    },
-    {
-      "name": "supplementaries:windswept/hanging_sign_chestnut"
-    },
-    {
-      "name": "supplementaries:windswept/sign_post_chestnut"
-    },
-    {
-      "name": "suppsquared:windswept/item_shelf_chestnut"
-    },
-    {
-      "name": "windswept:chestnut_bookshelf"
-    },
-    {
-      "name": "minecraft:chest"
-    },
-    {
-      "name": "minecraft:trapped_chest"
-    },
-    {
-      "name": "windswept:chestnut_boat"
-    },
-    {
-      "name": "windswept:chestnut_chest_boat"
-    },
-    {
-      "name": "windswept:chestnut_furnace_boat"
-    },
-    {
-      "name": "windswept:large_chestnut_boat"
-    },
-    {
-      "name": "windswept:chestnut_beehive"
-    },
-    {
-      "name": "windswept:chestnut_cabinet"
-    },
-    {
-      "name": "everycomp:af/windswept/chestnut_drawer"
-    },
-    {
-      "name": "everycomp:af/windswept/chestnut_shutter"
-    },
-    {
-      "name": "everycomp:af/windswept/chestnut_planter_box"
-    },
-    {
-      "name": "everycomp:af/windswept/chestnut_shelf"
-    },
-    {
-      "name": "everycomp:af/windswept/chestnut_table"
-    },
-    {
-      "name": "everycomp:af/windswept/chestnut_chair"
-    },
-    {
-      "name": "modestmining:varied_plank_button"
-    },
-    {
-      "name": "modestmining:varied_plank_pressure_plate"
-    },
-
-
-
-    {
       "name": "minecraft:oak_log"
     },
     {
@@ -1955,165 +1818,165 @@
 
 
     {
-      "name": "minecraft:warped_stem"
+      "name": "atmospheric:morado_log"
     },
     {
-      "name": "minecraft:warped_hyphae"
+      "name": "atmospheric:morado_wood"
     },
     {
-      "name": "minecraft:stripped_warped_stem"
+      "name": "atmospheric:stripped_morado_log"
     },
     {
-      "name": "minecraft:stripped_warped_hyphae"
+      "name": "atmospheric:stripped_morado_wood"
     },
     {
-      "name": "quark:hollow_warped_stem"
+      "name": "everycomp:q/atmospheric/hollow_morado_log"
     },
     {
-      "name": "minecraft:warped_planks"
+      "name": "atmospheric:morado_planks"
     },
     {
-      "name": "minecraft:warped_stairs"
+      "name": "atmospheric:morado_stairs"
     },
     {
-      "name": "minecraft:warped_slab"
+      "name": "atmospheric:morado_slab"
     },
     {
-      "name": "minecraft:warped_fence"
+      "name": "atmospheric:morado_fence"
     },
     {
-      "name": "minecraft:warped_fence_gate"
+      "name": "atmospheric:morado_fence_gate"
     },
     {
-      "name": "quark:warped_post"
+      "name": "atmospheric:morado_post"
     },
     {
-      "name": "quark:stripped_warped_post"
+      "name": "atmospheric:stripped_morado_post"
     },
     {
-      "name": "modestmining:carved_warped_planks"
+      "name": "abnormalmining:carved_morado_planks"
     },
     {
-      "name": "modestmining:warped_carved_plank_stairs"
+      "name": "abnormalmining:morado_carved_plank_stairs"
     },
     {
-      "name": "modestmining:warped_carved_plank_slab"
+      "name": "abnormalmining:morado_carved_plank_slab"
     },
     {
-      "name": "modestmining:warped_carved_plank_wall"
+      "name": "abnormalmining:morado_carved_plank_wall"
     },
     {
-      "name": "modestmining:warped_boards"
+      "name": "abnormalmining:morado_boards"
     },
     {
-      "name": "modestmining:warped_board_stairs"
+      "name": "abnormalmining:morado_board_stairs"
     },
     {
-      "name": "modestmining:warped_board_slab"
+      "name": "abnormalmining:morado_board_slab"
     },
     {
-      "name": "modestmining:warped_board_wall"
+      "name": "abnormalmining:morado_board_wall"
     },
     {
-      "name": "modestmining:warped_tiles"
+      "name": "abnormalmining:morado_tiles"
     },
     {
-      "name": "modestmining:warped_tile_stairs"
+      "name": "abnormalmining:morado_tile_stairs"
     },
     {
-      "name": "modestmining:warped_tile_slab"
+      "name": "abnormalmining:morado_tile_slab"
     },
     {
-      "name": "modestmining:warped_tile_wall"
+      "name": "abnormalmining:morado_tile_wall"
     },
     {
-      "name": "modestmining:chiseled_warped_planks"
+      "name": "abnormalmining:chiseled_morado_planks"
     },
     {
-      "name": "modestmining:warped_pillar"
+      "name": "abnormalmining:morado_pillar"
     },
     {
-      "name": "woodworks:warped_boards"
+      "name": "atmospheric:morado_boards"
     },
     {
-      "name": "create:warped_window"
+      "name": "everycomp:c/atmospheric/morado_window"
     },
     {
-      "name": "create:warped_window_pane"
+      "name": "everycomp:c/atmospheric/morado_window_pane"
     },
 
 
     {
-      "name": "woodworks:warped_ladder"
+      "name": "atmospheric:morado_ladder"
     },
     {
-      "name": "minecraft:warped_door"
+      "name": "atmospheric:morado_door"
     },
     {
-      "name": "minecraft:warped_trapdoor"
+      "name": "atmospheric:morado_trapdoor"
     },
     {
-      "name": "minecraft:warped_sign"
+      "name": "atmospheric:morado_sign"
     },
     {
-      "name": "supplementaries:hanging_sign_warped"
+      "name": "supplementaries:atmospheric/hanging_sign_morado"
     },
     {
-      "name": "supplementaries:sign_post_warped"
+      "name": "supplementaries:atmospheric/sign_post_morado"
     },
     {
-      "name": "suppsquared:item_shelf_warped"
+      "name": "suppsquared:atmospheric/item_shelf_morado"
     },
     {
-      "name": "woodworks:warped_bookshelf"
+      "name": "atmospheric:morado_bookshelf"
     },
     {
-      "name": "woodworks:warped_chest"
+      "name": "atmospheric:morado_chest"
     },
     {
-      "name": "woodworks:warped_trapped_chest"
+      "name": "atmospheric:morado_trapped_chest"
     },
     {
-      "name": "boatload:warped_boat"
+      "name": "atmospheric:morado_boat"
     },
     {
-      "name": "boatload:warped_chest_boat"
+      "name": "atmospheric:morado_chest_boat"
     },
     {
-      "name": "boatload:warped_furnace_boat"
+      "name": "atmospheric:morado_furnace_boat"
     },
     {
-      "name": "boatload:large_warped_boat"
+      "name": "atmospheric:large_morado_boat"
     },
     {
-      "name": "woodworks:warped_beehive"
+      "name": "atmospheric:morado_beehive"
     },
     {
-      "name": "farmersdelight:warped_cabinet"
+      "name": "abnormals_delight:morado_cabinet"
     },
     {
-      "name": "another_furniture:warped_drawer"
+      "name": "everycomp:af/atmospheric/morado_drawer"
     },
     {
-      "name": "another_furniture:warped_shutter"
+      "name": "everycomp:af/atmospheric/morado_shutter"
     },
     {
-      "name": "another_furniture:warped_planter_box"
+      "name": "everycomp:af/atmospheric/morado_planter_box"
     },
     {
-      "name": "another_furniture:warped_shelf"
+      "name": "everycomp:af/atmospheric/morado_shelf"
     },
     {
-      "name": "another_furniture:warped_table"
+      "name": "everycomp:af/atmospheric/morado_table"
     },
     {
-      "name": "another_furniture:warped_chair"
+      "name": "everycomp:af/atmospheric/morado_chair"
     },
     {
-      "name": "minecraft:warped_button"
+      "name": "atmospheric:morado_button"
     },
     {
-      "name": "minecraft:warped_pressure_plate"
+      "name": "atmospheric:morado_pressure_plate"
     },
 
 
@@ -2287,165 +2150,165 @@
 
 
     {
-      "name": "atmospheric:morado_log"
+      "name": "caverns_and_chasms:azalea_log"
     },
     {
-      "name": "atmospheric:morado_wood"
+      "name": "caverns_and_chasms:azalea_wood"
     },
     {
-      "name": "atmospheric:stripped_morado_log"
+      "name": "caverns_and_chasms:stripped_azalea_log"
     },
     {
-      "name": "atmospheric:stripped_morado_wood"
+      "name": "caverns_and_chasms:stripped_azalea_wood"
     },
     {
-      "name": "everycomp:q/atmospheric/hollow_morado_log"
+      "name": "everycomp:q/caverns_and_chasms/hollow_azalea_log"
     },
     {
-      "name": "atmospheric:morado_planks"
+      "name": "caverns_and_chasms:azalea_planks"
     },
     {
-      "name": "atmospheric:morado_stairs"
+      "name": "caverns_and_chasms:azalea_stairs"
     },
     {
-      "name": "atmospheric:morado_slab"
+      "name": "caverns_and_chasms:azalea_slab"
     },
     {
-      "name": "atmospheric:morado_fence"
+      "name": "caverns_and_chasms:azalea_fence"
     },
     {
-      "name": "atmospheric:morado_fence_gate"
+      "name": "caverns_and_chasms:azalea_fence_gate"
     },
     {
-      "name": "atmospheric:morado_post"
+      "name": "caverns_and_chasms:azalea_post"
     },
     {
-      "name": "atmospheric:stripped_morado_post"
+      "name": "caverns_and_chasms:stripped_azalea_post"
     },
     {
-      "name": "abnormalmining:carved_morado_planks"
+      "name": "abnormalmining:carved_azalea_planks"
     },
     {
-      "name": "abnormalmining:morado_carved_plank_stairs"
+      "name": "abnormalmining:azalea_carved_plank_stairs"
     },
     {
-      "name": "abnormalmining:morado_carved_plank_slab"
+      "name": "abnormalmining:azalea_carved_plank_slab"
     },
     {
-      "name": "abnormalmining:morado_carved_plank_wall"
+      "name": "abnormalmining:azalea_carved_plank_wall"
     },
     {
-      "name": "abnormalmining:morado_boards"
+      "name": "abnormalmining:azalea_boards"
     },
     {
-      "name": "abnormalmining:morado_board_stairs"
+      "name": "abnormalmining:azalea_board_stairs"
     },
     {
-      "name": "abnormalmining:morado_board_slab"
+      "name": "abnormalmining:azalea_board_slab"
     },
     {
-      "name": "abnormalmining:morado_board_wall"
+      "name": "abnormalmining:azalea_board_wall"
     },
     {
-      "name": "abnormalmining:morado_tiles"
+      "name": "abnormalmining:azalea_tiles"
     },
     {
-      "name": "abnormalmining:morado_tile_stairs"
+      "name": "abnormalmining:azalea_tile_stairs"
     },
     {
-      "name": "abnormalmining:morado_tile_slab"
+      "name": "abnormalmining:azalea_tile_slab"
     },
     {
-      "name": "abnormalmining:morado_tile_wall"
+      "name": "abnormalmining:azalea_tile_wall"
     },
     {
-      "name": "abnormalmining:chiseled_morado_planks"
+      "name": "abnormalmining:chiseled_azalea_planks"
     },
     {
-      "name": "abnormalmining:morado_pillar"
+      "name": "abnormalmining:azalea_pillar"
     },
     {
-      "name": "atmospheric:morado_boards"
+      "name": "caverns_and_chasms:azalea_boards"
     },
     {
-      "name": "everycomp:c/atmospheric/morado_window"
+      "name": "everycomp:c/caverns_and_chasms/azalea_window"
     },
     {
-      "name": "everycomp:c/atmospheric/morado_window_pane"
+      "name": "everycomp:c/caverns_and_chasms/azalea_window_pane"
     },
 
 
     {
-      "name": "atmospheric:morado_ladder"
+      "name": "caverns_and_chasms:azalea_ladder"
     },
     {
-      "name": "atmospheric:morado_door"
+      "name": "caverns_and_chasms:azalea_door"
     },
     {
-      "name": "atmospheric:morado_trapdoor"
+      "name": "caverns_and_chasms:azalea_trapdoor"
     },
     {
-      "name": "atmospheric:morado_sign"
+      "name": "caverns_and_chasms:azalea_sign"
     },
     {
-      "name": "supplementaries:atmospheric/hanging_sign_morado"
+      "name": "supplementaries:caverns_and_chasms/hanging_sign_azalea"
     },
     {
-      "name": "supplementaries:atmospheric/sign_post_morado"
+      "name": "supplementaries:caverns_and_chasms/sign_post_azalea"
     },
     {
-      "name": "suppsquared:atmospheric/item_shelf_morado"
+      "name": "suppsquared:caverns_and_chasms/item_shelf_azalea"
     },
     {
-      "name": "atmospheric:morado_bookshelf"
+      "name": "caverns_and_chasms:azalea_bookshelf"
     },
     {
-      "name": "atmospheric:morado_chest"
+      "name": "caverns_and_chasms:azalea_chest"
     },
     {
-      "name": "atmospheric:morado_trapped_chest"
+      "name": "caverns_and_chasms:azalea_trapped_chest"
     },
     {
-      "name": "atmospheric:morado_boat"
+      "name": "caverns_and_chasms:azalea_boat"
     },
     {
-      "name": "atmospheric:morado_chest_boat"
+      "name": "caverns_and_chasms:azalea_chest_boat"
     },
     {
-      "name": "atmospheric:morado_furnace_boat"
+      "name": "caverns_and_chasms:azalea_furnace_boat"
     },
     {
-      "name": "atmospheric:large_morado_boat"
+      "name": "caverns_and_chasms:large_azalea_boat"
     },
     {
-      "name": "atmospheric:morado_beehive"
+      "name": "caverns_and_chasms:azalea_beehive"
     },
     {
-      "name": "abnormals_delight:morado_cabinet"
+      "name": "abnormals_delight:azalea_cabinet"
     },
     {
-      "name": "everycomp:af/atmospheric/morado_drawer"
+      "name": "everycomp:af/caverns_and_chasms/azalea_drawer"
     },
     {
-      "name": "everycomp:af/atmospheric/morado_shutter"
+      "name": "everycomp:af/caverns_and_chasms/azalea_shutter"
     },
     {
-      "name": "everycomp:af/atmospheric/morado_planter_box"
+      "name": "everycomp:af/caverns_and_chasms/azalea_planter_box"
     },
     {
-      "name": "everycomp:af/atmospheric/morado_shelf"
+      "name": "everycomp:af/caverns_and_chasms/azalea_shelf"
     },
     {
-      "name": "everycomp:af/atmospheric/morado_table"
+      "name": "everycomp:af/caverns_and_chasms/azalea_table"
     },
     {
-      "name": "everycomp:af/atmospheric/morado_chair"
+      "name": "everycomp:af/caverns_and_chasms/azalea_chair"
     },
     {
-      "name": "atmospheric:morado_button"
+      "name": "caverns_and_chasms:azalea_button"
     },
     {
-      "name": "atmospheric:morado_pressure_plate"
+      "name": "caverns_and_chasms:azalea_pressure_plate"
     },
 
 

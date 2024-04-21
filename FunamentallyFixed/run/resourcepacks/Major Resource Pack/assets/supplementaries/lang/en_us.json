@@ -1,4 +1,9 @@
 {
   "block.supplementaries.hanging_sign_mangrove": "Mahogany Hanging Sign",
-  "item.supplementaries.sign_post_mangrove": "Mahogany Sign Post"
+  "item.supplementaries.sign_post_mangrove": "Mahogany Sign Post",
+  
+  "block.supplementaries.blackstone_tile": "Cobbled Blackstone Bricks",
+  "block.supplementaries.blackstone_tile_stairs": "Cobbled Blackstone Brick Stairs",
+  "block.supplementaries.blackstone_tile_slab": "Cobbled Blackstone Brick Slab",
+  "block.supplementaries.blackstone_tile_wall": "Cobbled Blackstone Brick Wall"
 }

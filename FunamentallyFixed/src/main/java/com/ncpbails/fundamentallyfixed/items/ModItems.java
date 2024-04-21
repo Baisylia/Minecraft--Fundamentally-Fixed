@@ -23,6 +23,9 @@ public class ModItems {
 
     public static final RegistryObject<Item> BREEZE_ROD = ITEMS.register("breeze_rod", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
     public static final RegistryObject<Item> BREEZE_POWDER = ITEMS.register("breeze_powder", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+    public static final RegistryObject<Item> INFERNO_ROD = ITEMS.register("inferno_rod", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+    public static final RegistryObject<Item> INFERNO_POWDER = ITEMS.register("inferno_powder", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
     public static final RegistryObject<Item> LOOSE_GRASS = ITEMS.register("loose_grass", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
     public static final RegistryObject<Item> WORM = ITEMS.register("worm", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
@@ -49,16 +52,49 @@ public class ModItems {
 
     public static final RegistryObject<Item> SPRING = ITEMS.register("spring", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
-    public static final RegistryObject<Item> ITEM_HOLDER = ITEMS.register("item_holder", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+    //public static final RegistryObject<Item> ITEM_HOLDER = ITEMS.register("item_holder", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
     public static final RegistryObject<Item> HOOK = ITEMS.register("hook", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> GOLD_COIN = ITEMS.register("gold_coin", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> SILVER_COIN = ITEMS.register("silver_coin", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> BRONZE_COIN = ITEMS.register("bronze_coin", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
     public static final RegistryObject<Item> BRONZE_INGOT = ITEMS.register("bronze_ingot", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
     public static final RegistryObject<Item> BRONZE_NUGGET = ITEMS.register("bronze_nugget", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
+    public static final RegistryObject<Item> GRAVITITE_INGOT = ITEMS.register("gravitite_ingot", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> GRAVITITE_NUGGET = ITEMS.register("gravitite_nugget", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> STOLDUM_INGOT = ITEMS.register("stoldum_ingot", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> STOLDUM_NUGGET = ITEMS.register("stoldum_nugget", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> VOIDENDUM_INGOT = ITEMS.register("voidendum_ingot", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> VOIDENDUM_NUGGET = ITEMS.register("voidendum_nugget", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> MYTHRIL_INGOT = ITEMS.register("mythril_ingot", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> MYTHRIL_NUGGET = ITEMS.register("mythril_nugget", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> HALLOWED_INGOT = ITEMS.register("hallowed_ingot", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> HALLOWED_NUGGET = ITEMS.register("hallowed_nugget", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> CHLOROPHITE_INGOT = ITEMS.register("chlorophite_ingot", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> CHLOROPHITE_NUGGET = ITEMS.register("chlorophite_nugget", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
     public static final RegistryObject<Item> RAW_INFERNUM = ITEMS.register("raw_infernum_debris", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
     public static final RegistryObject<Item> RAW_INFERNUM_NUGGET = ITEMS.register("raw_infernum_nugget", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> INFERNUM_NUGGET = ITEMS.register("infernum_nugget", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
     public static final RegistryObject<Item> RAW_PHYTON = ITEMS.register("raw_phyton_remains", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
@@ -98,6 +134,18 @@ public class ModItems {
 
     public static final RegistryObject<Item> PRISMARITE_SHEET = ITEMS.register("prismarite_sheet", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
+    public static final RegistryObject<Item> GRAVITITE_SHEET = ITEMS.register("gravitite_sheet", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> STOLDUM_SHEET = ITEMS.register("stoldum_sheet", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> VOIDENDUM_SHEET = ITEMS.register("voidendum_sheet", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> MYTHRIL_SHEET = ITEMS.register("mythril_sheet", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> HALLOWED_SHEET = ITEMS.register("hallowed_sheet", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> CHLOROPHITE_SHEET = ITEMS.register("chlorophite_sheet", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
     public static final RegistryObject<Item> NETHERITE_SHEET = ITEMS.register("netherite_sheet", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
     public static final RegistryObject<Item> ELECTRUM_SHEET = ITEMS.register("electrum_sheet", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
@@ -105,8 +153,6 @@ public class ModItems {
     public static final RegistryObject<Item> BRONZE_SHEET = ITEMS.register("bronze_sheet", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
     public static final RegistryObject<Item> STEEL_SHEET = ITEMS.register("steel_sheet", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
-
-    public static final RegistryObject<Item> BLAST_PROOF_SHEET = ITEMS.register("blast_proof_sheet", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
     public static final RegistryObject<Item> ROUGH_QUARTZ_SHARD = ITEMS.register("rough_quartz_shard", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
@@ -117,6 +163,8 @@ public class ModItems {
     public static final RegistryObject<Item> METEORITE_SCRAP = ITEMS.register("meteorite_scrap", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
     public static final RegistryObject<Item> METEORITE_DUST = ITEMS.register("meteorite_dust", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> METEORITE_NUGGET = ITEMS.register("meteorite_nugget", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
     public static final RegistryObject<Item> PRISMARINE_SHARD = ITEMS.register("prismarine_shard", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 

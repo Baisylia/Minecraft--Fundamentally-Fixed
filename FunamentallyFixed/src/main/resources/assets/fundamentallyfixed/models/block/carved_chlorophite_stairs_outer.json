@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "fundamentallyfixed:block/carved_chlorophite",
+    "side": "fundamentallyfixed:block/carved_chlorophite",
+    "top": "fundamentallyfixed:block/carved_chlorophite"
+  }
+}

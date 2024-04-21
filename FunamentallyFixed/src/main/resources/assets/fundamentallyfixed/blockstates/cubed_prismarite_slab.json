@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "fundamentallyfixed:block/cubed_prismarite_slab"
+    },
+    "type=double": {
+      "model": "fundamentallyfixed:block/cubed_prismarite_slab_full"
+    },
+    "type=top": {
+      "model": "fundamentallyfixed:block/cubed_prismarite_slab_top"
+    }
+  }
+}

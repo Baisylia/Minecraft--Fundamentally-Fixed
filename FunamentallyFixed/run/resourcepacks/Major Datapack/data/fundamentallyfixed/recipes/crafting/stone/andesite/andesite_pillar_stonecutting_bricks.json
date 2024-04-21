@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 1,
-  "ingredient": {
-    "item": "quark:andesite_bricks"
-  },
-  "result": "quark:andesite_pillar"
-}

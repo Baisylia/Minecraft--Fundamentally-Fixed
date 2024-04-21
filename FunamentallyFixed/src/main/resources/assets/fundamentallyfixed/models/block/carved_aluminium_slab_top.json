@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "fundamentallyfixed:block/carved_aluminium",
+    "side": "fundamentallyfixed:block/carved_aluminium",
+    "top": "fundamentallyfixed:block/carved_aluminium"
+  }
+}

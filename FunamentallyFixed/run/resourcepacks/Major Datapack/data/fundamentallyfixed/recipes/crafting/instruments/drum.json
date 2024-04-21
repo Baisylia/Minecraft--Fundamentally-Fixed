@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "W": {
+      "tag": "fundamentallyfixed:plank_blocks"
+    },
+    "T": {
+      "item": "minecraft:stick"
+    },
+    "C": {
+      "item": "farmersdelight:canvas"
+    }
+  },
+  "pattern": [
+    "T T",
+    "CCC",
+    "WWW"
+  ],
+  "result": {
+    "item": "xercamusic:drum"
+  }
+}

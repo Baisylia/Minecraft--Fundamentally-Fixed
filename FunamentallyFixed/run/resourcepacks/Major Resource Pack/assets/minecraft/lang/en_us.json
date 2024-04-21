@@ -8,7 +8,6 @@
   "item.minecraft.quartz": "Rough Quartz",
   "item.minecraft.prismarine_shard": "Prismarine Rock",
   "item.minecraft.amethyst_shard": "Prismarine",
-  "block.minecraft.prismarine": "Cobbled Prismarine",
 
   "block.minecraft.chorus_plant": "Chorus Stem",
   "block.minecraft.nether_wart_block": "Crimson Wart Block",
@@ -33,5 +32,34 @@
   "block.minecraft.mangrove_fence_gate": "Mahogany Fence Gate",
   "block.minecraft.mangrove_button": "Mahogany Button",
   "block.minecraft.mangrove_pressure_plate": "Mahogany Pressure Plate",
-  "block.minecraft.mangrove_sign": "Mahogany Sign"
+  "block.minecraft.mangrove_sign": "Mahogany Sign",
+  
+  "block.minecraft.cracked_deepslate_tiles": "Cracked Cobbled Deepslate Bricks",
+  "block.minecraft.deepslate_tiles": "Cobbled Deepslate Bricks",
+  "block.minecraft.deepslate_tile_stairs": "Cobbled Deepslate Brick Stairs",
+  "block.minecraft.deepslate_tile_slab": "Cobbled Deepslate Brick Slab",
+  "block.minecraft.deepslate_tile_wall": "Cobbled Deepslate Brick Wall",
+  "block.minecraft.cracked_polished_blackstone_bricks": "Cracked Blackstone Bricks",
+  "block.minecraft.polished_blackstone_bricks": "Blackstone Bricks",
+  "block.minecraft.polished_blackstone_brick_stairs": "Blackstone Brick Stairs",
+  "block.minecraft.polished_blackstone_brick_slab": "Blackstone Brick Slab",
+  "block.minecraft.polished_blackstone_brick_wall": "Blackstone Brick Wall",
+  "block.minecraft.chiseled_polished_blackstone": "Chiseled Blackstone",
+  "block.minecraft.polished_blackstone_button": "Blackstone Button",
+  "block.minecraft.polished_blackstone_pressure_plate": "Blackstone Pressure Plate",
+  "block.minecraft.andesite": "Cobbled Altisite",
+  "block.minecraft.andesite_stairs": "Cobbled Altisite Stairs",
+  "block.minecraft.andesite_slab": "Cobbled Altisite Slab",
+  "block.minecraft.andesite_wall": "Cobbled Altisite Wall",
+  
+  "block.minecraft.prismarine": "Cobbled Phyton",
+  "block.minecraft.prismarine_stairs": "Cobbled Phyton Stairs",
+  "block.minecraft.prismarine_slab": "Cobbled Phyton Slab",
+  "block.minecraft.prismarine_wall": "Cobbled Phyton Wall",
+  "block.minecraft.prismarine_bricks": "Phyton Bricks",
+  "block.minecraft.prismarine_brick_stairs": "Phyton Brick Stairs",
+  "block.minecraft.prismarine_brick_slab": "Phyton Brick Slab",
+  "block.minecraft.dark_prismarine": "Dark Phyton",
+  "block.minecraft.dark_prismarine_stairs": "Dark Phyton Stairs",
+  "block.minecraft.dark_prismarine_slab": "Dark Phyton Slab"
 }

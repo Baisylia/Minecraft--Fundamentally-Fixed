@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "fundamentallyfixed:block/cubed_bronze",
+    "side": "fundamentallyfixed:block/cubed_bronze",
+    "top": "fundamentallyfixed:block/cubed_bronze"
+  }
+}

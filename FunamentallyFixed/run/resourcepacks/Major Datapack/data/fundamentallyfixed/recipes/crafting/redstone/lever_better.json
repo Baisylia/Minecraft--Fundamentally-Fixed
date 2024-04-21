@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "tag": "fundamentallyfixed:crafting_stones"
+    },
+    {
+      "item": "modestmining:copper_screw"
+    }
+  ],
+  "result": {
+    "item": "minecraft:lever",
+    "count": 8
+  }
+}

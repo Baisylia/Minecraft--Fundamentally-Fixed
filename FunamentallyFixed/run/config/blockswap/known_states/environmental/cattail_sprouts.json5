@@ -10,12 +10,5 @@ to make editing this file much easier.
 [
 	{
 		"Name": "environmental:cattail_sprouts"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"waterlogged": "false"
-		},
-		"Name": "environmental:cattail_sprouts"
 	}
 ]

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "fundamentallyfixed:stripped_logs"
+    },
+    "W": {
+      "tag": "fundamentallyfixed:plank_blocks"
+    },
+    "V": {
+      "item": "minecraft:stick"
+    },
+    "T": {
+      "item": "modestmining:plank"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    " ST",
+    "WTS",
+    "#WV"
+  ],
+  "result": {
+    "item": "xercamusic:cello"
+  }
+}

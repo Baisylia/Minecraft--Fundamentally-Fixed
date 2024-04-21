@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "fundamentallyfixed:block/cut_gravitite",
+    "side": "fundamentallyfixed:block/cut_gravitite",
+    "top": "fundamentallyfixed:block/cut_gravitite"
+  }
+}

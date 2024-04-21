@@ -1,0 +1,26 @@
+{
+  "type": "modestmining:forging_shaped",
+  "cooktime": 144,
+  "key": {
+    "#": {
+      "item": "minecraft:nether_star"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "G": {
+      "tag": "fundamentallyfixed:clear_glasses"
+    }
+  },
+  "pattern": [
+    "GGG",
+    "G#G",
+    "OOO"
+  ],
+  "fuel": {
+    "tag": "fundamentallyfixed:forging_fuels_three"
+  },
+  "result": {
+    "item": "minecraft:beacon"
+  }
+}

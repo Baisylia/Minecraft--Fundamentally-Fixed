@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "fundamentallyfixed:block/carved_mythril",
+    "side": "fundamentallyfixed:block/carved_mythril",
+    "top": "fundamentallyfixed:block/carved_mythril"
+  }
+}

@@ -1,20 +1,20 @@
 {
   "values": [
-    "quark:white_shingles",
-    "quark:light_gray_shingles",
-    "quark:gray_shingles",
-    "quark:black_shingles",
-    "quark:brown_shingles",
-    "quark:red_shingles",
-    "quark:orange_shingles",
-    "quark:yellow_shingles",
-    "quark:lime_shingles",
-    "quark:green_shingles",
-    "quark:cyan_shingles",
-    "quark:light_blue_shingles",
-    "quark:blue_shingles",
-    "quark:purple_shingles",
-    "quark:magenta_shingles",
-    "quark:pink_shingles"
+    "hnh:white_shingles",
+    "hnh:light_gray_shingles",
+    "hnh:gray_shingles",
+    "hnh:black_shingles",
+    "hnh:brown_shingles",
+    "hnh:red_shingles",
+    "hnh:orange_shingles",
+    "hnh:yellow_shingles",
+    "hnh:lime_shingles",
+    "hnh:green_shingles",
+    "hnh:cyan_shingles",
+    "hnh:light_blue_shingles",
+    "hnh:blue_shingles",
+    "hnh:purple_shingles",
+    "hnh:magenta_shingles",
+    "hnh:pink_shingles"
   ]
 }

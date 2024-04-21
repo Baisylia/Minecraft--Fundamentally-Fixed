@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "#": {
-      "item": "minecraft:emerald"
+      "item": "fundamentallyfixed:gold_coin"
     }
   },
   "pattern": [

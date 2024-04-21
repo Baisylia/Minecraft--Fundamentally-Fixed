@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "upgrade_aquatic:thrasher_tooth"
+    },
+    "W": {
+      "tag": "fundamentallyfixed:plank_blocks"
+    },
+    "T": {
+      "item": "minecraft:black_dye"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "#T#",
+    "WWW"
+  ],
+  "result": {
+    "item": "xercamusic:piano"
+  }
+}

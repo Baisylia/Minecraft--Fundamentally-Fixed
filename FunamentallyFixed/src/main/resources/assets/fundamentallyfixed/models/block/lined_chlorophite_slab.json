@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "fundamentallyfixed:block/lined_chlorophite",
+    "side": "fundamentallyfixed:block/lined_chlorophite",
+    "top": "fundamentallyfixed:block/lined_chlorophite"
+  }
+}

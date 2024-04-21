@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "fundamentallyfixed:block/iron_sheet_block"
+    }
+  }
+}

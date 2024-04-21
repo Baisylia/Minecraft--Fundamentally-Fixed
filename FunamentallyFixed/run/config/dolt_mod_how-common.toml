@@ -1,0 +1,47 @@
+
+[Vanilla]
+
+	[Vanilla."Metal Ores"]
+		#If mining ores that normally drop raw ores should grant XP
+		"Experienced metal" = true
+
+	[Vanilla.Dispensers]
+		#If dispensers should be able to dispense into cauldrons
+		"Dispenser Cauldrons" = true
+
+["Farmer's Delight"]
+
+	["Farmer's Delight"."Knife Enchantments"]
+		#If knives should no longer receive the silk touch and efficiency from the enchanting table
+		"Unbloated Knife Enchantments" = true
+
+["Brewin' and Chewin'"]
+
+	["Brewin' and Chewin'".Tipsy]
+		#If the tipsy effect should, instead of doing whatever it does now, should act as a progressively worsening nausea effect. TO FULLY DISABLE THIS FEATURE, PLEASE ALSO TURN OFF "WEIRD TIPSY" IN THE COMMON CONFIG
+		"Weird Tipsy" = false
+
+["Nether's Delight"]
+
+	["Nether's Delight"."Fungus Colonies"]
+		#If fungus colonies should grow on normal rich soil instead of soul rich soil
+		"Rich Fungus" = true
+
+[Environmental]
+
+	[Environmental."Wanderer's Boots"]
+		#If mobs will spawn with wanderer's boots with some odds proportional to how far they are away from the 0, 0
+		"Cool Boots" = true
+
+[Supplementaries]
+
+	[Supplementaries.Quivers]
+		#If processing a quiver in a cutting board will eject all the arrows in that quiver
+		"Realistic Quivers" = true
+
+[Anchor]
+
+	[Anchor."Epilogue Disc"]
+		#If striking a jukebox with lightning with a filled disc inside will change that disc to Epilogue
+		"AWESOME epilogue disc" = true
+

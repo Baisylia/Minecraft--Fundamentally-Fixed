@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 1,
-  "ingredient": {
-    "item": "quark:calcite_bricks"
-  },
-  "result": "quark:chiseled_calcite_bricks"
-}

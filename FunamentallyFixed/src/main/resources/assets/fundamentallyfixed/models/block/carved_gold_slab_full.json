@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "fundamentallyfixed:block/carved_gold",
+    "side": "fundamentallyfixed:block/carved_gold",
+    "top": "fundamentallyfixed:block/carved_gold"
+  }
+}

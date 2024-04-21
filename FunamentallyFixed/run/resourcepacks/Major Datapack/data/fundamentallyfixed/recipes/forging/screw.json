@@ -1,0 +1,19 @@
+{
+  "type": "modestmining:forging",
+  "cooktime": 144,
+  "ingredients": [
+    {
+      "item": "create:copper_sheet"
+    },
+    {
+      "item": "create:copper_sheet"
+    }
+  ],
+  "fuel": {
+    "tag": "fundamentallyfixed:forging_fuels_one"
+  },
+  "result": {
+    "item": "modestmining:copper_screw",
+    "count": 4
+  }
+}

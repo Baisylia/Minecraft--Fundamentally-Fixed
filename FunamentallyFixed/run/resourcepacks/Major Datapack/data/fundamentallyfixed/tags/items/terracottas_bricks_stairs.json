@@ -1,20 +1,20 @@
 {
   "values": [
-    "clayworks:white_terracotta_brick_stairs",
-    "clayworks:light_gray_terracotta_brick_stairs",
-    "clayworks:gray_terracotta_brick_stairs",
-    "clayworks:black_terracotta_brick_stairs",
-    "clayworks:brown_terracotta_brick_stairs",
-    "clayworks:red_terracotta_brick_stairs",
-    "clayworks:orange_terracotta_brick_stairs",
-    "clayworks:yellow_terracotta_brick_stairs",
-    "clayworks:lime_terracotta_brick_stairs",
-    "clayworks:green_terracotta_brick_stairs",
-    "clayworks:cyan_terracotta_brick_stairs",
-    "clayworks:light_blue_terracotta_brick_stairs",
-    "clayworks:blue_terracotta_brick_stairs",
-    "clayworks:purple_terracotta_brick_stairs",
-    "clayworks:magenta_terracotta_brick_stairs",
-    "clayworks:pink_terracotta_brick_stairs"
+    "hnh:white_terracotta_brick_stairs",
+    "hnh:light_gray_terracotta_brick_stairs",
+    "hnh:gray_terracotta_brick_stairs",
+    "hnh:black_terracotta_brick_stairs",
+    "hnh:brown_terracotta_brick_stairs",
+    "hnh:red_terracotta_brick_stairs",
+    "hnh:orange_terracotta_brick_stairs",
+    "hnh:yellow_terracotta_brick_stairs",
+    "hnh:lime_terracotta_brick_stairs",
+    "hnh:green_terracotta_brick_stairs",
+    "hnh:cyan_terracotta_brick_stairs",
+    "hnh:light_blue_terracotta_brick_stairs",
+    "hnh:blue_terracotta_brick_stairs",
+    "hnh:purple_terracotta_brick_stairs",
+    "hnh:magenta_terracotta_brick_stairs",
+    "hnh:pink_terracotta_brick_stairs"
   ]
 }

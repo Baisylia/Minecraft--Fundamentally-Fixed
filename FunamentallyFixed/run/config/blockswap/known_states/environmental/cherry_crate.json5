@@ -9,6 +9,41 @@ to make editing this file much easier.
 */
 [
 	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north"
+		},
+		"Name": "environmental:cherry_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east"
+		},
+		"Name": "environmental:cherry_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south"
+		},
+		"Name": "environmental:cherry_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west"
+		},
+		"Name": "environmental:cherry_crate"
+	},
+	{
+		"Name": "environmental:cherry_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down"
+		},
 		"Name": "environmental:cherry_crate"
 	}
 ]

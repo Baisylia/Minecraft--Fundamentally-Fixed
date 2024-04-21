@@ -1,0 +1,102 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "top",
+			"axis": "x"
+		},
+		"Name": "hnh:quartz_column"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "middle",
+			"axis": "x"
+		},
+		"Name": "hnh:quartz_column"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "bottom",
+			"axis": "x"
+		},
+		"Name": "hnh:quartz_column"
+	},
+	{
+		"Name": "hnh:quartz_column"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "top",
+			"axis": "y"
+		},
+		"Name": "hnh:quartz_column"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "middle",
+			"axis": "y"
+		},
+		"Name": "hnh:quartz_column"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "bottom",
+			"axis": "y"
+		},
+		"Name": "hnh:quartz_column"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"axis": "y"
+		},
+		"Name": "hnh:quartz_column"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "top",
+			"axis": "z"
+		},
+		"Name": "hnh:quartz_column"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "middle",
+			"axis": "z"
+		},
+		"Name": "hnh:quartz_column"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "bottom",
+			"axis": "z"
+		},
+		"Name": "hnh:quartz_column"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"axis": "z"
+		},
+		"Name": "hnh:quartz_column"
+	}
+]

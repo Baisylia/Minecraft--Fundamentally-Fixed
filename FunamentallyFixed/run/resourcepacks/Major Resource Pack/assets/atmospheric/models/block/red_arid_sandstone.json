@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "atmospheric:block/red_arid_sandstone_bottom",
+    "side": "atmospheric:block/red_arid_sandstone_bottom"
+  }
+}

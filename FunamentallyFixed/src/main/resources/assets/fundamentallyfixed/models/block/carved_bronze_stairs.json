@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "fundamentallyfixed:block/carved_bronze",
+    "side": "fundamentallyfixed:block/carved_bronze",
+    "top": "fundamentallyfixed:block/carved_bronze"
+  }
+}

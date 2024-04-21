@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "fundamentallyfixed:block/lined_lead",
+    "side": "fundamentallyfixed:block/lined_lead",
+    "top": "fundamentallyfixed:block/lined_lead"
+  }
+}

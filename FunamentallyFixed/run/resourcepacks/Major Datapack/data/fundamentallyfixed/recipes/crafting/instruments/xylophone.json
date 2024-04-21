@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "modestmining:plank"
+    },
+    "T": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "T T",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "xercamusic:xylophone"
+  }
+}

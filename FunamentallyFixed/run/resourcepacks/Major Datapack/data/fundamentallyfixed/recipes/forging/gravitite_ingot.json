@@ -1,0 +1,37 @@
+{
+  "type": "modestmining:forging",
+  "cooktime": 144,
+  "ingredients": [
+    {
+      "item": "oreganized:silver_ingot"
+    },
+    {
+      "item": "oreganized:silver_ingot"
+    },
+    {
+      "item": "spelunkery:cinnabar"
+    },
+    {
+      "item": "spelunkery:cinnabar"
+    },
+    {
+      "item": "fundamentallyfixed:meteorite_scrap"
+    },
+    {
+      "item": "fundamentallyfixed:meteorite_scrap"
+    },
+    {
+      "item": "fundamentallyfixed:meteorite_scrap"
+    },
+    {
+      "item": "fundamentallyfixed:meteorite_scrap"
+    }
+  ],
+  "fuel": {
+    "tag": "fundamentallyfixed:forging_fuels_three"
+  },
+  "result": {
+    "item": "fundamentallyfixed:gravitite_ingot",
+    "count": 4
+  }
+}

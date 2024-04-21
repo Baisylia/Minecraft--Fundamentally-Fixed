@@ -9,13 +9,13 @@ to make editing this file much easier.
 */
 [
 	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"half": "upper"
+		},
 		"Name": "environmental:pink_hanging_wisteria_leaves"
 	},
 	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"half": "lower"
-		},
 		"Name": "environmental:pink_hanging_wisteria_leaves"
 	}
 ]

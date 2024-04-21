@@ -1,7 +1,0 @@
-{
-  "type": "sullysmod:grindstone_polishing",
-  "experience": 1,
-  "ingredient": "spelunkery:rough_emerald",
-  "result": "minecraft:emerald",
-  "resultCount": 1
-}

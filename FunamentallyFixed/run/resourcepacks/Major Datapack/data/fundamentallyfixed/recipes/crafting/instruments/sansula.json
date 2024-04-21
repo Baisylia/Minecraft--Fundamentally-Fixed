@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "W": {
+      "tag": "fundamentallyfixed:plank_blocks"
+    },
+    "T": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "TT",
+    "WW"
+  ],
+  "result": {
+    "item": "xercamusic:sansula"
+  }
+}

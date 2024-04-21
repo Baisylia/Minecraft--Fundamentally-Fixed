@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 1,
-  "ingredient": {
-    "item": "quark:diorite_bricks"
-  },
-  "result": "quark:diorite_pillar"
-}

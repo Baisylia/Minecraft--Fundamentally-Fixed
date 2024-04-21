@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "fundamentallyfixed:block/cubed_aluminium",
+    "side": "fundamentallyfixed:block/cubed_aluminium",
+    "top": "fundamentallyfixed:block/cubed_aluminium"
+  }
+}

@@ -15,6 +15,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"facing": "south",
+			"attachment": "none",
 			"age": "0"
 		},
 		"Name": "atmospheric:passion_vine"
@@ -23,6 +24,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"facing": "west",
+			"attachment": "none",
 			"age": "0"
 		},
 		"Name": "atmospheric:passion_vine"
@@ -31,6 +33,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"facing": "east",
+			"attachment": "none",
 			"age": "0"
 		},
 		"Name": "atmospheric:passion_vine"
@@ -39,6 +42,115 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"facing": "north",
+			"attachment": "top",
+			"age": "0"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"attachment": "top",
+			"age": "0"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"attachment": "top",
+			"age": "0"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"attachment": "top",
+			"age": "0"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"attachment": "bottom",
+			"age": "0"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"attachment": "bottom",
+			"age": "0"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"attachment": "bottom",
+			"age": "0"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"attachment": "bottom",
+			"age": "0"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"attachment": "middle",
+			"age": "0"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"attachment": "middle",
+			"age": "0"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"attachment": "middle",
+			"age": "0"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"attachment": "middle",
+			"age": "0"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"attachment": "none",
 			"age": "1"
 		},
 		"Name": "atmospheric:passion_vine"
@@ -47,6 +159,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"facing": "south",
+			"attachment": "none",
 			"age": "1"
 		},
 		"Name": "atmospheric:passion_vine"
@@ -55,6 +168,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"facing": "west",
+			"attachment": "none",
 			"age": "1"
 		},
 		"Name": "atmospheric:passion_vine"
@@ -63,6 +177,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"facing": "east",
+			"attachment": "none",
 			"age": "1"
 		},
 		"Name": "atmospheric:passion_vine"
@@ -71,6 +186,115 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"facing": "north",
+			"attachment": "top",
+			"age": "1"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"attachment": "top",
+			"age": "1"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"attachment": "top",
+			"age": "1"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"attachment": "top",
+			"age": "1"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"attachment": "bottom",
+			"age": "1"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"attachment": "bottom",
+			"age": "1"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"attachment": "bottom",
+			"age": "1"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"attachment": "bottom",
+			"age": "1"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"attachment": "middle",
+			"age": "1"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"attachment": "middle",
+			"age": "1"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"attachment": "middle",
+			"age": "1"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"attachment": "middle",
+			"age": "1"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"attachment": "none",
 			"age": "2"
 		},
 		"Name": "atmospheric:passion_vine"
@@ -79,6 +303,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"facing": "south",
+			"attachment": "none",
 			"age": "2"
 		},
 		"Name": "atmospheric:passion_vine"
@@ -87,6 +312,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"facing": "west",
+			"attachment": "none",
 			"age": "2"
 		},
 		"Name": "atmospheric:passion_vine"
@@ -95,6 +321,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"facing": "east",
+			"attachment": "none",
 			"age": "2"
 		},
 		"Name": "atmospheric:passion_vine"
@@ -103,6 +330,115 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"facing": "north",
+			"attachment": "top",
+			"age": "2"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"attachment": "top",
+			"age": "2"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"attachment": "top",
+			"age": "2"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"attachment": "top",
+			"age": "2"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"attachment": "bottom",
+			"age": "2"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"attachment": "bottom",
+			"age": "2"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"attachment": "bottom",
+			"age": "2"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"attachment": "bottom",
+			"age": "2"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"attachment": "middle",
+			"age": "2"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"attachment": "middle",
+			"age": "2"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"attachment": "middle",
+			"age": "2"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"attachment": "middle",
+			"age": "2"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"attachment": "none",
 			"age": "3"
 		},
 		"Name": "atmospheric:passion_vine"
@@ -111,6 +447,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"facing": "south",
+			"attachment": "none",
 			"age": "3"
 		},
 		"Name": "atmospheric:passion_vine"
@@ -119,6 +456,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"facing": "west",
+			"attachment": "none",
 			"age": "3"
 		},
 		"Name": "atmospheric:passion_vine"
@@ -127,6 +465,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"facing": "east",
+			"attachment": "none",
 			"age": "3"
 		},
 		"Name": "atmospheric:passion_vine"
@@ -135,6 +474,115 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"facing": "north",
+			"attachment": "top",
+			"age": "3"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"attachment": "top",
+			"age": "3"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"attachment": "top",
+			"age": "3"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"attachment": "top",
+			"age": "3"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"attachment": "bottom",
+			"age": "3"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"attachment": "bottom",
+			"age": "3"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"attachment": "bottom",
+			"age": "3"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"attachment": "bottom",
+			"age": "3"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"attachment": "middle",
+			"age": "3"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"attachment": "middle",
+			"age": "3"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"attachment": "middle",
+			"age": "3"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"attachment": "middle",
+			"age": "3"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"attachment": "none",
 			"age": "4"
 		},
 		"Name": "atmospheric:passion_vine"
@@ -143,6 +591,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"facing": "south",
+			"attachment": "none",
 			"age": "4"
 		},
 		"Name": "atmospheric:passion_vine"
@@ -151,6 +600,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"facing": "west",
+			"attachment": "none",
 			"age": "4"
 		},
 		"Name": "atmospheric:passion_vine"
@@ -159,6 +609,115 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"facing": "east",
+			"attachment": "none",
+			"age": "4"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"attachment": "top",
+			"age": "4"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"attachment": "top",
+			"age": "4"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"attachment": "top",
+			"age": "4"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"attachment": "top",
+			"age": "4"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"attachment": "bottom",
+			"age": "4"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"attachment": "bottom",
+			"age": "4"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"attachment": "bottom",
+			"age": "4"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"attachment": "bottom",
+			"age": "4"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"attachment": "middle",
+			"age": "4"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"attachment": "middle",
+			"age": "4"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"attachment": "middle",
+			"age": "4"
+		},
+		"Name": "atmospheric:passion_vine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"attachment": "middle",
 			"age": "4"
 		},
 		"Name": "atmospheric:passion_vine"

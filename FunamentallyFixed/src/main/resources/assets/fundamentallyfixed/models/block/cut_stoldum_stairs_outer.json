@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "fundamentallyfixed:block/cut_stoldum",
+    "side": "fundamentallyfixed:block/cut_stoldum",
+    "top": "fundamentallyfixed:block/cut_stoldum"
+  }
+}

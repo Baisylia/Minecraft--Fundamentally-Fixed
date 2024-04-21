@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "fundamentallyfixed:block/carved_electrum",
+    "side": "fundamentallyfixed:block/carved_electrum",
+    "top": "fundamentallyfixed:block/carved_electrum"
+  }
+}

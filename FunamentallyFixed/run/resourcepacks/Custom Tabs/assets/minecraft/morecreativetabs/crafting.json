@@ -379,15 +379,15 @@
     },
 
 
-    {
-      "name": "farmersrespite:green_tea_leaves"
-    },
-    {
-      "name": "farmersrespite:yellow_tea_leaves"
-    },
-    {
-      "name": "farmersrespite:black_tea_leaves"
-    },
+    //{
+    //  "name": "farmersrespite:green_tea_leaves"
+    //},
+    //{
+    //  "name": "farmersrespite:yellow_tea_leaves"
+    //},
+    //{
+    //  "name": "farmersrespite:black_tea_leaves"
+    //},
     {
       "name": "buzzier_bees:four_leaf_clover"
     },
@@ -438,13 +438,13 @@
       "name": "fundamentallyfixed:raw_copper_nugget"
     },
     {
-      "name": "modestmining:copper_nugget"
-    },
-    {
       "name": "minecraft:raw_copper"
     },
     {
       "name": "modestmining:copper_dust"
+    },
+    {
+      "name": "modestmining:copper_nugget"
     },
     {
       "name": "minecraft:copper_ingot"
@@ -461,13 +461,13 @@
       "name": "fundamentallyfixed:raw_aluminium_nugget"
     },
     {
-      "name": "fundamentallyfixed:aluminium_nugget"
-    },
-    {
       "name": "fundamentallyfixed:raw_aluminium"
     },
     {
       "name": "fundamentallyfixed:aluminium_dust"
+    },
+    {
+      "name": "fundamentallyfixed:aluminium_nugget"
     },
     {
       "name": "fundamentallyfixed:aluminium_ingot"
@@ -480,31 +480,18 @@
     },
 
 
-    {
-      "name": "fundamentallyfixed:bronze_nugget"
-    },
-    {
-      "name": "fundamentallyfixed:bronze_ingot"
-    },
-    {
-      "name": "fundamentallyfixed:bronze_sheet"
-    },
-    {
-      "name": "fundamentallyfixed:item_holder"
-    },
-
 
     {
       "name": "fundamentallyfixed:raw_iron_nugget"
-    },
-    {
-      "name": "minecraft:iron_nugget"
     },
     {
       "name": "minecraft:raw_iron"
     },
     {
       "name": "modestmining:iron_dust"
+    },
+    {
+      "name": "minecraft:iron_nugget"
     },
     {
       "name": "minecraft:iron_ingot"
@@ -522,13 +509,13 @@
       "name": "oreganized:lead_nugget"
     },
     {
-      "name": "fundamentallyfixed:raw_lead_nugget"
-    },
-    {
       "name": "oreganized:raw_lead"
     },
     {
       "name": "fundamentallyfixed:lead_dust"
+    },
+    {
+      "name": "fundamentallyfixed:raw_lead_nugget"
     },
     {
       "name": "oreganized:lead_ingot"
@@ -539,6 +526,111 @@
     {
       "name": "minecraft:chain"
     },
+
+
+
+    {
+      "name": "fundamentallyfixed:raw_gold_nugget"
+    },
+    {
+      "name": "minecraft:raw_gold"
+    },
+    {
+      "name": "modestmining:gold_dust"
+    },
+    {
+      "name": "minecraft:gold_nugget"
+    },
+    {
+      "name": "minecraft:gold_ingot"
+    },
+    {
+      "name": "create:golden_sheet"
+    },
+    {
+      "name": "fundamentallyfixed:gold_coin"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:raw_silver_nugget"
+    },
+    {
+      "name": "oreganized:raw_silver"
+    },
+    {
+      "name": "fundamentallyfixed:silver_dust"
+    },
+    {
+      "name": "oreganized:silver_nugget"
+    },
+    {
+      "name": "oreganized:silver_ingot"
+    },
+    {
+      "name": "fundamentallyfixed:silver_sheet"
+    },
+    {
+      "name": "fundamentallyfixed:silver_coin"
+    },
+
+
+
+    {
+      "name": "fundamentallyfixed:raw_infernum_nugget"
+    },
+    {
+      "name": "fundamentallyfixed:raw_infernum_debris"
+    },
+    {
+      "name": "modestmining:debris_dust"
+    },
+    {
+      "name": "fundamentallyfixed:infernum_nugget"
+    },
+    {
+      "name": "minecraft:netherite_scrap"
+    },
+
+
+
+    {
+      "name": "spelunkery:raw_magnetite_nugget"
+    },
+    {
+      "name": "spelunkery:magnetite_chunk"
+    },
+    {
+      "name": "fundamentallyfixed:meteorite_dust"
+    },
+        {
+      "name": "fundamentallyfixed:meteorite_nugget"
+    },
+    {
+      "name": "fundamentallyfixed:meteorite_scrap"
+    },
+    {
+      "name": "fundamentallyfixed:meteorite_sheet"
+    },
+
+
+
+    {
+      "name": "fundamentallyfixed:bronze_nugget"
+    },
+    {
+      "name": "fundamentallyfixed:bronze_ingot"
+    },
+    {
+      "name": "fundamentallyfixed:bronze_sheet"
+    },
+    {
+      "name": "fundamentallyfixed:bronze_coin"
+    },
+    //{
+    //  "name": "fundamentallyfixed:item_holder"
+    //},
+
 
 
     {
@@ -555,44 +647,23 @@
     },
 
 
-    {
-      "name": "fundamentallyfixed:raw_gold_nugget"
-    },
-    {
-      "name": "minecraft:gold_nugget"
-    },
-    {
-      "name": "minecraft:raw_gold"
-    },
-    {
-      "name": "modestmining:gold_dust"
-    },
-    {
-      "name": "minecraft:gold_ingot"
-    },
-    {
-      "name": "create:gold_sheet"
-    },
-
 
     {
-      "name": "fundamentallyfixed:raw_silver_nugget"
+      "name": "spelunkery:rough_cinnabar_shard"
     },
     {
-      "name": "oreganized:silver_nugget"
+      "name": "spelunkery:cinnabar_shard"
     },
     {
-      "name": "oreganized:raw_silver"
+      "name": "spelunkery:rough_cinnabar"
     },
     {
-      "name": "fundamentallyfixed:silver_dust"
+      "name": "minecraft:redstone"
     },
     {
-      "name": "oreganized:silver_ingot"
+      "name": "spelunkery:cinnabar"
     },
-    {
-      "name": "fundamentallyfixed:silver_sheet"
-    },
+
 
 
     {
@@ -611,39 +682,6 @@
       "name": "minecraft:diamond"
     },
 
-
-    {
-      "name": "oreganized:electrum_nugget"
-    },
-    {
-      "name": "oreganized:electrum_ingot"
-    },
-    {
-      "name": "fundamentallyfixed:electrum_sheet"
-    },
-
-
-    {
-      "name": "fundamentallyfixed:raw_infernum_nugget"
-    },
-    {
-      "name": "fundamentallyfixed:raw_infernum_debris"
-    },
-    {
-      "name": "modestmining:debris_dust"
-    },
-    {
-      "name": "minecraft:netherite_scrap"
-    },
-    {
-      "name": "oreganized:netherite_nugget"
-    },
-    {
-      "name": "minecraft:netherite_ingot"
-    },
-    {
-      "name": "fundamentallyfixed:netherite_sheet"
-    },
 
 
     //{
@@ -667,69 +705,22 @@
     {
       "name": "minecraft:amethyst_shard"
     },
-    {
-      "name": "modestmining:prismarite_nugget"
-    },
-    {
-      "name": "modestmining:prismarite_ingot"
-    },
-    {
-      "name": "fundamentallyfixed:prismarite_sheet"
-    },
-    {
-      "name": "spelunkery:raw_magnetite_nugget"
-    },
+
 
 
     {
-      "name": "spelunkery:magnetite_chunk"
+      "name": "fundamentallyfixed:rough_quartz_shard"
     },
     {
-      "name": "fundamentallyfixed:meteorite_dust"
+      "name": "fundamentallyfixed:quartz_shard"
     },
     {
-      "name": "fundamentallyfixed:meteorite_scrap"
+      "name": "minecraft:quartz"
     },
     {
-      "name": "fundamentallyfixed:meteorite_nugget"
-    },
-    {
-      "name": "fundamentallyfixed:meteorite_ingot"
-    },
-    {
-      "name": "fundamentallyfixed:meteorite_sheet"
+      "name": "fundamentallyfixed:quartz"
     },
 
-
-    {
-      "name": "spelunkery:rough_emerald_shard"
-    },
-    {
-      "name": "spelunkery:emerald_shard"
-    },
-    {
-      "name": "spelunkery:rough_emerald"
-    },
-    {
-      "name": "minecraft:emerald"
-    },
-
-
-    {
-      "name": "spelunkery:rough_cinnabar_shard"
-    },
-    {
-      "name": "spelunkery:cinnabar_shard"
-    },
-    {
-      "name": "spelunkery:rough_cinnabar"
-    },
-    {
-      "name": "fundamentallyfixed:redstone_dust"
-    },
-    {
-      "name": "spelunkery:cinnabar"
-    },
 
 
     {
@@ -746,32 +737,114 @@
     },
 
 
-    //{
-    //  "name": "fundamentallyfixed:rough_ruby_shard"
-    //},
-    //{
-    //  "name": "fundamentallyfixed:ruby_shard"
-    //},
-    //{
-    //  "name": "fundamentallyfixed:rough_ruby"
-    //},
-    //{
-    //  "name": "fundamentallyfixed:ruby"
-    //},
-
 
     {
-      "name": "fundamentallyfixed:rough_quartz_shard"
+      "name": "fundamentallyfixed:stoldum_nugget"
     },
     {
-      "name": "fundamentallyfixed:quartz_shard"
+      "name": "fundamentallyfixed:stoldum_ingot"
     },
     {
-      "name": "minecraft:quartz"
+      "name": "fundamentallyfixed:stoldum_sheet"
+    },
+
+
+
+    {
+      "name": "modestmining:prismarite_nugget"
     },
     {
-      "name": "fundamentallyfixed:quartz"
+      "name": "modestmining:prismarite_ingot"
     },
+    {
+      "name": "fundamentallyfixed:prismarite_sheet"
+    },
+
+
+
+    {
+      "name": "oreganized:netherite_nugget"
+    },
+    {
+      "name": "minecraft:netherite_ingot"
+    },
+    {
+      "name": "fundamentallyfixed:netherite_sheet"
+    },
+
+
+
+    {
+      "name": "oreganized:electrum_nugget"
+    },
+    {
+      "name": "oreganized:electrum_ingot"
+    },
+    {
+      "name": "fundamentallyfixed:electrum_sheet"
+    },
+
+
+
+    {
+      "name": "fundamentallyfixed:chlorophite_nugget"
+    },
+    {
+      "name": "fundamentallyfixed:chlorophite_ingot"
+    },
+    {
+      "name": "fundamentallyfixed:chlorophite_sheet"
+    },
+
+
+
+    {
+      "name": "fundamentallyfixed:mythril_nugget"
+    },
+    {
+      "name": "fundamentallyfixed:mythril_ingot"
+    },
+    {
+      "name": "fundamentallyfixed:mythril_sheet"
+    },
+
+
+
+    {
+      "name": "fundamentallyfixed:hallowed_nugget"
+    },
+    {
+      "name": "fundamentallyfixed:hallowed_ingot"
+    },
+    {
+      "name": "fundamentallyfixed:hallowed_sheet"
+    },
+
+
+
+    {
+      "name": "fundamentallyfixed:gravitite_nugget"
+    },
+    {
+      "name": "fundamentallyfixed:gravitite_ingot"
+    },
+    {
+      "name": "fundamentallyfixed:gravitite_sheet"
+    },
+
+
+
+    {
+      "name": "fundamentallyfixed:voidendum_nugget"
+    },
+    {
+      "name": "fundamentallyfixed:voidendum_ingot"
+    },
+    {
+      "name": "fundamentallyfixed:voidendum_sheet"
+    },
+
+
 
 
     {

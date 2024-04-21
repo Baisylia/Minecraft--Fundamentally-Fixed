@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "T": {
+      "item": "fundamentallyfixed:bronze_ingot"
+    }
+  },
+  "pattern": [
+    " T",
+    " T",
+    "TT"
+  ],
+  "result": {
+    "item": "xercamusic:saxophone"
+  }
+}

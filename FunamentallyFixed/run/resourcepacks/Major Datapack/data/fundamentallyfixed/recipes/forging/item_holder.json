@@ -1,0 +1,19 @@
+{
+  "type": "modestmining:forging",
+  "cooktime": 144,
+  "ingredients": [
+    {
+      "item": "fundamentallyfixed:bronze_sheet"
+    },
+    {
+      "item": "fundamentallyfixed:bronze_sheet"
+    }
+  ],
+  "fuel": {
+    "tag": "fundamentallyfixed:forging_fuels_one"
+  },
+  "result": {
+    "item": "fundamentallyfixed:item_holder",
+    "count": 4
+  }
+}

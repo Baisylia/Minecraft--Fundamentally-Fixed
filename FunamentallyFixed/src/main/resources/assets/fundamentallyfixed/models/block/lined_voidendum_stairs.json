@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "fundamentallyfixed:block/lined_voidendum",
+    "side": "fundamentallyfixed:block/lined_voidendum",
+    "top": "fundamentallyfixed:block/lined_voidendum"
+  }
+}
