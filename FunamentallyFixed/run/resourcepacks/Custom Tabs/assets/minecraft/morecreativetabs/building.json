@@ -470,9 +470,6 @@
       "name": "fundamentallyfixed:glance_pillar"
     },
     {
-      "name": "supplementaries:stone_lamp"
-    },
-    {
       "name": "minecraft:stone_button"
     },
     {
@@ -607,9 +604,6 @@
       "name": "fundamentallyfixed:ochrum_pillar"
     },
     {
-      "name": "supplementaries:deepslate_lamp"
-    },
-    {
       "name": "windswept:polished_deepslate_button"
     },
     {
@@ -634,6 +628,9 @@
       "name": "infernalexp:rubble"
     },
     {
+      "name": "fundamentallyfixed:sturdy_blackstone"
+    },
+    {
       "name": "quark:blackstone_bricks"
     },
     {
@@ -656,6 +653,9 @@
     },
     {
       "name": "supplementaries:blackstone_tile_wall"
+    },
+    {
+      "name": "create:cut_tuff_bricks"
     },
     {
       "name": "minecraft:blackstone"
@@ -703,11 +703,30 @@
       "name": "fundamentallyfixed:blackstone_pillar"
     },
     {
-      "name": "supplementaries:blackstone_lamp"
+      "name": "minecraft:polished_blackstone_button"
+    },
+    {
+      "name": "minecraft:polished_blackstone_pressure_plate"
+    },
+    {
+      "name": "create:small_tuff_bricks"
+    },
+    {
+      "name": "create:small_tuff_brick_stairs"
+    },
+    {
+      "name": "create:small_tuff_brick_slab"
+    },
+    {
+      "name": "create:small_tuff_brick_wall"
     },
 
 
 
+
+    {
+      "name": "fundamentallyfixed:sturdy_altisite"
+    },
     {
       "name": "minecraft:andesite"
     },
@@ -731,6 +750,9 @@
     },
     {
       "name": "caverns_and_chasms:cobblestone_brick_wall"
+    },
+    {
+      "name": "quark:chiseled_jasper_bricks"
     },
     {
       "name": "aether:holystone"
@@ -769,6 +791,37 @@
       "name": "aether:holystone_brick_wall"
     },
     {
+      "name": "quark:chiseled_andesite_bricks"
+    },
+    {
+      "name": "quark:chiseled_calcite_bricks"
+    },
+    {
+      "name": "quark:calcite_pillar"
+    },
+    {
+      "name": "aether:holystone_button"
+    },
+    {
+      "name": "aether:holystone_pressure_plate"
+    },
+    {
+      "name": "create:cut_calcite"
+    },
+    {
+      "name": "create:cut_calcite_stairs"
+    },
+    {
+      "name": "create:cut_calcite_slab"
+    },
+    {
+      "name": "create:cut_calcite_wall"
+    },
+
+
+
+
+    {
       "name": "aether:mossy_holystone"
     },
     {
@@ -795,6 +848,12 @@
 
 
 
+    {
+      "name": "minecraft:pointed_dripstone"
+    },
+    {
+      "name": "fundamentallyfixed:sturdy_dripstone"
+    },
     {
       "name": "create:cut_dripstone"
     },
@@ -856,13 +915,155 @@
       "name": "quark:dripstone_bricks_wall"
     },
     {
-      "name": "fundamentallyfixed:cracked_dripstone_bricks"
+      "name": "create:cut_tuff"
     },
     {
       "name": "quark:chiseled_dripstone_bricks"
     },
     {
       "name": "quark:dripstone_pillar"
+    },
+    {
+      "name": "fundamentallyfixed:dripstone_button"
+    },
+    {
+      "name": "fundamentallyfixed:dripstone_pressure_plate"
+    },
+    {
+      "name": "create:polished_cut_scoria"
+    },
+    {
+      "name": "create:polished_cut_scoria_stairs"
+    },
+    {
+      "name": "create:polished_cut_scoria_slab"
+    },
+    {
+      "name": "create:polished_cut_scoria_wall"
+    },
+
+
+
+
+    {
+      "name": "fundamentallyfixed:sturdy_prismarine"
+    },
+    {
+      "name": "minecraft:prismarine"
+    },
+    {
+      "name": "minecraft:prismarine_stairs"
+    },
+    {
+      "name": "minecraft:prismarine_slab"
+    },
+    {
+      "name": "minecraft:prismarine_wall"
+    },
+    {
+      "name": "caverns_and_chasms:cobblestone_tiles"
+    },
+    {
+      "name": "caverns_and_chasms:cobblestone_tile_stairs"
+    },
+    {
+      "name": "caverns_and_chasms:cobblestone_tile_slab"
+    },
+    {
+      "name": "caverns_and_chasms:cobblestone_tile_wall"
+    },
+    {
+      "name": "quark:chiseled_granite_bricks"
+    },
+    {
+      "name": "caverns_and_chasms:mossy_cobblestone_tiles"
+    },
+    {
+      "name": "caverns_and_chasms:mossy_cobblestone_tile_stairs"
+    },
+    {
+      "name": "caverns_and_chasms:mossy_cobblestone_tile_slab"
+    },
+    {
+      "name": "caverns_and_chasms:mossy_cobblestone_tile_wall"
+    },
+    {
+      "name": "fundamentallyfixed:polished_phyton"
+    },
+    {
+      "name": "fundamentallyfixed:polished_phyton_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:polished_phyton_slab"
+    },
+    {
+      "name": "fundamentallyfixed:polished_phyton_wall"
+    },
+    {
+      "name": "minecraft:prismarine_bricks"
+    },
+    {
+      "name": "minecraft:prismarine_brick_stairs"
+    },
+    {
+      "name": "minecraft:prismarine_brick_slab"
+    },
+    {
+      "name": "create:cut_andesite_brick_wall"
+    },
+    {
+      "name": "quark:chiseled_diorite_bricks"
+    },
+    {
+      "name": "create:polished_cut_ochrum"
+    },
+    {
+      "name": "upgrade_aquatic:prismarine_rod_bundle"
+    },
+    {
+      "name": "fundamentallyfixed:phyton_button"
+    },
+    {
+      "name": "fundamentallyfixed:phyton_pressure_plate"
+    },
+    {
+      "name": "create:cut_diorite"
+    },
+    {
+      "name": "create:cut_diorite_stairs"
+    },
+    {
+      "name": "create:cut_diorite_slab"
+    },
+    {
+      "name": "create:cut_diorite_wall"
+    },
+
+
+
+    {
+      "name": "minecraft:dark_prismarine"
+    },
+    {
+      "name": "minecraft:dark_prismarine_stairs"
+    },
+    {
+      "name": "minecraft:dark_prismarine_slab"
+    },
+    {
+      "name": "create:small_andesite_brick_wall"
+    },
+    {
+      "name": "upgrade_aquatic:luminous_prismarine"
+    },
+    {
+      "name": "upgrade_aquatic:luminous_prismarine_stairs"
+    },
+    {
+      "name": "upgrade_aquatic:luminous_prismarine_slab"
+    },
+    {
+      "name": "fundamentallyfixed:luminous_prismarine_wall"
     },
 
 
@@ -917,71 +1118,6 @@
     },
     {
       "name": "upgrade_aquatic:chiseled_elder_prismarine_coralstone"
-    },
-
-
-    {
-      "name": "minecraft:prismarine"
-    },
-    {
-      "name": "minecraft:prismarine_stairs"
-    },
-    {
-      "name": "minecraft:prismarine_slab"
-    },
-    {
-      "name": "minecraft:prismarine_wall"
-    },
-    {
-      "name": "fundamentallyfixed:polished_phyton"
-    },
-    {
-      "name": "fundamentallyfixed:polished_phyton_stairs"
-    },
-    {
-      "name": "fundamentallyfixed:polished_phyton_slab"
-    },
-    {
-      "name": "fundamentallyfixed:polished_phyton_wall"
-    },
-    {
-      "name": "minecraft:prismarine_bricks"
-    },
-    {
-      "name": "minecraft:prismarine_brick_stairs"
-    },
-    {
-      "name": "minecraft:prismarine_brick_slab"
-    },
-    {
-      "name": "create:cut_andesite_brick_wall"
-    },
-    {
-      "name": "minecraft:dark_prismarine"
-    },
-    {
-      "name": "minecraft:dark_prismarine_stairs"
-    },
-    {
-      "name": "minecraft:dark_prismarine_slab"
-    },
-    {
-      "name": "create:small_andesite_brick_wall"
-    },
-    {
-      "name": "upgrade_aquatic:luminous_prismarine"
-    },
-    {
-      "name": "upgrade_aquatic:luminous_prismarine_stairs"
-    },
-    {
-      "name": "upgrade_aquatic:luminous_prismarine_slab"
-    },
-    {
-      "name": "fundamentallyfixed:luminous_prismarine_wall"
-    },
-    {
-      "name": "upgrade_aquatic:prismarine_rod_bundle"
     },
 
 

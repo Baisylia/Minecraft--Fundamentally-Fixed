@@ -480,6 +480,23 @@
     },
 
 
+    {
+      "name": "fundamentallyfixed:bronze_nugget"
+    },
+    {
+      "name": "fundamentallyfixed:bronze_ingot"
+    },
+    {
+      "name": "fundamentallyfixed:bronze_sheet"
+    },
+    {
+      "name": "fundamentallyfixed:bronze_coin"
+    },
+    //{
+    //  "name": "fundamentallyfixed:item_holder"
+    //},
+
+
 
     {
       "name": "fundamentallyfixed:raw_iron_nugget"
@@ -525,6 +542,21 @@
     },
     {
       "name": "minecraft:chain"
+    },
+
+
+
+    {
+      "name": "modestmining:steel_nugget"
+    },
+    {
+      "name": "modestmining:steel_ingot"
+    },
+    {
+      "name": "fundamentallyfixed:steel_sheet"
+    },
+    {
+      "name": "create:propeller"
     },
 
 
@@ -613,38 +645,6 @@
       "name": "fundamentallyfixed:meteorite_sheet"
     },
 
-
-
-    {
-      "name": "fundamentallyfixed:bronze_nugget"
-    },
-    {
-      "name": "fundamentallyfixed:bronze_ingot"
-    },
-    {
-      "name": "fundamentallyfixed:bronze_sheet"
-    },
-    {
-      "name": "fundamentallyfixed:bronze_coin"
-    },
-    //{
-    //  "name": "fundamentallyfixed:item_holder"
-    //},
-
-
-
-    {
-      "name": "modestmining:steel_nugget"
-    },
-    {
-      "name": "modestmining:steel_ingot"
-    },
-    {
-      "name": "fundamentallyfixed:steel_sheet"
-    },
-    {
-      "name": "create:propeller"
-    },
 
 
 

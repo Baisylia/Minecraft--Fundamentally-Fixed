@@ -1,5 +1,6 @@
 import mods.farmersdelight.CookingPot;
 import crafttweaker.api.recipe.StoneCutterManager;
+import crafttweaker.api.recipe.FurnaceRecipeManager;
 //import mods.clayworks.Kiln;
 
 val stone = [["minecraft", "cobblestone"], ["paletteblocks", "cobblestone_bricks"], ["minecraft", "stone"], ["quark", "cobblestone_bricks"], ["minecraft", "stone_bricks"],
@@ -32,8 +33,38 @@ val blackstone = [["quark", "blackstone_bricks"], ["supplementaries", "blackston
 ["minecraft", "chiseled_polished_blackstone"], ["supplementaries", "stone_lamp"], ["fundamentallyfixed", "blackstone_pillar"],
 ["fundamentallyfixed", "sturdy_blackstone"], ["minecraft", "polished_blackstone_button"], ["minecraft", "polished_blackstone_pressure_plate"]] as string[][];
 
+val altisite = [["minecraft", "andesite"], ["caverns_and_chasms", "cobblestone_bricks"], ["aether", "holystone"], ["paletteblocks", "polished_calcite"],
+["aether", "holystone_bricks"], ["create", "cut_calcite"], ["minecraft", "andesite_stairs"], ["minecraft", "andesite_slab"], ["minecraft", "andesite_wall"],
+["caverns_and_chasms", "cobblestone_brick_stairs"], ["caverns_and_chasms", "cobblestone_brick_slab"], ["caverns_and_chasms", "cobblestone_brick_wall"], ["quark", "chiseled_jasper_bricks"],
+["aether", "holystone_stairs"], ["aether", "holystone_slab"], ["aether", "holystone_wall"],
+["paletteblocks", "polished_calcite_stairs"], ["paletteblocks", "polished_calcite_slab"], ["paletteblocks", "polished_calcite_wall"],
+["aether", "holystone_brick_stairs"], ["aether", "holystone_brick_slab"], ["aether", "holystone_brick_wall"], ["quark", "chiseled_andesite_bricks"],
+["create", "cut_calcite_stairs"], ["create", "cut_calcite_slab"], ["create", "cut_calcite_wall"],
+["quark", "chiseled_calcite_bricks"], ["supplementaries", "stone_lamp"], ["quark", "calcite_pillar"],
+["fundamentallyfixed", "sturdy_altisite"], ["aether", "holystone_button"], ["aether", "holystone_pressure_plate"]] as string[][];
 
-val stoneSets = [stone, deepslate, blackstone] as string[][][];
+val dripstone = [["create", "cut_dripstone"], ["create", "small_dripstone_bricks"], ["minecraft", "dripstone_block"], ["paletteblocks", "polished_dripstone"],
+["quark", "dripstone_bricks"], ["create", "polished_cut_scoria"], ["create", "cut_dripstone_stairs"], ["create", "cut_dripstone_slab"], ["create", "cut_dripstone_wall"],
+["create", "small_dripstone_brick_stairs"], ["create", "small_dripstone_brick_slab"], ["create", "small_dripstone_brick_wall"], ["create", "polished_cut_tuff"],
+["paletteblocks", "dripstone_stairs"], ["paletteblocks", "dripstone_slab"], ["paletteblocks", "dripstone_wall"],
+["paletteblocks", "polished_dripstone_stairs"], ["paletteblocks", "polished_dripstone_slab"], ["paletteblocks", "polished_dripstone_wall"],
+["quark", "dripstone_bricks_stairs"], ["quark", "dripstone_bricks_slab"], ["quark", "dripstone_bricks_wall"], ["create", "cut_tuff"],
+["create", "polished_cut_scoria_stairs"], ["create", "polished_cut_scoria_slab"], ["create", "polished_cut_scoria_wall"],
+["quark", "chiseled_dripstone_bricks"], ["supplementaries", "stone_lamp"], ["quark", "dripstone_pillar"],
+["fundamentallyfixed", "sturdy_dripstone"], ["fundamentallyfixed", "dripstone_button"], ["fundamentallyfixed", "dripstone_pressure_plate"]] as string[][];
+
+val prismarine = [["minecraft", "prismarine"], ["caverns_and_chasms", "cobblestone_tiles"], ["caverns_and_chasms", "mossy_cobblestone_tiles"], ["fundamentallyfixed", "polished_phyton"],
+["minecraft", "prismarine_bricks"], ["create", "cut_diorite"], ["minecraft", "prismarine_stairs"], ["minecraft", "prismarine_slab"], ["minecraft", "prismarine_wall"],
+["caverns_and_chasms", "cobblestone_tile_stairs"], ["caverns_and_chasms", "cobblestone_tile_slab"], ["caverns_and_chasms", "cobblestone_tile_wall"], ["quark", "chiseled_granite_bricks"],
+["caverns_and_chasms", "mossy_cobblestone_tile_stairs"], ["caverns_and_chasms", "mossy_cobblestone_tile_slab"], ["caverns_and_chasms", "mossy_cobblestone_tile_wall"],
+["fundamentallyfixed", "polished_phyton_stairs"], ["fundamentallyfixed", "polished_phyton_slab"], ["fundamentallyfixed", "polished_phyton_wall"],
+["minecraft", "prismarine_brick_stairs"], ["minecraft", "prismarine_brick_slab"], ["create", "cut_andesite_brick_wall"], ["quark", "chiseled_diorite_bricks"],
+["create", "cut_diorite_stairs"], ["create", "cut_diorite_slab"], ["create", "cut_diorite_wall"],
+["create", "polished_cut_ochrum"], ["supplementaries", "stone_lamp"], ["upgrade_aquatic", "prismarine_rod_bundle"],
+["fundamentallyfixed", "sturdy_prismarine"], ["fundamentallyfixed", "phyton_button"], ["fundamentallyfixed", "phyton_pressure_plate"]] as string[][];
+
+
+val stoneSets = [stone, deepslate, blackstone, altisite, dripstone, prismarine] as string[][][];
 
 val glowstone = ["minecraft", "glowstone"] as string[];
 val glowstoneItem = glowstone[0] + ":" + glowstone[1];

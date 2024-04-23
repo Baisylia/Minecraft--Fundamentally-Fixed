@@ -154,9 +154,6 @@
       "stack": "item:create:polished_cut_scoria{}"
     },
     {
-      "stack": "item:create:brass_block{}"
-    },
-    {
       "stack": "item:minecraft:quartz_bricks{}"
     },
     {
@@ -356,18 +353,6 @@
     },
     {
       "stack": "item:upgrade_aquatic:tube_coralstone{}"
-    },
-    {
-      "stack": "item:oreganized:silver_ingot{}"
-    },
-    {
-      "stack": "item:minecraft:gold_ingot{}"
-    },
-    {
-      "stack": "item:modestmining:steel_ingot{}"
-    },
-    {
-      "stack": "item:oreganized:lead_nugget{}"
     },
     {
       "stack": "item:naturalist:lizard_tail{}"
@@ -635,9 +620,6 @@
     },
     {
       "stack": "item:create:small_tuff_bricks{}"
-    },
-    {
-      "stack": "item:quark:chiseled_tuff_bricks{}"
     },
     {
       "stack": "item:create:mechanical_harvester{}"
@@ -919,9 +901,118 @@
     },
     {
       "stack": "item:architects_palette:unobtanium{}"
+    },
+    {
+      "stack": "item:fundamentallyfixed:raw_aluminium{}"
+    },
+    {
+      "stack": "item:modestmining:debris_dust{}"
+    },
+    {
+      "stack": "item:fundamentallyfixed:meteorite_dust{}"
+    },
+    {
+      "stack": "item:create:gearbox{BlockEntityTag:{Speed:0.0f,id:\"create:gearbox\"},display:{Lore:[\u0027\"(+NBT)\"\u0027]}}"
+    },
+    {
+      "stack": "item:environmental:dirt_path{}"
+    },
+    {
+      "stack": "item:caverns_and_chasms:waxed_lightning_rod{}"
+    },
+    {
+      "stack": "item:infernalexp:glowcoal{}"
+    },
+    {
+      "stack": "item:spelunkery:rough_emerald_shard{}"
+    },
+    {
+      "stack": "item:spelunkery:rough_emerald{}"
+    },
+    {
+      "stack": "item:spelunkery:emerald_shard{}"
+    },
+    {
+      "stack": "item:sullysmod:polished_jade{}"
     }
   ],
   "lookup_history": [
+    "item:fundamentallyfixed:cut_steel{}",
+    "item:fundamentallyfixed:gold_sheet_block{}",
+    "item:fundamentallyfixed:cubed_gravitite_wall{}",
+    "item:fundamentallyfixed:netherrack_powder{}",
+    "item:minecraft:nether_brick{}",
+    {
+      "type": "item",
+      "id": "fundamentallyfixed:polished_phyton",
+      "amount": 4
+    },
+    "item:caverns_and_chasms:mossy_cobblestone_tiles{}",
+    {
+      "type": "item",
+      "id": "caverns_and_chasms:cobblestone_tiles",
+      "amount": 4
+    },
+    "item:minecraft:prismarine{}",
+    "item:quark:chiseled_granite_bricks{}",
+    "item:minecraft:dark_prismarine{}",
+    "item:minecraft:andesite{}",
+    "item:create:cut_dripstone{}",
+    "item:quark:chiseled_jasper_bricks{}",
+    "item:create:cut_tuff_bricks{}",
+    "item:create:cut_tuff{}",
+    "item:infernalexp:glowcoal{}",
+    "item:create:millstone{}",
+    "item:fundamentallyfixed:aluminium_sheet{}",
+    "item:create:mechanical_press{}",
+    "item:farmersdelight:canvas{}",
+    "item:minecraft:oak_log{}",
+    "item:quark:hollow_oak_log{}",
+    "item:oreganized:silver_ingot{}",
+    "item:fundamentallyfixed:aluminium_dust{}",
+    {
+      "type": "item",
+      "id": "fundamentallyfixed:lined_aluminium_wall",
+      "amount": 3
+    },
+    "item:fundamentallyfixed:lined_aluminium{}",
+    "item:fundamentallyfixed:cubed_aluminium_wall{}",
+    "item:fundamentallyfixed:cut_gold{}",
+    "item:fundamentallyfixed:cubed_electrum_stairs{}",
+    "item:fundamentallyfixed:carved_gravitite_stairs{}",
+    "item:fundamentallyfixed:carved_silver{}",
+    "item:fundamentallyfixed:cubed_aluminium_stairs{}",
+    "item:fundamentallyfixed:cubed_aluminium{}",
+    "item:fundamentallyfixed:cut_aluminium_stairs{}",
+    {
+      "type": "item",
+      "id": "fundamentallyfixed:carved_aluminium_stairs",
+      "amount": 2
+    },
+    "item:fundamentallyfixed:aluminium_block{}",
+    "item:fundamentallyfixed:cut_aluminium{}",
+    {
+      "type": "item",
+      "id": "fundamentallyfixed:carved_aluminium",
+      "amount": 2
+    },
+    "item:minecraft:netherite_scrap{}",
+    "item:spelunkery:magnetite_chunk{}",
+    "item:modestmining:debris_dust{}",
+    "item:oreganized:raw_silver{}",
+    "item:minecraft:raw_gold{}",
+    "item:oreganized:raw_lead{}",
+    "item:minecraft:raw_iron{}",
+    "item:fundamentallyfixed:raw_aluminium{}",
+    "item:minecraft:raw_copper{}",
+    "item:fundamentallyfixed:carved_aluminium_wall{}",
+    "item:fundamentallyfixed:aluminium_ingot{}",
+    "item:fundamentallyfixed:carved_aluminium_slab{}",
+    "item:fundamentallyfixed:hook{}",
+    "item:fundamentallyfixed:raw_aluminium_nugget{}",
+    "item:fundamentallyfixed:raw_aluminium_block{}",
+    "item:fundamentallyfixed:aluminium_nugget{}",
+    "item:create:shaft{}",
     {
       "type": "item",
       "id": "minecraft:polished_blackstone_bricks",
@@ -934,23 +1025,16 @@
     },
     "item:minecraft:blackstone{}",
     "item:quark:blackstone_bricks{}",
-    "item:create:cut_tuff_bricks{}",
     {
       "type": "item",
       "id": "quark:blackstone_bricks_slab",
       "amount": 4
     },
     "item:fundamentallyfixed:sturdy_blackstone{}",
-    "item:fundamentallyfixed:carved_aluminium_stairs{}",
-    "item:fundamentallyfixed:carved_aluminium{}",
     "item:minecraft:granite{}",
-    "item:fundamentallyfixed:aluminium_ingot{}",
-    "item:fundamentallyfixed:aluminium_sheet{}",
     "item:fundamentallyfixed:aluminium_sheet_block{}",
     "item:minecraft:netherite_ingot{}",
     "item:oreganized:netherite_nugget{}",
-    "item:fundamentallyfixed:aluminium_nugget{}",
-    "item:fundamentallyfixed:aluminium_block{}",
     "item:minecraft:blaze_powder{}",
     "item:modestmining:coke{}",
     "item:minecraft:copper_block{}",
@@ -961,14 +1045,11 @@
     "item:fundamentallyfixed:voidendum_block{}",
     "item:modestmining:steel_ingot{}",
     "item:modestmining:prismarite_leggings{Damage:0}",
-    "item:modestmining:debris_dust{}",
     "item:modestmining:steel_piece{}",
     "item:modestmining:copper_nugget{}",
     "item:modestmining:prismarite_ingot{}",
     "item:fundamentallyfixed:bronze_ingot{}",
     "item:fundamentallyfixed:meteorite_scrap{}",
-    "item:minecraft:netherite_scrap{}",
-    "item:oreganized:silver_ingot{}",
     "item:minecraft:gold_ingot{}",
     "item:fundamentallyfixed:raw_lead_nugget{}",
     "item:minecraft:iron_ingot{}",
@@ -979,7 +1060,6 @@
     "item:fundamentallyfixed:spring{}",
     "item:modestmining:copper_screw{}",
     "item:create:propeller{}",
-    "item:create:shaft{}",
     "item:create:analog_lever{}",
     "item:minecraft:stone_pressure_plate{}",
     "item:minecraft:lever{}",
@@ -1021,7 +1101,6 @@
     "item:fundamentallyfixed:negative_potion_base",
     "item:fundamentallyfixed:positive_potion_base",
     "item:cold_sweat:hoglin_hide{}",
-    "item:fundamentallyfixed:hook{}",
     "item:endergetic:cracked_eumus_bricks{}",
     "item:aether:valkyrie_chestplate{Damage:0}",
     "item:caverns_and_chasms:necromium_ingot{}",
@@ -1190,7 +1269,6 @@
     "item:oreganized:spotted_glance{}",
     "item:oreganized:glance{}",
     "item:quark:jasper_pillar{}",
-    "item:quark:chiseled_jasper_bricks{}",
     "item:quark:jasper_bricks_wall{}",
     "item:quark:jasper_bricks_slab{}",
     "item:quark:jasper_bricks_stairs{}",
@@ -1295,7 +1373,6 @@
     "item:minecraft:andesite_wall{}",
     "item:minecraft:andesite_slab{}",
     "item:minecraft:andesite_stairs{}",
-    "item:minecraft:andesite{}",
     "item:minecraft:polished_diorite_stairs{}",
     "item:minecraft:polished_diorite_slab{}",
     "item:paletteblocks:polished_diorite_wall{}",
@@ -1325,7 +1402,6 @@
     "item:quark:calcite_bricks_stairs{}",
     "item:minecraft:calcite{}",
     "item:quark:granite_pillar{}",
-    "item:quark:chiseled_granite_bricks{}",
     "item:quark:granite_bricks_wall{}",
     "item:quark:granite_bricks_slab{}",
     "item:quark:granite_bricks_stairs{}",
@@ -1441,7 +1517,6 @@
     "item:minecraft:ink_sac{}",
     "item:farmersdelight:straw{}",
     "item:minecraft:netherrack{}",
-    "item:minecraft:nether_brick{}",
     "item:quark:blackstone_furnace{}",
     "item:minecraft:brick{}",
     "item:minecraft:slime_ball{}",
@@ -1492,8 +1567,6 @@
     "item:quark:chute",
     "item:minecraft:dropper",
     "item:minecraft:dispenser",
-    "item:create:millstone",
-    "item:create:mechanical_press",
     "item:minecraft:observer",
     "item:supplementaries:relayer",
     "item:create:vertical_gearbox",
@@ -1510,7 +1583,6 @@
     "item:minecraft:gold_nugget",
     "item:fundamentallyfixed:raw_silver_nugget",
     "item:oreganized:lead_nugget",
-    "item:oreganized:raw_lead",
     "item:minecraft:red_sandstone",
     "item:minecraft:sandstone",
     "item:quark:sandstone_bricks",

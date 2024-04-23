@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 1,
-  "ingredient": {
-    "item": "fundamentallyfixed:polished_phyton"
-  },
-  "result": "upgrade_aquatic:prismarine_rod_bundle"
-}

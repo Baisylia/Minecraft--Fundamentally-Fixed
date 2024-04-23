@@ -4,6 +4,8 @@
 
 console.info('KubeJS Loaded')
 
+// Block Tags
+
 ServerEvents.tags('block', event => {
     event.remove('minecraft:mineable/axe', 'create:gearbox')
     event.remove('minecraft:mineable/axe', 'create:andesite_casing')
@@ -49,8 +51,9 @@ ServerEvents.tags('block', event => {
     event.add('minecraft:needs_stone_tool', 'create:zinc_block')
 })
 
+// Metals
+
 ServerEvents.recipes (event => {
-    // Define your metal sets
     const aluminium = [
         ["fundamentallyfixed", "aluminium_ingot"], ["fundamentallyfixed", "aluminium_nugget"], ["fundamentallyfixed", "aluminium_sheet"],
         ["fundamentallyfixed", "aluminium_block"], ["fundamentallyfixed", "aluminium_sheet_block"], ["fundamentallyfixed", "carved_aluminium"],
@@ -59,7 +62,8 @@ ServerEvents.recipes (event => {
         ["fundamentallyfixed", "cut_aluminium_wall"], ["fundamentallyfixed", "cubed_aluminium"], ["fundamentallyfixed", "cubed_aluminium_stairs"],
         ["fundamentallyfixed", "cubed_aluminium_slab"], ["fundamentallyfixed", "cubed_aluminium_wall"], ["fundamentallyfixed", "lined_aluminium"],
         ["fundamentallyfixed", "lined_aluminium_stairs"], ["fundamentallyfixed", "lined_aluminium_slab"], ["fundamentallyfixed", "lined_aluminium_wall"],
-        ["fundamentallyfixed", "forging_fuels_zero"]
+        ["fundamentallyfixed", "forging_fuels_zero"],
+                                                    ["fundamentallyfixed", "raw_aluminium_nugget"], ["fundamentallyfixed", "raw_aluminium"], ["fundamentallyfixed", "aluminium_dust"]
     ];
 
     const copper = [
@@ -70,7 +74,8 @@ ServerEvents.recipes (event => {
         ["minecraft", "barrier"], ["create", "copper_shingles"], ["create", "copper_shingle_stairs"],
         ["create", "copper_shingle_slab"], ["minecraft", "barrier"], ["create", "copper_tiles"],
         ["create", "copper_tile_stairs"], ["create", "copper_tile_slab"], ["minecraft", "barrier"],
-        ["fundamentallyfixed", "forging_fuels_zero"]
+        ["fundamentallyfixed", "forging_fuels_zero"],
+                                                    ["fundamentallyfixed", "raw_copper_nugget"], ["minecraft", "raw_copper"], ["modestmining", "copper_dust"]
     ];
 
     const bronze = [
@@ -92,7 +97,8 @@ ServerEvents.recipes (event => {
         ["fundamentallyfixed", "cut_iron_wall"], ["fundamentallyfixed", "cubed_iron"], ["fundamentallyfixed", "cubed_iron_stairs"],
         ["fundamentallyfixed", "cubed_iron_slab"], ["fundamentallyfixed", "cubed_iron_wall"], ["quark", "iron_plate"],
         ["quark", "iron_plate_stairs"], ["quark", "iron_plate_slab"], ["fundamentallyfixed", "lined_iron_wall"],
-        ["fundamentallyfixed", "forging_fuels_zero"]
+        ["fundamentallyfixed", "forging_fuels_zero"],
+                                                    ["fundamentallyfixed", "raw_iron_nugget"], ["minecraft", "raw_iron"], ["modestmining", "iron_dust"]
     ];
 
     const lead = [
@@ -103,7 +109,8 @@ ServerEvents.recipes (event => {
         ["fundamentallyfixed", "cut_lead_wall"], ["fundamentallyfixed", "cubed_lead"], ["fundamentallyfixed", "cubed_lead_stairs"],
         ["fundamentallyfixed", "cubed_lead_slab"], ["fundamentallyfixed", "cubed_lead_wall"], ["fundamentallyfixed", "lined_lead"],
         ["fundamentallyfixed", "lined_lead_stairs"], ["fundamentallyfixed", "lined_lead_slab"], ["fundamentallyfixed", "lined_lead_wall"],
-        ["fundamentallyfixed", "forging_fuels_zero"]
+        ["fundamentallyfixed", "forging_fuels_zero"],
+                                                    ["oreganized", "lead_nugget"], ["oreganized", "raw_lead"], ["fundamentallyfixed", "lead_dust"]
     ];
 
     const steel = [
@@ -125,7 +132,8 @@ ServerEvents.recipes (event => {
         ["fundamentallyfixed", "cut_gold_wall"], ["fundamentallyfixed", "cubed_gold"], ["fundamentallyfixed", "cubed_gold_stairs"],
         ["fundamentallyfixed", "cubed_gold_slab"], ["fundamentallyfixed", "cubed_gold_wall"], ["fundamentallyfixed", "lined_gold"],
         ["fundamentallyfixed", "lined_gold_stairs"], ["fundamentallyfixed", "lined_gold_slab"], ["fundamentallyfixed", "lined_gold_wall"],
-        ["fundamentallyfixed", "forging_fuels_zero"]
+        ["fundamentallyfixed", "forging_fuels_zero"],
+                                                    ["fundamentallyfixed", "raw_gold_nugget"], ["minecraft", "raw_gold"], ["modestmining", "gold_dust"]
     ];
 
     const silver = [
@@ -136,7 +144,8 @@ ServerEvents.recipes (event => {
         ["fundamentallyfixed", "cut_silver_wall"], ["fundamentallyfixed", "cubed_silver"], ["fundamentallyfixed", "cubed_silver_stairs"],
         ["fundamentallyfixed", "cubed_silver_slab"], ["fundamentallyfixed", "cubed_silver_wall"], ["fundamentallyfixed", "lined_silver"],
         ["fundamentallyfixed", "lined_silver_stairs"], ["fundamentallyfixed", "lined_silver_slab"], ["fundamentallyfixed", "lined_silver_wall"],
-        ["fundamentallyfixed", "forging_fuels_zero"]
+        ["fundamentallyfixed", "forging_fuels_zero"],
+                                                    ["fundamentallyfixed", "raw_silver_nugget"], ["oreganized", "raw_silver"], ["fundamentallyfixed", "silver_dust"]
     ];
 
     const stoldum = [
@@ -243,7 +252,10 @@ ServerEvents.recipes (event => {
         aluminium, copper, bronze, iron, lead, steel, gold, silver, stoldum, prismarite, netherite, electrum, chlorophite, mythril, hallowed, gravitite, voidendum
     ];
 
-    // Register recipes for each metal set
+    const oreSets = [
+        aluminium, copper, iron, lead, gold, silver
+    ];
+
     for (let metalSet of metalSets) {
         let ingot = metalSet[0];
         let ingotItem = `${ingot[0]}:${ingot[1]}`;
@@ -293,7 +305,7 @@ ServerEvents.recipes (event => {
         // Ingots
         event.custom({
             type: "modestmining:forging",
-            cooktime: 144,
+            cooktime: 18,
             ingredients: [
                 { item: ingotItem },
                 { item: ingotItem },
@@ -313,7 +325,7 @@ ServerEvents.recipes (event => {
         })
         event.custom({
             type: "modestmining:forging",
-            cooktime: 144,
+            cooktime: 18,
             ingredients: [
                 { item: blockItem }
             ],
@@ -326,7 +338,7 @@ ServerEvents.recipes (event => {
 
         event.custom({
             type: "modestmining:forging",
-            cooktime: 144,
+            cooktime: 18,
             ingredients: [
                 { item: nuggetItem },
                 { item: nuggetItem },
@@ -346,7 +358,7 @@ ServerEvents.recipes (event => {
         })
         event.custom({
             type: "modestmining:forging",
-            cooktime: 144,
+            cooktime: 18,
             ingredients: [
                 { item: ingotItem }
             ],
@@ -359,7 +371,7 @@ ServerEvents.recipes (event => {
 
         event.custom({
             type: "modestmining:forging",
-            cooktime: 144,
+            cooktime: 18,
             ingredients: [
                 { item: sheetItem },
                 { item: sheetItem },
@@ -379,7 +391,7 @@ ServerEvents.recipes (event => {
         })
         event.custom({
             type: "modestmining:forging",
-            cooktime: 144,
+            cooktime: 18,
             ingredients: [
                 { item: sheetBlockItem }
             ],
@@ -389,37 +401,8 @@ ServerEvents.recipes (event => {
                 count: 9
             }
         })
-        event.custom({
-            type: "modestmining:forging",
-            cooktime: 144,
-            ingredients: [
-                { item: sheetItem }
-            ],
-            fuel: { tag: fuelTag },
-            result: {
-                item: ingotItem,
-                count: 1
-            }
-        })
 
         // Carved
-        event.shaped("4x " + carvedItem,
-            [ "AA", "AA" ],
-          {
-            A: blockItem
-          }
-        )
-        event.custom({
-            type: "minecraft:crafting_shaped",
-            key: {
-                "#": { item: blockItem }
-            },
-            pattern: [ "##", "##" ],
-            result: {
-                count: 4,
-                item: carvedItem
-            }
-        })
         event.custom({
             type: "modestmining:forging_shaped",
             cooktime: 18,
@@ -434,30 +417,6 @@ ServerEvents.recipes (event => {
             }
         })
 
-        event.custom(
-        {
-          type: "minecraft:crafting_shaped",
-          key: {
-            "#": { item: blockItem }
-          },
-          pattern: [ "# ", "##" ],
-          result: {
-            count: 8,
-            item: carvedStairItem
-          }
-        })
-        event.custom(
-        {
-          type: "minecraft:crafting_shaped",
-          key: {
-            "#": { item: carvedItem }
-          },
-          pattern: [ "# ", "##" ],
-          result: {
-            count: 4,
-            item: carvedStairItem
-          }
-        })
         event.custom({
             type: "modestmining:forging_shaped",
             cooktime: 18,
@@ -468,6 +427,116 @@ ServerEvents.recipes (event => {
             fuel: { tag: fuelTag },
             result: {
                 item: carvedStairItem,
+                count: 1
+            }
+        })
+        event.custom({
+            type: "modestmining:forging_shaped",
+            cooktime: 18,
+            key:{
+                "#": { item: ingotItem }
+            },
+            pattern: [ "##" ],
+            fuel: { tag: fuelTag },
+            result: {
+                item: carvedSlabItem,
+                count: 1
+            }
+        })
+        event.custom({
+            type: "modestmining:forging_shaped",
+            cooktime: 18,
+            key:{
+                "#": { item: ingotItem }
+            },
+            pattern: [ "###" ],
+            fuel: { tag: fuelTag },
+            result: {
+                item: carvedWallItem,
+                count: 1
+            }
+        })
+    }
+
+    for (let oreSet of oreSets) {
+        let Oingot = oreSet[0];
+        let OingotItem = `${Oingot[0]}:${Oingot[1]}`;
+        let Onugget = oreSet[1];
+        let OnuggetItem = `${Onugget[0]}:${Onugget[1]}`;
+        let Osheet = oreSet[2];
+        let OsheetItem = `${Osheet[0]}:${Osheet[1]}`;
+        let Oblock = oreSet[3];
+        let OblockItem = `${Oblock[0]}:${Oblock[1]}`;
+        let OsheetBlock = oreSet[4];
+        let OsheetBlockItem = `${OsheetBlock[0]}:${OsheetBlock[1]}`;
+        let Ofuel = oreSet[21];
+        let OfuelTag = `${Ofuel[0]}:${Ofuel[1]}`;
+        let OrawNugget = oreSet[22];
+        let OrawNuggetItem = `${OrawNugget[0]}:${OrawNugget[1]}`;
+        let Oraw = oreSet[23];
+        let OrawItem = `${Oraw[0]}:${Oraw[1]}`;
+        let Odust = oreSet[24];
+        let OdustItem = `${Odust[0]}:${Odust[1]}`;
+
+
+        // Ores
+        event.custom({
+            type: "modestmining:forging",
+            cooktime: 432,
+            ingredients: [
+                { item: OrawNuggetItem },
+                { item: OrawNuggetItem },
+                { item: OrawNuggetItem },
+                { item: OrawNuggetItem },
+                { item: OrawNuggetItem },
+                { item: OrawNuggetItem },
+                { item: OrawNuggetItem },
+                { item: OrawNuggetItem },
+                { item: OrawNuggetItem }
+            ],
+            fuel: { tag: OfuelTag },
+            result: {
+                item: OingotItem,
+                count: 1
+            }
+        })
+        event.custom({
+            type: "modestmining:forging",
+            cooktime: 864,
+            ingredients: [
+                { item: OrawItem },
+                { item: OrawItem },
+                { item: OrawItem },
+                { item: OrawItem },
+                { item: OrawItem },
+                { item: OrawItem },
+                { item: OrawItem },
+                { item: OrawItem },
+                { item: OrawItem }
+            ],
+            fuel: { tag: OfuelTag },
+            result: {
+                item: OblockItem,
+                count: 1
+            }
+        })
+        event.custom({
+            type: "modestmining:forging",
+            cooktime: 864,
+            ingredients: [
+                { item: OdustItem },
+                { item: OdustItem },
+                { item: OdustItem },
+                { item: OdustItem },
+                { item: OdustItem },
+                { item: OdustItem },
+                { item: OdustItem },
+                { item: OdustItem },
+                { item: OdustItem }
+            ],
+            fuel: { tag: OfuelTag },
+            result: {
+                item: OblockItem,
                 count: 1
             }
         })
