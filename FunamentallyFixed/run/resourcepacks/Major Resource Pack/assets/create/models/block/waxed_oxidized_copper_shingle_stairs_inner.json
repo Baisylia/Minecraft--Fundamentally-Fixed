@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom":"fundamentallyfixed:block/cubed_oxidized_copper",
+    "side": "fundamentallyfixed:block/cubed_oxidized_copper",
+    "top":"fundamentallyfixed:block/cubed_oxidized_copper"
+  }
+}

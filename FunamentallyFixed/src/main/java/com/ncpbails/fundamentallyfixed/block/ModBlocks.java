@@ -1,37 +1,36 @@
 package com.ncpbails.fundamentallyfixed.block;
 
 import com.aetherteam.aether.block.AetherBlocks;
+import com.google.common.collect.ImmutableBiMap;
 import com.ncpbails.fundamentallyfixed.FundamentallyFixed;
-import com.ncpbails.fundamentallyfixed.block.custom.AcornBlock;
-import com.ncpbails.fundamentallyfixed.block.custom.DualCropBlock;
-import com.ncpbails.fundamentallyfixed.block.custom.FixedCropBlock;
-import com.ncpbails.fundamentallyfixed.block.custom.SaltPillarBlock;
+import com.ncpbails.fundamentallyfixed.block.custom.*;
+import com.ncpbails.fundamentallyfixed.block.custom.Copper.*;
 import com.ncpbails.fundamentallyfixed.items.ModItems;
 import com.ncpbails.fundamentallyfixed.world.feature.tree.OakTreeFixedGrower;
 import com.ncpbails.modestmining.block.entity.custom.RockBlock;
-import com.ordana.spelunkery.blocks.rock_salt.SaltBlock;
-import com.teamabnormals.environmental.common.block.grower.WisteriaTree;
-import com.teamabnormals.savage_and_ravage.core.registry.SRBlocks;
 import galena.oreganized.index.OBlocks;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.Direction;
-import net.minecraft.sounds.SoundEvent;
+import net.minecraft.world.InteractionHand;
+import net.minecraft.world.InteractionResult;
+import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.item.*;
 import net.minecraft.world.item.context.UseOnContext;
 import net.minecraft.world.item.crafting.RecipeType;
 import net.minecraft.world.level.BlockGetter;
+import net.minecraft.world.level.Level;
 import net.minecraft.world.level.block.*;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.block.state.BlockState;
 import net.minecraft.world.level.material.Material;
 import net.minecraft.world.level.material.MaterialColor;
+import net.minecraft.world.phys.BlockHitResult;
 import net.minecraftforge.common.ToolAction;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import org.infernalstudios.infernalexp.init.IEBlocks;
-import vazkii.quark.content.building.module.BambooBackportModule;
 
 import javax.annotation.Nullable;
 import java.util.function.Supplier;
@@ -960,6 +959,299 @@ public class ModBlocks {
 
     public static final RegistryObject<Block> LINED_SILVER_WALL = registerBlock("lined_silver_wall",
             () -> new WallBlock(BlockBehaviour.Properties.copy(OBlocks.SILVER_BLOCK.get())), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+
+
+    public static final RegistryObject<Block> LINED_COPPER_WALL = registerBlock("lined_copper_wall",
+            () -> new ModWeatheringCopperWallBlock(ModWeatheringCopper.WeatherState.UNAFFECTED,
+                    BlockBehaviour.Properties.copy(Blocks.CUT_COPPER), false) { @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                    canAxe = false; waxedVersion = ModBlocks.WAXED_LINED_COPPER_WALL.get(); axedVersion = ModBlocks.LINED_COPPER_WALL.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> LINED_EXPOSED_COPPER_WALL = registerBlock("lined_exposed_copper_wall",
+            () -> new ModWeatheringCopperWallBlock(ModWeatheringCopper.WeatherState.EXPOSED,
+                    BlockBehaviour.Properties.copy(Blocks.EXPOSED_CUT_COPPER), true){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                waxedVersion = ModBlocks.WAXED_LINED_EXPOSED_COPPER_WALL.get(); axedVersion = ModBlocks.LINED_COPPER_WALL.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> LINED_WEATHERED_COPPER_WALL = registerBlock("lined_weathered_copper_wall",
+            () -> new ModWeatheringCopperWallBlock(ModWeatheringCopper.WeatherState.WEATHERED,
+                    BlockBehaviour.Properties.copy(Blocks.WEATHERED_CUT_COPPER), true){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                waxedVersion = ModBlocks.WAXED_LINED_WEATHERED_COPPER_WALL.get(); axedVersion = ModBlocks.LINED_EXPOSED_COPPER_WALL.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> LINED_OXIDIZED_COPPER_WALL = registerBlock("lined_oxidized_copper_wall",
+            () -> new ModWeatheringCopperWallBlock(ModWeatheringCopper.WeatherState.OXIDIZED,
+                    BlockBehaviour.Properties.copy(Blocks.OXIDIZED_CUT_COPPER), true){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                waxedVersion = ModBlocks.WAXED_LINED_OXIDIZED_COPPER_WALL.get(); axedVersion = ModBlocks.LINED_WEATHERED_COPPER_WALL.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+
+    public static final RegistryObject<Block> CUBED_COPPER_WALL = registerBlock("cubed_copper_wall",
+            () -> new ModWeatheringCopperWallBlock(ModWeatheringCopper.WeatherState.UNAFFECTED,
+                    BlockBehaviour.Properties.copy(Blocks.CUT_COPPER), false){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                canAxe = false; waxedVersion = ModBlocks.WAXED_CUBED_COPPER_WALL.get(); axedVersion = ModBlocks.CUBED_COPPER_WALL.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> CUBED_EXPOSED_COPPER_WALL = registerBlock("cubed_exposed_copper_wall",
+            () -> new ModWeatheringCopperWallBlock(ModWeatheringCopper.WeatherState.EXPOSED,
+                    BlockBehaviour.Properties.copy(Blocks.EXPOSED_CUT_COPPER), true){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                waxedVersion = ModBlocks.WAXED_CUBED_EXPOSED_COPPER_WALL.get(); axedVersion = ModBlocks.CUBED_COPPER_WALL.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> CUBED_WEATHERED_COPPER_WALL = registerBlock("cubed_weathered_copper_wall",
+            () -> new ModWeatheringCopperWallBlock(ModWeatheringCopper.WeatherState.WEATHERED,
+                    BlockBehaviour.Properties.copy(Blocks.WEATHERED_CUT_COPPER), true){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                waxedVersion = ModBlocks.WAXED_CUBED_WEATHERED_COPPER_WALL.get(); axedVersion = ModBlocks.CUBED_EXPOSED_COPPER_WALL.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> CUBED_OXIDIZED_COPPER_WALL = registerBlock("cubed_oxidized_copper_wall",
+            () -> new ModWeatheringCopperWallBlock(ModWeatheringCopper.WeatherState.OXIDIZED,
+                    BlockBehaviour.Properties.copy(Blocks.OXIDIZED_CUT_COPPER), true){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                waxedVersion = ModBlocks.WAXED_CUBED_OXIDIZED_COPPER_WALL.get(); axedVersion = ModBlocks.CUBED_WEATHERED_COPPER_WALL.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+
+    public static final RegistryObject<Block> CUT_COPPER_WALL = registerBlock("cut_copper_wall",
+            () -> new ModWeatheringCopperWallBlock(ModWeatheringCopper.WeatherState.UNAFFECTED,
+                    BlockBehaviour.Properties.copy(Blocks.CUT_COPPER), false){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                canAxe = false; waxedVersion = ModBlocks.WAXED_CUT_COPPER_WALL.get(); axedVersion = ModBlocks.CUT_COPPER_WALL.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> CUT_EXPOSED_COPPER_WALL = registerBlock("cut_exposed_copper_wall",
+            () -> new ModWeatheringCopperWallBlock(ModWeatheringCopper.WeatherState.EXPOSED,
+                    BlockBehaviour.Properties.copy(Blocks.EXPOSED_CUT_COPPER), true){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                waxedVersion = ModBlocks.WAXED_CUT_EXPOSED_COPPER_WALL.get(); axedVersion = ModBlocks.CUT_COPPER_WALL.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> CUT_WEATHERED_COPPER_WALL = registerBlock("cut_weathered_copper_wall",
+            () -> new ModWeatheringCopperWallBlock(ModWeatheringCopper.WeatherState.WEATHERED,
+                    BlockBehaviour.Properties.copy(Blocks.WEATHERED_CUT_COPPER), true){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                waxedVersion = ModBlocks.WAXED_CUT_WEATHERED_COPPER_WALL.get(); axedVersion = ModBlocks.CUT_EXPOSED_COPPER_WALL.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> CUT_OXIDIZED_COPPER_WALL = registerBlock("cut_oxidized_copper_wall",
+            () -> new ModWeatheringCopperWallBlock(ModWeatheringCopper.WeatherState.OXIDIZED,
+                    BlockBehaviour.Properties.copy(Blocks.OXIDIZED_CUT_COPPER), true){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                waxedVersion = ModBlocks.WAXED_CUT_OXIDIZED_COPPER_WALL.get(); axedVersion = ModBlocks.CUT_WEATHERED_COPPER_WALL.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+
+    public static final RegistryObject<Block> CARVED_COPPER_WALL = registerBlock("carved_copper_wall",
+            () -> new ModWeatheringCopperWallBlock(ModWeatheringCopper.WeatherState.UNAFFECTED,
+                    BlockBehaviour.Properties.copy(Blocks.CUT_COPPER), false){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                canAxe = false; waxedVersion = ModBlocks.WAXED_CARVED_COPPER_WALL.get(); axedVersion = ModBlocks.CARVED_COPPER_WALL.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> CARVED_EXPOSED_COPPER_WALL = registerBlock("carved_exposed_copper_wall",
+            () -> new ModWeatheringCopperWallBlock(ModWeatheringCopper.WeatherState.EXPOSED,
+                    BlockBehaviour.Properties.copy(Blocks.EXPOSED_CUT_COPPER), true){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                waxedVersion = ModBlocks.WAXED_CARVED_EXPOSED_COPPER_WALL.get(); axedVersion = ModBlocks.CARVED_COPPER_WALL.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> CARVED_WEATHERED_COPPER_WALL = registerBlock("carved_weathered_copper_wall",
+            () -> new ModWeatheringCopperWallBlock(ModWeatheringCopper.WeatherState.WEATHERED,
+                    BlockBehaviour.Properties.copy(Blocks.WEATHERED_CUT_COPPER), true){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                waxedVersion = ModBlocks.WAXED_CARVED_WEATHERED_COPPER_WALL.get(); axedVersion = ModBlocks.CARVED_EXPOSED_COPPER_WALL.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> CARVED_OXIDIZED_COPPER_WALL = registerBlock("carved_oxidized_copper_wall",
+            () -> new ModWeatheringCopperWallBlock(ModWeatheringCopper.WeatherState.OXIDIZED,
+                    BlockBehaviour.Properties.copy(Blocks.OXIDIZED_CUT_COPPER), true){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                waxedVersion = ModBlocks.WAXED_CARVED_OXIDIZED_COPPER_WALL.get(); axedVersion = ModBlocks.CARVED_WEATHERED_COPPER_WALL.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+
+    public static final RegistryObject<Block> CARVED_COPPER_STAIRS = registerBlock("carved_copper_stairs",
+            () -> new ModWeatheringCopperStairBlock(ModWeatheringCopper.WeatherState.UNAFFECTED,
+                    Blocks.CUT_COPPER_STAIRS.defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.CUT_COPPER), false){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                canAxe = false; waxedVersion = ModBlocks.WAXED_CARVED_COPPER_STAIRS.get(); axedVersion = ModBlocks.CARVED_COPPER_STAIRS.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> CARVED_EXPOSED_COPPER_STAIRS = registerBlock("carved_exposed_copper_stairs",
+            () -> new ModWeatheringCopperStairBlock(ModWeatheringCopper.WeatherState.EXPOSED,
+                    Blocks.EXPOSED_CUT_COPPER_STAIRS.defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.EXPOSED_CUT_COPPER), true){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                waxedVersion = ModBlocks.WAXED_CARVED_EXPOSED_COPPER_STAIRS.get(); axedVersion = ModBlocks.CARVED_COPPER_STAIRS.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> CARVED_WEATHERED_COPPER_STAIRS = registerBlock("carved_weathered_copper_stairs",
+            () -> new ModWeatheringCopperStairBlock(ModWeatheringCopper.WeatherState.WEATHERED,
+                    Blocks.WEATHERED_CUT_COPPER_STAIRS.defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.WEATHERED_CUT_COPPER), true){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                waxedVersion = ModBlocks.WAXED_CARVED_WEATHERED_COPPER_STAIRS.get(); axedVersion = ModBlocks.CARVED_EXPOSED_COPPER_STAIRS.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> CARVED_OXIDIZED_COPPER_STAIRS = registerBlock("carved_oxidized_copper_stairs",
+            () -> new ModWeatheringCopperStairBlock(ModWeatheringCopper.WeatherState.OXIDIZED,
+                    Blocks.OXIDIZED_CUT_COPPER_STAIRS.defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.OXIDIZED_CUT_COPPER), true){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                waxedVersion = ModBlocks.WAXED_CARVED_OXIDIZED_COPPER_STAIRS.get(); axedVersion = ModBlocks.CARVED_WEATHERED_COPPER_STAIRS.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+
+    public static final RegistryObject<Block> CARVED_COPPER_SLAB = registerBlock("carved_copper_slab",
+            () -> new ModWeatheringCopperSlabBlock(ModWeatheringCopper.WeatherState.UNAFFECTED,
+                    BlockBehaviour.Properties.copy(Blocks.CUT_COPPER), false){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                canAxe = false; waxedVersion = ModBlocks.WAXED_CARVED_COPPER_SLAB.get(); axedVersion = ModBlocks.CARVED_COPPER_SLAB.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> CARVED_EXPOSED_COPPER_SLAB = registerBlock("carved_exposed_copper_slab",
+            () -> new ModWeatheringCopperSlabBlock(ModWeatheringCopper.WeatherState.EXPOSED,
+                    BlockBehaviour.Properties.copy(Blocks.EXPOSED_CUT_COPPER), true){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                waxedVersion = ModBlocks.WAXED_CARVED_EXPOSED_COPPER_SLAB.get(); axedVersion = ModBlocks.CARVED_COPPER_SLAB.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> CARVED_WEATHERED_COPPER_SLAB = registerBlock("carved_weathered_copper_slab",
+            () -> new ModWeatheringCopperSlabBlock(ModWeatheringCopper.WeatherState.WEATHERED,
+                    BlockBehaviour.Properties.copy(Blocks.WEATHERED_CUT_COPPER), true){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                waxedVersion = ModBlocks.WAXED_CARVED_WEATHERED_COPPER_SLAB.get(); axedVersion = ModBlocks.CARVED_EXPOSED_COPPER_SLAB.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> CARVED_OXIDIZED_COPPER_SLAB = registerBlock("carved_oxidized_copper_slab",
+            () -> new ModWeatheringCopperSlabBlock(ModWeatheringCopper.WeatherState.OXIDIZED,
+                    BlockBehaviour.Properties.copy(Blocks.OXIDIZED_CUT_COPPER), true){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                waxedVersion = ModBlocks.WAXED_CARVED_OXIDIZED_COPPER_SLAB.get(); axedVersion = ModBlocks.CARVED_WEATHERED_COPPER_SLAB.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+
+
+
+    public static final RegistryObject<Block> WAXED_LINED_COPPER_WALL = registerBlock("waxed_lined_copper_wall",
+            () -> new ModCopperWallBlock(BlockBehaviour.Properties.copy(Blocks.CUT_COPPER)){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                axedVersion = ModBlocks.LINED_COPPER_WALL.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> WAXED_LINED_EXPOSED_COPPER_WALL = registerBlock("waxed_lined_exposed_copper_wall",
+            () -> new ModCopperWallBlock(BlockBehaviour.Properties.copy(Blocks.EXPOSED_CUT_COPPER)){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                axedVersion = ModBlocks.LINED_EXPOSED_COPPER_WALL.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> WAXED_LINED_WEATHERED_COPPER_WALL = registerBlock("waxed_lined_weathered_copper_wall",
+            () -> new ModCopperWallBlock(BlockBehaviour.Properties.copy(Blocks.WEATHERED_CUT_COPPER)){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                axedVersion = ModBlocks.LINED_WEATHERED_COPPER_WALL.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> WAXED_LINED_OXIDIZED_COPPER_WALL = registerBlock("waxed_lined_oxidized_copper_wall",
+            () -> new ModCopperWallBlock(BlockBehaviour.Properties.copy(Blocks.OXIDIZED_CUT_COPPER)){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                axedVersion = ModBlocks.LINED_OXIDIZED_COPPER_WALL.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+
+    public static final RegistryObject<Block> WAXED_CUBED_COPPER_WALL = registerBlock("waxed_cubed_copper_wall",
+            () -> new ModCopperWallBlock(BlockBehaviour.Properties.copy(Blocks.CUT_COPPER)){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                axedVersion = ModBlocks.CUBED_COPPER_WALL.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> WAXED_CUBED_EXPOSED_COPPER_WALL = registerBlock("waxed_cubed_exposed_copper_wall",
+            () -> new ModCopperWallBlock(BlockBehaviour.Properties.copy(Blocks.EXPOSED_CUT_COPPER)){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                axedVersion = ModBlocks.CUBED_EXPOSED_COPPER_WALL.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> WAXED_CUBED_WEATHERED_COPPER_WALL = registerBlock("waxed_cubed_weathered_copper_wall",
+            () -> new ModCopperWallBlock(BlockBehaviour.Properties.copy(Blocks.WEATHERED_CUT_COPPER)){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                axedVersion = ModBlocks.CUBED_WEATHERED_COPPER_WALL.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> WAXED_CUBED_OXIDIZED_COPPER_WALL = registerBlock("waxed_cubed_oxidized_copper_wall",
+            () -> new ModCopperWallBlock(BlockBehaviour.Properties.copy(Blocks.OXIDIZED_CUT_COPPER)){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                axedVersion = ModBlocks.CUBED_OXIDIZED_COPPER_WALL.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+
+    public static final RegistryObject<Block> WAXED_CUT_COPPER_WALL = registerBlock("waxed_cut_copper_wall",
+            () -> new ModCopperWallBlock(BlockBehaviour.Properties.copy(Blocks.CUT_COPPER)){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                axedVersion = ModBlocks.CUT_COPPER_WALL.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> WAXED_CUT_EXPOSED_COPPER_WALL = registerBlock("waxed_cut_exposed_copper_wall",
+            () -> new ModCopperWallBlock(BlockBehaviour.Properties.copy(Blocks.EXPOSED_CUT_COPPER)){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                axedVersion = ModBlocks.CUT_EXPOSED_COPPER_WALL.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> WAXED_CUT_WEATHERED_COPPER_WALL = registerBlock("waxed_cut_weathered_copper_wall",
+            () -> new ModCopperWallBlock(BlockBehaviour.Properties.copy(Blocks.WEATHERED_CUT_COPPER)){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                axedVersion = ModBlocks.CUT_WEATHERED_COPPER_WALL.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> WAXED_CUT_OXIDIZED_COPPER_WALL = registerBlock("waxed_cut_oxidized_copper_wall",
+            () -> new ModCopperWallBlock(BlockBehaviour.Properties.copy(Blocks.OXIDIZED_CUT_COPPER)){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                axedVersion = ModBlocks.CUT_OXIDIZED_COPPER_WALL.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+
+    public static final RegistryObject<Block> WAXED_CARVED_COPPER_WALL = registerBlock("waxed_carved_copper_wall",
+            () -> new ModCopperWallBlock(BlockBehaviour.Properties.copy(Blocks.CUT_COPPER)){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                axedVersion = ModBlocks.CARVED_COPPER_WALL.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> WAXED_CARVED_EXPOSED_COPPER_WALL = registerBlock("waxed_carved_exposed_copper_wall",
+            () -> new ModCopperWallBlock(BlockBehaviour.Properties.copy(Blocks.EXPOSED_CUT_COPPER)){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                axedVersion = ModBlocks.CARVED_EXPOSED_COPPER_WALL.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> WAXED_CARVED_WEATHERED_COPPER_WALL = registerBlock("waxed_carved_weathered_copper_wall",
+            () -> new ModCopperWallBlock(BlockBehaviour.Properties.copy(Blocks.WEATHERED_CUT_COPPER)){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                axedVersion = ModBlocks.CARVED_WEATHERED_COPPER_WALL.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> WAXED_CARVED_OXIDIZED_COPPER_WALL = registerBlock("waxed_carved_oxidized_copper_wall",
+            () -> new ModCopperWallBlock(BlockBehaviour.Properties.copy(Blocks.OXIDIZED_CUT_COPPER)){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                axedVersion = ModBlocks.CARVED_OXIDIZED_COPPER_WALL.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+
+    public static final RegistryObject<Block> WAXED_CARVED_COPPER_STAIRS = registerBlock("waxed_carved_copper_stairs",
+            () -> new ModCopperStairBlock(Blocks.CUT_COPPER_STAIRS.defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.CUT_COPPER)){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                axedVersion = ModBlocks.CARVED_COPPER_STAIRS.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> WAXED_CARVED_EXPOSED_COPPER_STAIRS = registerBlock("waxed_carved_exposed_copper_stairs",
+            () -> new ModCopperStairBlock(Blocks.EXPOSED_CUT_COPPER_STAIRS.defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.EXPOSED_CUT_COPPER)){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                axedVersion = ModBlocks.CARVED_EXPOSED_COPPER_STAIRS.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> WAXED_CARVED_WEATHERED_COPPER_STAIRS = registerBlock("waxed_carved_weathered_copper_stairs",
+            () -> new ModCopperStairBlock(Blocks.WEATHERED_CUT_COPPER_STAIRS.defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.WEATHERED_CUT_COPPER)){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                axedVersion = ModBlocks.CARVED_WEATHERED_COPPER_STAIRS.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> WAXED_CARVED_OXIDIZED_COPPER_STAIRS = registerBlock("waxed_carved_oxidized_copper_stairs",
+            () -> new ModCopperStairBlock(Blocks.OXIDIZED_CUT_COPPER_STAIRS.defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.OXIDIZED_CUT_COPPER)){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                axedVersion = ModBlocks.CARVED_OXIDIZED_COPPER_STAIRS.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+
+    public static final RegistryObject<Block> WAXED_CARVED_COPPER_SLAB = registerBlock("waxed_carved_copper_slab",
+            () -> new ModCopperSlabBlock(BlockBehaviour.Properties.copy(Blocks.CUT_COPPER)){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                axedVersion = ModBlocks.CARVED_COPPER_SLAB.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> WAXED_CARVED_EXPOSED_COPPER_SLAB = registerBlock("waxed_carved_exposed_copper_slab",
+            () -> new ModCopperSlabBlock(BlockBehaviour.Properties.copy(Blocks.EXPOSED_CUT_COPPER)){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                axedVersion = ModBlocks.CARVED_EXPOSED_COPPER_SLAB.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> WAXED_CARVED_WEATHERED_COPPER_SLAB = registerBlock("waxed_carved_weathered_copper_slab",
+            () -> new ModCopperSlabBlock(BlockBehaviour.Properties.copy(Blocks.WEATHERED_CUT_COPPER)){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                axedVersion = ModBlocks.CARVED_WEATHERED_COPPER_SLAB.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> WAXED_CARVED_OXIDIZED_COPPER_SLAB = registerBlock("waxed_carved_oxidized_copper_slab",
+            () -> new ModCopperSlabBlock(BlockBehaviour.Properties.copy(Blocks.OXIDIZED_CUT_COPPER)){ @Override public InteractionResult use(BlockState state, Level worldIn, BlockPos pos, Player player, InteractionHand handIn, BlockHitResult hit) {
+                axedVersion = ModBlocks.CARVED_OXIDIZED_COPPER_SLAB.get(); useOnBlock(state, worldIn, pos, player, handIn, hit); return InteractionResult.PASS; }
+            }, CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+
+
+
+
+
 
     public static final RegistryObject<Block> COPPER_ORE = registerBlock("copper_ore",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.COPPER_ORE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);

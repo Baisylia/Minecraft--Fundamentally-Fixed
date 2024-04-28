@@ -10,5 +10,6 @@
   "block.caverns_and_chasms.mossy_cobblestone_tiles": "Phyton",
   "block.caverns_and_chasms.mossy_cobblestone_tile_stairs": "Phyton Stairs",
   "block.caverns_and_chasms.mossy_cobblestone_tile_slab": "Phyton Slab",
-  "block.caverns_and_chasms.mossy_cobblestone_tile_wall": "Phyton Wall"
+  "block.caverns_and_chasms.mossy_cobblestone_tile_wall": "Phyton Wall",
+  "block.caverns_and_chasms.polished_tuff": "Cracked Sandstone Bricks"
 }

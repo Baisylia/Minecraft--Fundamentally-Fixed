@@ -251,6 +251,16 @@
   
   
   
+  "block.fundamentallyfixed.carved_copper_stairs": "Carved Copper Stairs",
+  "block.fundamentallyfixed.carved_exposed_copper_stairs": "Carved Exposed Copper Stairs",
+  "block.fundamentallyfixed.carved_weathered_copper_stairs": "Carved Weathered Copper Stairs",
+  "block.fundamentallyfixed.carved_oxidized_copper_stairs": "Carved Oxidized Copper Stairs",
+  "block.fundamentallyfixed.waxed_carved_copper_stairs": "Waxed Carved Copper Stairs",
+  "block.fundamentallyfixed.waxed_carved_exposed_copper_stairs": "Waxed Carved Exposed Copper Stairs",
+  "block.fundamentallyfixed.waxed_carved_weathered_copper_stairs": "Waxed Carved Weathered Copper Stairs",
+  "block.fundamentallyfixed.waxed_carved_oxidized_copper_stairs": "Waxed Carved Oxidized Copper Stairs",
+  
+  
   
   "block.fundamentallyfixed.carved_aluminium_stairs": "Carved Aluminium Stairs",
   "block.fundamentallyfixed.cut_aluminium_stairs": "Cut Aluminium Stairs",
@@ -332,6 +342,16 @@
   
   
   
+  "block.fundamentallyfixed.carved_copper_slab": "Carved Copper Slab",
+  "block.fundamentallyfixed.carved_exposed_copper_slab": "Carved Exposed Copper Slab",
+  "block.fundamentallyfixed.carved_weathered_copper_slab": "Carved Weathered Copper Slab",
+  "block.fundamentallyfixed.carved_oxidized_copper_slab": "Carved Oxidized Copper Slab",
+  "block.fundamentallyfixed.waxed_carved_copper_slab": "Waxed Carved Copper Slab",
+  "block.fundamentallyfixed.waxed_carved_exposed_copper_slab": "Waxed Carved Exposed Copper Slab",
+  "block.fundamentallyfixed.waxed_carved_weathered_copper_slab": "Waxed Carved Weathered Copper Slab",
+  "block.fundamentallyfixed.waxed_carved_oxidized_copper_slab": "Waxed Carved Oxidized Copper Slab",
+  
+  
   
   "block.fundamentallyfixed.carved_aluminium_slab": "Carved Aluminium Slab",
   "block.fundamentallyfixed.cut_aluminium_slab": "Cut Aluminium Slab",
@@ -411,6 +431,43 @@
   "block.fundamentallyfixed.cubed_stoldum_slab": "Cubed Stoldum Slab",
   "block.fundamentallyfixed.lined_stoldum_slab": "Lined Stoldum Slab",
   
+  
+  
+  "block.fundamentallyfixed.carved_copper_wall": "Carved Copper Wall",
+  "block.fundamentallyfixed.carved_exposed_copper_wall": "Carved Exposed Copper Wall",
+  "block.fundamentallyfixed.carved_weathered_copper_wall": "Carved Weathered Copper Wall",
+  "block.fundamentallyfixed.carved_oxidized_copper_wall": "Carved Oxidized Copper Wall",
+  "block.fundamentallyfixed.waxed_carved_copper_wall": "Waxed Carved Copper Wall",
+  "block.fundamentallyfixed.waxed_carved_exposed_copper_wall": "Waxed Carved Exposed Copper Wall",
+  "block.fundamentallyfixed.waxed_carved_weathered_copper_wall": "Waxed Carved Weathered Copper Wall",
+  "block.fundamentallyfixed.waxed_carved_oxidized_copper_wall": "Waxed Carved Oxidized Copper Wall",
+  
+  "block.fundamentallyfixed.cut_copper_wall": "Cut Copper Wall",
+  "block.fundamentallyfixed.cut_exposed_copper_wall": "Cut Exposed Copper Wall",
+  "block.fundamentallyfixed.cut_weathered_copper_wall": "Cut Weathered Copper Wall",
+  "block.fundamentallyfixed.cut_oxidized_copper_wall": "Cut Oxidized Copper Wall",
+  "block.fundamentallyfixed.waxed_cut_copper_wall": "Waxed Cut Copper Wall",
+  "block.fundamentallyfixed.waxed_cut_exposed_copper_wall": "Waxed Cut Exposed Copper Wall",
+  "block.fundamentallyfixed.waxed_cut_weathered_copper_wall": "Waxed Cut Weathered Copper Wall",
+  "block.fundamentallyfixed.waxed_cut_oxidized_copper_wall": "Waxed Cut Oxidized Copper Wall",
+  
+  "block.fundamentallyfixed.cubed_copper_wall": "Cubed Copper Wall",
+  "block.fundamentallyfixed.cubed_exposed_copper_wall": "Cubed Exposed Copper Wall",
+  "block.fundamentallyfixed.cubed_weathered_copper_wall": "Cubed Weathered Copper Wall",
+  "block.fundamentallyfixed.cubed_oxidized_copper_wall": "Cubed Oxidized Copper Wall",
+  "block.fundamentallyfixed.waxed_cubed_copper_wall": "Waxed Cubed Copper Wall",
+  "block.fundamentallyfixed.waxed_cubed_exposed_copper_wall": "Waxed Cubed Exposed Copper Wall",
+  "block.fundamentallyfixed.waxed_cubed_weathered_copper_wall": "Waxed Cubed Weathered Copper Wall",
+  "block.fundamentallyfixed.waxed_cubed_oxidized_copper_wall": "Waxed Cubed Oxidized Copper Wall",
+  
+  "block.fundamentallyfixed.lined_copper_wall": "Lined Copper Wall",
+  "block.fundamentallyfixed.lined_exposed_copper_wall": "Lined Exposed Copper Wall",
+  "block.fundamentallyfixed.lined_weathered_copper_wall": "Lined Weathered Copper Wall",
+  "block.fundamentallyfixed.lined_oxidized_copper_wall": "Lined Oxidized Copper Wall",
+  "block.fundamentallyfixed.waxed_lined_copper_wall": "Waxed Lined Copper Wall",
+  "block.fundamentallyfixed.waxed_lined_exposed_copper_wall": "Waxed Lined Exposed Copper Wall",
+  "block.fundamentallyfixed.waxed_lined_weathered_copper_wall": "Waxed Lined Weathered Copper Wall",
+  "block.fundamentallyfixed.waxed_lined_oxidized_copper_wall": "Waxed Lined Oxidized Copper Wall",
   
   
   

@@ -13,11 +13,81 @@ val aluminium = [["fundamentallyfixed", "aluminium_ingot"], ["fundamentallyfixed
 
 val copper = [["minecraft", "copper_ingot"], ["modestmining", "copper_nugget"], ["create", "copper_sheet"],
 ["minecraft", "copper_block"], ["copperandtuffbackport", "chiseled_copper"], ["alloyed", "bronze_block"],
-["minecraft", "barrier"], ["minecraft", "barrier"], ["minecraft", "barrier"],
+["fundamentallyfixed", "carved_copper_stairs"], ["fundamentallyfixed", "carved_copper_slab"], ["fundamentallyfixed", "carved_copper_wall"],
 ["minecraft", "cut_copper"], ["minecraft", "cut_copper_stairs"], ["minecraft", "cut_copper_slab"],
-["minecraft", "barrier"], ["create", "copper_shingles"], ["create", "copper_shingle_stairs"],
-["create", "copper_shingle_slab"], ["minecraft", "barrier"], ["create", "copper_tiles"],
-["create", "copper_tile_stairs"], ["create", "copper_tile_slab"], ["minecraft", "barrier"],
+["fundamentallyfixed", "cut_copper_wall"], ["create", "copper_shingles"], ["create", "copper_shingle_stairs"],
+["create", "copper_shingle_slab"], ["fundamentallyfixed", "cubed_copper_wall"], ["create", "copper_tiles"],
+["create", "copper_tile_stairs"], ["create", "copper_tile_slab"], ["fundamentallyfixed", "lined_copper_wall"],
+["fundamentallyfixed", "forging_fuels_zero"],
+["fundamentallyfixed", "raw_copper_nugget"], ["minecraft", "raw_copper"], ["modestmining", "copper_dust"]] as string[][];
+
+val exposed_copper = [["minecraft", "copper_ingot"], ["modestmining", "copper_nugget"], ["create", "copper_sheet"],
+["minecraft", "exposed_copper"], ["copperandtuffbackport", "exposed_chiseled_copper"], ["alloyed", "exposed_bronze_block"],
+["fundamentallyfixed", "carved_exposed_copper_stairs"], ["fundamentallyfixed", "carved_exposed_copper_slab"], ["fundamentallyfixed", "carved_exposed_copper_wall"],
+["minecraft", "exposed_cut_copper"], ["minecraft", "exposed_cut_copper_stairs"], ["minecraft", "exposed_cut_copper_slab"],
+["fundamentallyfixed", "cut_exposed_copper_wall"], ["create", "exposed_copper_shingles"], ["create", "exposed_copper_shingle_stairs"],
+["create", "exposed_copper_shingle_slab"], ["fundamentallyfixed", "cubed_exposed_copper_wall"], ["create", "exposed_copper_tiles"],
+["create", "exposed_copper_tile_stairs"], ["create", "exposed_copper_tile_slab"], ["fundamentallyfixed", "lined_exposed_copper_wall"],
+["fundamentallyfixed", "forging_fuels_zero"],
+["fundamentallyfixed", "raw_copper_nugget"], ["minecraft", "raw_copper"], ["modestmining", "copper_dust"]] as string[][];
+
+val weathered_copper = [["minecraft", "copper_ingot"], ["modestmining", "copper_nugget"], ["create", "copper_sheet"],
+["minecraft", "weathered_copper"], ["copperandtuffbackport", "weathered_chiseled_copper"], ["alloyed", "weathered_bronze_block"],
+["fundamentallyfixed", "carved_weathered_copper_stairs"], ["fundamentallyfixed", "carved_weathered_copper_slab"], ["fundamentallyfixed", "carved_weathered_copper_wall"],
+["minecraft", "weathered_cut_copper"], ["minecraft", "weathered_cut_copper_stairs"], ["minecraft", "weathered_cut_copper_slab"],
+["fundamentallyfixed", "cut_weathered_copper_wall"], ["create", "weathered_copper_shingles"], ["create", "weathered_copper_shingle_stairs"],
+["create", "weathered_copper_shingle_slab"], ["fundamentallyfixed", "cubed_weathered_copper_wall"], ["create", "weathered_copper_tiles"],
+["create", "weathered_copper_tile_stairs"], ["create", "weathered_copper_tile_slab"], ["fundamentallyfixed", "lined_weathered_copper_wall"],
+["fundamentallyfixed", "forging_fuels_zero"],
+["fundamentallyfixed", "raw_copper_nugget"], ["minecraft", "raw_copper"], ["modestmining", "copper_dust"]] as string[][];
+
+val oxidized_copper = [["minecraft", "copper_ingot"], ["modestmining", "copper_nugget"], ["create", "copper_sheet"],
+["minecraft", "oxidized_copper"], ["copperandtuffbackport", "oxidized_chiseled_copper"], ["alloyed", "oxidized_bronze_block"],
+["fundamentallyfixed", "carved_oxidized_copper_stairs"], ["fundamentallyfixed", "carved_oxidized_copper_slab"], ["fundamentallyfixed", "carved_oxidized_copper_wall"],
+["minecraft", "oxidized_cut_copper"], ["minecraft", "oxidized_cut_copper_stairs"], ["minecraft", "oxidized_cut_copper_slab"],
+["fundamentallyfixed", "cut_oxidized_copper_wall"], ["create", "oxidized_copper_shingles"], ["create", "oxidized_copper_shingle_stairs"],
+["create", "oxidized_copper_shingle_slab"], ["fundamentallyfixed", "cubed_oxidized_copper_wall"], ["create", "oxidized_copper_tiles"],
+["create", "oxidized_copper_tile_stairs"], ["create", "oxidized_copper_tile_slab"], ["fundamentallyfixed", "lined_oxidized_copper_wall"],
+["fundamentallyfixed", "forging_fuels_zero"],
+["fundamentallyfixed", "raw_copper_nugget"], ["minecraft", "raw_copper"], ["modestmining", "copper_dust"]] as string[][];
+
+val waxed_copper = [["minecraft", "copper_ingot"], ["modestmining", "copper_nugget"], ["create", "copper_sheet"],
+["minecraft", "waxed_copper_block"], ["copperandtuffbackport", "waxed_chiseled_copper"], ["alloyed", "waxed_bronze_block"],
+["fundamentallyfixed", "waxed_carved_copper_stairs"], ["fundamentallyfixed", "waxed_carved_copper_slab"], ["fundamentallyfixed", "waxed_carved_copper_wall"],
+["minecraft", "waxed_cut_copper"], ["minecraft", "waxed_cut_copper_stairs"], ["minecraft", "waxed_cut_copper_slab"],
+["fundamentallyfixed", "waxed_cut_copper_wall"], ["create", "waxed_copper_shingles"], ["create", "waxed_copper_shingle_stairs"],
+["create", "waxed_copper_shingle_slab"], ["fundamentallyfixed", "waxed_cubed_copper_wall"], ["create", "waxed_copper_tiles"],
+["create", "waxed_copper_tile_stairs"], ["create", "waxed_copper_tile_slab"], ["fundamentallyfixed", "waxed_lined_copper_wall"],
+["fundamentallyfixed", "forging_fuels_zero"],
+["fundamentallyfixed", "raw_copper_nugget"], ["minecraft", "raw_copper"], ["modestmining", "copper_dust"]] as string[][];
+
+val waxed_exposed_copper = [["minecraft", "copper_ingot"], ["modestmining", "copper_nugget"], ["create", "copper_sheet"],
+["minecraft", "waxed_exposed_copper"], ["copperandtuffbackport", "waxed_exposed_chiseled_copper"], ["alloyed", "waxed_exposed_bronze_block"],
+["fundamentallyfixed", "waxed_carved_exposed_copper_stairs"], ["fundamentallyfixed", "waxed_carved_exposed_copper_slab"], ["fundamentallyfixed", "waxed_carved_exposed_copper_wall"],
+["minecraft", "waxed_exposed_cut_copper"], ["minecraft", "waxed_exposed_cut_copper_stairs"], ["minecraft", "waxed_exposed_cut_copper_slab"],
+["fundamentallyfixed", "waxed_cut_exposed_copper_wall"], ["create", "waxed_exposed_copper_shingles"], ["create", "waxed_exposed_copper_shingle_stairs"],
+["create", "waxed_exposed_copper_shingle_slab"], ["fundamentallyfixed", "waxed_cubed_exposed_copper_wall"], ["create", "waxed_exposed_copper_tiles"],
+["create", "waxed_exposed_copper_tile_stairs"], ["create", "waxed_exposed_copper_tile_slab"], ["fundamentallyfixed", "waxed_lined_exposed_copper_wall"],
+["fundamentallyfixed", "forging_fuels_zero"],
+["fundamentallyfixed", "raw_copper_nugget"], ["minecraft", "raw_copper"], ["modestmining", "copper_dust"]] as string[][];
+
+val waxed_weathered_copper = [["minecraft", "copper_ingot"], ["modestmining", "copper_nugget"], ["create", "copper_sheet"],
+["minecraft", "waxed_weathered_copper"], ["copperandtuffbackport", "waxed_weathered_chiseled_copper"], ["alloyed", "waxed_weathered_bronze_block"],
+["fundamentallyfixed", "waxed_carved_weathered_copper_stairs"], ["fundamentallyfixed", "waxed_carved_weathered_copper_slab"], ["fundamentallyfixed", "waxed_carved_weathered_copper_wall"],
+["minecraft", "waxed_weathered_cut_copper"], ["minecraft", "waxed_weathered_cut_copper_stairs"], ["minecraft", "waxed_weathered_cut_copper_slab"],
+["fundamentallyfixed", "waxed_cut_weathered_copper_wall"], ["create", "waxed_weathered_copper_shingles"], ["create", "waxed_weathered_copper_shingle_stairs"],
+["create", "waxed_weathered_copper_shingle_slab"], ["fundamentallyfixed", "waxed_cubed_weathered_copper_wall"], ["create", "waxed_weathered_copper_tiles"],
+["create", "waxed_weathered_copper_tile_stairs"], ["create", "waxed_weathered_copper_tile_slab"], ["fundamentallyfixed", "waxed_lined_weathered_copper_wall"],
+["fundamentallyfixed", "forging_fuels_zero"],
+["fundamentallyfixed", "raw_copper_nugget"], ["minecraft", "raw_copper"], ["modestmining", "copper_dust"]] as string[][];
+
+val waxed_oxidized_copper = [["minecraft", "copper_ingot"], ["modestmining", "copper_nugget"], ["create", "copper_sheet"],
+["minecraft", "waxed_oxidized_copper"], ["copperandtuffbackport", "waxed_oxidized_chiseled_copper"], ["alloyed", "waxed_oxidized_bronze_block"],
+["fundamentallyfixed", "waxed_carved_oxidized_copper_stairs"], ["fundamentallyfixed", "waxed_carved_oxidized_copper_slab"], ["fundamentallyfixed", "waxed_carved_oxidized_copper_wall"],
+["minecraft", "waxed_oxidized_cut_copper"], ["minecraft", "waxed_oxidized_cut_copper_stairs"], ["minecraft", "waxed_oxidized_cut_copper_slab"],
+["fundamentallyfixed", "waxed_cut_oxidized_copper_wall"], ["create", "waxed_oxidized_copper_shingles"], ["create", "waxed_oxidized_copper_shingle_stairs"],
+["create", "waxed_oxidized_copper_shingle_slab"], ["fundamentallyfixed", "waxed_cubed_oxidized_copper_wall"], ["create", "waxed_oxidized_copper_tiles"],
+["create", "waxed_oxidized_copper_tile_stairs"], ["create", "waxed_oxidized_copper_tile_slab"], ["fundamentallyfixed", "waxed_lined_oxidized_copper_wall"],
 ["fundamentallyfixed", "forging_fuels_zero"],
 ["fundamentallyfixed", "raw_copper_nugget"], ["minecraft", "raw_copper"], ["modestmining", "copper_dust"]] as string[][];
 
@@ -161,9 +231,27 @@ val voidendum = [["fundamentallyfixed", "voidendum_ingot"], ["fundamentallyfixed
 ["fundamentallyfixed", "forging_fuels_zero"]] as string[][];
 
 
-val metalSets = [aluminium, copper, bronze, iron, lead, steel, gold, silver, stoldum, prismarite, netherite, electrum, chlorophite, mythril, hallowed, gravitite, voidendum] as string[][][];
+val ingotSets = [aluminium, copper, bronze, iron, lead, steel, gold, silver, stoldum, prismarite, netherite, electrum, chlorophite, mythril, hallowed, gravitite, voidendum] as string[][][];
+val metalSets = [aluminium, copper, exposed_copper, weathered_copper, oxidized_copper, waxed_copper, waxed_exposed_copper, waxed_weathered_copper, waxed_oxidized_copper, bronze, iron, lead, steel, gold, silver, stoldum, prismarite, netherite, electrum, chlorophite, mythril, hallowed, gravitite, voidendum] as string[][][];
 val oreSets = [aluminium, copper, iron, lead, gold, silver] as string[][][];
+val copperSets = [[copper, waxed_copper], [exposed_copper, waxed_exposed_copper], [weathered_copper, waxed_weathered_copper], [oxidized_copper, waxed_oxidized_copper]] as string[][][][];
 
+for copperDuoSet in copperSets {
+  val copperUnwaxed = copperDuoSet[0];
+  val copperWaxed = copperDuoSet[1];
+  for i, copperset in copperUnwaxed {
+    if (i > 2) {
+      if (i < 21) {
+        val copperItem = copperset[0] + ":" + copperset[1];
+        val waxed = copperWaxed[i];
+        val waxedItem = waxed[0] + ":" + waxed[1];
+
+        craftingTable.addShapeless(waxed[1] + "_waxed", <item:${waxedItem}>, [
+        <item:${copperItem}>, <item:minecraft:honeycomb>]);
+      }
+    }
+  }
+}
 
 for metalSet in metalSets {
   val ingot = metalSet[0];
@@ -338,7 +426,7 @@ for metalSet in metalSets {
   [<item:${cubedItem}>, <item:${cubedItem}>]
   ]);
 
-  stoneCutter.addRecipe(lined[1] + "_from_cut_stonecut", <item:${linedItem}>, <item:${cubedItem}>);
+  stoneCutter.addRecipe(lined[1] + "_from_cubed_stonecut", <item:${linedItem}>, <item:${cubedItem}>);
   stoneCutter.addRecipe(lined[1] + "_from_cut_stonecut", <item:${linedItem}>, <item:${cutItem}>);
   stoneCutter.addRecipe(lined[1] + "_from_carved_stonecut", <item:${linedItem}>, <item:${carvedItem}>);
   stoneCutter.addRecipe(lined[1] + "_from_block_stonecut", <item:${linedItem}> * 2, <item:${blockItem}>);

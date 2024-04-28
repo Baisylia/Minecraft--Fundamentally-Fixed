@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "#": {
-      "item": "minecraft:sand"
+       "tag": "fundamentallyfixed:normal_sands"
     }
   },
   "pattern": [

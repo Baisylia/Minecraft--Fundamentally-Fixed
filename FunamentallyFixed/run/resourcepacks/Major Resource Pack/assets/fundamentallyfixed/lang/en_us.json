@@ -1,4 +1,7 @@
 {
   "block.fundamentallyfixed.glance_pillar": "Stone Pillar",
-  "block.fundamentallyfixed.ochrum_pillar": "Deepslate Pillar"
+  "block.fundamentallyfixed.ochrum_pillar": "Deepslate Pillar",
+  "block.fundamentallyfixed.scorchia_pillar": "Red Sandstone Pillar",
+  "block.fundamentallyfixed.scoria_pillar": "Sandstone Pillar",
+  "block.fundamentallyfixed.soul_slate_pillar": "Soul Sandstone Pillar"
 }

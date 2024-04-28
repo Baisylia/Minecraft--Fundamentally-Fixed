@@ -63,8 +63,38 @@ val prismarine = [["minecraft", "prismarine"], ["caverns_and_chasms", "cobblesto
 ["create", "polished_cut_ochrum"], ["supplementaries", "stone_lamp"], ["upgrade_aquatic", "prismarine_rod_bundle"],
 ["fundamentallyfixed", "sturdy_prismarine"], ["fundamentallyfixed", "phyton_button"], ["fundamentallyfixed", "phyton_pressure_plate"]] as string[][];
 
+val sandstone = [["atmospheric", "smooth_arid_sandstone"], ["quark", "sandstone_bricks"], ["minecraft", "sandstone"], ["minecraft", "cut_sandstone"],
+["atmospheric", "arid_sandstone_bricks"], ["minecraft", "smooth_sandstone"], ["atmospheric", "arid_sandstone_stairs"], ["atmospheric", "arid_sandstone_slab"], ["atmospheric", "arid_sandstone_wall"],
+["quark", "sandstone_bricks_stairs"], ["quark", "sandstone_bricks_slab"], ["quark", "sandstone_bricks_wall"], ["minecraft", "polished_andesite"],
+["minecraft", "sandstone_stairs"], ["minecraft", "sandstone_slab"], ["minecraft", "sandstone_wall"],
+["create", "polished_cut_asurine_stairs"], ["minecraft", "cut_sandstone_slab"], ["create", "polished_cut_asurine_wall"],
+["atmospheric", "arid_sandstone_brick_stairs"], ["atmospheric", "arid_sandstone_brick_slab"], ["atmospheric", "arid_sandstone_brick_wall"], ["caverns_and_chasms", "polished_tuff"],
+["minecraft", "smooth_sandstone_stairs"], ["minecraft", "smooth_sandstone_slab"], ["create", "small_asurine_brick_wall"],
+["minecraft", "chiseled_sandstone"], ["supplementaries", "stone_lamp"], ["fundamentallyfixed", "scoria_pillar"],
+["fundamentallyfixed", "sturdy_sandstone"], ["fundamentallyfixed", "sandstone_button"], ["fundamentallyfixed", "sandstone_pressure_plate"]] as string[][];
 
-val stoneSets = [stone, deepslate, blackstone, altisite, dripstone, prismarine] as string[][][];
+val red_sandstone = [["atmospheric", "red_arid_sandstone"], ["quark", "red_sandstone_bricks"], ["minecraft", "red_sandstone"], ["minecraft", "cut_red_sandstone"],
+["atmospheric", "red_arid_sandstone_bricks"], ["minecraft", "smooth_red_sandstone"], ["atmospheric", "red_arid_sandstone_stairs"], ["atmospheric", "red_arid_sandstone_slab"], ["atmospheric", "red_arid_sandstone_wall"],
+["quark", "red_sandstone_bricks_stairs"], ["quark", "red_sandstone_bricks_slab"], ["quark", "red_sandstone_bricks_wall"], ["minecraft", "polished_diorite"],
+["minecraft", "red_sandstone_stairs"], ["minecraft", "red_sandstone_slab"], ["minecraft", "red_sandstone_wall"],
+["create", "cut_asurine_stairs"], ["minecraft", "cut_red_sandstone_slab"], ["create", "cut_asurine_wall"],
+["atmospheric", "red_arid_sandstone_brick_stairs"], ["atmospheric", "red_arid_sandstone_brick_slab"], ["atmospheric", "red_arid_sandstone_brick_wall"], ["minecraft", "polished_granite"],
+["minecraft", "smooth_red_sandstone_stairs"], ["minecraft", "smooth_red_sandstone_slab"], ["create", "cut_asurine_brick_wall"],
+["minecraft", "chiseled_red_sandstone"], ["supplementaries", "stone_lamp"], ["fundamentallyfixed", "scorchia_pillar"],
+["fundamentallyfixed", "sturdy_red_sandstone"], ["fundamentallyfixed", "red_sandstone_button"], ["fundamentallyfixed", "red_sandstone_pressure_plate"]] as string[][];
+
+val soul_sandstone = [["quark", "soul_sandstone"], ["infernalexp", "soul_stone_bricks"], ["infernalexp", "soul_stone"], ["infernalexp", "soul_slate"],
+["infernalexp", "soul_slate_bricks"], ["quark", "smooth_soul_sandstone"], ["quark", "soul_sandstone_stairs"], ["quark", "soul_sandstone_slab"], ["quark", "soul_sandstone_wall"],
+["infernalexp", "soul_stone_brick_stairs"], ["infernalexp", "soul_stone_brick_slab"], ["infernalexp", "soul_stone_brick_wall"], ["infernalexp", "cracked_soul_stone_bricks"],
+["infernalexp", "soul_stone_stairs"], ["infernalexp", "soul_stone_slab"], ["infernalexp", "soul_stone_wall"],
+["infernalexp", "soul_slate_stairs"], ["infernalexp", "soul_slate_slab"], ["create", "small_crimsite_brick_wall"],
+["infernalexp", "soul_slate_brick_stairs"], ["infernalexp", "soul_slate_brick_slab"], ["infernalexp", "soul_slate_brick_wall"], ["create", "cut_scoria_bricks"],
+["quark", "smooth_soul_sandstone_stairs"], ["quark", "smooth_soul_sandstone_slab"], ["create", "cut_scoria_wall"],
+["infernalexp", "chiseled_soul_stone_bricks"], ["supplementaries", "stone_lamp"], ["fundamentallyfixed", "soul_slate_pillar"],
+["fundamentallyfixed", "sturdy_soul_stone"], ["infernalexp", "soul_slate_button"], ["infernalexp", "polished_basalt_pressure_plate"]] as string[][];
+
+
+val stoneSets = [stone, deepslate, blackstone, altisite, dripstone, prismarine, sandstone, red_sandstone, soul_sandstone] as string[][][];
 
 val glowstone = ["minecraft", "glowstone"] as string[];
 val glowstoneItem = glowstone[0] + ":" + glowstone[1];

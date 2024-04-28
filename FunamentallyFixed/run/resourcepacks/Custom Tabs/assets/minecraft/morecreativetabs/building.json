@@ -135,18 +135,6 @@
       "name": "minecraft:mud_brick_wall"
     },
     {
-      "name": "fundamentallyfixed:mossy_mud_bricks"
-    },
-    {
-      "name": "fundamentallyfixed:mossy_mud_brick_stairs"
-    },
-    {
-      "name": "fundamentallyfixed:mossy_mud_brick_slab"
-    },
-    {
-      "name": "fundamentallyfixed:mossy_mud_brick_wall"
-    },
-    {
       "name": "fundamentallyfixed:cracked_mud_bricks"
     },
     {
@@ -159,117 +147,6 @@
       "name": "quark:mud_brick_lattice"
     },
 
-
-    {
-      "name": "minecraft:sand"
-    },
-    {
-      "name": "minecraft:sandstone"
-    },
-    {
-      "name": "minecraft:sandstone_stairs"
-    },
-    {
-      "name": "minecraft:sandstone_slab"
-    },
-    {
-      "name": "minecraft:sandstone_wall"
-    },
-    {
-      "name": "minecraft:chiseled_sandstone"
-    },
-    {
-      "name": "minecraft:cut_sandstone"
-    },
-    {
-      "name": "minecraft:cut_sandstone_stairs"
-    },
-    {
-      "name": "minecraft:cut_sandstone_slab"
-    },
-    {
-      "name": "fundamentallyfixed:cut_sandstone_wall"
-    },
-    {
-      "name": "minecraft:smooth_sandstone"
-    },
-    {
-      "name": "minecraft:smooth_sandstone_stairs"
-    },
-    {
-      "name": "minecraft:smooth_sandstone_slab"
-    },
-    {
-      "name": "fundamentallyfixed:smooth_sandstone_wall"
-    },
-    {
-      "name": "quark:sandstone_bricks"
-    },
-    {
-      "name": "quark:sandstone_bricks_stairs"
-    },
-    {
-      "name": "quark:sandstone_bricks_slab"
-    },
-    {
-      "name": "quark:sandstone_bricks_wall"
-    },
-
-
-    {
-      "name": "minecraft:red_sand"
-    },
-    {
-      "name": "minecraft:red_sandstone"
-    },
-    {
-      "name": "minecraft:red_sandstone_stairs"
-    },
-    {
-      "name": "minecraft:red_sandstone_slab"
-    },
-    {
-      "name": "minecraft:red_sandstone_wall"
-    },
-    {
-      "name": "minecraft:chiseled_red_sandstone"
-    },
-    {
-      "name": "minecraft:cut_red_sandstone"
-    },
-    {
-      "name": "minecraft:cut_red_sandstone_stairs"
-    },
-    {
-      "name": "minecraft:cut_red_sandstone_slab"
-    },
-    {
-      "name": "fundamentallyfixed:cut_red_sandstone_wall"
-    },
-    {
-      "name": "minecraft:smooth_red_sandstone"
-    },
-    {
-      "name": "minecraft:smooth_red_sandstone_stairs"
-    },
-    {
-      "name": "minecraft:smooth_red_sandstone_slab"
-    },
-    {
-      "name": "fundamentallyfixed:smooth_red_sandstone_wall"
-    },
-    {
-      "name": "quark:red_sandstone_bricks"
-    },
-    {
-      "name": "quark:red_sandstone_bricks_stairs"
-    },
-    {
-      "name": "quark:red_sandstone_bricks_slab"
-    },
-    {
-      "name": "quark:red_sandstone_bricks_wall"
-    },
 
 
     {
@@ -288,25 +165,25 @@
       "name": "clayworks:terracotta_wall"
     },
     {
-      "name": "quark:shingles"
+      "name": "hnh:shingles"
     },
     {
-      "name": "quark:shingles_stairs"
+      "name": "hnh:shingle_stairs"
     },
     {
-      "name": "quark:shingles_slab"
+      "name": "hnh:shingle_slab"
     },
     {
       "name": "fundamentallyfixed:shingles_wall"
     },
     {
-      "name": "clayworks:terracotta_bricks"
+      "name": "hnh:terracotta_bricks"
     },
     {
-      "name": "clayworks:terracotta_brick_stairs"
+      "name": "hnh:terracotta_brick_stairs"
     },
     {
-      "name": "clayworks:terracotta_brick_slab"
+      "name": "hnh:terracotta_brick_slab"
     },
     {
       "name": "clayworks:terracotta_brick_wall"
@@ -340,18 +217,6 @@
     },
     {
       "name": "modestmining:adobe_brick_wall"
-    },
-    {
-      "name": "modestmining:mossy_adobe_bricks"
-    },
-    {
-      "name": "modestmining:mossy_adobe_brick_stairs"
-    },
-    {
-      "name": "modestmining:mossy_adobe_brick_slab"
-    },
-    {
-      "name": "modestmining:mossy_adobe_brick_wall"
     },
     {
       "name": "modestmining:cracked_adobe_bricks"
@@ -488,43 +353,6 @@
       "name": "create:polished_cut_calcite_wall"
     },
 
-
-    {
-      "name": "minecraft:mossy_cobblestone"
-    },
-    {
-      "name": "minecraft:mossy_cobblestone_stairs"
-    },
-    {
-      "name": "minecraft:mossy_cobblestone_slab"
-    },
-    {
-      "name": "minecraft:mossy_cobblestone_wall"
-    },
-    {
-      "name": "paletteblocks:mossy_cobblestone_bricks"
-    },
-    {
-      "name": "paletteblocks:mossy_cobblestone_brick_stairs"
-    },
-    {
-      "name": "paletteblocks:mossy_cobblestone_brick_slab"
-    },
-    {
-      "name": "paletteblocks:mossy_cobblestone_brick_wall"
-    },
-    {
-      "name": "minecraft:mossy_stone_bricks"
-    },
-    {
-      "name": "minecraft:mossy_stone_brick_stairs"
-    },
-    {
-      "name": "minecraft:mossy_stone_brick_slab"
-    },
-    {
-      "name": "minecraft:mossy_stone_brick_wall"
-    },
 
 
 
@@ -722,6 +550,9 @@
     },
 
 
+    {
+      "name": "supplementaries:checker_block"
+    },
 
 
     {
@@ -822,33 +653,6 @@
 
 
     {
-      "name": "aether:mossy_holystone"
-    },
-    {
-      "name": "aether:mossy_holystone_stairs"
-    },
-    {
-      "name": "aether:mossy_holystone_slab"
-    },
-    {
-      "name": "aether:mossy_holystone_wall"
-    },
-    {
-      "name": "caverns_and_chasms:mossy_cobblestone_bricks"
-    },
-    {
-      "name": "caverns_and_chasms:mossy_cobblestone_brick_stairs"
-    },
-    {
-      "name": "caverns_and_chasms:mossy_cobblestone_brick_slab"
-    },
-    {
-      "name": "caverns_and_chasms:mossy_cobblestone_brick_wall"
-    },
-
-
-
-    {
       "name": "minecraft:pointed_dripstone"
     },
     {
@@ -942,6 +746,321 @@
       "name": "create:polished_cut_scoria_wall"
     },
 
+
+
+    {
+      "name": "minecraft:sand"
+    },
+    {
+      "name": "atmospheric:arid_sand"
+    },
+    {
+      "name": "fundamentallyfixed:sturdy_sandstone"
+    },
+    {
+      "name": "atmospheric:smooth_arid_sandstone"
+    },
+    {
+      "name": "atmospheric:arid_sandstone_stairs"
+    },
+    {
+      "name": "atmospheric:arid_sandstone_slab"
+    },
+    {
+      "name": "atmospheric:arid_sandstone_wall"
+    },
+    {
+      "name": "quark:sandstone_bricks"
+    },
+    {
+      "name": "quark:sandstone_bricks_stairs"
+    },
+    {
+      "name": "quark:sandstone_bricks_slab"
+    },
+    {
+      "name": "quark:sandstone_bricks_wall"
+    },
+    {
+      "name": "minecraft:polished_andesite"
+    },
+    {
+      "name": "minecraft:sandstone"
+    },
+    {
+      "name": "minecraft:sandstone_stairs"
+    },
+    {
+      "name": "minecraft:sandstone_slab"
+    },
+    {
+      "name": "minecraft:sandstone_wall"
+    },
+    {
+      "name": "minecraft:cut_sandstone"
+    },
+    {
+      "name": "create:polished_cut_asurine_stairs"
+    },
+    {
+      "name": "minecraft:cut_sandstone_slab"
+    },
+    {
+      "name": "create:polished_cut_asurine_wall"
+    },
+    {
+      "name": "atmospheric:arid_sandstone_bricks"
+    },
+    {
+      "name": "atmospheric:arid_sandstone_brick_stairs"
+    },
+    {
+      "name": "atmospheric:arid_sandstone_brick_slab"
+    },
+    {
+      "name": "atmospheric:arid_sandstone_brick_wall"
+    },
+    {
+      "name": "caverns_and_chasms:polished_tuff"
+    },
+    {
+      "name": "minecraft:chiseled_sandstone"
+    },
+    {
+      "name": "fundamentallyfixed:scoria_pillar"
+    },
+    {
+      "name": "fundamentallyfixed:sandstone_button"
+    },
+    {
+      "name": "fundamentallyfixed:sandstone_pressure_plate"
+    },
+    {
+      "name": "minecraft:smooth_sandstone"
+    },
+    {
+      "name": "minecraft:smooth_sandstone_stairs"
+    },
+    {
+      "name": "minecraft:smooth_sandstone_slab"
+    },
+    {
+      "name": "create:small_asurine_brick_wall"
+    },
+
+
+    {
+      "name": "minecraft:red_sand"
+    },
+    {
+      "name": "atmospheric:red_arid_sand"
+    },
+    {
+      "name": "fundamentallyfixed:sturdy_red_sandstone"
+    },
+    {
+      "name": "atmospheric:red_arid_sandstone"
+    },
+    {
+      "name": "atmospheric:red_arid_sandstone_stairs"
+    },
+    {
+      "name": "atmospheric:red_arid_sandstone_slab"
+    },
+    {
+      "name": "atmospheric:red_arid_sandstone_wall"
+    },
+    {
+      "name": "quark:red_sandstone_bricks"
+    },
+    {
+      "name": "quark:red_sandstone_bricks_stairs"
+    },
+    {
+      "name": "quark:red_sandstone_bricks_slab"
+    },
+    {
+      "name": "quark:red_sandstone_bricks_wall"
+    },
+    {
+      "name": "minecraft:polished_diorite"
+    },
+    {
+      "name": "minecraft:red_sandstone"
+    },
+    {
+      "name": "minecraft:red_sandstone_stairs"
+    },
+    {
+      "name": "minecraft:red_sandstone_slab"
+    },
+    {
+      "name": "minecraft:red_sandstone_wall"
+    },
+    {
+      "name": "minecraft:cut_red_sandstone"
+    },
+    {
+      "name": "create:cut_asurine_stairs"
+    },
+    {
+      "name": "minecraft:cut_red_sandstone_slab"
+    },
+    {
+      "name": "create:cut_asurine_wall"
+    },
+    {
+      "name": "atmospheric:red_arid_sandstone_bricks"
+    },
+    {
+      "name": "atmospheric:red_arid_sandstone_brick_stairs"
+    },
+    {
+      "name": "atmospheric:red_arid_sandstone_brick_slab"
+    },
+    {
+      "name": "atmospheric:red_arid_sandstone_brick_wall"
+    },
+    {
+      "name": "minecraft:polished_granite"
+    },
+    {
+      "name": "minecraft:chiseled_red_sandstone"
+    },
+    {
+      "name": "fundamentallyfixed:scorchia_pillar"
+    },
+    {
+      "name": "fundamentallyfixed:red_sandstone_button"
+    },
+    {
+      "name": "fundamentallyfixed:red_sandstone_pressure_plate"
+    },
+    {
+      "name": "minecraft:smooth_red_sandstone"
+    },
+    {
+      "name": "minecraft:smooth_red_sandstone_stairs"
+    },
+    {
+      "name": "minecraft:smooth_red_sandstone_slab"
+    },
+    {
+      "name": "create:cut_asurine_brick_wall"
+    },
+
+
+    {
+      "name": "minecraft:soul_sand"
+    },
+    {
+      "name": "infernalexp:soul_sand_stairs"
+    },
+    {
+      "name": "infernalexp:soul_sand_slab"
+    },
+    {
+      "name": "minecraft:soul_soil"
+    },
+    {
+      "name": "infernalexp:soul_soil_stairs"
+    },
+    {
+      "name": "infernalexp:soul_soil_slab"
+    },
+    {
+      "name": "fundamentallyfixed:sturdy_soul_stone"
+    },
+    {
+      "name": "quark:soul_sandstone"
+    },
+    {
+      "name": "quark:soul_sandstone_stairs"
+    },
+    {
+      "name": "quark:soul_sandstone_slab"
+    },
+    {
+      "name": "quark:soul_sandstone_wall"
+    },
+    {
+      "name": "infernalexp:soul_stone_bricks"
+    },
+    {
+      "name": "infernalexp:soul_stone_brick_stairs"
+    },
+    {
+      "name": "infernalexp:soul_stone_brick_slab"
+    },
+    {
+      "name": "infernalexp:soul_stone_brick_wall"
+    },
+    {
+      "name": "infernalexp:cracked_soul_stone_bricks"
+    },
+    {
+      "name": "infernalexp:soul_stone"
+    },
+    {
+      "name": "infernalexp:soul_stone_stairs"
+    },
+    {
+      "name": "infernalexp:soul_stone_slab"
+    },
+    {
+      "name": "infernalexp:soul_stone_wall"
+    },
+    {
+      "name": "infernalexp:soul_slate"
+    },
+    {
+      "name": "infernalexp:soul_slate_stairs"
+    },
+    {
+      "name": "infernalexp:soul_slate_slab"
+    },
+    {
+      "name": "create:small_crimsite_brick_wall"
+    },
+    {
+      "name": "infernalexp:soul_slate_bricks"
+    },
+    {
+      "name": "infernalexp:soul_slate_brick_stairs"
+    },
+    {
+      "name": "infernalexp:soul_slate_brick_slab"
+    },
+    {
+      "name": "infernalexp:soul_slate_brick_wall"
+    },
+    {
+      "name": "create:cut_scoria_bricks"
+    },
+    {
+      "name": "infernalexp:chiseled_soul_stone_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:soul_slate_pillar"
+    },
+    {
+      "name": "infernalexp:soul_slate_button"
+    },
+    {
+      "name": "infernalexp:polished_basalt_pressure_plate"
+    },
+    {
+      "name": "quark:smooth_soul_sandstone"
+    },
+    {
+      "name": "quark:smooth_soul_sandstone_stairs"
+    },
+    {
+      "name": "quark:smooth_soul_sandstone_slab"
+    },
+    {
+      "name": "create:cut_scoria_wall"
+    },
 
 
 
@@ -1757,6 +1876,21 @@
       "name": "minecraft:copper_block"
     },
     {
+      "name": "copperandtuffbackport:chiseled_copper"
+    },
+    {
+      "name": "alloyed:bronze_block"
+    },
+    {
+      "name": "fundamentallyfixed:carved_copper_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:carved_copper_slab"
+    },
+    {
+      "name": "fundamentallyfixed:carved_copper_wall"
+    },
+    {
       "name": "minecraft:cut_copper"
     },
     {
@@ -1778,7 +1912,7 @@
       "name": "create:copper_shingle_slab"
     },
     {
-      "name": "fundamentallyfixed:copper_shingle_wall"
+      "name": "fundamentallyfixed:cubed_copper_wall"
     },
     {
       "name": "create:copper_tiles"
@@ -1790,13 +1924,27 @@
       "name": "create:copper_tile_slab"
     },
     {
-      "name": "fundamentallyfixed:copper_tile_wall"
+      "name": "fundamentallyfixed:lined_copper_wall"
     },
-
 
 
     {
       "name": "minecraft:exposed_copper"
+    },
+    {
+      "name": "copperandtuffbackport:exposed_chiseled_copper"
+    },
+    {
+      "name": "alloyed:exposed_bronze_block"
+    },
+    {
+      "name": "fundamentallyfixed:carved_exposed_copper_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:carved_exposed_copper_slab"
+    },
+    {
+      "name": "fundamentallyfixed:carved_exposed_copper_wall"
     },
     {
       "name": "minecraft:exposed_cut_copper"
@@ -1808,7 +1956,7 @@
       "name": "minecraft:exposed_cut_copper_slab"
     },
     {
-      "name": "fundamentallyfixed:exposed_cut_copper_wall"
+      "name": "fundamentallyfixed:cut_exposed_copper_wall"
     },
     {
       "name": "create:exposed_copper_shingles"
@@ -1820,7 +1968,7 @@
       "name": "create:exposed_copper_shingle_slab"
     },
     {
-      "name": "fundamentallyfixed:exposed_copper_shingle_wall"
+      "name": "fundamentallyfixed:cubed_exposed_copper_wall"
     },
     {
       "name": "create:exposed_copper_tiles"
@@ -1832,13 +1980,28 @@
       "name": "create:exposed_copper_tile_slab"
     },
     {
-      "name": "fundamentallyfixed:exposed_copper_tile_wall"
+      "name": "fundamentallyfixed:lined_exposed_copper_wall"
     },
 
 
 
     {
       "name": "minecraft:weathered_copper"
+    },
+    {
+      "name": "copperandtuffbackport:weathered_chiseled_copper"
+    },
+    {
+      "name": "alloyed:weathered_bronze_block"
+    },
+    {
+      "name": "fundamentallyfixed:carved_weathered_copper_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:carved_weathered_copper_slab"
+    },
+    {
+      "name": "fundamentallyfixed:carved_weathered_copper_wall"
     },
     {
       "name": "minecraft:weathered_cut_copper"
@@ -1850,7 +2013,7 @@
       "name": "minecraft:weathered_cut_copper_slab"
     },
     {
-      "name": "fundamentallyfixed:weathered_cut_copper_wall"
+      "name": "fundamentallyfixed:cut_weathered_copper_wall"
     },
     {
       "name": "create:weathered_copper_shingles"
@@ -1862,7 +2025,7 @@
       "name": "create:weathered_copper_shingle_slab"
     },
     {
-      "name": "fundamentallyfixed:weathered_copper_shingle_wall"
+      "name": "fundamentallyfixed:cubed_weathered_copper_wall"
     },
     {
       "name": "create:weathered_copper_tiles"
@@ -1874,13 +2037,27 @@
       "name": "create:weathered_copper_tile_slab"
     },
     {
-      "name": "fundamentallyfixed:weathered_copper_tile_wall"
+      "name": "fundamentallyfixed:lined_weathered_copper_wall"
     },
-
 
 
     {
       "name": "minecraft:oxidized_copper"
+    },
+    {
+      "name": "copperandtuffbackport:oxidized_chiseled_copper"
+    },
+    {
+      "name": "alloyed:oxidized_bronze_block"
+    },
+    {
+      "name": "fundamentallyfixed:carved_oxidized_copper_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:carved_oxidized_copper_slab"
+    },
+    {
+      "name": "fundamentallyfixed:carved_oxidized_copper_wall"
     },
     {
       "name": "minecraft:oxidized_cut_copper"
@@ -1892,7 +2069,7 @@
       "name": "minecraft:oxidized_cut_copper_slab"
     },
     {
-      "name": "fundamentallyfixed:oxidized_cut_copper_wall"
+      "name": "fundamentallyfixed:cut_oxidized_copper_wall"
     },
     {
       "name": "create:oxidized_copper_shingles"
@@ -1904,7 +2081,7 @@
       "name": "create:oxidized_copper_shingle_slab"
     },
     {
-      "name": "fundamentallyfixed:oxidized_copper_shingle_wall"
+      "name": "fundamentallyfixed:cubed_oxidized_copper_wall"
     },
     {
       "name": "create:oxidized_copper_tiles"
@@ -1916,8 +2093,13 @@
       "name": "create:oxidized_copper_tile_slab"
     },
     {
-      "name": "fundamentallyfixed:oxidized_copper_tile_wall"
+      "name": "fundamentallyfixed:lined_oxidized_copper_wall"
     },
+    {
+      "name": "fundamentallyfixed:forging_fuels_zero"
+    },
+
+
 
 
 
@@ -1946,14 +2128,114 @@
       "name": "fundamentallyfixed:aluminium_block"
     },
     {
+      "name": "fundamentallyfixed:aluminium_sheet_block"
+    },
+    {
+      "name": "fundamentallyfixed:carved_aluminium"
+    },
+    {
+      "name": "fundamentallyfixed:carved_aluminium_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:carved_aluminium_slab"
+    },
+    {
+      "name": "fundamentallyfixed:carved_aluminium_wall"
+    },
+    {
       "name": "fundamentallyfixed:cut_aluminium"
     },
+    {
+      "name": "fundamentallyfixed:cut_aluminium_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cut_aluminium_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cut_aluminium_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_aluminium"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_aluminium_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_aluminium_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_aluminium_wall"
+    },
+    {
+      "name": "fundamentallyfixed:lined_aluminium"
+    },
+    {
+      "name": "fundamentallyfixed:lined_aluminium_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:lined_aluminium_slab"
+    },
+    {
+      "name": "fundamentallyfixed:lined_aluminium_wall"
+    },
+
+
+
     {
       "name": "create:brass_block"
     },
     {
       "name": "create:zinc_block"
     },
+    {
+      "name": "fundamentallyfixed:carved_bronze"
+    },
+    {
+      "name": "fundamentallyfixed:carved_bronze_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:carved_bronze_slab"
+    },
+    {
+      "name": "fundamentallyfixed:carved_bronze_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cut_bronze"
+    },
+    {
+      "name": "fundamentallyfixed:cut_bronze_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cut_bronze_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cut_bronze_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_bronze"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_bronze_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_bronze_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_bronze_wall"
+    },
+    {
+      "name": "fundamentallyfixed:lined_bronze"
+    },
+    {
+      "name": "fundamentallyfixed:lined_bronze_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:lined_bronze_slab"
+    },
+    {
+      "name": "fundamentallyfixed:lined_bronze_wall"
+    },
+
 
 
 
@@ -1985,6 +2267,42 @@
       "name": "minecraft:iron_block"
     },
     {
+      "name": "fundamentallyfixed:carved_iron"
+    },
+    {
+      "name": "fundamentallyfixed:carved_iron_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:carved_iron_slab"
+    },
+    {
+      "name": "fundamentallyfixed:carved_iron_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cut_iron"
+    },
+    {
+      "name": "fundamentallyfixed:cut_iron_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cut_iron_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cut_iron_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_iron"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_iron_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_iron_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_iron_wall"
+    },
+    {
       "name": "quark:iron_plate"
     },
     {
@@ -1994,8 +2312,12 @@
       "name": "quark:iron_plate_slab"
     },
     {
-      "name": "fundamentallyfixed:cut_iron_wall"
+      "name": "fundamentallyfixed:lined_iron_wall"
     },
+
+
+
+
     {
       "name": "oreganized:lead_ore"
     },
@@ -2024,7 +2346,65 @@
       "name": "oreganized:lead_block"
     },
     {
+      "name": "fundamentallyfixed:lead_sheet_block"
+    },
+    {
+      "name": "fundamentallyfixed:carved_lead"
+    },
+    {
+      "name": "fundamentallyfixed:carved_lead_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:carved_lead_slab"
+    },
+    {
+      "name": "fundamentallyfixed:carved_lead_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cut_lead"
+    },
+    {
+      "name": "fundamentallyfixed:cut_lead_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cut_lead_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cut_lead_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_lead"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_lead_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_lead_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_lead_wall"
+    },
+    {
+      "name": "fundamentallyfixed:lined_lead"
+    },
+    {
+      "name": "fundamentallyfixed:lined_lead_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:lined_lead_slab"
+    },
+    {
+      "name": "fundamentallyfixed:lined_lead_wall"
+    },
+
+
+
+
+    {
       "name": "modestmining:steel_block"
+    },
+    {
+      "name": "alloyed:steel_block"
     },
     {
       "name": "quark:rusty_iron_plate"
@@ -2036,8 +2416,45 @@
       "name": "quark:rusty_iron_plate_slab"
     },
     {
+      "name": "fundamentallyfixed:carved_steel_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cut_steel"
+    },
+    {
+      "name": "fundamentallyfixed:cut_steel_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cut_steel_slab"
+    },
+    {
       "name": "fundamentallyfixed:cut_steel_wall"
     },
+    {
+      "name": "fundamentallyfixed:cubed_steel"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_steel_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_steel_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_steel_wall"
+    },
+    {
+      "name": "fundamentallyfixed:lined_steel"
+    },
+    {
+      "name": "fundamentallyfixed:lined_steel_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:lined_steel_slab"
+    },
+    {
+      "name": "fundamentallyfixed:lined_steel_wall"
+    },
+
 
 
 
@@ -2071,6 +2488,118 @@
     {
       "name": "minecraft:gold_block"
     },
+    {
+      "name": "fundamentallyfixed:carved_gold"
+    },
+    {
+      "name": "fundamentallyfixed:carved_gold_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:carved_gold_slab"
+    },
+    {
+      "name": "fundamentallyfixed:carved_gold_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cut_gold"
+    },
+    {
+      "name": "fundamentallyfixed:cut_gold_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cut_gold_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cut_gold_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_gold"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_gold_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_gold_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_gold_wall"
+    },
+    {
+      "name": "fundamentallyfixed:lined_gold"
+    },
+    {
+      "name": "fundamentallyfixed:lined_gold_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:lined_gold_slab"
+    },
+    {
+      "name": "fundamentallyfixed:lined_gold_wall"
+    },
+
+
+
+    {
+      "name": "oreganized:silver_ore"
+    },
+    {
+      "name": "oreganized:raw_silver_block"
+    },
+    {
+      "name": "oreganized:silver_block"
+    },
+    {
+      "name": "fundamentallyfixed:silver_sheet_block"
+    },
+    {
+      "name": "fundamentallyfixed:carved_silver"
+    },
+    {
+      "name": "fundamentallyfixed:carved_silver_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:carved_silver_slab"
+    },
+    {
+      "name": "fundamentallyfixed:carved_silver_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cut_silver"
+    },
+    {
+      "name": "fundamentallyfixed:cut_silver_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cut_silver_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cut_silver_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_silver"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_silver_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_silver_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_silver_wall"
+    },
+    {
+      "name": "fundamentallyfixed:lined_silver"
+    },
+    {
+      "name": "fundamentallyfixed:lined_silver_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:lined_silver_slab"
+    },
+    {
+      "name": "fundamentallyfixed:lined_silver_wall"
+    },
+
 
 
     {
@@ -2085,6 +2614,8 @@
     {
       "name": "minecraft:redstone_block"
     },
+
+
     {
       "name": "minecraft:emerald_ore"
     },
@@ -2142,6 +2673,8 @@
     {
       "name": "sullysmod:jade_totem"
     },
+
+
     {
       "name": "minecraft:diamond_ore"
     },
@@ -2154,6 +2687,8 @@
     {
       "name": "minecraft:diamond_block"
     },
+
+
     {
       "name": "minecraft:nether_quartz_ore"
     },
@@ -2205,6 +2740,8 @@
     {
       "name": "minecraft:quartz_pillar"
     },
+
+
     {
       "name": "minecraft:lapis_ore"
     },
@@ -2226,54 +2763,527 @@
     {
       "name": "supplementaries:lapis_bricks_wall"
     },
+
+
     {
-      "name": "oreganized:silver_ore"
-    },
-    {
-      "name": "oreganized:raw_silver_block"
-    },
-    {
-      "name": "oreganized:silver_block"
-    },
-    {
-      "name": "oreganized:electrum_block"
+      "name": "alexsmobs:straddlite_block"
     },
     {
       "name": "minecraft:ancient_debris"
     },
     {
-      "name": "minecraft:netherite_block"
-    },
-    {
-      "name": "alexsmobs:straddlite_block"
-    },
-    {
       "name": "fundamentallyfixed:oceanic_prismarine_ore"
-    },
-    {
-      "name": "modestmining:prismarite_block"
-    },
-    {
-      "name": "fundamentallyfixed:blast_proof_block"
-    },
-    {
-      "name": "savage_and_ravage:blast_proof_plates"
-    },
-    {
-      "name": "savage_and_ravage:blast_proof_stairs"
-    },
-    {
-      "name": "savage_and_ravage:blast_proof_slab"
-    },
-    {
-      "name": "fundamentallyfixed:blast_proof_wall"
     },
     {
       "name": "spelunkery:magnetite"
     },
+
+
+    {
+      "name": "fundamentallyfixed:stoldum_block"
+    },
+    {
+      "name": "fundamentallyfixed:stoldum_sheet_block"
+    },
+    {
+      "name": "fundamentallyfixed:carved_stoldum"
+    },
+    {
+      "name": "fundamentallyfixed:carved_stoldum_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:carved_stoldum_slab"
+    },
+    {
+      "name": "fundamentallyfixed:carved_stoldum_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cut_stoldum"
+    },
+    {
+      "name": "fundamentallyfixed:cut_stoldum_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cut_stoldum_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cut_stoldum_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_stoldum"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_stoldum_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_stoldum_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_stoldum_wall"
+    },
+    {
+      "name": "fundamentallyfixed:lined_stoldum"
+    },
+    {
+      "name": "fundamentallyfixed:lined_stoldum_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:lined_stoldum_slab"
+    },
+    {
+      "name": "fundamentallyfixed:lined_stoldum_wall"
+    },
+
+
+
+    {
+      "name": "modestmining:prismarite_block"
+    },
+    {
+      "name": "fundamentallyfixed:prismarite_sheet_block"
+    },
+    {
+      "name": "fundamentallyfixed:carved_prismarite"
+    },
+    {
+      "name": "fundamentallyfixed:carved_prismarite_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:carved_prismarite_slab"
+    },
+    {
+      "name": "fundamentallyfixed:carved_prismarite_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cut_prismarite"
+    },
+    {
+      "name": "fundamentallyfixed:cut_prismarite_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cut_prismarite_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cut_prismarite_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_prismarite"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_prismarite_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_prismarite_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_prismarite_wall"
+    },
+    {
+      "name": "fundamentallyfixed:lined_prismarite"
+    },
+    {
+      "name": "fundamentallyfixed:lined_prismarite_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:lined_prismarite_slab"
+    },
+    {
+      "name": "fundamentallyfixed:lined_prismarite_wall"
+    },
+
+
+
+    {
+      "name": "minecraft:netherite_block"
+    },
+    {
+      "name": "fundamentallyfixed:netherite_sheet_block"
+    },
+    {
+      "name": "fundamentallyfixed:carved_netherite"
+    },
+    {
+      "name": "fundamentallyfixed:carved_netherite_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:carved_netherite_slab"
+    },
+    {
+      "name": "fundamentallyfixed:carved_netherite_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cut_netherite"
+    },
+    {
+      "name": "fundamentallyfixed:cut_netherite_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cut_netherite_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cut_netherite_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_netherite"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_netherite_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_netherite_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_netherite_wall"
+    },
+    {
+      "name": "fundamentallyfixed:lined_netherite"
+    },
+    {
+      "name": "fundamentallyfixed:lined_netherite_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:lined_netherite_slab"
+    },
+    {
+      "name": "fundamentallyfixed:lined_netherite_wall"
+    },
+
+
+    {
+      "name": "oreganized:electrum_block"
+    },
+    {
+      "name": "fundamentallyfixed:electrum_sheet_block"
+    },
+    {
+      "name": "fundamentallyfixed:carved_electrum"
+    },
+    {
+      "name": "fundamentallyfixed:carved_electrum_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:carved_electrum_slab"
+    },
+    {
+      "name": "fundamentallyfixed:carved_electrum_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cut_electrum"
+    },
+    {
+      "name": "fundamentallyfixed:cut_electrum_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cut_electrum_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cut_electrum_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_electrum"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_electrum_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_electrum_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_electrum_wall"
+    },
+    {
+      "name": "fundamentallyfixed:lined_electrum"
+    },
+    {
+      "name": "fundamentallyfixed:lined_electrum_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:lined_electrum_slab"
+    },
+    {
+      "name": "fundamentallyfixed:lined_electrum_wall"
+    },
+
+
+    {
+      "name": "savage_and_ravage:blast_proof_plates"
+    },
+    {
+      "name": "fundamentallyfixed:chlorophite_sheet_block"
+    },
+    {
+      "name": "fundamentallyfixed:carved_chlorophite"
+    },
+    {
+      "name": "fundamentallyfixed:carved_chlorophite_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:carved_chlorophite_slab"
+    },
+    {
+      "name": "fundamentallyfixed:carved_chlorophite_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cut_chlorophite"
+    },
+    {
+      "name": "fundamentallyfixed:cut_chlorophite_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cut_chlorophite_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cut_chlorophite_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_chlorophite"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_chlorophite_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_chlorophite_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_chlorophite_wall"
+    },
+    {
+      "name": "fundamentallyfixed:lined_chlorophite"
+    },
+    {
+      "name": "fundamentallyfixed:lined_chlorophite_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:lined_chlorophite_slab"
+    },
+    {
+      "name": "fundamentallyfixed:lined_chlorophite_wall"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:mythril_block"
+    },
+    {
+      "name": "fundamentallyfixed:mythril_sheet_block"
+    },
+    {
+      "name": "fundamentallyfixed:carved_mythril"
+    },
+    {
+      "name": "fundamentallyfixed:carved_mythril_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:carved_mythril_slab"
+    },
+    {
+      "name": "fundamentallyfixed:carved_mythril_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cut_mythril"
+    },
+    {
+      "name": "fundamentallyfixed:cut_mythril_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cut_mythril_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cut_mythril_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_mythril"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_mythril_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_mythril_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_mythril_wall"
+    },
+    {
+      "name": "fundamentallyfixed:lined_mythril"
+    },
+    {
+      "name": "fundamentallyfixed:lined_mythril_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:lined_mythril_slab"
+    },
+    {
+      "name": "fundamentallyfixed:lined_mythril_wall"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:hallowed_block"
+    },
+    {
+      "name": "fundamentallyfixed:hallowed_sheet_block"
+    },
+    {
+      "name": "fundamentallyfixed:carved_hallowed"
+    },
+    {
+      "name": "fundamentallyfixed:carved_hallowed_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:carved_hallowed_slab"
+    },
+    {
+      "name": "fundamentallyfixed:carved_hallowed_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cut_hallowed"
+    },
+    {
+      "name": "fundamentallyfixed:cut_hallowed_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cut_hallowed_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cut_hallowed_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_hallowed"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_hallowed_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_hallowed_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_hallowed_wall"
+    },
+    {
+      "name": "fundamentallyfixed:lined_hallowed"
+    },
+    {
+      "name": "fundamentallyfixed:lined_hallowed_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:lined_hallowed_slab"
+    },
+    {
+      "name": "fundamentallyfixed:lined_hallowed_wall"
+    },
+
+
     {
       "name": "fundamentallyfixed:gravitite_block"
     },
+    {
+      "name": "fundamentallyfixed:gravitite_sheet_block"
+    },
+    {
+      "name": "fundamentallyfixed:carved_gravitite"
+    },
+    {
+      "name": "fundamentallyfixed:carved_gravitite_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:carved_gravitite_slab"
+    },
+    {
+      "name": "fundamentallyfixed:carved_gravitite_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cut_gravitite"
+    },
+    {
+      "name": "fundamentallyfixed:cut_gravitite_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cut_gravitite_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cut_gravitite_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_gravitite"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_gravitite_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_gravitite_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_gravitite_wall"
+    },
+    {
+      "name": "fundamentallyfixed:lined_gravitite"
+    },
+    {
+      "name": "fundamentallyfixed:lined_gravitite_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:lined_gravitite_slab"
+    },
+    {
+      "name": "fundamentallyfixed:lined_gravitite_wall"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:voidendum_block"
+    },
+    {
+      "name": "fundamentallyfixed:voidendum_sheet_block"
+    },
+    {
+      "name": "fundamentallyfixed:carved_voidendum"
+    },
+    {
+      "name": "fundamentallyfixed:carved_voidendum_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:carved_voidendum_slab"
+    },
+    {
+      "name": "fundamentallyfixed:carved_voidendum_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cut_voidendum"
+    },
+    {
+      "name": "fundamentallyfixed:cut_voidendum_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cut_voidendum_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cut_voidendum_wall"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_voidendum"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_voidendum_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_voidendum_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_voidendum_wall"
+    },
+    {
+      "name": "fundamentallyfixed:lined_voidendum"
+    },
+    {
+      "name": "fundamentallyfixed:lined_voidendum_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:lined_voidendum_slab"
+    },
+    {
+      "name": "fundamentallyfixed:lined_voidendum_wall"
+    },
+
 
 
 

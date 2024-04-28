@@ -14,12 +14,12 @@
   "results": [
     {
       "count": 3,
-      "item": "modestmining:adobe_brick"
+      "item": "fundamentallyfixed:terracotta_fracture"
     },
     {
       "chance": 0.5,
       "count": 1,
-      "item": "modestmining:adobe_brick"
+      "item": "fundamentallyfixed:terracotta_fracture"
     }
   ],
   "processingTime": 50

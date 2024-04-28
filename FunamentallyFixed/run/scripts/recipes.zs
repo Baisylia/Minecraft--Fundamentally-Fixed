@@ -2,22 +2,13 @@ import mods.farmersdelight.CookingPot;
 import crafttweaker.api.recipe.StoneCutterManager;
 //import mods.clayworks.Kiln;
 
-val sandstone = ["sandstone", "minecraft:sandstone", "minecraft:sandstone_stairs", "minecraft:sandstone_slab", "minecraft:sandstone_wall", "abc", "stonecutter"] as string[];
-val cut_sandstone = ["cut_sandstone", "minecraft:cut_sandstone", "fundamentallyfixed:cut_sandstone_stairs", "minecraft:cut_sandstone_slab", "fundamentallyfixed:cut_sandstone_wall", "b", "stonecutter"] as string[];
-val smooth_sandstone = ["smooth_sandstone", "minecraft:smooth_sandstone", "minecraft:smooth_sandstone_stairs", "minecraft:smooth_sandstone_slab", "minecraft:smooth_sandstone_wall", "ab", "stonecutter"] as string[];
-val sandstone_bricks = ["sandstone_bricks", "quark:sandstone_bricks", "quark:sandstone_bricks_stairs", "quark:sandstone_bricks_slab", "quark:sandstone_bricks_wall", "abc", "stonecutter"] as string[];
-val red_sandstone = ["red_sandstone", "minecraft:red_sandstone", "minecraft:red_sandstone_stairs", "minecraft:red_sandstone_slab", "minecraft:red_sandstone_wall", "abc", "stonecutter"] as string[];
-val cut_red_sandstone = ["cut_red_sandstone", "minecraft:cut_red_sandstone", "fundamentallyfixed:cut_red_sandstone_stairs", "minecraft:cut_red_sandstone_slab", "fundamentallyfixed:cut_red_sandstone_wall", "b", "stonecutter"] as string[];
-val smooth_red_sandstone = ["smooth_red_sandstone", "minecraft:smooth_red_sandstone", "minecraft:smooth_red_sandstone_stairs", "minecraft:smooth_red_sandstone_slab", "minecraft:smooth_red_sandstone_wall", "ab", "stonecutter"] as string[];
-val red_sandstone_bricks = ["red_sandstone_bricks", "quark:red_sandstone_bricks", "quark:red_sandstone_bricks_stairs", "quark:red_sandstone_bricks_slab", "quark:red_sandstone_bricks_wall", "abc", "stonecutter"] as string[];
 val dirt_bricks = ["dirt_bricks", "quark:dirt_bricks", "quark:dirt_bricks_stairs", "quark:dirt_bricks_slab", "quark:dirt_bricks_wall", "abc", "stonecutter"] as string[];
-val shingles = ["shingles", "quark:shingles", "quark:shingles_stairs", "quark:shingles_slab", "quark:shingles_wall", "ab", "stonecutter"] as string[];
+val shingles = ["shingles", "hnh:shingles", "hnh:shingle_stairs", "hnh:shingle_slab", "hnh:shingles_wall", "ab", "stonecutter"] as string[];
 val terracotta = ["terracotta", "minecraft:terracotta", "clayworks:terracotta_stairs", "clayworks:terracotta_slab", "clayworks:terracotta_wall", "abc", "stonecutter"] as string[];
-val terracotta_bricks = ["terracotta_bricks", "clayworks:terracotta_bricks", "clayworks:terracotta_brick_stairs", "clayworks:terracotta_brick_slab", "clayworks:terracotta_brick_wall", "abc", "stonecutter"] as string[];
+val terracotta_bricks = ["terracotta_bricks", "hnh:terracotta_bricks", "hnh:terracotta_brick_stairs", "hnh:terracotta_brick_slab", "clayworks:terracotta_brick_wall", "abc", "stonecutter"] as string[];
 val mud_bricks = ["mud_bricks", "minecraft:mud_bricks", "minecraft:mud_brick_stairs", "minecraft:mud_brick_slab", "minecraft:mud_brick_wall", "abc", "stonecutter"] as string[];
 val bricks = ["bricks", "minecraft:bricks", "minecraft:brick_stairs", "minecraft:brick_slab", "minecraft:brick_wall", "abc", "stonecutter"] as string[];
 val adobe_bricks = ["adobe_bricks", "modestmining:adobe_bricks", "modestmining:adobe_brick_stairs", "modestmining:adobe_brick_slab", "modestmining:adobe_brick_wall", "abc", "stonecutter"] as string[];
-val mossy_adobe_bricks = ["mossy_adobe_bricks", "modestmining:mossy_adobe_bricks", "modestmining:mossy_adobe_brick_stairs", "modestmining:mossy_adobe_brick_slab", "modestmining:mossy_adobe_brick_wall", "abc", "stonecutter"] as string[];
 val ash_bricks = ["ash_bricks", "supplementaries:ash_bricks", "supplementaries:ash_bricks_stairs", "supplementaries:ash_bricks_slab", "supplementaries:ash_bricks_wall", "abc", "stonecutter"] as string[];
 val raw_copper_bricks = ["raw_copper_bricks", "quark:raw_copper_bricks", "quark:raw_copper_bricks_stairs", "quark:raw_copper_bricks_slab", "quark:raw_copper_bricks_wall", "ab", "stonecutter"] as string[];
 val cut_copper = ["cut_copper", "minecraft:cut_copper", "minecraft:cut_copper_stairs", "minecraft:cut_copper_slab", "minecraft:cut_copper_wall", "ab", "stonecutter"] as string[];
@@ -77,7 +68,6 @@ val packed_ice = ["packed_ice", "windswept:packed_ice_bricks", "windswept:packed
 val blue_ice = ["blue_ice", "windswept:blue_ice_bricks", "windswept:blue_ice_brick_stairs", "windswept:blue_ice_brick_slab", "windswept:blue_ice_brick_wall", "abc", "stonecutter"] as string[];
 val snow_bricks = ["snow_bricks", "windswept:snow_bricks", "windswept:snow_brick_stairs", "windswept:snow_brick_slab", "windswept:snow_brick_wall", "abc", "stonecutter"] as string[];
 val holystone = ["holystone", "aether:holystone", "aether:holystone_stairs", "aether:holystone_slab", "aether:holystone_wall", "abc", "stonecutter"] as string[];
-val mossy_holystone = ["mossy_holystone", "aether:mossy_holystone", "aether:mossy_holystone_stairs", "aether:mossy_holystone_slab", "aether:mossy_holystone_wall", "abc", "stonecutter"] as string[];
 val holystone_bricks = ["holystone_bricks", "aether:holystone_bricks", "aether:holystone_brick_stairs", "aether:holystone_brick_slab", "aether:holystone_brick_wall", "abc", "stonecutter"] as string[];
 val florarock_bricks = ["florarock_bricks", "fundamentallyfixed:florarock_bricks", "fundamentallyfixed:florarock_brick_stairs", "fundamentallyfixed:florarock_brick_slab", "fundamentallyfixed:florarock_brick_wall", "abc", "stonecutter"] as string[];
 val white_shingles = ["white_shingle", "hnh:white_shingles", "hnh:white_shingle_stairs", "hnh:white_shingle_slab", "hnh:white_shingle_wall", "ab", "stonecutter"] as string[];
@@ -126,8 +116,8 @@ val snail_shell_bricks = ["snail_shell_bricks", "autumnity:snail_shell_bricks", 
 val daub = ["daub", "supplementaries:daub", "suppsquared:daub_stairs", "suppsquared:daub_slab", "suppsquared:daub_wall", "a", "stonecutter"] as string[];
 val daub_frame = ["daub_frame", "supplementaries:daub_frame", "suppsquared:daub_frame_stairs", "suppsquared:daub_frame_slab", "suppsquared:daub_frame_wall", "a", "stonecutter"] as string[];
 
-var craftSets = [sandstone, cut_sandstone, smooth_sandstone, sandstone_bricks, red_sandstone, cut_red_sandstone, smooth_red_sandstone, red_sandstone_bricks, dirt_bricks,
-shingles, terracotta, terracotta_bricks, mud_bricks, bricks, adobe_bricks, mossy_adobe_bricks, ash_bricks, raw_copper_bricks, cut_copper, copper_shingles, copper_tiles,
+var craftSets = [dirt_bricks,
+shingles, terracotta, terracotta_bricks, mud_bricks, bricks, adobe_bricks, ash_bricks, raw_copper_bricks, cut_copper, copper_shingles, copper_tiles,
 waxed_cut_copper, waxed_copper_shingles, waxed_copper_tiles, exposed_cut_copper, exposed_copper_shingles, exposed_copper_tiles, waxed_exposed_cut_copper,
 waxed_exposed_copper_shingles, waxed_exposed_copper_tiles, weathered_cut_copper, weathered_copper_shingles, weathered_copper_tiles, waxed_weathered_cut_copper,
 waxed_weathered_copper_shingles, waxed_weathered_copper_tiles, oxidized_cut_copper, oxidized_copper_shingles, oxidized_copper_tiles, waxed_oxidized_cut_copper,
@@ -135,7 +125,7 @@ waxed_oxidized_copper_shingles, waxed_oxidized_copper_tiles, raw_iron_bricks, ra
 polished_jade_bricks, polished_jade_shingles, quartz_block, smooth_quartz_block, lapis_bricks, prismarine, polished_prismarine, prismarine_bricks, dark_prismarine, luminous_prismarine, polished_netherrack,
 netherrack_bricks, nether_bricks, red_nether_bricks, blue_nether_bricks,
 dullstone_bricks, dimstone_bricks, glowstone_bricks, soulsand, soulsoil, soulstone, soulslate,
-soulstonebricks, rock_salt, polished_rock_salt, rock_salt_bricks, packed_ice, blue_ice, snow_bricks, holystone, mossy_holystone, holystone_bricks, florarock_bricks,
+soulstonebricks, rock_salt, polished_rock_salt, rock_salt_bricks, packed_ice, blue_ice, snow_bricks, holystone, holystone_bricks, florarock_bricks,
 white_shingles, light_gray_shingles, gray_shingles, black_shingles, brown_shingles, red_shingles, orange_shingles, yellow_shingles, lime_shingles, green_shingles,
 cyan_shingles, light_blue_shingles, blue_shingles, purple_shingles, magenta_shingles, pink_shingles,
 white_bricks, light_gray_bricks, gray_bricks, black_bricks, brown_bricks, red_bricks, orange_bricks, yellow_bricks, lime_bricks, green_bricks,
@@ -144,8 +134,8 @@ permafrost, permafrost_bricks, scute_pavement, scute_shingles,
 purpur, duskbound, midori, checkered, seashell_tiles, snail_shell_tiles, snail_shell_bricks, daub, daub_frame] as string[][];
 
 
-val shinglesCut = ["shingles_from_terracotta", "minecraft:terracotta", "quark:shingles", "quark:shingles_stairs", "quark:shingles_slab", "quark:shingles_wall", "0ab", "stonecutter"] as string[];
-val terracotta_bricksCut = ["terracotta_bricks_from_terracotta", "minecraft:terracotta", "clayworks:terracotta_bricks", "clayworks:terracotta_brick_stairs", "clayworks:terracotta_brick_slab", "clayworks:terracotta_brick_wall", "0abc", "stonecutter"] as string[];
+val shinglesCut = ["shingles_from_terracotta", "minecraft:terracotta", "hnh:shingles", "hnh:shingle_stairs", "hnh:shingle_slab", "hnh:shingle_wall", "0ab", "stonecutter"] as string[];
+val terracotta_bricksCut = ["terracotta_bricks_from_terracotta", "minecraft:terracotta", "hnh:terracotta_bricks", "hnh:terracotta_brick_stairs", "hnh:terracotta_brick_slab", "clayworks:terracotta_brick_wall", "0abc", "stonecutter"] as string[];
 val copper_shingles_cut = ["copper_shingles_from_cut", "minecraft:cut_copper", "create:copper_shingles", "create:copper_shingle_stairs", "create:copper_shingle_slab", "create:copper_shingle_wall", "0ab", "stonecutter"] as string[];
 val copper_tiles_cut = ["copper_tiles_from_cut", "minecraft:cut_copper", "create:copper_tiles", "create:copper_tile_stairs", "create:copper_tile_slab", "create:copper_tile_wall", "0ab", "stonecutter"] as string[];
 val cut_copper_shingles = ["cut_copper_from_shingles", "create:copper_shingles", "minecraft:cut_copper", "minecraft:cut_copper_stairs", "minecraft:cut_copper_slab", "minecraft:cut_copper_wall", "0ab", "stonecutter"] as string[];
@@ -251,12 +241,6 @@ val pink_bricksCut = ["pink_brick_from_terracotta", "minecraft:pink_terracotta",
 val permafrost_bricks_cut = ["permafrost_bricks_cut", "quark:permafrost", "quark:permafrost_bricks", "quark:permafrost_bricks_stairs", "quark:permafrost_bricks_slab", "quark:permafrost_bricks_wall", "0abc", "stonecutter"] as string[];
 val scute_pavement_cut = ["scute_pavement_cut", "upgrade_aquatic:scute_shingles", "upgrade_aquatic:scute_pavement", "upgrade_aquatic:scute_pavement_stairs", "upgrade_aquatic:scute_pavement_slab", "upgrade_aquatic:scute_pavement_wall", "0abc", "stonecutter"] as string[];
 val snail_shell_tiles_cut = ["snail_shell_tiles_cut", "autumnity:snail_shell_bricks", "autumnity:snail_shell_tiles", "autumnity:snail_shell_tile_stairs", "autumnity:snail_shell_tile_slab", "autumnity:snail_shell_tile_wall", "0abc", "stonecutter"] as string[];
-val cut_sandstone_cut = ["cut_sandstone_cut", "minecraft:sandstone", "minecraft:cut_sandstone", "fundamentallyfixed:cut_sandstone_stairs", "minecraft:cut_sandstone_slab", "fundamentallyfixed:cut_sandstone_wall", "b", "stonecutter"] as string[];
-val sandstone_bricks_cut = ["sandstone_bricks_cut", "minecraft:sandstone", "quark:sandstone_bricks", "quark:sandstone_bricks_stairs", "quark:sandstone_bricks_slab", "quark:sandstone_bricks_wall", "abc", "stonecutter"] as string[];
-val sandstone_bricks_cut_cut = ["sandstone_bricks_cut_cut", "minecraft:cut_sandstone", "quark:sandstone_bricks", "quark:sandstone_bricks_stairs", "quark:sandstone_bricks_slab", "quark:sandstone_bricks_wall", "abc", "stonecutter"] as string[];
-val cut_red_sandstone_cut = ["cut_red_sandstone_cut", "minecraft:red_sandstone", "minecraft:cut_red_sandstone", "fundamentallyfixed:cut_red_sandstone_stairs", "minecraft:cut_red_sandstone_slab", "fundamentallyfixed:cut_red_sandstone_wall", "b", "stonecutter"] as string[];
-val red_sandstone_bricks_cut = ["red_sandstone_bricks_cut", "minecraft:red_sandstone", "quark:red_sandstone_bricks", "quark:red_sandstone_bricks_stairs", "quark:red_sandstone_bricks_slab", "quark:red_sandstone_bricks_wall", "abc", "stonecutter"] as string[];
-val red_sandstone_bricks_cut_cut = ["red_sandstone_bricks_cut_cut", "minecraft:cut_red_sandstone", "quark:red_sandstone_bricks", "quark:red_sandstone_bricks_stairs", "quark:red_sandstone_bricks_slab", "quark:red_sandstone_bricks_wall", "abc", "stonecutter"] as string[];
 
 val cutSets = [shinglesCut, terracotta_bricksCut, copper_shingles_cut, copper_tiles_cut, cut_copper_shingles, copper_tiles_shingles, cut_copper_tiles,
 copper_shingles_tiles, waxed_copper_shingles_cut, waxed_copper_tiles_cut, waxed_cut_copper_shingles, waxed_copper_tiles_shingles, waxed_cut_copper_tiles,
@@ -278,8 +262,7 @@ magenta_shinglesCut, pink_shinglesCut,
 white_bricksCut, light_gray_bricksCut, gray_bricksCut, black_bricksCut, brown_bricksCut, red_bricksCut,
 orange_bricksCut, yellow_bricksCut, lime_bricksCut, green_bricksCut, cyan_bricksCut, light_blue_bricksCut, blue_bricksCut, purple_bricksCut,
 magenta_bricksCut, pink_bricksCut,
-permafrost_bricks_cut, scute_pavement_cut, snail_shell_tiles_cut, cut_sandstone_cut, sandstone_bricks_cut, sandstone_bricks_cut_cut,
-cut_red_sandstone_cut, red_sandstone_bricks_cut, red_sandstone_bricks_cut_cut] as string[][];
+permafrost_bricks_cut, scute_pavement_cut, snail_shell_tiles_cut] as string[][];
 
 val raw_copper_bricks_raw = ["raw_copper_bricks_raw", "minecraft:raw_copper_block", "quark:raw_copper_bricks", "quark:raw_copper_bricks_stairs", "quark:raw_copper_bricks_slab", "quark:raw_copper_bricks_wall", "0ab", "stonecutter"] as string[];
 val cut_copper_copper = ["cut_copper_from_copper", "minecraft:copper_block", "minecraft:cut_copper", "minecraft:cut_copper_stairs", "minecraft:cut_copper_slab", "minecraft:cut_copper_wall", "0ab", "stonecutter"] as string[];
@@ -449,6 +432,10 @@ for colour in coloursList {
     var shinglesSlabName = "hnh:" + colour + "_shingle_slab";
     var shinglesSlabItem = <item:${shinglesSlabName}>;
 
+    craftingTable.addShaped(colour + "_shingles", shinglesItem * 2, [
+    [terracottaItem],
+    [terracottaItem]]);
+
     //var anyShinglesWallName = "fundamentallyfixed:shingles_walls";
     //var anyShinglesWallTag = <tagmanager:items>.tag(anyShinglesWallName);
     //var shinglesWallName = "quark:" + colour + "_shingles_wall";
@@ -480,6 +467,9 @@ for colour in coloursList {
     var chiseledTerracottaBricksName = "clayworks:chiseled_" + colour + "_terracotta_bricks";
     var chiseledTerracottaBricksItem = <item:${chiseledTerracottaBricksName}>;
 
+    craftingTable.addShaped(colour + "_terra_bricks", terracottaBricksItem * 2, [
+    [terracottaItem, terracottaItem],
+    [terracottaItem, terracottaItem]]);
 
     craftingTable.addShaped(colour + "chiseled", chiseledTerracottaBricksItem * 2, [
     [terracottaItem],

@@ -61,5 +61,13 @@
   "block.minecraft.prismarine_brick_slab": "Phyton Brick Slab",
   "block.minecraft.dark_prismarine": "Dark Phyton",
   "block.minecraft.dark_prismarine_stairs": "Dark Phyton Stairs",
-  "block.minecraft.dark_prismarine_slab": "Dark Phyton Slab"
+  "block.minecraft.dark_prismarine_slab": "Dark Phyton Slab",
+  
+  "block.minecraft.polished_diorite": "Cracked Cobbled Red Sandstone Bricks",
+  "block.minecraft.cut_red_sandstone": "Polished Red Sandstone",
+  "block.minecraft.cut_red_sandstone_slab": "Polished Red Sandstone Slab",
+  "block.minecraft.polished_granite": "Cracked Red Sandstone Bricks",
+  "block.minecraft.polished_andesite": "Cracked Cobbled Sandstone Bricks",
+  "block.minecraft.cut_sandstone": "Polished Sandstone",
+  "block.minecraft.cut_sandstone_slab": "Polished Sandstone Slab"
 }

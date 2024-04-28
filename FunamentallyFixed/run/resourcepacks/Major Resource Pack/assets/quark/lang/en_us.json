@@ -33,5 +33,18 @@
   "block.quark.blackstone_bricks": "Cobbled Blackstone",
   "block.quark.blackstone_bricks_stairs": "Cobbled Blackstone Stairs",
   "block.quark.blackstone_bricks_slab": "Cobbled Blackstone Slab",
-  "block.quark.blackstone_bricks_wall": "Cobbled Blackstone Wall"
+  "block.quark.blackstone_bricks_wall": "Cobbled Blackstone Wall",
+  
+  "block.quark.red_sandstone_bricks": "Cobbled Red Sandstone Bricks",
+  "block.quark.red_sandstone_bricks_stairs": "Cobbled Red Sandstone Brick Stairs",
+  "block.quark.red_sandstone_bricks_slab": "Cobbled Red Sandstone Brick Slab",
+  "block.quark.red_sandstone_bricks_wall": "Cobbled Red Sandstone Brick Wall",
+  "block.quark.sandstone_bricks": "Cobbled Sandstone Bricks",
+  "block.quark.sandstone_bricks_stairs": "Cobbled Sandstone Brick Stairs",
+  "block.quark.sandstone_bricks_slab": "Cobbled Sandstone Brick Slab",
+  "block.quark.sandstone_bricks_wall": "Cobbled Sandstone Brick Wall",
+  "block.quark.soul_sandstone": "Cobbled Soul Sandstone Bricks",
+  "block.quark.soul_sandstone_stairs": "Cobbled Soul Sandstone Brick Stairs",
+  "block.quark.soul_sandstone_slab": "Cobbled Soul Sandstone Brick Slab",
+  "block.quark.soul_sandstone_wall": "Cobbled Soul Sandstone Brick Wall"
 }

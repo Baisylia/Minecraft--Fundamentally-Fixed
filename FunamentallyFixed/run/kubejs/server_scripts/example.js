@@ -69,16 +69,100 @@ ServerEvents.recipes (event => {
     const copper = [
         ["minecraft", "copper_ingot"], ["modestmining", "copper_nugget"], ["create", "copper_sheet"],
         ["minecraft", "copper_block"], ["copperandtuffbackport", "chiseled_copper"], ["alloyed", "bronze_block"],
-        ["minecraft", "barrier"], ["minecraft", "barrier"], ["minecraft", "barrier"],
+        ["fundamentallyfixed", "carved_copper_stairs"], ["fundamentallyfixed", "carved_copper_slab"], ["fundamentallyfixed", "carved_copper_wall"],
         ["minecraft", "cut_copper"], ["minecraft", "cut_copper_stairs"], ["minecraft", "cut_copper_slab"],
-        ["minecraft", "barrier"], ["create", "copper_shingles"], ["create", "copper_shingle_stairs"],
-        ["create", "copper_shingle_slab"], ["minecraft", "barrier"], ["create", "copper_tiles"],
-        ["create", "copper_tile_stairs"], ["create", "copper_tile_slab"], ["minecraft", "barrier"],
+        ["fundamentallyfixed", "cut_copper_wall"], ["create", "copper_shingles"], ["create", "copper_shingle_stairs"],
+        ["create", "copper_shingle_slab"], ["fundamentallyfixed", "cubed_copper_wall"], ["create", "copper_tiles"],
+        ["create", "copper_tile_stairs"], ["create", "copper_tile_slab"], ["fundamentallyfixed", "lined_copper_wall"],
         ["fundamentallyfixed", "forging_fuels_zero"],
                                                     ["fundamentallyfixed", "raw_copper_nugget"], ["minecraft", "raw_copper"], ["modestmining", "copper_dust"]
     ];
 
-    const bronze = [
+    const exposed_copper = [
+        ["minecraft", "copper_ingot"], ["modestmining", "copper_nugget"], ["create", "copper_sheet"],
+        ["minecraft", "exposed_copper"], ["copperandtuffbackport", "exposed_chiseled_copper"], ["alloyed", "exposed_bronze_block"],
+        ["fundamentallyfixed", "carved_exposed_copper_stairs"], ["fundamentallyfixed", "carved_exposed_copper_slab"], ["fundamentallyfixed", "carved_exposed_copper_wall"],
+        ["minecraft", "exposed_cut_copper"], ["minecraft", "exposed_cut_copper_stairs"], ["minecraft", "exposed_cut_copper_slab"],
+        ["fundamentallyfixed", "cut_exposed_copper_wall"], ["create", "exposed_copper_shingles"], ["create", "exposed_copper_shingle_stairs"],
+        ["create", "exposed_copper_shingle_slab"], ["fundamentallyfixed", "cubed_exposed_copper_wall"], ["create", "exposed_copper_tiles"],
+        ["create", "exposed_copper_tile_stairs"], ["create", "exposed_copper_tile_slab"], ["fundamentallyfixed", "lined_exposed_copper_wall"],
+        ["fundamentallyfixed", "forging_fuels_zero"],
+                                                    ["fundamentallyfixed", "raw_copper_nugget"], ["minecraft", "raw_copper"], ["modestmining", "copper_dust"]
+    ];
+
+    const weathered_copper = [
+            ["minecraft", "copper_ingot"], ["modestmining", "copper_nugget"], ["create", "copper_sheet"],
+            ["minecraft", "weathered_copper"], ["copperandtuffbackport", "weathered_chiseled_copper"], ["alloyed", "weathered_bronze_block"],
+            ["fundamentallyfixed", "carved_weathered_copper_stairs"], ["fundamentallyfixed", "carved_weathered_copper_slab"], ["fundamentallyfixed", "carved_weathered_copper_wall"],
+            ["minecraft", "weathered_cut_copper"], ["minecraft", "weathered_cut_copper_stairs"], ["minecraft", "weathered_cut_copper_slab"],
+            ["fundamentallyfixed", "cut_weathered_copper_wall"], ["create", "weathered_copper_shingles"], ["create", "weathered_copper_shingle_stairs"],
+            ["create", "weathered_copper_shingle_slab"], ["fundamentallyfixed", "cubed_weathered_copper_wall"], ["create", "weathered_copper_tiles"],
+            ["create", "weathered_copper_tile_stairs"], ["create", "weathered_copper_tile_slab"], ["fundamentallyfixed", "lined_weathered_copper_wall"],
+            ["fundamentallyfixed", "forging_fuels_zero"],
+                                                        ["fundamentallyfixed", "raw_copper_nugget"], ["minecraft", "raw_copper"], ["modestmining", "copper_dust"]
+        ];
+
+    const oxidized_copper = [
+            ["minecraft", "copper_ingot"], ["modestmining", "copper_nugget"], ["create", "copper_sheet"],
+            ["minecraft", "oxidized_copper"], ["copperandtuffbackport", "oxidized_chiseled_copper"], ["alloyed", "oxidized_bronze_block"],
+            ["fundamentallyfixed", "carved_oxidized_copper_stairs"], ["fundamentallyfixed", "carved_oxidized_copper_slab"], ["fundamentallyfixed", "carved_oxidized_copper_wall"],
+            ["minecraft", "oxidized_cut_copper"], ["minecraft", "oxidized_cut_copper_stairs"], ["minecraft", "oxidized_cut_copper_slab"],
+            ["fundamentallyfixed", "cut_oxidized_copper_wall"], ["create", "oxidized_copper_shingles"], ["create", "oxidized_copper_shingle_stairs"],
+            ["create", "oxidized_copper_shingle_slab"], ["fundamentallyfixed", "cubed_oxidized_copper_wall"], ["create", "oxidized_copper_tiles"],
+            ["create", "oxidized_copper_tile_stairs"], ["create", "oxidized_copper_tile_slab"], ["fundamentallyfixed", "lined_oxidized_copper_wall"],
+            ["fundamentallyfixed", "forging_fuels_zero"],
+                                                        ["fundamentallyfixed", "raw_copper_nugget"], ["minecraft", "raw_copper"], ["modestmining", "copper_dust"]
+        ];
+
+    const waxed_copper = [
+            ["minecraft", "copper_ingot"], ["modestmining", "copper_nugget"], ["create", "copper_sheet"],
+            ["minecraft", "waxed_copper_block"], ["copperandtuffbackport", "waxed_chiseled_copper"], ["alloyed", "waxed_bronze_block"],
+            ["fundamentallyfixed", "waxed_carved_copper_stairs"], ["fundamentallyfixed", "waxed_carved_copper_slab"], ["fundamentallyfixed", "waxed_carved_copper_wall"],
+            ["minecraft", "waxed_cut_copper"], ["minecraft", "waxed_cut_copper_stairs"], ["minecraft", "waxed_cut_copper_slab"],
+            ["fundamentallyfixed", "waxed_cut_copper_wall"], ["create", "waxed_copper_shingles"], ["create", "waxed_copper_shingle_stairs"],
+            ["create", "waxed_copper_shingle_slab"], ["fundamentallyfixed", "waxed_cubed_copper_wall"], ["create", "waxed_copper_tiles"],
+            ["create", "waxed_copper_tile_stairs"], ["create", "waxed_copper_tile_slab"], ["fundamentallyfixed", "waxed_lined_copper_wall"],
+            ["fundamentallyfixed", "forging_fuels_zero"],
+            ["fundamentallyfixed", "raw_copper_nugget"], ["minecraft", "raw_copper"], ["modestmining", "copper_dust"]
+        ];
+
+        const waxed_exposed_copper = [
+            ["minecraft", "copper_ingot"], ["modestmining", "copper_nugget"], ["create", "copper_sheet"],
+            ["minecraft", "waxed_exposed_copper"], ["copperandtuffbackport", "waxed_exposed_chiseled_copper"], ["alloyed", "waxed_exposed_bronze_block"],
+            ["fundamentallyfixed", "waxed_carved_exposed_copper_stairs"], ["fundamentallyfixed", "waxed_carved_exposed_copper_slab"], ["fundamentallyfixed", "waxed_carved_exposed_copper_wall"],
+            ["minecraft", "waxed_exposed_cut_copper"], ["minecraft", "waxed_exposed_cut_copper_stairs"], ["minecraft", "waxed_exposed_cut_copper_slab"],
+            ["fundamentallyfixed", "waxed_cut_exposed_copper_wall"], ["create", "waxed_exposed_copper_shingles"], ["create", "waxed_exposed_copper_shingle_stairs"],
+            ["create", "waxed_exposed_copper_shingle_slab"], ["fundamentallyfixed", "waxed_cubed_exposed_copper_wall"], ["create", "waxed_exposed_copper_tiles"],
+            ["create", "waxed_exposed_copper_tile_stairs"], ["create", "waxed_exposed_copper_tile_slab"], ["fundamentallyfixed", "waxed_lined_exposed_copper_wall"],
+            ["fundamentallyfixed", "forging_fuels_zero"],
+            ["fundamentallyfixed", "raw_copper_nugget"], ["minecraft", "raw_copper"], ["modestmining", "copper_dust"]
+        ];
+
+        const waxed_weathered_copper = [
+                ["minecraft", "copper_ingot"], ["modestmining", "copper_nugget"], ["create", "copper_sheet"],
+                ["minecraft", "waxed_weathered_copper"], ["copperandtuffbackport", "waxed_weathered_chiseled_copper"], ["alloyed", "waxed_weathered_bronze_block"],
+                ["fundamentallyfixed", "waxed_carved_weathered_copper_stairs"], ["fundamentallyfixed", "waxed_carved_weathered_copper_slab"], ["fundamentallyfixed", "waxed_carved_weathered_copper_wall"],
+                ["minecraft", "waxed_weathered_cut_copper"], ["minecraft", "waxed_weathered_cut_copper_stairs"], ["minecraft", "waxed_weathered_cut_copper_slab"],
+                ["fundamentallyfixed", "waxed_cut_weathered_copper_wall"], ["create", "waxed_weathered_copper_shingles"], ["create", "waxed_weathered_copper_shingle_stairs"],
+                ["create", "waxed_weathered_copper_shingle_slab"], ["fundamentallyfixed", "waxed_cubed_weathered_copper_wall"], ["create", "waxed_weathered_copper_tiles"],
+                ["create", "waxed_weathered_copper_tile_stairs"], ["create", "waxed_weathered_copper_tile_slab"], ["fundamentallyfixed", "waxed_lined_weathered_copper_wall"],
+                ["fundamentallyfixed", "forging_fuels_zero"],
+                ["fundamentallyfixed", "raw_copper_nugget"], ["minecraft", "raw_copper"], ["modestmining", "copper_dust"]
+            ];
+
+        const waxed_oxidized_copper = [
+                ["minecraft", "copper_ingot"], ["modestmining", "copper_nugget"], ["create", "copper_sheet"],
+                ["minecraft", "waxed_oxidized_copper"], ["copperandtuffbackport", "waxed_oxidized_chiseled_copper"], ["alloyed", "waxed_oxidized_bronze_block"],
+                ["fundamentallyfixed", "waxed_carved_oxidized_copper_stairs"], ["fundamentallyfixed", "waxed_carved_oxidized_copper_slab"], ["fundamentallyfixed", "waxed_carved_oxidized_copper_wall"],
+                ["minecraft", "waxed_oxidized_cut_copper"], ["minecraft", "waxed_oxidized_cut_copper_stairs"], ["minecraft", "waxed_oxidized_cut_copper_slab"],
+                ["fundamentallyfixed", "waxed_cut_oxidized_copper_wall"], ["create", "waxed_oxidized_copper_shingles"], ["create", "waxed_oxidized_copper_shingle_stairs"],
+                ["create", "waxed_oxidized_copper_shingle_slab"], ["fundamentallyfixed", "waxed_cubed_oxidized_copper_wall"], ["create", "waxed_oxidized_copper_tiles"],
+                ["create", "waxed_oxidized_copper_tile_stairs"], ["create", "waxed_oxidized_copper_tile_slab"], ["fundamentallyfixed", "waxed_lined_oxidized_copper_wall"],
+                ["fundamentallyfixed", "forging_fuels_zero"],
+                ["fundamentallyfixed", "raw_copper_nugget"], ["minecraft", "raw_copper"], ["modestmining", "copper_dust"]
+            ];
+
+        const bronze = [
         ["fundamentallyfixed", "bronze_ingot"], ["fundamentallyfixed", "bronze_nugget"], ["fundamentallyfixed", "bronze_sheet"],
         ["create", "brass_block"], ["create", "zinc_block"], ["fundamentallyfixed", "carved_bronze"],
         ["fundamentallyfixed", "carved_bronze_stairs"], ["fundamentallyfixed", "carved_bronze_slab"], ["fundamentallyfixed", "carved_bronze_wall"],
@@ -249,57 +333,59 @@ ServerEvents.recipes (event => {
 
     // Define all metal sets
     const metalSets = [
+        aluminium, copper, exposed_copper, weathered_copper, oxidized_copper, waxed_copper, waxed_exposed_copper, waxed_weathered_copper, waxed_oxidized_copper, bronze, iron, lead, steel, gold, silver, stoldum, prismarite, netherite, electrum, chlorophite, mythril, hallowed, gravitite, voidendum
+    ];
+    const ingotSets = [
         aluminium, copper, bronze, iron, lead, steel, gold, silver, stoldum, prismarite, netherite, electrum, chlorophite, mythril, hallowed, gravitite, voidendum
     ];
-
     const oreSets = [
         aluminium, copper, iron, lead, gold, silver
     ];
 
-    for (let metalSet of metalSets) {
-        let ingot = metalSet[0];
+    for (let ingotSet of ingotSets) {
+        let ingot = ingotSet[0];
         let ingotItem = `${ingot[0]}:${ingot[1]}`;
-        let nugget = metalSet[1];
+        let nugget = ingotSet[1];
         let nuggetItem = `${nugget[0]}:${nugget[1]}`;
-        let sheet = metalSet[2];
+        let sheet = ingotSet[2];
         let sheetItem = `${sheet[0]}:${sheet[1]}`;
-        let block = metalSet[3];
+        let block = ingotSet[3];
         let blockItem = `${block[0]}:${block[1]}`;
-        let sheetBlock = metalSet[4];
+        let sheetBlock = ingotSet[4];
         let sheetBlockItem = `${sheetBlock[0]}:${sheetBlock[1]}`;
-        let carved = metalSet[5];
+        let carved = ingotSet[5];
         let carvedItem = `${carved[0]}:${carved[1]}`;
-        let carvedStair = metalSet[6];
+        let carvedStair = ingotSet[6];
         let carvedStairItem = `${carvedStair[0]}:${carvedStair[1]}`;
-        let carvedSlab = metalSet[7];
+        let carvedSlab = ingotSet[7];
         let carvedSlabItem = `${carvedSlab[0]}:${carvedSlab[1]}`;
-        let carvedWall = metalSet[8];
+        let carvedWall = ingotSet[8];
         let carvedWallItem = `${carvedWall[0]}:${carvedWall[1]}`;
-        let cut = metalSet[9];
+        let cut = ingotSet[9];
         let cutItem = `${cut[0]}:${cut[1]}`;
-        let cutStair = metalSet[10];
+        let cutStair = ingotSet[10];
         let cutStairItem = `${cutStair[0]}:${cutStair[1]}`;
-        let cutSlab = metalSet[11];
+        let cutSlab = ingotSet[11];
         let cutSlabItem = `${cutSlab[0]}:${cutSlab[1]}`;
-        let cutWall = metalSet[12];
+        let cutWall = ingotSet[12];
         let cutWallItem = `${cutWall[0]}:${cutWall[1]}`;
-        let cubed = metalSet[13];
+        let cubed = ingotSet[13];
         let cubedItem = `${cubed[0]}:${cubed[1]}`;
-        let cubedStair = metalSet[14];
+        let cubedStair = ingotSet[14];
         let cubedStairItem = `${cubedStair[0]}:${cubedStair[1]}`;
-        let cubedSlab = metalSet[15];
+        let cubedSlab = ingotSet[15];
         let cubedSlabItem = `${cubedSlab[0]}:${cubedSlab[1]}`;
-        let cubedWall = metalSet[16];
+        let cubedWall = ingotSet[16];
         let cubedWallItem = `${cubedWall[0]}:${cubedWall[1]}`;
-        let lined = metalSet[17];
+        let lined = ingotSet[17];
         let linedItem = `${lined[0]}:${lined[1]}`;
-        let linedStair = metalSet[18];
+        let linedStair = ingotSet[18];
         let linedStairItem = `${linedStair[0]}:${linedStair[1]}`;
-        let linedSlab = metalSet[19];
+        let linedSlab = ingotSet[19];
         let linedSlabItem = `${linedSlab[0]}:${linedSlab[1]}`;
-        let linedWall = metalSet[20];
+        let linedWall = ingotSet[20];
         let linedWallItem = `${linedWall[0]}:${linedWall[1]}`;
-        let fuel = metalSet[21];
+        let fuel = ingotSet[21];
         let fuelTag = `${fuel[0]}:${fuel[1]}`;
 
         // Ingots
@@ -323,18 +409,7 @@ ServerEvents.recipes (event => {
                 count: 1
             }
         })
-        event.custom({
-            type: "modestmining:forging",
-            cooktime: 18,
-            ingredients: [
-                { item: blockItem }
-            ],
-            fuel: { tag: fuelTag },
-            result: {
-                item: ingotItem,
-                count: 9
-            }
-        })
+
 
         event.custom({
             type: "modestmining:forging",
@@ -389,18 +464,7 @@ ServerEvents.recipes (event => {
                 count: 1
             }
         })
-        event.custom({
-            type: "modestmining:forging",
-            cooktime: 18,
-            ingredients: [
-                { item: sheetBlockItem }
-            ],
-            fuel: { tag: fuelTag },
-            result: {
-                item: sheetItem,
-                count: 9
-            }
-        })
+
 
         // Carved
         event.custom({
@@ -454,6 +518,80 @@ ServerEvents.recipes (event => {
             result: {
                 item: carvedWallItem,
                 count: 1
+            }
+        })
+    }
+
+    for (let metalSet of metalSets) {
+        let ingot = metalSet[0];
+        let ingotItem = `${ingot[0]}:${ingot[1]}`;
+        let nugget = metalSet[1];
+        let nuggetItem = `${nugget[0]}:${nugget[1]}`;
+        let sheet = metalSet[2];
+        let sheetItem = `${sheet[0]}:${sheet[1]}`;
+        let block = metalSet[3];
+        let blockItem = `${block[0]}:${block[1]}`;
+        let sheetBlock = metalSet[4];
+        let sheetBlockItem = `${sheetBlock[0]}:${sheetBlock[1]}`;
+        let carved = metalSet[5];
+        let carvedItem = `${carved[0]}:${carved[1]}`;
+        let carvedStair = metalSet[6];
+        let carvedStairItem = `${carvedStair[0]}:${carvedStair[1]}`;
+        let carvedSlab = metalSet[7];
+        let carvedSlabItem = `${carvedSlab[0]}:${carvedSlab[1]}`;
+        let carvedWall = metalSet[8];
+        let carvedWallItem = `${carvedWall[0]}:${carvedWall[1]}`;
+        let cut = metalSet[9];
+        let cutItem = `${cut[0]}:${cut[1]}`;
+        let cutStair = metalSet[10];
+        let cutStairItem = `${cutStair[0]}:${cutStair[1]}`;
+        let cutSlab = metalSet[11];
+        let cutSlabItem = `${cutSlab[0]}:${cutSlab[1]}`;
+        let cutWall = metalSet[12];
+        let cutWallItem = `${cutWall[0]}:${cutWall[1]}`;
+        let cubed = metalSet[13];
+        let cubedItem = `${cubed[0]}:${cubed[1]}`;
+        let cubedStair = metalSet[14];
+        let cubedStairItem = `${cubedStair[0]}:${cubedStair[1]}`;
+        let cubedSlab = metalSet[15];
+        let cubedSlabItem = `${cubedSlab[0]}:${cubedSlab[1]}`;
+        let cubedWall = metalSet[16];
+        let cubedWallItem = `${cubedWall[0]}:${cubedWall[1]}`;
+        let lined = metalSet[17];
+        let linedItem = `${lined[0]}:${lined[1]}`;
+        let linedStair = metalSet[18];
+        let linedStairItem = `${linedStair[0]}:${linedStair[1]}`;
+        let linedSlab = metalSet[19];
+        let linedSlabItem = `${linedSlab[0]}:${linedSlab[1]}`;
+        let linedWall = metalSet[20];
+        let linedWallItem = `${linedWall[0]}:${linedWall[1]}`;
+        let fuel = metalSet[21];
+        let fuelTag = `${fuel[0]}:${fuel[1]}`;
+
+        // Ingots
+        event.custom({
+            type: "modestmining:forging",
+            cooktime: 18,
+            ingredients: [
+                { item: blockItem }
+            ],
+            fuel: { tag: fuelTag },
+            result: {
+                item: ingotItem,
+                count: 9
+            }
+        })
+
+        event.custom({
+            type: "modestmining:forging",
+            cooktime: 18,
+            ingredients: [
+                { item: sheetBlockItem }
+            ],
+            fuel: { tag: fuelTag },
+            result: {
+                item: sheetItem,
+                count: 9
             }
         })
     }

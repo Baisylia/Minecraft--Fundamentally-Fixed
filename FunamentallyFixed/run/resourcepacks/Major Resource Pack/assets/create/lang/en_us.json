@@ -72,5 +72,15 @@
   "block.create.waxed_copper_tiles": "Waxed Lined Copper",
   "block.create.waxed_exposed_copper_tiles": "Waxed Exposed Lined Copper",
   "block.create.waxed_weathered_copper_tiles": "Waxed Weathered Lined Copper",
-  "block.create.waxed_oxidized_copper_tiles": "Waxed Oxidized Lined Copper"
+  "block.create.waxed_oxidized_copper_tiles": "Waxed Oxidized Lined Copper",
+  
+  "block.create.cut_asurine_stairs": "Polished Red Sandstone Stairs",
+  "block.create.cut_asurine_wall": "Polished Red Sandstone Wall",
+  "block.create.cut_asurine_brick_wall": "Smooth Red Sandstone Wall",
+  "block.create.polished_cut_asurine_stairs": "Polished Sandstone Stairs",
+  "block.create.polished_cut_asurine_wall": "Polished Sandstone Wall",
+  "block.create.small_asurine_wall": "Smooth Sandstone Wall",
+  "block.create.cut_scoria_wall": "Smooth Soul Sandstone Wall",
+  "block.create.cut_scoria_bricks": "Cracked Soul Sandstone Bricks",
+  "block.create.small_crimsite_brick_wall": "Polished Soul Sandstone Wall"
 }

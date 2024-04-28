@@ -1,6 +1,8 @@
 {
   "values": [
     "minecraft:sand",
-    "minecraft:red_sand"
+    "atmospheric:arid_sand",
+    "minecraft:red_sand",
+    "atmospheric:red_arid_sand"
   ]
 }

@@ -8,7 +8,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:soul_sand"
+      "tag": "fundamentallyfixed:soul_sands_blocks"
     }
   ],
   "results": [

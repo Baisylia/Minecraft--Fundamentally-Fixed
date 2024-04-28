@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "fundamentallyfixed:block/carved_oxidized_copper_slab"
+    },
+    "type=double": {
+      "model": "fundamentallyfixed:block/carved_oxidized_copper_slab_full"
+    },
+    "type=top": {
+      "model": "fundamentallyfixed:block/carved_oxidized_copper_slab_top"
+    }
+  }
+}

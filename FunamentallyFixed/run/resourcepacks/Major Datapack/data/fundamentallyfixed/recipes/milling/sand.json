@@ -8,7 +8,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:sand"
+      "tag": "fundamentallyfixed:normal_sands"
     }
   ],
   "results": [
