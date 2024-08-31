@@ -15,24 +15,13 @@
     {
       "name": "minecraft:wooden_sword"
     },
-    {
-      "name": "minecraft:wooden_shovel"
-    },
+    //{
+    //  "name": "minecraft:wooden_shovel"
+    //},
     {
       "name": "shieldexp:wooden_shield"
     },
-    {
-      "name": "modestmining:fiber_cap"
-    },
-    {
-      "name": "modestmining:fiber_tunic"
-    },
-    {
-      "name": "modestmining:fiber_pants"
-    },
-    {
-      "name": "modestmining:fiber_boots"
-    },
+
 
 
     {
@@ -43,9 +32,6 @@
     },
     {
       "name": "fundamentallyfixed:copper_pick"
-    },
-    {
-      "name": "shieldexp:golden_shield"
     },
     {
       "name": "minecraft:leather_helmet"
@@ -76,11 +62,20 @@
     {
       "name": "fundamentallyfixed:bronze_sword"
     },
+    //{
+    //  "name": "fundamentallyfixed:bronze_shovel"
+    //},
+    //{
+    //  "name": "fundamentallyfixed:bronze_hoe"
+    //},
     {
-      "name": "fundamentallyfixed:bronze_shovel"
+      "name": "fundamentallyfixed:bronze_hammer"
     },
     {
-      "name": "fundamentallyfixed:bronze_hoe"
+      "name": "sortilege:bronze_staff"
+    },
+    {
+      "name": "shieldexp:golden_shield"
     },
     {
       "name": "fundamentallyfixed:bronze_helmet"
@@ -96,316 +91,520 @@
     },
 
 
+
     {
-      "name": "farmersdelight:iron_knife"
+      "name": "fundamentallyfixed:steel_knife"
     },
     {
-      "name": "minecraft:iron_axe"
+      "name": "fundamentallyfixed:steel_axe"
     },
     {
-      "name": "minecraft:iron_pickaxe"
+      "name": "fundamentallyfixed:steel_pickaxe"
     },
     {
-      "name": "minecraft:iron_sword"
+      "name": "fundamentallyfixed:steel_sword"
+    },
+    //{
+    //  "name": "fundamentallyfixed:steel_shovel"
+    //},
+    //{
+    //  "name": "fundamentallyfixed:steel_hoe"
+    //},
+    {
+      "name": "fundamentallyfixed:steel_hammer"
     },
     {
-      "name": "minecraft:iron_shovel"
-    },
-    {
-      "name": "minecraft:iron_hoe"
+      "name": "sortilege:steel_staff"
     },
     {
       "name": "shieldexp:iron_shield"
     },
     {
-      "name": "minecraft:iron_helmet"
+      "name": "fundamentallyfixed:steel_helmet"
     },
     {
-      "name": "minecraft:iron_chestplate"
+      "name": "fundamentallyfixed:steel_chestplate"
     },
     {
-      "name": "minecraft:iron_leggings"
+      "name": "fundamentallyfixed:steel_leggings"
     },
     {
-      "name": "minecraft:iron_boots"
-    },
-    {
-      "name": "minecraft:iron_horse_armor"
+      "name": "fundamentallyfixed:steel_boots"
     },
 
 
     {
-      "name": "delightfulmining:steel_knife"
+      "name": "fundamentallyfixed:diamond_knife"
     },
     {
-      "name": "modestmining:steel_axe"
+      "name": "fundamentallyfixed:diamond_axe"
     },
     {
-      "name": "modestmining:steel_pickaxe"
+      "name": "fundamentallyfixed:diamond_pickaxe"
     },
     {
-      "name": "modestmining:steel_sword"
+      "name": "fundamentallyfixed:diamond_sword"
+    },
+    //{
+    //  "name": "fundamentallyfixed:diamond_shovel"
+    //},
+    //{
+    //  "name": "fundamentallyfixed:diamond_hoe"
+    //},
+    {
+      "name": "fundamentallyfixed:diamond_hammer"
     },
     {
-      "name": "modestmining:steel_shovel"
-    },
-    {
-      "name": "modestmining:steel_hoe"
-    },
-    {
-      "name": "shieldexp:steel_shield"
-    },
-    {
-      "name": "modestmining:steel_helmet"
-    },
-    {
-      "name": "modestmining:steel_chestplate"
-    },
-    {
-      "name": "modestmining:steel_leggings"
-    },
-    {
-      "name": "modestmining:steel_boots"
-    },
-
-
-    {
-      "name": "farmersdelight:diamond_knife"
-    },
-    {
-      "name": "minecraft:diamond_axe"
-    },
-    {
-      "name": "minecraft:diamond_pickaxe"
-    },
-    {
-      "name": "minecraft:diamond_sword"
-    },
-    {
-      "name": "minecraft:diamond_shovel"
-    },
-    {
-      "name": "minecraft:diamond_hoe"
+      "name": "sortilege:diamond_staff"
     },
     {
       "name": "shieldexp:diamond_shield"
     },
     {
-      "name": "minecraft:diamond_helmet"
+      "name": "fundamentallyfixed:diamond_helmet"
     },
     {
-      "name": "minecraft:diamond_chestplate"
+      "name": "fundamentallyfixed:diamond_chestplate"
     },
     {
-      "name": "minecraft:diamond_leggings"
+      "name": "fundamentallyfixed:diamond_leggings"
     },
     {
-      "name": "minecraft:diamond_boots"
+      "name": "fundamentallyfixed:diamond_boots"
     },
     {
-      "name": "minecraft:diamond_horse_armor"
+      "name": "fundamentallyfixed:diamond_horse_armor"
     },
 
 
     {
-      "name": "farmersdelight:netherite_knife"
+      "name": "fundamentallyfixed:stoldum_knife"
     },
     {
-      "name": "minecraft:netherite_axe"
+      "name": "fundamentallyfixed:stoldum_axe"
     },
     {
-      "name": "minecraft:netherite_pickaxe"
+      "name": "fundamentallyfixed:stoldum_pickaxe"
     },
     {
-      "name": "minecraft:netherite_sword"
+      "name": "fundamentallyfixed:stoldum_sword"
+    },
+    //{
+    //  "name": "modestmining:stoldum_shovel"
+    //},
+    //{
+    //  "name": "modestmining:stoldum_hoe"
+    //},
+    {
+      "name": "fundamentallyfixed:stoldum_hammer"
     },
     {
-      "name": "minecraft:netherite_shovel"
+      "name": "sortilege:stoldum_staff"
     },
     {
-      "name": "minecraft:netherite_hoe"
+      "name": "fundamentallyfixed:stoldum_shield"
+    },
+    {
+      "name": "fundamentallyfixed:stoldum_helmet"
+    },
+    {
+      "name": "fundamentallyfixed:stoldum_chestplate"
+    },
+    {
+      "name": "fundamentallyfixed:stoldum_leggings"
+    },
+    {
+      "name": "fundamentallyfixed:stoldum_boots"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:netherite_knife"
+    },
+    {
+      "name": "fundamentallyfixed:netherite_axe"
+    },
+    {
+      "name": "fundamentallyfixed:netherite_pickaxe"
+    },
+    {
+      "name": "fundamentallyfixed:netherite_sword"
+    },
+    //{
+    //  "name": "minecraft:netherite_shovel"
+    //},
+    //{
+    //  "name": "minecraft:netherite_hoe"
+    //},
+    {
+      "name": "fundamentallyfixed:netherite_hammer"
+    },
+    {
+      "name": "sortilege:netherite_staff"
     },
     {
       "name": "shieldexp:netherite_shield"
     },
     {
-      "name": "minecraft:netherite_helmet"
+      "name": "fundamentallyfixed:netherite_helmet"
     },
     {
-      "name": "minecraft:netherite_chestplate"
+      "name": "fundamentallyfixed:netherite_chestplate"
     },
     {
-      "name": "minecraft:netherite_leggings"
+      "name": "fundamentallyfixed:netherite_leggings"
     },
     {
-      "name": "minecraft:netherite_boots"
+      "name": "fundamentallyfixed:netherite_boots"
     },
 
 
     {
-      "name": "delightfulmining:prismarite_knife"
+      "name": "fundamentallyfixed:prismarite_knife"
     },
     {
-      "name": "modestmining:prismarite_axe"
+      "name": "fundamentallyfixed:prismarite_axe"
     },
     {
-      "name": "modestmining:prismarite_pickaxe"
+      "name": "fundamentallyfixed:prismarite_pickaxe"
     },
     {
-      "name": "modestmining:prismarite_sword"
+      "name": "fundamentallyfixed:prismarite_sword"
+    },
+    //{
+    //  "name": "modestmining:prismarite_shovel"
+    //},
+    //{
+    //  "name": "modestmining:prismarite_hoe"
+    //},
+    {
+      "name": "fundamentallyfixed:prismarite_hammer"
     },
     {
-      "name": "modestmining:prismarite_shovel"
-    },
-    {
-      "name": "modestmining:prismarite_hoe"
+      "name": "sortilege:prismarite_staff"
     },
     {
       "name": "fundamentallyfixed:prismarite_shield"
     },
     {
-      "name": "modestmining:prismarite_helmet"
+      "name": "fundamentallyfixed:prismarite_helmet"
     },
     {
-      "name": "modestmining:prismarite_chestplate"
+      "name": "fundamentallyfixed:prismarite_chestplate"
     },
     {
-      "name": "modestmining:prismarite_leggings"
+      "name": "fundamentallyfixed:prismarite_leggings"
     },
     {
-      "name": "modestmining:prismarite_boots"
+      "name": "fundamentallyfixed:prismarite_boots"
     },
 
 
     {
-      "name": "oreganized:electrum_knife"
+      "name": "fundamentallyfixed:electrum_knife"
     },
     {
-      "name": "oreganized:electrum_axe"
+      "name": "fundamentallyfixed:electrum_axe"
     },
     {
-      "name": "oreganized:electrum_pickaxe"
+      "name": "fundamentallyfixed:electrum_pickaxe"
     },
     {
-      "name": "oreganized:electrum_sword"
+      "name": "fundamentallyfixed:electrum_sword"
+    },
+    //{
+    //  "name": "fundamentallyfixed:electrum_shovel"
+    //},
+    //{
+    //  "name": "fundamentallyfixed:electrum_hoe"
+    //},
+    {
+      "name": "fundamentallyfixed:electrum_hammer"
     },
     {
-      "name": "oreganized:electrum_shovel"
+      "name": "sortilege:electrum_staff"
     },
     {
-      "name": "oreganized:electrum_hoe"
+      "name": "shieldexp:electrum_shield"
     },
     {
-      "name": "oreganized:electrum_shield"
+      "name": "fundamentallyfixed:electrum_helmet"
     },
     {
-      "name": "oreganized:electrum_helmet"
+      "name": "fundamentallyfixed:electrum_chestplate"
     },
     {
-      "name": "oreganized:electrum_chestplate"
+      "name": "fundamentallyfixed:electrum_leggings"
     },
     {
-      "name": "oreganized:electrum_leggings"
-    },
-    {
-      "name": "oreganized:electrum_boots"
+      "name": "fundamentallyfixed:electrum_boots"
     },
 
 
     {
-      "name": "fundamentallyfixed:griefer_knife"
+      "name": "fundamentallyfixed:chlorophite_knife"
     },
     {
-      "name": "fundamentallyfixed:griefer_axe"
+      "name": "fundamentallyfixed:chlorophite_axe"
     },
     {
-      "name": "fundamentallyfixed:griefer_pickaxe"
+      "name": "fundamentallyfixed:chlorophite_pickaxe"
     },
     {
-      "name": "fundamentallyfixed:griefer_sword"
+      "name": "fundamentallyfixed:chlorophite_sword"
+    },
+    //{
+    //  "name": "modestmining:chlorophite_shovel"
+    //},
+    //{
+    //  "name": "modestmining:chlorophite_hoe"
+    //},
+    {
+      "name": "fundamentallyfixed:chlorophite_hammer"
     },
     {
-      "name": "fundamentallyfixed:griefer_shovel"
+      "name": "sortilege:chlorophite_staff"
     },
     {
-      "name": "fundamentallyfixed:griefer_hoe"
+      "name": "fundamentallyfixed:chlorophite_shield"
     },
     {
-      "name": "shieldexp:griefer_shield"
+      "name": "fundamentallyfixed:chlorophite_helmet"
     },
     {
-      "name": "savage_and_ravage:griefer_helmet"
+      "name": "fundamentallyfixed:chlorophite_chestplate"
     },
     {
-      "name": "savage_and_ravage:griefer_chestplate"
+      "name": "fundamentallyfixed:chlorophite_leggings"
     },
     {
-      "name": "savage_and_ravage:griefer_leggings"
-    },
-    {
-      "name": "savage_and_ravage:griefer_boots"
+      "name": "fundamentallyfixed:chlorophite_boots"
     },
 
 
     {
-      "name": "sullysmod:jade_shield"
+      "name": "fundamentallyfixed:mythril_knife"
     },
     {
-      "name": "minecraft:turtle_helmet"
+      "name": "fundamentallyfixed:mythril_axe"
     },
     {
-      "name": "alexsmobs:crocodile_chestplate"
+      "name": "fundamentallyfixed:mythril_pickaxe"
     },
     {
-      "name": "alexsmobs:flying_fish_boots"
+      "name": "fundamentallyfixed:mythril_sword"
+    },
+    //{
+    //  "name": "modestmining:mythril_shovel"
+    //},
+    //{
+    //  "name": "modestmining:mythril_hoe"
+    //},
+    {
+      "name": "fundamentallyfixed:mythril_hammer"
     },
     {
-      "name": "alexsmobs:frontier_cap"
+      "name": "sortilege:mythril_staff"
     },
     {
-      "name": "autumnity:snail_shell_chestplate"
+      "name": "fundamentallyfixed:mythril_shield"
     },
     {
-      "name": "environmental:yak_pants"
+      "name": "fundamentallyfixed:mythril_helmet"
     },
     {
-      "name": "windswept:snow_boots"
+      "name": "fundamentallyfixed:mythril_chestplate"
     },
     {
-      "name": "savage_and_ravage:mask_of_dishonesty"
+      "name": "fundamentallyfixed:mythril_leggings"
     },
+    {
+      "name": "fundamentallyfixed:mythril_boots"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:hallowed_knife"
+    },
+    {
+      "name": "fundamentallyfixed:hallowed_axe"
+    },
+    {
+      "name": "fundamentallyfixed:hallowed_pickaxe"
+    },
+    {
+      "name": "fundamentallyfixed:hallowed_sword"
+    },
+    //{
+    //  "name": "modestmining:hallowed_shovel"
+    //},
+    //{
+    //  "name": "modestmining:hallowed_hoe"
+    //},
+    {
+      "name": "fundamentallyfixed:hallowed_hammer"
+    },
+    {
+      "name": "sortilege:hallowed_staff"
+    },
+    {
+      "name": "fundamentallyfixed:hallowed_shield"
+    },
+    {
+      "name": "fundamentallyfixed:hallowed_helmet"
+    },
+    {
+      "name": "fundamentallyfixed:hallowed_chestplate"
+    },
+    {
+      "name": "fundamentallyfixed:hallowed_leggings"
+    },
+    {
+      "name": "fundamentallyfixed:hallowed_boots"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:gravitite_knife"
+    },
+    {
+      "name": "fundamentallyfixed:gravitite_axe"
+    },
+    {
+      "name": "fundamentallyfixed:gravitite_pickaxe"
+    },
+    {
+      "name": "fundamentallyfixed:gravitite_sword"
+    },
+    //{
+    //  "name": "modestmining:gravitite_shovel"
+    //},
+    //{
+    //  "name": "modestmining:gravitite_hoe"
+    //},
+    {
+      "name": "fundamentallyfixed:gravitite_hammer"
+    },
+    {
+      "name": "sortilege:gravitite_staff"
+    },
+    {
+      "name": "fundamentallyfixed:gravitite_shield"
+    },
+    {
+      "name": "fundamentallyfixed:gravitite_helmet"
+    },
+    {
+      "name": "fundamentallyfixed:gravitite_chestplate"
+    },
+    {
+      "name": "fundamentallyfixed:gravitite_leggings"
+    },
+    {
+      "name": "fundamentallyfixed:gravitite_boots"
+    },
+
+
+    {
+      "name": "fundamentallyfixed:voidendum_knife"
+    },
+    {
+      "name": "fundamentallyfixed:voidendum_axe"
+    },
+    {
+      "name": "fundamentallyfixed:voidendum_pickaxe"
+    },
+    {
+      "name": "fundamentallyfixed:voidendum_sword"
+    },
+    //{
+    //  "name": "modestmining:voidendum_shovel"
+    //},
+    //{
+    //  "name": "modestmining:voidendum_hoe"
+    //},
+    {
+      "name": "fundamentallyfixed:voidendum_hammer"
+    },
+    {
+      "name": "sortilege:voidendum_staff"
+    },
+    {
+      "name": "fundamentallyfixed:voidendum_shield"
+    },
+    {
+      "name": "fundamentallyfixed:voidendum_helmet"
+    },
+    {
+      "name": "fundamentallyfixed:voidendum_chestplate"
+    },
+    {
+      "name": "fundamentallyfixed:voidendum_leggings"
+    },
+    {
+      "name": "fundamentallyfixed:voidendum_boots"
+    },
+
+
+    //{
+    //  "name": "sullysmod:jade_shield"
+    //},
+    //{
+    //  "name": "minecraft:turtle_helmet"
+    //},
+    //{
+    //  "name": "alexsmobs:crocodile_chestplate"
+    //},
+    //{
+    //  "name": "alexsmobs:flying_fish_boots"
+    //},
+    //{
+    //  "name": "alexsmobs:frontier_cap"
+    //},
+    //{
+    //  "name": "autumnity:snail_shell_chestplate"
+    //},
+    //{
+    //  "name": "environmental:yak_pants"
+    //},
+    //{
+    //  "name": "windswept:snow_boots"
+    //},
+    //{
+    //  "name": "savage_and_ravage:mask_of_dishonesty"
+    //},
     {
       "name": "alexsmobs:rocky_chestplate"
     },
-    {
-      "name": "alexsmobs:centipede_leggings"
-    },
-    {
-      "name": "alexsmobs:roadrunner_boots"
-    },
+    //{
+    //  "name": "alexsmobs:centipede_leggings"
+    //},
+    //{
+    //  "name": "alexsmobs:roadrunner_boots"
+    //},
     {
       "name": "alexsmobs:fedora"
     },
     {
       "name": "minecraft:elytra"
     },
-    {
-      "name": "alexsmobs:emu_leggings"
-    },
+    //{
+    //  "name": "alexsmobs:emu_leggings"
+    //},
     {
       "name": "minecraft:shulker_shell"
     },
-    {
-      "name": "quark:backpack"
-    },
+    //{
+    //  "name": "quark:backpack"
+    //},
 
 
-    {
-      "name": "savage_and_ravage:cleaver_of_beheading"
-    },
-    {
-      "name": "minecraft:trident"
-    },
+    //{
+    //  "name": "savage_and_ravage:cleaver_of_beheading"
+    //},
+    //{
+    //  "name": "minecraft:trident"
+    //},
     {
       "name": "supplementaries:quiver"
     },
@@ -490,9 +689,9 @@
     {
       "name": "davespotioneering:light_gray_umbrella"
     },
-    {
-      "name": "create:wrench"
-    },
+    //{
+    //   "name": "create:wrench"
+    //},
     {
       "name": "quark:echorang"
     },
@@ -546,9 +745,9 @@
     {
       "name": "minecraft:totem_of_undying"
     },
-    {
-      "name": "pet_cemetery:pet_collar"
-    },
+    //{
+    //  "name": "pet_cemetery:pet_collar"
+    //},
     {
       "name": "supplementaries:bomb"
     },
@@ -576,9 +775,9 @@
     {
       "name": "supplementaries:flute"
     },
-    {
-      "name": "alexsmobs:pigshoes"
-    },
+    //{
+    //  "name": "alexsmobs:pigshoes"
+    //},
 
 
     {

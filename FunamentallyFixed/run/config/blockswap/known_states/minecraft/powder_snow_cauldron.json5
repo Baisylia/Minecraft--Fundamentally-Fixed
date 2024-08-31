@@ -14,39 +14,6 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
-			"purity": "1",
-			"level": "1"
-		},
-		"Name": "minecraft:powder_snow_cauldron"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"purity": "2",
-			"level": "1"
-		},
-		"Name": "minecraft:powder_snow_cauldron"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"purity": "3",
-			"level": "1"
-		},
-		"Name": "minecraft:powder_snow_cauldron"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"purity": "4",
-			"level": "1"
-		},
-		"Name": "minecraft:powder_snow_cauldron"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"purity": "0",
 			"level": "2"
 		},
 		"Name": "minecraft:powder_snow_cauldron"
@@ -54,71 +21,6 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
-			"purity": "1",
-			"level": "2"
-		},
-		"Name": "minecraft:powder_snow_cauldron"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"purity": "2",
-			"level": "2"
-		},
-		"Name": "minecraft:powder_snow_cauldron"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"purity": "3",
-			"level": "2"
-		},
-		"Name": "minecraft:powder_snow_cauldron"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"purity": "4",
-			"level": "2"
-		},
-		"Name": "minecraft:powder_snow_cauldron"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"purity": "0",
-			"level": "3"
-		},
-		"Name": "minecraft:powder_snow_cauldron"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"purity": "1",
-			"level": "3"
-		},
-		"Name": "minecraft:powder_snow_cauldron"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"purity": "2",
-			"level": "3"
-		},
-		"Name": "minecraft:powder_snow_cauldron"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"purity": "3",
-			"level": "3"
-		},
-		"Name": "minecraft:powder_snow_cauldron"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"purity": "4",
 			"level": "3"
 		},
 		"Name": "minecraft:powder_snow_cauldron"

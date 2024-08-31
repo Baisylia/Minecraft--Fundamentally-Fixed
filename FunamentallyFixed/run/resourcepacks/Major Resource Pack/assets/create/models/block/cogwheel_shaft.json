@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "create:block/axis_top",
 		"1": "create:block/cogwheel_axis",
-		"particle": "create:block/axis_top"
+		"particle": "create:block/cogwheel_axis"
 	},
 	"elements": [
 		{

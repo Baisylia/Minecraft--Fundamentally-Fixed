@@ -10,9 +10,7 @@ import net.minecraft.world.level.block.Block;
 
 public class ModTags {
     public static class Blocks {
-        public static final TagKey<Block> NEEDS_FLINT_TOOL = tag("needs_flint_tool");
-        public static final TagKey<Block> NEEDS_COPPER_TOOL = tag("needs_copper_tool");
-        public static final TagKey<Block> NEEDS_BRONZE_TOOL = tag("needs_bronze_tool");
+        public static final TagKey<Block> NEEDS_UPGRADED_TOOL = tag("needs_upgraded_tool");
         private static TagKey<Block> tag(String name) {
             return BlockTags.create(new ResourceLocation(FundamentallyFixed.MOD_ID, name));
         }

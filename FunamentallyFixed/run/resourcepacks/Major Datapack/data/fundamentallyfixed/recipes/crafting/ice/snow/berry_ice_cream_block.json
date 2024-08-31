@@ -2,10 +2,10 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "#": {
-      "item": "neapolitan:strawberry_ice_cream"
+      "item": "minecraft:snow_block"
     },
     "@": {
-      "item": "minecraft:snow_block"
+      "item": "neapolitan:strawberry_ice_cream"
     }
   },
   "pattern": [

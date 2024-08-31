@@ -182,7 +182,7 @@ dependencies {
     runtimeOnly fg.deobf("curse.maven:crafttweaker-239197:4611971")
     implementation fg.deobf("curse.maven:kubejs-238086:5064770")
     runtimeOnly fg.deobf("curse.maven:globalpacks-317134:3950165")
-    implementation fg.deobf("curse.maven:thirst-was-taken-679270:4871260")
+    //implementation fg.deobf("curse.maven:thirst-was-taken-679270:4871260")
     runtimeOnly fg.deobf("curse.maven:easymagic-456239:4411042")
     runtimeOnly fg.deobf("curse.maven:easyanvils-682567:4499466")
     runtimeOnly fg.deobf("curse.maven:easyshulkers-594006:4559054")
@@ -209,6 +209,8 @@ dependencies {
     implementation fg.deobf("curse.maven:dolt-mod-how-993840:5217644")
     implementation fg.deobf("curse.maven:property-modifier-474822:4553718")
     implementation fg.deobf("curse.maven:treeplacer-840202:4488141")
+    implementation fg.deobf("curse.maven:feathers-699933:4573576")
+    implementation fg.deobf("curse.maven:actions-of-stamina-834738:4524720")
 
     //------------------------------ Major Content Mods ------------------------------
     implementation fg.deobf("curse.maven:modest-mining-533775:5109121")
@@ -299,6 +301,7 @@ dependencies {
     runtimeOnly fg.deobf("curse.maven:yeetusexperimentus-635427:3909789")
     runtimeOnly fg.deobf("curse.maven:jade-324717:4914105")
     implementation fg.deobf("curse.maven:distinguished-potions-682565:4012472")
+    runtimeOnly fg.deobf("curse.maven:configured-457570:4462837")
 }
 
 jar {

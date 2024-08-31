@@ -412,11 +412,11 @@ for stoneSet in stoneSets {
     stoneCutter.addRecipe(natStone[1] + "pillar_cut_polished", <item:${pillarItem}>, <item:${polishedItem}>);
     stoneCutter.addRecipe(natStone[1] + "pillar_cut_brick", <item:${pillarItem}>, <item:${brickItem}>);
 
-    craftingTable.addShaped(natStone[1] + "lamp", <item:${lampItem}> * 4, [
-    [<item:minecraft:air>, <item:${polishedItem}>, <item:minecraft:air>],
-    [<item:${polishedItem}>, <item:${glowstoneItem}>, <item:${polishedItem}>],
-    [<item:minecraft:air>, <item:${polishedItem}>, <item:minecraft:air>]
-    ]);
+    //craftingTable.addShaped(natStone[1] + "lamp", <item:${lampItem}> * 4, [
+    //[<item:minecraft:air>, <item:${polishedItem}>, <item:minecraft:air>],
+    //[<item:${polishedItem}>, <item:${glowstoneItem}>, <item:${polishedItem}>],
+    //[<item:minecraft:air>, <item:${polishedItem}>, <item:minecraft:air>]
+    //]);
 
     craftingTable.addShapeless(natStone[1] + "plate", <item:${plateItem}> * 2, [
     <item:${polishedSlabItem}>, <item:minecraft:redstone>]);

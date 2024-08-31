@@ -145,7 +145,7 @@
           "cooldown": 15,
           "charge_time": 1,
           "xp_cost": 0,
-          "dependency": "modestmining"
+          "dependency": "fundamentallyfixed"
         }
       },
       {
@@ -158,7 +158,7 @@
           "cooldown": 15,
           "charge_time": 1,
           "xp_cost": 0,
-          "dependency": "minecraft"
+          "dependency": "fundamentallyfixed"
         }
       },
       {
@@ -172,7 +172,7 @@
           "cooldown": 20,
           "charge_time": 1,
           "xp_cost": 0,
-          "dependency": "minecraft"
+          "dependency": "fundamentallyfixed"
         }
       },
       {
@@ -185,7 +185,7 @@
           "cooldown": 20,
           "charge_time": 1,
           "xp_cost": 0,
-          "dependency": "oreganized"
+          "dependency": "fundamentallyfixed"
         }
       },
       {
@@ -198,7 +198,85 @@
           "cooldown": 20,
           "charge_time": 1,
           "xp_cost": 0,
-          "dependency": "modestmining"
+          "dependency": "fundamentallyfixed"
+        }
+      },
+      {
+        "gravitite_staff": {
+          "tier": "GRAVITITE",
+          "damage": 6,
+          "pierce": 3,
+          "range": 16,
+          "durability": 1512,
+          "cooldown": 20,
+          "charge_time": 1,
+          "xp_cost": 0,
+          "dependency": "fundamentallyfixed"
+        }
+      },
+      {
+        "mythril_staff": {
+          "tier": "MYTHRIL",
+          "damage": 6,
+          "pierce": 3,
+          "range": 16,
+          "durability": 1512,
+          "cooldown": 20,
+          "charge_time": 1,
+          "xp_cost": 0,
+          "dependency": "fundamentallyfixed"
+        }
+      },
+      {
+        "hallowed_staff": {
+          "tier": "HALLOWED",
+          "damage": 6,
+          "pierce": 3,
+          "range": 16,
+          "durability": 1512,
+          "cooldown": 20,
+          "charge_time": 1,
+          "xp_cost": 0,
+          "dependency": "fundamentallyfixed"
+        }
+      },
+      {
+        "chlorophite_staff": {
+          "tier": "CHLOROPHITE",
+          "damage": 6,
+          "pierce": 3,
+          "range": 16,
+          "durability": 1512,
+          "cooldown": 20,
+          "charge_time": 1,
+          "xp_cost": 0,
+          "dependency": "fundamentallyfixed"
+        }
+      },
+      {
+        "voidendum_staff": {
+          "tier": "VOIDENDUM",
+          "damage": 6,
+          "pierce": 3,
+          "range": 16,
+          "durability": 1512,
+          "cooldown": 20,
+          "charge_time": 1,
+          "xp_cost": 0,
+          "dependency": "fundamentallyfixed"
+        }
+      },
+      {
+        "stoldum_staff": {
+          "tier": "STOLDUM",
+          "damage": 6,
+          "pierce": 3,
+          "range": 16,
+          "durability": 1512,
+          "cooldown": 20,
+          "charge_time": 1,
+          "xp_cost": 0,
+          "dependency": "fundamentallyfixed"
         }
       }
     ]

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/wall_inventory",
   "textures": {
-    "wall": "quark:block/polished_jasper"
+    "wall": "create:block/palettes/stone_types/polished/andesite_cut_polished"
   }
 }

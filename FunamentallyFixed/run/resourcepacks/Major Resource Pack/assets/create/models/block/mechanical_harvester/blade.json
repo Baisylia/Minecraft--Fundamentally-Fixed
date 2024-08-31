@@ -1,0 +1,98 @@
+{
+	"credit": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+	"textures": {
+		"0": "create:block/harvester",
+		"particle": "create:block/harvester"
+	},
+	"elements": [
+		{
+			"name": "Wheel",
+			"from": [2, -1, 2],
+			"to": [14, 13, 2],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [6, 6, 9]},
+			"faces": {
+				"north": {"uv": [9, 7.5, 15, 14.5], "texture": "#0"},
+				"east": {"uv": [15, 0, 8, 7], "texture": "#0"},
+				"south": {"uv": [9, 7.5, 15, 14.5], "texture": "#0"},
+				"west": {"uv": [8, 0, 15, 7], "texture": "#0"},
+				"up": {"uv": [9, 7, 15, 14], "texture": "#0"},
+				"down": {"uv": [9, 7, 15, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Wheel",
+			"from": [2, -1, 16],
+			"to": [14, 13, 16],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [6, 6, 9]},
+			"faces": {
+				"north": {"uv": [9, 7, 15, 14], "texture": "#0"},
+				"east": {"uv": [15, 0, 8, 7], "texture": "#0"},
+				"south": {"uv": [9, 7, 15, 14], "texture": "#0"},
+				"west": {"uv": [8, 0, 15, 7], "texture": "#0"},
+				"up": {"uv": [9, 7, 15, 14], "texture": "#0"},
+				"down": {"uv": [9, 7, 15, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Wheel",
+			"from": [2, 13, 2],
+			"to": [14, 13, 16],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [6, 6, 9]},
+			"faces": {
+				"north": {"uv": [9, 7, 15, 14], "texture": "#0"},
+				"east": {"uv": [15, 0, 8, 7], "texture": "#0"},
+				"south": {"uv": [9, 7, 15, 14], "texture": "#0"},
+				"west": {"uv": [8, 0, 15, 7], "texture": "#0"},
+				"up": {"uv": [9, 7, 15, 14], "texture": "#0"},
+				"down": {"uv": [9, 7.5, 15, 14.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Wheel",
+			"from": [2.01, -1, 2],
+			"to": [2.01, 13, 16],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [2, 6, 9]},
+			"faces": {
+				"east": {"uv": [15, 0, 8, 7], "texture": "#0"},
+				"west": {"uv": [8, 0, 15, 7], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Wheel",
+			"from": [2, -1, 2],
+			"to": [14, -1, 16],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [6, 6, 9]},
+			"faces": {
+				"north": {"uv": [9, 7, 15, 14], "texture": "#0"},
+				"east": {"uv": [15, 0, 8, 7], "texture": "#0"},
+				"south": {"uv": [9, 7, 15, 14], "texture": "#0"},
+				"west": {"uv": [8, 0, 15, 7], "texture": "#0"},
+				"up": {"uv": [9, 7.5, 15, 14.5], "texture": "#0"},
+				"down": {"uv": [9, 7, 15, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Wheel",
+			"from": [13.99, -1, 2],
+			"to": [13.99, 13, 16],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [14, 6, 9]},
+			"faces": {
+				"east": {"uv": [15, 0, 8, 7], "texture": "#0"},
+				"west": {"uv": [8, 0, 15, 7], "texture": "#0"}
+			}
+		},
+		{
+			"from": [2, 4.5, 8.7],
+			"to": [14, 6.5, 10.7],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [0, 4, 8]},
+			"faces": {
+				"north": {"uv": [0, 8.5, 8, 9.5], "texture": "#0"},
+				"east": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"south": {"uv": [0, 8.5, 8, 9.5], "texture": "#0"},
+				"west": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"up": {"uv": [0, 8.5, 8, 9.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [0, 8.5, 8, 9.5], "rotation": 180, "texture": "#0"}
+			}
+		}
+	]
+}

@@ -12,6 +12,6 @@
   "shoveAgainTimeInTicks": 20,
   "allowVillagerCollisions": true,
   "entityCollisionBlacklist": [
-    "entity.ratsmischief.rat"
+    "entity.dungeons_mobs.simple_trap"
   ]
 }

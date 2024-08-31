@@ -3,7 +3,7 @@
 	"textures": {
 		"2": "create:block/mechanical_press_head",
 		"3": "create:block/mechanical_press_pole",
-		"particle": "create:block/mechanical_press_head"
+		"particle": "create:block/mechanical_press_pole"
 	},
 	"elements": [
 		{

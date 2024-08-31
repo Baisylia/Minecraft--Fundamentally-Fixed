@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/wall_inventory",
   "textures": {
-    "wall": "quark:block/polished_limestone"
+    "wall": "create:block/palettes/stone_types/polished/diorite_cut_polished"
   }
 }
