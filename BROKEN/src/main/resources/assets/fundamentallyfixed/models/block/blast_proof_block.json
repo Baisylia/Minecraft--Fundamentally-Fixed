@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "fundamentallyfixed:block/blast_proof_block"
-  }
-}

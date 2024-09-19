@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/inner_stairs",
-  "textures": {
-    "bottom": "fundamentallyfixed:block/polished_phyton",
-    "side": "fundamentallyfixed:block/polished_phyton",
-    "top": "fundamentallyfixed:block/polished_phyton"
-  }
-}
