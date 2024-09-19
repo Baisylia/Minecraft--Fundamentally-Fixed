@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":  { "model": "fundamentallyfixed:block/light_gray_terracotta_pillar" },
+        "axis=z":   { "model": "fundamentallyfixed:block/light_gray_terracotta_pillar", "x": 90 },
+        "axis=x":   { "model": "fundamentallyfixed:block/light_gray_terracotta_pillar", "x": 90, "y": 90 }
+    }
+}

@@ -1327,6 +1327,57 @@ public class ModBlocks {
 
 
     //Pillars
+    public static final RegistryObject<Block> TERRACOTTA_PILLAR = registerBlock("terracotta_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.TERRACOTTA)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> BLACK_TERRACOTTA_PILLAR = registerBlock("black_terracotta_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.TERRACOTTA)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> GRAY_TERRACOTTA_PILLAR = registerBlock("gray_terracotta_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.TERRACOTTA)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> LIGHT_GRAY_TERRACOTTA_PILLAR = registerBlock("light_gray_terracotta_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.TERRACOTTA)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> WHITE_TERRACOTTA_PILLAR = registerBlock("white_terracotta_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.TERRACOTTA)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> PINK_TERRACOTTA_PILLAR = registerBlock("pink_terracotta_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.TERRACOTTA)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> MAGENTA_TERRACOTTA_PILLAR = registerBlock("magenta_terracotta_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.TERRACOTTA)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> PURPLE_TERRACOTTA_PILLAR = registerBlock("purple_terracotta_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.TERRACOTTA)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> BLUE_TERRACOTTA_PILLAR = registerBlock("blue_terracotta_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.TERRACOTTA)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> LIGHT_BLUE_TERRACOTTA_PILLAR = registerBlock("light_blue_terracotta_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.TERRACOTTA)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> CYAN_TERRACOTTA_PILLAR = registerBlock("cyan_terracotta_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.TERRACOTTA)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> GREEN_TERRACOTTA_PILLAR = registerBlock("green_terracotta_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.TERRACOTTA)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> LIME_TERRACOTTA_PILLAR = registerBlock("lime_terracotta_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.TERRACOTTA)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> YELLOW_TERRACOTTA_PILLAR = registerBlock("yellow_terracotta_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.TERRACOTTA)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> ORANGE_TERRACOTTA_PILLAR = registerBlock("orange_terracotta_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.TERRACOTTA)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> RED_TERRACOTTA_PILLAR = registerBlock("red_terracotta_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.TERRACOTTA)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> BROWN_TERRACOTTA_PILLAR = registerBlock("brown_terracotta_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.TERRACOTTA)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
     public static final RegistryObject<Block> SCORIA_PILLAR = registerBlock("scoria_pillar",
             () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.STONE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
 
@@ -1337,6 +1388,9 @@ public class ModBlocks {
             () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.DEEPSLATE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
 
     public static final RegistryObject<Block> GLANCE_PILLAR = registerBlock("glance_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.STONE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> STONE_PILLAR = registerBlock("stone_pillar",
             () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.STONE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
 
     public static final RegistryObject<Block> HOLYSTONE_PILLAR = registerBlock("holystone_pillar",
@@ -1389,6 +1443,78 @@ public class ModBlocks {
 
     public static final RegistryObject<Block> PERMAFROST_PILLAR = registerBlock("permafrost_pillar",
             () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.STONE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+
+
+
+
+
+
+    public static final RegistryObject<Block> GLOW_SHROOM_NETHER_BRICKS = registerBlock("glow_shroom_nether_bricks",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 8)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> GLOW_SHROOM_NETHER_BRICK_STAIRS = registerBlock("glow_shroom_nether_brick_stairs",
+            () -> new StairBlock(() -> Blocks.NETHER_BRICK_STAIRS.defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 8)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> GLOW_SHROOM_NETHER_BRICK_SLAB = registerBlock("glow_shroom_nether_brick_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 8)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> GLOW_SHROOM_NETHER_BRICK_WALL = registerBlock("glow_shroom_nether_brick_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 8)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> GLOW_SHROOM_NETHER_BRICK_PILLAR = registerBlock("glow_shroom_nether_brick_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 8)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> CHISELED_GLOW_SHROOM_NETHER_BRICKS = registerBlock("chiseled_glow_shroom_nether_bricks",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 8)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> GLOW_SHROOM_NETHER_SHINGLES = registerBlock("glow_shroom_nether_shingles",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 8)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> GLOW_SHROOM_NETHER_SHINGLE_STAIRS = registerBlock("glow_shroom_nether_shingle_stairs",
+            () -> new StairBlock(() -> Blocks.NETHER_BRICK_STAIRS.defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 8)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> GLOW_SHROOM_NETHER_SHINGLE_SLAB = registerBlock("glow_shroom_nether_shingle_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 8)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> GLOW_SHROOM_NETHER_SHINGLE_WALL = registerBlock("glow_shroom_nether_shingle_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 8)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+
+
+    public static final RegistryObject<Block> LUMINOUS_WART_NETHER_BRICKS = registerBlock("luminous_wart_nether_bricks",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 5)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> LUMINOUS_WART_NETHER_BRICK_STAIRS = registerBlock("luminous_wart_nether_brick_stairs",
+            () -> new StairBlock(() -> Blocks.NETHER_BRICK_STAIRS.defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 5)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> LUMINOUS_WART_NETHER_BRICK_SLAB = registerBlock("luminous_wart_nether_brick_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 5)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> LUMINOUS_WART_NETHER_BRICK_WALL = registerBlock("luminous_wart_nether_brick_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 5)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> LUMINOUS_WART_NETHER_BRICK_PILLAR = registerBlock("luminous_wart_nether_brick_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 5)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> CHISELED_LUMINOUS_WART_NETHER_BRICKS = registerBlock("chiseled_luminous_wart_nether_bricks",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 5)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> LUMINOUS_WART_NETHER_SHINGLES = registerBlock("luminous_wart_nether_shingles",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 5)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> LUMINOUS_WART_NETHER_SHINGLE_STAIRS = registerBlock("luminous_wart_nether_shingle_stairs",
+            () -> new StairBlock(() -> Blocks.NETHER_BRICK_STAIRS.defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 5)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> LUMINOUS_WART_NETHER_SHINGLE_SLAB = registerBlock("luminous_wart_nether_shingle_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 5)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> LUMINOUS_WART_NETHER_SHINGLE_WALL = registerBlock("luminous_wart_nether_shingle_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 5)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
 
 
     //Buttons and Plates

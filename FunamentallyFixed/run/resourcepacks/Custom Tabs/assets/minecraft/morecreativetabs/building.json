@@ -1,7 +1,7 @@
 {
   "tab_enabled": true,
   "tab_name": "building",
-  "tab_stack": { "name": "minecraft:bricks"},
+  "tab_stack": { "name": "hnh:terracotta_bricks"},
   "tab_items": [
     {
       "name": "minecraft:moss_block"

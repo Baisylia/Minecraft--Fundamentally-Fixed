@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "fundamentallyfixed:block/luminous_nether_brick_pillar",
+        "side": "fundamentallyfixed:block/luminous_nether_brick_pillar"
+    }
+}
