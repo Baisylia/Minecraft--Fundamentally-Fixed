@@ -30,29 +30,9 @@
     {
       "name": "minecraft:white_concrete"
     },
+
     {
       "name": "minecraft:white_terracotta"
-    },
-    {
-      "name": "clayworks:white_terracotta_stairs"
-    },
-    {
-      "name": "clayworks:white_terracotta_slab"
-    },
-    {
-      "name": "clayworks:white_terracotta_wall"
-    },
-    {
-      "name": "hnh:white_shingles"
-    },
-    {
-      "name": "hnh:white_shingle_stairs"
-    },
-    {
-      "name": "hnh:white_shingle_slab"
-    },
-    {
-      "name": "fundamentallyfixed:white_shingle_wall"
     },
     {
       "name": "hnh:white_terracotta_bricks"
@@ -67,7 +47,22 @@
       "name": "clayworks:white_terracotta_brick_wall"
     },
     {
+      "name": "hnh:white_shingles"
+    },
+    {
+      "name": "hnh:white_shingle_stairs"
+    },
+    {
+      "name": "hnh:white_shingle_slab"
+    },
+    {
+      "name": "clayworks:white_terracotta_wall"
+    },
+    {
       "name": "clayworks:chiseled_white_terracotta_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:white_terracotta_pillar"
     },
     {
       "name": "minecraft:white_glazed_terracotta"
@@ -167,29 +162,9 @@
     {
       "name": "minecraft:pink_concrete"
     },
+
     {
       "name": "minecraft:pink_terracotta"
-    },
-    {
-      "name": "clayworks:pink_terracotta_stairs"
-    },
-    {
-      "name": "clayworks:pink_terracotta_slab"
-    },
-    {
-      "name": "clayworks:pink_terracotta_wall"
-    },
-    {
-      "name": "hnh:pink_shingles"
-    },
-    {
-      "name": "hnh:pink_shingles_stairs"
-    },
-    {
-      "name": "hnh:pink_shingles_slab"
-    },
-    {
-      "name": "fundamentallyfixed:pink_shingle_wall"
     },
     {
       "name": "hnh:pink_terracotta_bricks"
@@ -204,7 +179,22 @@
       "name": "clayworks:pink_terracotta_brick_wall"
     },
     {
+      "name": "hnh:pink_shingles"
+    },
+    {
+      "name": "hnh:pink_shingle_stairs"
+    },
+    {
+      "name": "hnh:pink_shingle_slab"
+    },
+    {
+      "name": "clayworks:pink_terracotta_wall"
+    },
+    {
       "name": "clayworks:chiseled_pink_terracotta_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:pink_terracotta_pillar"
     },
     {
       "name": "minecraft:pink_glazed_terracotta"
@@ -304,29 +294,9 @@
     {
       "name": "minecraft:magenta_concrete"
     },
+
     {
       "name": "minecraft:magenta_terracotta"
-    },
-    {
-      "name": "clayworks:magenta_terracotta_stairs"
-    },
-    {
-      "name": "clayworks:magenta_terracotta_slab"
-    },
-    {
-      "name": "clayworks:magenta_terracotta_wall"
-    },
-    {
-      "name": "hnh:magenta_shingles"
-    },
-    {
-      "name": "hnh:magenta_shingles_stairs"
-    },
-    {
-      "name": "hnh:magenta_shingles_slab"
-    },
-    {
-      "name": "fundamentallyfixed:magenta_shingle_wall"
     },
     {
       "name": "hnh:magenta_terracotta_bricks"
@@ -341,7 +311,22 @@
       "name": "clayworks:magenta_terracotta_brick_wall"
     },
     {
+      "name": "hnh:magenta_shingles"
+    },
+    {
+      "name": "hnh:magenta_shingle_stairs"
+    },
+    {
+      "name": "hnh:magenta_shingle_slab"
+    },
+    {
+      "name": "clayworks:magenta_terracotta_wall"
+    },
+    {
       "name": "clayworks:chiseled_magenta_terracotta_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:magenta_terracotta_pillar"
     },
     {
       "name": "minecraft:magenta_glazed_terracotta"
@@ -441,29 +426,9 @@
     {
       "name": "minecraft:purple_concrete"
     },
+
     {
       "name": "minecraft:purple_terracotta"
-    },
-    {
-      "name": "clayworks:purple_terracotta_stairs"
-    },
-    {
-      "name": "clayworks:purple_terracotta_slab"
-    },
-    {
-      "name": "clayworks:purple_terracotta_wall"
-    },
-    {
-      "name": "hnh:purple_shingles"
-    },
-    {
-      "name": "hnh:purple_shingles_stairs"
-    },
-    {
-      "name": "hnh:purple_shingles_slab"
-    },
-    {
-      "name": "fundamentallyfixed:purple_shingle_wall"
     },
     {
       "name": "hnh:purple_terracotta_bricks"
@@ -478,7 +443,22 @@
       "name": "clayworks:purple_terracotta_brick_wall"
     },
     {
+      "name": "hnh:purple_shingles"
+    },
+    {
+      "name": "hnh:purple_shingle_stairs"
+    },
+    {
+      "name": "hnh:purple_shingle_slab"
+    },
+    {
+      "name": "clayworks:purple_terracotta_wall"
+    },
+    {
       "name": "clayworks:chiseled_purple_terracotta_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:purple_terracotta_pillar"
     },
     {
       "name": "minecraft:purple_glazed_terracotta"
@@ -578,29 +558,9 @@
     {
       "name": "minecraft:blue_concrete"
     },
+
     {
       "name": "minecraft:blue_terracotta"
-    },
-    {
-      "name": "clayworks:blue_terracotta_stairs"
-    },
-    {
-      "name": "clayworks:blue_terracotta_slab"
-    },
-    {
-      "name": "clayworks:blue_terracotta_wall"
-    },
-    {
-      "name": "hnh:blue_shingles"
-    },
-    {
-      "name": "hnh:blue_shingles_stairs"
-    },
-    {
-      "name": "hnh:blue_shingles_slab"
-    },
-    {
-      "name": "fundamentallyfixed:blue_shingle_wall"
     },
     {
       "name": "hnh:blue_terracotta_bricks"
@@ -615,7 +575,22 @@
       "name": "clayworks:blue_terracotta_brick_wall"
     },
     {
+      "name": "hnh:blue_shingles"
+    },
+    {
+      "name": "hnh:blue_shingle_stairs"
+    },
+    {
+      "name": "hnh:blue_shingle_slab"
+    },
+    {
+      "name": "clayworks:blue_terracotta_wall"
+    },
+    {
       "name": "clayworks:chiseled_blue_terracotta_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:blue_terracotta_pillar"
     },
     {
       "name": "minecraft:blue_glazed_terracotta"
@@ -715,29 +690,9 @@
     {
       "name": "minecraft:light_blue_concrete"
     },
+
     {
       "name": "minecraft:light_blue_terracotta"
-    },
-    {
-      "name": "clayworks:light_blue_terracotta_stairs"
-    },
-    {
-      "name": "clayworks:light_blue_terracotta_slab"
-    },
-    {
-      "name": "clayworks:light_blue_terracotta_wall"
-    },
-    {
-      "name": "hnh:light_blue_shingles"
-    },
-    {
-      "name": "hnh:light_blue_shingles_stairs"
-    },
-    {
-      "name": "hnh:light_blue_shingles_slab"
-    },
-    {
-      "name": "fundamentallyfixed:light_blue_shingle_wall"
     },
     {
       "name": "hnh:light_blue_terracotta_bricks"
@@ -752,7 +707,22 @@
       "name": "clayworks:light_blue_terracotta_brick_wall"
     },
     {
+      "name": "hnh:light_blue_shingles"
+    },
+    {
+      "name": "hnh:light_blue_shingle_stairs"
+    },
+    {
+      "name": "hnh:light_blue_shingle_slab"
+    },
+    {
+      "name": "clayworks:light_blue_terracotta_wall"
+    },
+    {
       "name": "clayworks:chiseled_light_blue_terracotta_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:light_blue_terracotta_pillar"
     },
     {
       "name": "minecraft:light_blue_glazed_terracotta"
@@ -852,29 +822,9 @@
     {
       "name": "minecraft:cyan_concrete"
     },
+
     {
       "name": "minecraft:cyan_terracotta"
-    },
-    {
-      "name": "clayworks:cyan_terracotta_stairs"
-    },
-    {
-      "name": "clayworks:cyan_terracotta_slab"
-    },
-    {
-      "name": "clayworks:cyan_terracotta_wall"
-    },
-    {
-      "name": "hnh:cyan_shingles"
-    },
-    {
-      "name": "hnh:cyan_shingles_stairs"
-    },
-    {
-      "name": "hnh:cyan_shingles_slab"
-    },
-    {
-      "name": "fundamentallyfixed:cyan_shingle_wall"
     },
     {
       "name": "hnh:cyan_terracotta_bricks"
@@ -889,7 +839,22 @@
       "name": "clayworks:cyan_terracotta_brick_wall"
     },
     {
+      "name": "hnh:cyan_shingles"
+    },
+    {
+      "name": "hnh:cyan_shingle_stairs"
+    },
+    {
+      "name": "hnh:cyan_shingle_slab"
+    },
+    {
+      "name": "clayworks:cyan_terracotta_wall"
+    },
+    {
       "name": "clayworks:chiseled_cyan_terracotta_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:cyan_terracotta_pillar"
     },
     {
       "name": "minecraft:cyan_glazed_terracotta"
@@ -989,29 +954,9 @@
     {
       "name": "minecraft:green_concrete"
     },
+
     {
       "name": "minecraft:green_terracotta"
-    },
-    {
-      "name": "clayworks:green_terracotta_stairs"
-    },
-    {
-      "name": "clayworks:green_terracotta_slab"
-    },
-    {
-      "name": "clayworks:green_terracotta_wall"
-    },
-    {
-      "name": "hnh:green_shingles"
-    },
-    {
-      "name": "hnh:green_shingles_stairs"
-    },
-    {
-      "name": "hnh:green_shingles_slab"
-    },
-    {
-      "name": "fundamentallyfixed:green_shingle_wall"
     },
     {
       "name": "hnh:green_terracotta_bricks"
@@ -1026,7 +971,22 @@
       "name": "clayworks:green_terracotta_brick_wall"
     },
     {
+      "name": "hnh:green_shingles"
+    },
+    {
+      "name": "hnh:green_shingle_stairs"
+    },
+    {
+      "name": "hnh:green_shingle_slab"
+    },
+    {
+      "name": "clayworks:green_terracotta_wall"
+    },
+    {
       "name": "clayworks:chiseled_green_terracotta_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:green_terracotta_pillar"
     },
     {
       "name": "minecraft:green_glazed_terracotta"
@@ -1126,29 +1086,9 @@
     {
       "name": "minecraft:lime_concrete"
     },
+
     {
       "name": "minecraft:lime_terracotta"
-    },
-    {
-      "name": "clayworks:lime_terracotta_stairs"
-    },
-    {
-      "name": "clayworks:lime_terracotta_slab"
-    },
-    {
-      "name": "clayworks:lime_terracotta_wall"
-    },
-    {
-      "name": "hnh:lime_shingles"
-    },
-    {
-      "name": "hnh:lime_shingles_stairs"
-    },
-    {
-      "name": "hnh:lime_shingles_slab"
-    },
-    {
-      "name": "fundamentallyfixed:lime_shingle_wall"
     },
     {
       "name": "hnh:lime_terracotta_bricks"
@@ -1163,7 +1103,22 @@
       "name": "clayworks:lime_terracotta_brick_wall"
     },
     {
+      "name": "hnh:lime_shingles"
+    },
+    {
+      "name": "hnh:lime_shingle_stairs"
+    },
+    {
+      "name": "hnh:lime_shingle_slab"
+    },
+    {
+      "name": "clayworks:lime_terracotta_wall"
+    },
+    {
       "name": "clayworks:chiseled_lime_terracotta_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:lime_terracotta_pillar"
     },
     {
       "name": "minecraft:lime_glazed_terracotta"
@@ -1263,29 +1218,9 @@
     {
       "name": "minecraft:yellow_concrete"
     },
+
     {
       "name": "minecraft:yellow_terracotta"
-    },
-    {
-      "name": "clayworks:yellow_terracotta_stairs"
-    },
-    {
-      "name": "clayworks:yellow_terracotta_slab"
-    },
-    {
-      "name": "clayworks:yellow_terracotta_wall"
-    },
-    {
-      "name": "hnh:yellow_shingles"
-    },
-    {
-      "name": "hnh:yellow_shingles_stairs"
-    },
-    {
-      "name": "hnh:yellow_shingles_slab"
-    },
-    {
-      "name": "fundamentallyfixed:yellow_shingle_wall"
     },
     {
       "name": "hnh:yellow_terracotta_bricks"
@@ -1300,7 +1235,22 @@
       "name": "clayworks:yellow_terracotta_brick_wall"
     },
     {
+      "name": "hnh:yellow_shingles"
+    },
+    {
+      "name": "hnh:yellow_shingle_stairs"
+    },
+    {
+      "name": "hnh:yellow_shingle_slab"
+    },
+    {
+      "name": "clayworks:yellow_terracotta_wall"
+    },
+    {
       "name": "clayworks:chiseled_yellow_terracotta_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:yellow_terracotta_pillar"
     },
     {
       "name": "minecraft:yellow_glazed_terracotta"
@@ -1400,29 +1350,9 @@
     {
       "name": "minecraft:orange_concrete"
     },
+
     {
       "name": "minecraft:orange_terracotta"
-    },
-    {
-      "name": "clayworks:orange_terracotta_stairs"
-    },
-    {
-      "name": "clayworks:orange_terracotta_slab"
-    },
-    {
-      "name": "clayworks:orange_terracotta_wall"
-    },
-    {
-      "name": "hnh:orange_shingles"
-    },
-    {
-      "name": "hnh:orange_shingles_stairs"
-    },
-    {
-      "name": "hnh:orange_shingles_slab"
-    },
-    {
-      "name": "fundamentallyfixed:orange_shingle_wall"
     },
     {
       "name": "hnh:orange_terracotta_bricks"
@@ -1437,7 +1367,22 @@
       "name": "clayworks:orange_terracotta_brick_wall"
     },
     {
+      "name": "hnh:orange_shingles"
+    },
+    {
+      "name": "hnh:orange_shingle_stairs"
+    },
+    {
+      "name": "hnh:orange_shingle_slab"
+    },
+    {
+      "name": "clayworks:orange_terracotta_wall"
+    },
+    {
       "name": "clayworks:chiseled_orange_terracotta_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:orange_terracotta_pillar"
     },
     {
       "name": "minecraft:orange_glazed_terracotta"
@@ -1537,29 +1482,9 @@
     {
       "name": "minecraft:red_concrete"
     },
+
     {
       "name": "minecraft:red_terracotta"
-    },
-    {
-      "name": "clayworks:red_terracotta_stairs"
-    },
-    {
-      "name": "clayworks:red_terracotta_slab"
-    },
-    {
-      "name": "clayworks:red_terracotta_wall"
-    },
-    {
-      "name": "hnh:red_shingles"
-    },
-    {
-      "name": "hnh:red_shingles_stairs"
-    },
-    {
-      "name": "hnh:red_shingles_slab"
-    },
-    {
-      "name": "fundamentallyfixed:red_shingle_wall"
     },
     {
       "name": "hnh:red_terracotta_bricks"
@@ -1574,7 +1499,22 @@
       "name": "clayworks:red_terracotta_brick_wall"
     },
     {
+      "name": "hnh:red_shingles"
+    },
+    {
+      "name": "hnh:red_shingle_stairs"
+    },
+    {
+      "name": "hnh:red_shingle_slab"
+    },
+    {
+      "name": "clayworks:red_terracotta_wall"
+    },
+    {
       "name": "clayworks:chiseled_red_terracotta_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:red_terracotta_pillar"
     },
     {
       "name": "minecraft:red_glazed_terracotta"
@@ -1674,29 +1614,9 @@
     {
       "name": "minecraft:brown_concrete"
     },
+
     {
       "name": "minecraft:brown_terracotta"
-    },
-    {
-      "name": "clayworks:brown_terracotta_stairs"
-    },
-    {
-      "name": "clayworks:brown_terracotta_slab"
-    },
-    {
-      "name": "clayworks:brown_terracotta_wall"
-    },
-    {
-      "name": "hnh:brown_shingles"
-    },
-    {
-      "name": "hnh:brown_shingles_stairs"
-    },
-    {
-      "name": "hnh:brown_shingles_slab"
-    },
-    {
-      "name": "fundamentallyfixed:brown_shingle_wall"
     },
     {
       "name": "hnh:brown_terracotta_bricks"
@@ -1711,7 +1631,22 @@
       "name": "clayworks:brown_terracotta_brick_wall"
     },
     {
+      "name": "hnh:brown_shingles"
+    },
+    {
+      "name": "hnh:brown_shingle_stairs"
+    },
+    {
+      "name": "hnh:brown_shingle_slab"
+    },
+    {
+      "name": "clayworks:brown_terracotta_wall"
+    },
+    {
       "name": "clayworks:chiseled_brown_terracotta_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:brown_terracotta_pillar"
     },
     {
       "name": "minecraft:brown_glazed_terracotta"
@@ -1811,29 +1746,9 @@
     {
       "name": "minecraft:black_concrete"
     },
+
     {
       "name": "minecraft:black_terracotta"
-    },
-    {
-      "name": "clayworks:black_terracotta_stairs"
-    },
-    {
-      "name": "clayworks:black_terracotta_slab"
-    },
-    {
-      "name": "clayworks:black_terracotta_wall"
-    },
-    {
-      "name": "hnh:black_shingles"
-    },
-    {
-      "name": "hnh:black_shingles_stairs"
-    },
-    {
-      "name": "hnh:black_shingles_slab"
-    },
-    {
-      "name": "fundamentallyfixed:black_shingle_wall"
     },
     {
       "name": "hnh:black_terracotta_bricks"
@@ -1848,7 +1763,22 @@
       "name": "clayworks:black_terracotta_brick_wall"
     },
     {
+      "name": "hnh:black_shingles"
+    },
+    {
+      "name": "hnh:black_shingle_stairs"
+    },
+    {
+      "name": "hnh:black_shingle_slab"
+    },
+    {
+      "name": "clayworks:black_terracotta_wall"
+    },
+    {
       "name": "clayworks:chiseled_black_terracotta_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:black_terracotta_pillar"
     },
     {
       "name": "minecraft:black_glazed_terracotta"
@@ -1948,29 +1878,9 @@
     {
       "name": "minecraft:gray_concrete"
     },
+
     {
       "name": "minecraft:gray_terracotta"
-    },
-    {
-      "name": "clayworks:gray_terracotta_stairs"
-    },
-    {
-      "name": "clayworks:gray_terracotta_slab"
-    },
-    {
-      "name": "clayworks:gray_terracotta_wall"
-    },
-    {
-      "name": "hnh:gray_shingles"
-    },
-    {
-      "name": "hnh:gray_shingles_stairs"
-    },
-    {
-      "name": "hnh:gray_shingles_slab"
-    },
-    {
-      "name": "fundamentallyfixed:gray_shingle_wall"
     },
     {
       "name": "hnh:gray_terracotta_bricks"
@@ -1985,7 +1895,22 @@
       "name": "clayworks:gray_terracotta_brick_wall"
     },
     {
+      "name": "hnh:gray_shingles"
+    },
+    {
+      "name": "hnh:gray_shingle_stairs"
+    },
+    {
+      "name": "hnh:gray_shingle_slab"
+    },
+    {
+      "name": "clayworks:gray_terracotta_wall"
+    },
+    {
       "name": "clayworks:chiseled_gray_terracotta_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:gray_terracotta_pillar"
     },
     {
       "name": "minecraft:gray_glazed_terracotta"
@@ -2085,29 +2010,9 @@
     {
       "name": "minecraft:light_gray_concrete"
     },
+
     {
       "name": "minecraft:light_gray_terracotta"
-    },
-    {
-      "name": "clayworks:light_gray_terracotta_stairs"
-    },
-    {
-      "name": "clayworks:light_gray_terracotta_slab"
-    },
-    {
-      "name": "clayworks:light_gray_terracotta_wall"
-    },
-    {
-      "name": "hnh:light_gray_shingles"
-    },
-    {
-      "name": "hnh:light_gray_shingles_stairs"
-    },
-    {
-      "name": "hnh:light_gray_shingles_slab"
-    },
-    {
-      "name": "fundamentallyfixed:light_gray_shingle_wall"
     },
     {
       "name": "hnh:light_gray_terracotta_bricks"
@@ -2122,7 +2027,22 @@
       "name": "clayworks:light_gray_terracotta_brick_wall"
     },
     {
+      "name": "hnh:light_gray_shingles"
+    },
+    {
+      "name": "hnh:light_gray_shingle_stairs"
+    },
+    {
+      "name": "hnh:light_gray_shingle_slab"
+    },
+    {
+      "name": "clayworks:light_gray_terracotta_wall"
+    },
+    {
       "name": "clayworks:chiseled_light_gray_terracotta_bricks"
+    },
+    {
+      "name": "fundamentallyfixed:light_gray_terracotta_pillar"
     },
     {
       "name": "minecraft:light_gray_glazed_terracotta"

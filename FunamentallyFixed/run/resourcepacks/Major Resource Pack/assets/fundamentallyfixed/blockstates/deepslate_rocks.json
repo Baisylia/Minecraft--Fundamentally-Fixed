@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      { "model": "fundamentallyfixed:block/deepslate_rocks" },
+      { "model": "fundamentallyfixed:block/deepslate_rocks", "y": 90 },
+      { "model": "fundamentallyfixed:block/deepslate_rocks", "y": 180 },
+      { "model": "fundamentallyfixed:block/deepslate_rocks", "y": 270 }
+    ]
+  }
+}

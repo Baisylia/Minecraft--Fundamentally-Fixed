@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "fundamentallyfixed:block/luminous_fungus_nether_shingle_slab"
+    },
+    "type=double": {
+      "model": "fundamentallyfixed:block/luminous_fungus_nether_shingle_slab_full"
+    },
+    "type=top": {
+      "model": "fundamentallyfixed:block/luminous_fungus_nether_shingle_slab_top"
+    }
+  }
+}

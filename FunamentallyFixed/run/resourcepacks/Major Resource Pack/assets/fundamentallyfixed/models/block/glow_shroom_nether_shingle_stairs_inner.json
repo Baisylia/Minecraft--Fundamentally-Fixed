@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "fundamentallyfixed:block/glow_shroom_nether_shingles",
+    "side": "fundamentallyfixed:block/glow_shroom_nether_shingles",
+    "top": "fundamentallyfixed:block/glow_shroom_nether_shingles"
+  }
+}

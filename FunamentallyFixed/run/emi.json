@@ -262,13 +262,7 @@
       "stack": "item:minecraft:campfire{}"
     },
     {
-      "stack": "item:autumnity:snail_shell_bricks{}"
-    },
-    {
       "stack": "item:minecraft:bone_meal{}"
-    },
-    {
-      "stack": "item:aether:quicksoil{}"
     },
     {
       "stack": "item:aether:quicksoil_glass{}"
@@ -299,9 +293,6 @@
     },
     {
       "stack": "item:minecraft:dead_tube_coral{}"
-    },
-    {
-      "stack": "item:upgrade_aquatic:tube_coralstone{}"
     },
     {
       "stack": "item:naturalist:lizard_tail{}"
@@ -335,9 +326,6 @@
     },
     {
       "stack": "item:spelunkery:carved_nephrite"
-    },
-    {
-      "stack": "item:clayworks:chiseled_bricks{}"
     },
     {
       "stack": "item:minecraft:water_bucket{Purity:-1}"
@@ -410,9 +398,6 @@
     },
     {
       "stack": "item:create:rose_quartz_block{}"
-    },
-    {
-      "stack": "item:minecraft:cut_sandstone{}"
     },
     {
       "stack": "item:atmospheric:crustose_log{}"
@@ -703,12 +688,6 @@
       "stack": "item:caverns_and_chasms:echo_block{}"
     },
     {
-      "stack": "item:hnh:magenta_terracotta_bricks{}"
-    },
-    {
-      "stack": "item:hnh:pink_terracotta_bricks{}"
-    },
-    {
       "stack": {
         "type": "item",
         "id": "create:analog_lever",
@@ -789,12 +768,6 @@
       "stack": "item:minecraft:chiseled_sandstone{}"
     },
     {
-      "stack": "item:clayworks:terracotta_brick_wall{}"
-    },
-    {
-      "stack": "item:upgrade_aquatic:coralstone{}"
-    },
-    {
       "stack": "item:fundamentallyfixed:sturdy_altisite{}"
     },
     {
@@ -803,12 +776,6 @@
         "id": "twigs:pebble",
         "amount": 3
       }
-    },
-    {
-      "stack": "item:windswept:blue_ice_bricks{}"
-    },
-    {
-      "stack": "item:environmental:dirt_bricks{}"
     },
     {
       "stack": "item:fundamentallyfixed:calcium_powder{}"
@@ -827,9 +794,6 @@
     },
     {
       "stack": "item:fundamentallyfixed:red_sand_pile{}"
-    },
-    {
-      "stack": "item:architects_palette:polished_nebulite{}"
     },
     {
       "stack": "item:upgrade_aquatic:scute_block{}"
@@ -873,28 +837,10 @@
       "stack": "item:supplementaries:faucet{Damage:0}"
     },
     {
-      "stack": "item:infernalexp:glowdust_sand{}"
-    },
-    {
-      "stack": "item:infernalexp:trapped_glowdust_sand{}"
-    },
-    {
-      "stack": "item:infernalexp:glowdust_stone{}"
-    },
-    {
-      "stack": "item:minecraft:snow{}"
-    },
-    {
-      "stack": "item:infernalexp:glowdust{}"
-    },
-    {
       "stack": "item:windswept:holly_furnace_boat{}"
     },
     {
       "stack": "item:caverns_and_chasms:tuning_fork{}"
-    },
-    {
-      "stack": "item:infernalexp:polished_basalt_pressure_plate{}"
     },
     {
       "stack": "item:hnh:stone_brick_chimney{}"
@@ -913,15 +859,6 @@
     },
     {
       "stack": "item:minecraft:bread{}"
-    },
-    {
-      "stack": "item:neapolitan:vanilla_ice_cream_block{}"
-    },
-    {
-      "stack": "item:neapolitan:chocolate_ice_cream_block{}"
-    },
-    {
-      "stack": "item:neapolitan:strawberry_ice_cream_block{}"
     },
     {
       "stack": "item:alexsmobs:spawn_egg_mungus{}"
@@ -952,9 +889,69 @@
     },
     {
       "stack": "item:fundamentallyfixed:florarock_brick_wall{}"
+    },
+    {
+      "stack": "item:infernalexp:glowsilk_moth_spawn_egg{}"
+    },
+    {
+      "stack": "item:supplementaries:ash{}"
+    },
+    {
+      "stack": "item:twigs:cracked_polished_tuff_bricks{}"
+    },
+    {
+      "stack": "item:minecraft:red_mushroom_block{}"
+    },
+    {
+      "stack": "item:minecraft:brown_mushroom_block{}"
+    },
+    {
+      "stack": "item:quark:granite_pillar{}"
+    },
+    {
+      "stack": "item:upgrade_aquatic:scute_pavement{}"
+    },
+    {
+      "stack": "item:supplementaries:daub{}"
+    },
+    {
+      "stack": "item:supplementaries:daub_frame{}"
+    },
+    {
+      "stack": "item:autumnity:snail_shell_tiles{}"
+    },
+    {
+      "stack": "item:fundamentallyfixed:stone_pillar{}"
+    },
+    {
+      "stack": "item:fundamentallyfixed:glance_pillar{}"
+    },
+    {
+      "stack": "item:create:polished_cut_andesite_slab{}"
+    },
+    {
+      "stack": "item:paletteblocks:polished_tuff_slab{}"
+    },
+    {
+      "stack": "item:minecraft:white_glazed_terracotta{}"
+    },
+    {
+      "stack": "item:aether:quicksoil{}"
+    },
+    {
+      "stack": "item:quark:gravisand{}"
     }
   ],
   "lookup_history": [
+    "item:upgrade_aquatic:scute_pavement{}",
+    "item:modestmining:cement_powder{}",
+    "item:quark:hollow_oak_log{}",
+    "item:minecraft:oak_wood{}",
+    "item:fundamentallyfixed:carved_iron{}",
+    "item:minecraft:iron_ingot{}",
+    "item:infernalexp:glowsilk_bow{Damage:0}",
+    "item:infernalexp:moth_dust{}",
+    "item:infernalexp:blindsight_tongue{}",
     "item:hnh:magenta_terracotta_brick_stairs{}",
     "item:create:propeller{}",
     "item:minecraft:repeater{}",
@@ -975,7 +972,6 @@
     "item:neapolitan:mint_leaves{}",
     "item:create:iron_sheet{}",
     "item:create:cogwheel{}",
-    "item:minecraft:iron_ingot{}",
     "item:minecraft:potion{Potion:\"autumnity:extension\"}",
     "item:minecraft:potion{Potion:\"atmospheric:worsening\"}",
     "item:atmospheric:aloe_leaves{}",
@@ -1105,7 +1101,6 @@
     "item:infernalexp:glowcoal{}",
     "item:fundamentallyfixed:aluminium_sheet{}",
     "item:minecraft:oak_log{}",
-    "item:quark:hollow_oak_log{}",
     "item:oreganized:silver_ingot{}",
     "item:fundamentallyfixed:aluminium_dust{}",
     {

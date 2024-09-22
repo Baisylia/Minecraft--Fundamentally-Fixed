@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "fundamentallyfixed:block/glow_shroom_nether_shingles"
+  }
+}

@@ -2,6 +2,13 @@
   "replace": false,
   "values": [
     "fundamentallyfixed:polished_phyton_wall",
+    "fundamentallyfixed:glow_shroom_nether_brick_wall",
+    "fundamentallyfixed:glow_shroom_nether_shingle_wall",
+    "fundamentallyfixed:luminous_fungus_nether_brick_wall",
+    "fundamentallyfixed:luminous_fungus_nether_shingle_wall",
+    "fundamentallyfixed:dimstone_wall",
+    "fundamentallyfixed:glowstone_wall",
+
     "fundamentallyfixed:carved_aluminium_wall",
     "fundamentallyfixed:carved_bronze_wall",
     "fundamentallyfixed:carved_iron_wall",

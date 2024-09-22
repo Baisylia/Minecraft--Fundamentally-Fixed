@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "fundamentallyfixed:block/luminous_fungus_nether_shingles",
+    "side": "fundamentallyfixed:block/luminous_fungus_nether_shingles",
+    "top": "fundamentallyfixed:block/luminous_fungus_nether_shingles"
+  }
+}

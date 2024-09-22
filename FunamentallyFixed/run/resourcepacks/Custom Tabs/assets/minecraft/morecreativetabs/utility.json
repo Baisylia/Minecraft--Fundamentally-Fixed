@@ -619,6 +619,210 @@
     {
       "name": "minecraft:wet_sponge"
     },
+
+
+    {
+      "name": "minecraft:bone_block"
+    },
+    {
+      "name": "autumnity:snail_shell_block"
+    },
+    {
+      "name": "supplementaries:flint_block"
+    },
+    {
+      "name": "quark:stick_block"
+    },
+    {
+      "name": "environmental:grass_thatch"
+    },
+    {
+      "name": "fundamentallyfixed:moss_paste_block"
+    },
+    {
+      "name": "fundamentallyfixed:rope_block"
+    },
+    {
+      "name": "fundamentallyfixed:canvas_block"
+    },
+    {
+      "name": "fundamentallyfixed:rocky_shell_block"
+    },
+    {
+      "name": "quark:bonded_rabbit_hide"
+    },
+    {
+      "name": "fundamentallyfixed:bonded_reptile_hide"
+    },
+    {
+      "name": "fundamentallyfixed:bonded_hoglin_hide"
+    },
+    {
+      "name": "fundamentallyfixed:rotten_flesh_block"
+    },
+    {
+      "name": "quark:bonded_leather"
+    },
+    {
+      "name": "environmental:yak_hair_block"
+    },
+    {
+      "name": "environmental:yak_hair_rug"
+    },
+    {
+      "name": "alexsmobs:bison_fur_block"
+    },
+    {
+      "name": "alexsmobs:bison_carpet"
+    },
+    {
+      "name": "fundamentallyfixed:raccoon_tail_block"
+    },
+    {
+      "name": "fundamentallyfixed:cloth_block"
+    },
+    {
+      "name": "supplementaries:feather_block"
+    },
+    {
+      "name": "fundamentallyfixed:emu_feather_block"
+    },
+    {
+      "name": "fundamentallyfixed:penguin_feather_block"
+    },
+    {
+      "name": "fundamentallyfixed:maggot_block"
+    },
+    {
+      "name": "upgrade_aquatic:scute_block"
+    },
+    {
+      "name": "alexsabnormalities:crocodile_scute_block"
+    },
+    {
+      "name": "fundamentallyfixed:nautilus_shell_block"
+    },
+    {
+      "name": "fundamentallyfixed:pearl_block"
+    },
+    {
+      "name": "fundamentallyfixed:ink_sack"
+    },
+    {
+      "name": "fundamentallyfixed:glow_ink_sack"
+    },
+    {
+      "name": "minecraft:bone_block"
+    },
+    {
+      "name": "upgrade_aquatic:tooth_block"
+    },
+    {
+      "name": "alexsabnormalities:bone_serpent_tooth_block"
+    },
+    {
+      "name": "alexsabnormalities:cachalot_whale_tooth_block"
+    },
+    {
+      "name": "fundamentallyfixed:fertilizer_block"
+    },
+    {
+      "name": "fundamentallyfixed:string_block"
+    },
+
+
+    {
+      "name": "supplementaries:sugar_cube"
+    },
+    {
+      "name": "farmersdelight:carrot_crate"
+    },
+    {
+      "name": "farmersdelight:potato_crate"
+    },
+    {
+      "name": "farmersdelight:cabbage_crate"
+    },
+    {
+      "name": "farmersdelight:tomato_crate"
+    },
+    {
+      "name": "farmersdelight:onion_crate"
+    },
+    {
+      "name": "culturaldelights:cucumber_crate"
+    },
+    {
+      "name": "culturaldelights:pickle_crate"
+    },
+    {
+      "name": "incubation:chicken_egg_crate"
+    },
+    {
+      "name": "autumnity:turkey_egg_crate"
+    },
+    {
+      "name": "environmental:duck_egg_crate"
+    },
+    {
+      "name": "incubation:turtle_egg_crate"
+    },
+    {
+      "name": "neapolitan:vanilla_pod_block"
+    },
+    {
+      "name": "neapolitan:dried_vanilla_pod_block"
+    },
+    {
+      "name": "minecraft:dried_kelp_block"
+    },
+    {
+      "name": "quark:cocoa_beans_sack"
+    },
+    {
+      "name": "quark:nether_wart_sack"
+    },
+    {
+      "name": "quark:gunpowder_sack"
+    },
+    {
+      "name": "savage_and_ravage:creeper_spore_sack"
+    },
+    {
+      "name": "neapolitan:mint_basket"
+    },
+    {
+      "name": "autumnity:foul_berry_sack"
+    },
+    {
+      "name": "environmental:cattail_seed_sack"
+    },
+    {
+      "name": "farmersdelight:rice_bag"
+    },
+    {
+      "name": "farmersrespite:green_tea_leaves_sack"
+    },
+    {
+      "name": "farmersrespite:yellow_tea_leaves_sack"
+    },
+    {
+      "name": "farmersrespite:black_tea_leaves_sack"
+    },
+    {
+      "name": "atmospheric:aloe_bundle"
+    },
+    {
+      "name": "minecraft:hay_block"
+    },
+    {
+      "name": "farmersdelight:rice_bale"
+    },
+    {
+      "name": "quark:chorus_fruit_block"
+    },
+
+
     {
       "name": "modestmining:suspicious_dirt"
     },
@@ -659,6 +863,233 @@
     },
     {
       "name": "oreganized:waxed_spotted_glance"
+    },
+
+
+
+
+    {
+      "name": "minecraft:copper_block"
+    },
+    {
+      "name": "copperandtuffbackport:chiseled_copper"
+    },
+    {
+      "name": "alloyed:bronze_block"
+    },
+    {
+      "name": "fundamentallyfixed:carved_copper_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:carved_copper_slab"
+    },
+    {
+      "name": "fundamentallyfixed:carved_copper_wall"
+    },
+    {
+      "name": "minecraft:cut_copper"
+    },
+    {
+      "name": "minecraft:cut_copper_stairs"
+    },
+    {
+      "name": "minecraft:cut_copper_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cut_copper_wall"
+    },
+    {
+      "name": "create:copper_shingles"
+    },
+    {
+      "name": "create:copper_shingle_stairs"
+    },
+    {
+      "name": "create:copper_shingle_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_copper_wall"
+    },
+    {
+      "name": "create:copper_tiles"
+    },
+    {
+      "name": "create:copper_tile_stairs"
+    },
+    {
+      "name": "create:copper_tile_slab"
+    },
+    {
+      "name": "fundamentallyfixed:lined_copper_wall"
+    },
+
+
+    {
+      "name": "minecraft:exposed_copper"
+    },
+    {
+      "name": "copperandtuffbackport:exposed_chiseled_copper"
+    },
+    {
+      "name": "alloyed:exposed_bronze_block"
+    },
+    {
+      "name": "fundamentallyfixed:carved_exposed_copper_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:carved_exposed_copper_slab"
+    },
+    {
+      "name": "fundamentallyfixed:carved_exposed_copper_wall"
+    },
+    {
+      "name": "minecraft:exposed_cut_copper"
+    },
+    {
+      "name": "minecraft:exposed_cut_copper_stairs"
+    },
+    {
+      "name": "minecraft:exposed_cut_copper_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cut_exposed_copper_wall"
+    },
+    {
+      "name": "create:exposed_copper_shingles"
+    },
+    {
+      "name": "create:exposed_copper_shingle_stairs"
+    },
+    {
+      "name": "create:exposed_copper_shingle_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_exposed_copper_wall"
+    },
+    {
+      "name": "create:exposed_copper_tiles"
+    },
+    {
+      "name": "create:exposed_copper_tile_stairs"
+    },
+    {
+      "name": "create:exposed_copper_tile_slab"
+    },
+    {
+      "name": "fundamentallyfixed:lined_exposed_copper_wall"
+    },
+
+
+
+    {
+      "name": "minecraft:weathered_copper"
+    },
+    {
+      "name": "copperandtuffbackport:weathered_chiseled_copper"
+    },
+    {
+      "name": "alloyed:weathered_bronze_block"
+    },
+    {
+      "name": "fundamentallyfixed:carved_weathered_copper_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:carved_weathered_copper_slab"
+    },
+    {
+      "name": "fundamentallyfixed:carved_weathered_copper_wall"
+    },
+    {
+      "name": "minecraft:weathered_cut_copper"
+    },
+    {
+      "name": "minecraft:weathered_cut_copper_stairs"
+    },
+    {
+      "name": "minecraft:weathered_cut_copper_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cut_weathered_copper_wall"
+    },
+    {
+      "name": "create:weathered_copper_shingles"
+    },
+    {
+      "name": "create:weathered_copper_shingle_stairs"
+    },
+    {
+      "name": "create:weathered_copper_shingle_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_weathered_copper_wall"
+    },
+    {
+      "name": "create:weathered_copper_tiles"
+    },
+    {
+      "name": "create:weathered_copper_tile_stairs"
+    },
+    {
+      "name": "create:weathered_copper_tile_slab"
+    },
+    {
+      "name": "fundamentallyfixed:lined_weathered_copper_wall"
+    },
+
+
+    {
+      "name": "minecraft:oxidized_copper"
+    },
+    {
+      "name": "copperandtuffbackport:oxidized_chiseled_copper"
+    },
+    {
+      "name": "alloyed:oxidized_bronze_block"
+    },
+    {
+      "name": "fundamentallyfixed:carved_oxidized_copper_stairs"
+    },
+    {
+      "name": "fundamentallyfixed:carved_oxidized_copper_slab"
+    },
+    {
+      "name": "fundamentallyfixed:carved_oxidized_copper_wall"
+    },
+    {
+      "name": "minecraft:oxidized_cut_copper"
+    },
+    {
+      "name": "minecraft:oxidized_cut_copper_stairs"
+    },
+    {
+      "name": "minecraft:oxidized_cut_copper_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cut_oxidized_copper_wall"
+    },
+    {
+      "name": "create:oxidized_copper_shingles"
+    },
+    {
+      "name": "create:oxidized_copper_shingle_stairs"
+    },
+    {
+      "name": "create:oxidized_copper_shingle_slab"
+    },
+    {
+      "name": "fundamentallyfixed:cubed_oxidized_copper_wall"
+    },
+    {
+      "name": "create:oxidized_copper_tiles"
+    },
+    {
+      "name": "create:oxidized_copper_tile_stairs"
+    },
+    {
+      "name": "create:oxidized_copper_tile_slab"
+    },
+    {
+      "name": "fundamentallyfixed:lined_oxidized_copper_wall"
     },
 
 

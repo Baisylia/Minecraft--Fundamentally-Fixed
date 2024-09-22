@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_wall_side_tall",
+  "textures": {
+    "wall": "fundamentallyfixed:block/glow_shroom_nether_shingles"
+  }
+}

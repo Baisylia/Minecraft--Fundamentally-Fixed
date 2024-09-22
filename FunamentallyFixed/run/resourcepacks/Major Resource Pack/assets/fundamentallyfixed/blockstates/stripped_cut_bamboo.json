@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":    { "model": "fundamentallyfixed:block/stripped_cut_bamboo" },
+        "axis=z":     { "model": "fundamentallyfixed:block/stripped_cut_bamboo", "x": 90 },
+        "axis=x":     { "model": "fundamentallyfixed:block/stripped_cut_bamboo", "x": 90, "y": 90 }
+    }
+}

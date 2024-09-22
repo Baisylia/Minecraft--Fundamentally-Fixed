@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_wall_post",
+  "textures": {
+    "wall": "fundamentallyfixed:block/luminous_fungus_nether_shingles"
+  }
+}

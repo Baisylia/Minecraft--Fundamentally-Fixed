@@ -1400,13 +1400,13 @@ public class ModBlocks {
     //        () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.STONE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
 
     public static final RegistryObject<Block> DULLSTONE_PILLAR = registerBlock("dullstone_pillar",
-            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.STONE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(IEBlocks.DULLSTONE.get())), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
 
     public static final RegistryObject<Block> DIMSTONE_PILLAR = registerBlock("dimstone_pillar",
-            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.STONE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(IEBlocks.DIMSTONE.get())), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
 
     public static final RegistryObject<Block> GLOWSTONE_PILLAR = registerBlock("glowstone_pillar",
-            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.STONE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
 
     public static final RegistryObject<Block> SHIMMER_STONE_PILLAR = registerBlock("shimmer_stone_pillar",
             () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.STONE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
@@ -1484,38 +1484,51 @@ public class ModBlocks {
 
 
 
-    public static final RegistryObject<Block> LUMINOUS_WART_NETHER_BRICKS = registerBlock("luminous_wart_nether_bricks",
+    public static final RegistryObject<Block> LUMINOUS_FUNGUS_NETHER_BRICKS = registerBlock("luminous_fungus_nether_bricks",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 5)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
 
-    public static final RegistryObject<Block> LUMINOUS_WART_NETHER_BRICK_STAIRS = registerBlock("luminous_wart_nether_brick_stairs",
+    public static final RegistryObject<Block> LUMINOUS_FUNGUS_NETHER_BRICK_STAIRS = registerBlock("luminous_fungus_nether_brick_stairs",
             () -> new StairBlock(() -> Blocks.NETHER_BRICK_STAIRS.defaultBlockState(),
                     BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 5)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
 
-    public static final RegistryObject<Block> LUMINOUS_WART_NETHER_BRICK_SLAB = registerBlock("luminous_wart_nether_brick_slab",
+    public static final RegistryObject<Block> LUMINOUS_FUNGUS_NETHER_BRICK_SLAB = registerBlock("luminous_fungus_nether_brick_slab",
             () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 5)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
 
-    public static final RegistryObject<Block> LUMINOUS_WART_NETHER_BRICK_WALL = registerBlock("luminous_wart_nether_brick_wall",
+    public static final RegistryObject<Block> LUMINOUS_FUNGUS_NETHER_BRICK_WALL = registerBlock("luminous_fungus_nether_brick_wall",
             () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 5)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
 
-    public static final RegistryObject<Block> LUMINOUS_WART_NETHER_BRICK_PILLAR = registerBlock("luminous_wart_nether_brick_pillar",
+    public static final RegistryObject<Block> LUMINOUS_FUNGUS_NETHER_BRICK_PILLAR = registerBlock("luminous_fungus_nether_brick_pillar",
             () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 5)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
 
-    public static final RegistryObject<Block> CHISELED_LUMINOUS_WART_NETHER_BRICKS = registerBlock("chiseled_luminous_wart_nether_bricks",
+    public static final RegistryObject<Block> CHISELED_LUMINOUS_FUNGUS_NETHER_BRICKS = registerBlock("chiseled_luminous_fungus_nether_bricks",
             () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 5)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
 
-    public static final RegistryObject<Block> LUMINOUS_WART_NETHER_SHINGLES = registerBlock("luminous_wart_nether_shingles",
+    public static final RegistryObject<Block> LUMINOUS_FUNGUS_NETHER_SHINGLES = registerBlock("luminous_fungus_nether_shingles",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 5)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
 
-    public static final RegistryObject<Block> LUMINOUS_WART_NETHER_SHINGLE_STAIRS = registerBlock("luminous_wart_nether_shingle_stairs",
+    public static final RegistryObject<Block> LUMINOUS_FUNGUS_NETHER_SHINGLE_STAIRS = registerBlock("luminous_fungus_nether_shingle_stairs",
             () -> new StairBlock(() -> Blocks.NETHER_BRICK_STAIRS.defaultBlockState(),
                     BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 5)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
 
-    public static final RegistryObject<Block> LUMINOUS_WART_NETHER_SHINGLE_SLAB = registerBlock("luminous_wart_nether_shingle_slab",
+    public static final RegistryObject<Block> LUMINOUS_FUNGUS_NETHER_SHINGLE_SLAB = registerBlock("luminous_fungus_nether_shingle_slab",
             () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 5)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
 
-    public static final RegistryObject<Block> LUMINOUS_WART_NETHER_SHINGLE_WALL = registerBlock("luminous_wart_nether_shingle_wall",
+    public static final RegistryObject<Block> LUMINOUS_FUNGUS_NETHER_SHINGLE_WALL = registerBlock("luminous_fungus_nether_shingle_wall",
             () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 5)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
 
+
+
+    public static final RegistryObject<Block> WITHERED_WART_BLOCK = registerBlock("withered_wart_block",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHER_WART_BLOCK)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> DIMSTONE_WALL = registerBlock("dimstone_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(IEBlocks.DIMSTONE.get()).lightLevel((state) -> 5)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> GLOWSTONE_WALL = registerBlock("glowstone_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> PERMAFROST_GRAVEL = registerBlock("permafrost_gravel",
+            () -> new FallingBlock(BlockBehaviour.Properties.copy(Blocks.GRAVEL)), CreativeModeTab.TAB_BUILDING_BLOCKS, true, 24000);
 
     //Buttons and Plates
     public static final RegistryObject<Block> PHYTON_BUTTON = registerBlock("phyton_button", () -> new
