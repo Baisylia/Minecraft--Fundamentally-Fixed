@@ -211,7 +211,7 @@ dependencies {
     implementation fg.deobf("curse.maven:treeplacer-840202:4488141")
     implementation fg.deobf("curse.maven:feathers-699933:4573576")
     implementation fg.deobf("curse.maven:actions-of-stamina-834738:4524720")
-    implementation fg.deobf("curse.maven:polytone-958094:5066051")
+    //implementation fg.deobf("curse.maven:polytone-958094:5066051")
 
     //------------------------------ Major Content Mods ------------------------------
     implementation fg.deobf("curse.maven:modest-mining-533775:5109121")

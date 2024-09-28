@@ -608,6 +608,8 @@
   "block.fundamentallyfixed.dimstone_wall": "Dimstone Wall",
   "block.fundamentallyfixed.glowstone_wall": "Glowstone Wall",
   "block.fundamentallyfixed.permafrost_gravel": "Permafrost Gravel",
+  "block.fundamentallyfixed.swept_quicksoil": "Swept Quicksoil",
+  "block.fundamentallyfixed.swept_gravisand": "Swept Gravisand",
 
   "block.fundamentallyfixed.phyton_button": "Phyton Button",
   "block.fundamentallyfixed.phyton_pressure_plate": "Phyton Pressure Plate",

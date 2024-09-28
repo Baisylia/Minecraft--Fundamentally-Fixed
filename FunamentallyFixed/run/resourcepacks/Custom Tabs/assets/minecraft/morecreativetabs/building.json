@@ -1736,7 +1736,7 @@
       "name": "aether:quicksoil"
     },
     {
-      "name": "aether:quicksoil"
+      "name": "fundamentallyfixed:swept_quicksoil"
     },
     {
       "name": "minecraft:smooth_soul_sandstone"
@@ -1778,7 +1778,7 @@
       "name": "quark:gravisand"
     },
     {
-      "name": "quark:gravisand"
+      "name": "fundamentallyfixed:swept_gravisand"
     },
     {
       "name": "quark:chiseled_tuff_bricks"
@@ -1787,7 +1787,7 @@
       "name": "minecraft:mossy_stone_bricks"
     },
     {
-      "name": "minecraft:rmossy_stone_brick_stairs"
+      "name": "minecraft:mossy_stone_brick_stairs"
     },
     {
       "name": "minecraft:mossy_stone_brick_slab"

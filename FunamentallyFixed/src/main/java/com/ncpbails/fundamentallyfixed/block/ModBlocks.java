@@ -1,7 +1,7 @@
 package com.ncpbails.fundamentallyfixed.block;
 
 import com.aetherteam.aether.block.AetherBlocks;
-import com.google.common.collect.ImmutableBiMap;
+import com.aetherteam.aether.block.natural.QuicksoilBlock;
 import com.ncpbails.fundamentallyfixed.FundamentallyFixed;
 import com.ncpbails.fundamentallyfixed.block.custom.*;
 import com.ncpbails.fundamentallyfixed.block.custom.Copper.*;
@@ -11,8 +11,11 @@ import com.ncpbails.modestmining.block.entity.custom.RockBlock;
 import galena.oreganized.index.OBlocks;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.Direction;
+import net.minecraft.core.Registry;
 import net.minecraft.world.InteractionHand;
 import net.minecraft.world.InteractionResult;
+import net.minecraft.world.entity.EntityType;
+import net.minecraft.world.entity.MobCategory;
 import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.item.*;
 import net.minecraft.world.item.context.UseOnContext;
@@ -31,6 +34,10 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import org.infernalstudios.infernalexp.init.IEBlocks;
+import vazkii.quark.base.module.QuarkModule;
+import vazkii.quark.content.automation.block.GravisandBlock;
+import vazkii.quark.content.automation.entity.Gravisand;
+import vazkii.quark.content.automation.module.GravisandModule;
 
 import javax.annotation.Nullable;
 import java.util.function.Supplier;
@@ -1528,7 +1535,18 @@ public class ModBlocks {
             () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
 
     public static final RegistryObject<Block> PERMAFROST_GRAVEL = registerBlock("permafrost_gravel",
-            () -> new FallingBlock(BlockBehaviour.Properties.copy(Blocks.GRAVEL)), CreativeModeTab.TAB_BUILDING_BLOCKS, true, 24000);
+            () -> new FallingBlock(BlockBehaviour.Properties.copy(Blocks.GRAVEL)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> SWEPT_QUICKSOIL = registerBlock("swept_quicksoil",
+            () -> new QuicksoilBlock(BlockBehaviour.Properties.copy(AetherBlocks.QUICKSOIL.get())), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> SWEPT_GRAVISAND = registerBlock("swept_gravisand",
+            //() -> new SweptGravisandBlock(BlockBehaviour.Properties.copy(Blocks.SAND)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+            () -> new QuicksoilBlock(BlockBehaviour.Properties.copy(AetherBlocks.QUICKSOIL.get())), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+
+
+
 
     //Buttons and Plates
     public static final RegistryObject<Block> PHYTON_BUTTON = registerBlock("phyton_button", () -> new

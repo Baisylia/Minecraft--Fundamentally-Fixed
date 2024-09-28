@@ -7,6 +7,7 @@ import com.google.common.collect.ImmutableBiMap;
 import com.mojang.logging.LogUtils;
 import com.ncpbails.fundamentallyfixed.block.ModBlocks;
 import com.ncpbails.fundamentallyfixed.core.ModListings;
+import com.ncpbails.fundamentallyfixed.entity.ModEntityTypes;
 import com.ncpbails.fundamentallyfixed.items.ModItems;
 import com.ncpbails.fundamentallyfixed.world.feature.ModConfiguredFeatures;
 import com.ncpbails.fundamentallyfixed.world.feature.ModPlacedFeatures;
@@ -44,6 +45,7 @@ public class FundamentallyFixed
         ModBlocks.register(modEventBus);
         ModConfiguredFeatures.register(modEventBus);
         ModPlacedFeatures.register(modEventBus);
+        //ModEntityTypes.register(modEventBus);
 
         MinecraftForge.EVENT_BUS.register(this);
         MinecraftForge.EVENT_BUS.addListener(FundamentallyFixed::onPlayerTick);
