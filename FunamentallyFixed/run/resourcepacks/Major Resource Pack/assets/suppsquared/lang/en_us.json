@@ -1,3 +1,24 @@
 {
-  "block.suppsquared.item_shelf_mangrove": "Mahogany Item Shelf"
+  "block.suppsquared.item_shelf_mangrove": "Mahogany Item Shelf",
+  
+  
+  
+  "block.suppsquared.minecraft.item_shelf_oak": "Wooden Item Shelf",
+"block.suppsquared.environmental.item_shelf_wisteria": "White Wooden Item Shelf",
+"block.suppsquared.minecraft.item_shelf_birch": "Light Gray Wooden Item Shelf",
+"block.suppsquared.upgrade_aquatic.item_shelf_driftwood": "Gray Wooden Item Shelf",
+"block.suppsquared.atmospheric.item_shelf_grimwood": "Black Wooden Item Shelf",
+"block.suppsquared.minecraft.item_shelf_spruce": "Brown Wooden Item Shelf",
+"block.suppsquared.minecraft.item_shelf_mangrove": "Red Wooden Item Shelf",
+  "block.suppsquared.autumnity.item_shelf_maple": "Orange Wooden Item Shelf",
+  "block.suppsquared.atmospheric.item_shelf_aspen": "Yellow Wooden Item Shelf",
+"block.suppsquared.quark.item_shelf_azalea": "Lime Wooden Item Shelf",
+"block.suppsquared.environmental.item_shelf_willow": "Green Wooden Item Shelf",
+  "block.suppsquared.atmospheric.item_shelf_morado": "Cyan Wooden Item Shelf",
+  "block.suppsquared.atmospheric.item_shelf_kousa": "Light Blue Wooden Item Shelf",
+  "block.suppsquared.caverns_and_chasms.item_shelf_azalea": "Blue Wooden Item Shelf",
+  "block.suppsquared.atmospheric.item_shelf_yucca": "Purple Wooden Item Shelf",
+  "block.suppsquared.item_shelf_dark_oak": "Magenta Wooden Item Shelf",
+  "block.suppsquared.environmental.item_shelf_cherry": "Pink Wooden Item Shelf",
+  "block.suppsquared.item_shelf_crimson": "Petrified Wooden Item Shelf"
 }

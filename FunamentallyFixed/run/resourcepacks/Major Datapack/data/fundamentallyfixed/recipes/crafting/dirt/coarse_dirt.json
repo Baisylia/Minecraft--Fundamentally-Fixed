@@ -5,12 +5,15 @@
       "item": "fundamentallyfixed:dirt_pile"
     },
     "@": {
-      "item": "modestmining:rocks"
+      "item": "twigs:pebble"
+    },
+    "$": {
+      "item": "minecraft:flint"
     }
   },
   "pattern": [
     "@#",
-    "#@"
+    "#$"
   ],
   "result": {
     "item": "minecraft:coarse_dirt"

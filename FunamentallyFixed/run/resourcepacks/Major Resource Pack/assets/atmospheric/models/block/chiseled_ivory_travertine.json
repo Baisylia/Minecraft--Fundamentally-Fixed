@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "fundamentallyfixed:block/brown_nethercotta",
+    "side": "fundamentallyfixed:block/brown_nethercotta"
+  }
+}

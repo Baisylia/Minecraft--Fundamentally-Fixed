@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "@": {
+      "item": "fundamentallyfixed:blackstone_pebble"
+    }
+  },
+  "pattern": [
+    "@@"
+  ],
+  "result": {
+    "item": "infernalexp:rubble"
+  }
+}

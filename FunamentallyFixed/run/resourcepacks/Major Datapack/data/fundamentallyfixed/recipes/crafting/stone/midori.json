@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "ecologics:surface_moss"
+    },
+    "@": {
+      "item": "twigs:pebble"
+    }
+  },
+  "pattern": [
+    "@#",
+    "#@"
+  ],
+  "result": {
+    "item": "architects_palette:chiseled_calcite"
+  }
+}

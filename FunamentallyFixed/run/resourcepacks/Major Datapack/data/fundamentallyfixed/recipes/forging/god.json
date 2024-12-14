@@ -1,0 +1,24 @@
+{
+  "type": "modestmining:forging_shaped",
+  "cooktime": 144,
+  "key": {
+    "#": {
+      "item": "minecraft:gold_ingot"
+    },
+    "S": {
+      "tag": "fundamentallyfixed:soul_sands"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "S# ",
+    " S#"
+  ],
+  "fuel": {
+    "tag": "fundamentallyfixed:forging_fuels_one"
+  },
+  "result": {
+    "item": "xercamusic:god",
+    "count": 1
+  }
+}

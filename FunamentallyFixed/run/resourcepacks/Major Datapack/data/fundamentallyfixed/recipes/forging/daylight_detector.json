@@ -1,0 +1,26 @@
+{
+  "type": "modestmining:forging_shaped",
+  "cooktime": 144,
+  "key": {
+    "#": {
+      "item": "minecraft:copper_ingot"
+    },
+    "G": {
+      "item": "fundamentallyfixed:quartz"
+    },
+    "Q": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "GQG",
+    "###"
+  ],
+  "fuel": {
+    "tag": "fundamentallyfixed:forging_fuels_one"
+  },
+  "result": {
+    "item": "minecraft:daylight_detector",
+    "count": 2
+  }
+}

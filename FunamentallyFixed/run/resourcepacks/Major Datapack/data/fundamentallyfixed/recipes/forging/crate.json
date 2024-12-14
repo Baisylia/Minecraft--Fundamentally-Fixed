@@ -1,0 +1,27 @@
+{
+  "type": "modestmining:forging_shaped",
+  "cooktime": 144,
+  "key": {
+    "#": {
+      "item": "minecraft:iron_nugget"
+    },
+    "@": {
+      "tag": "fundamentallyfixed:plank_blocks"
+    },
+    "D": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "#@#",
+    "@D@",
+    "#@#"
+  ],
+  "fuel": {
+    "tag": "fundamentallyfixed:forging_fuels_one"
+  },
+  "result": {
+    "item": "quark:crate",
+    "count": 1
+  }
+}

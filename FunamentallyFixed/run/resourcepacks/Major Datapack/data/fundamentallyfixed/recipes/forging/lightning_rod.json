@@ -1,0 +1,24 @@
+{
+  "type": "modestmining:forging_shaped",
+  "cooktime": 144,
+  "key": {
+    "#": {
+      "item": "minecraft:copper_ingot"
+    },
+    "G": {
+      "item": "modestmining:copper_screw"
+    }
+  },
+  "pattern": [
+    "G",
+    "#",
+    "#"
+  ],
+  "fuel": {
+    "tag": "fundamentallyfixed:forging_fuels_one"
+  },
+  "result": {
+    "item": "minecraft:lightning_rod",
+    "count": 2
+  }
+}

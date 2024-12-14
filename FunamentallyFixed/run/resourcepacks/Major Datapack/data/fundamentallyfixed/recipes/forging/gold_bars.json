@@ -1,0 +1,19 @@
+{
+  "type": "modestmining:forging_shaped",
+  "cooktime": 144,
+  "key": {
+    "#": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "fuel": {
+    "tag": "fundamentallyfixed:forging_fuels_one"
+  },
+  "result": {
+    "item": "quark:gold_bars",
+    "count": 6
+  }
+}

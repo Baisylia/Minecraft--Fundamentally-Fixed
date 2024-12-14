@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "fundamentallyfixed:florarock_pile"
+    },
+    "@": {
+      "item": "twigs:pebble"
+    },
+    "$": {
+      "item": "minecraft:flint"
+    }
+  },
+  "pattern": [
+    "$#",
+    "#@"
+  ],
+  "result": {
+    "item": "fundamentallyfixed:coarse_florarock"
+  }
+}

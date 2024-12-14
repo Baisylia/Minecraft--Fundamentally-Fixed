@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "rosegold_ingot",
+  "ingredients": [
+    {
+      "item": "ecologics:seashell_block"
+    },
+    {
+      "item": "minecraft:clay"
+    },
+    {
+      "item": "minecraft:clay"
+    },
+    {
+      "item": "minecraft:cobblestone"
+    }
+  ],
+  "result": {
+    "item": "modestmining:cement_powder",
+    "count": 4
+  }
+}

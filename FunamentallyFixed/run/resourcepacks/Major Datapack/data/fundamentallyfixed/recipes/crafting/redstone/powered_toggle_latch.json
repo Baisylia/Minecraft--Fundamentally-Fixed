@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:redstone_torch"
+    },
+    "D": {
+      "item": "minecraft:lever"
+    },
+    "B": {
+      "item": "create:iron_sheet"
+    }
+  },
+  "pattern": [
+    "#D",
+    "BB"
+  ],
+  "result": {
+    "item": "create:powered_toggle_latch",
+    "count": 2
+  }
+}

@@ -1,33 +1,19 @@
 {
   "type": "modestmining:forging",
+  "cooktime": 144,
   "ingredients": [
     {
       "item": "minecraft:clay_ball"
     },
     {
-      "item": "minecraft:clay_ball"
-    },
-    {
-      "item": "minecraft:clay_ball"
-    },
-    {
-      "item": "minecraft:clay_ball"
-    },
-    {
-      "item": "supplementaries:ash"
-    },
-    {
-      "item": "supplementaries:ash"
-    },
-    {
-      "item": "supplementaries:ash"
-    },
-    {
       "item": "supplementaries:ash"
     }
   ],
-  "output": {
+  "fuel": {
+    "tag": "fundamentallyfixed:forging_fuels_zero"
+  },
+  "result": {
     "item": "supplementaries:ash_brick",
-    "count": 8
+    "count": 2
   }
 }

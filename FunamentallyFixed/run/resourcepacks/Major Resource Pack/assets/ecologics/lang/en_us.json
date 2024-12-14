@@ -1,0 +1,15 @@
+{
+  "block.ecologics.ice_bricks": "Polished Polar Ice",
+"block.ecologics.ice_brick_stairs": "Polished Polar Ice Stairs",
+"block.ecologics.ice_brick_slab": "Polished Polar Ice Slab",
+"block.ecologics.ice_brick_wall": "Polished Polar Ice Wall",
+"block.ecologics.snow_brick_stairs": "Snow Stairs",
+"block.ecologics.snow_brick_slab": "Snow Slab",
+"block.ecologics.snow_brick_wall": "Snow Wall",
+"block.ecologics.snow_bricks": "Carved Snow",
+"block.ecologics.seashell_block": "Shell Block",
+"block.ecologics.seashell_tiles": "Shell Tiles",
+"block.ecologics.seashell_tile_stairs": "Shell Tile Stairs",
+"block.ecologics.seashell_tile_slab": "Shell Tile Slab",
+"block.ecologics.seashell_tile_wall": "Shell Tile Wall"
+}

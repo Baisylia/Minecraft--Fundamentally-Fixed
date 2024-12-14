@@ -1,0 +1,20 @@
+{
+  "type": "modestmining:forging_shaped",
+  "cooktime": 144,
+  "key": {
+    "#": {
+      "item": "minecraft:netherrack"
+    }
+  },
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "fuel": {
+    "tag": "fundamentallyfixed:forging_fuels_zero"
+  },
+  "result": {
+    "item": "atmospheric:polished_dolerite",
+    "count": 4
+  }
+}

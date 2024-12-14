@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "#": {
-      "item": "modestmining:rocks"
+      "item": "twigs:pebble"
     },
     "@": {
       "item": "minecraft:flint"

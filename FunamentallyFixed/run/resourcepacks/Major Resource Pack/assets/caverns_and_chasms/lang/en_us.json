@@ -11,5 +11,43 @@
   "block.caverns_and_chasms.mossy_cobblestone_tile_stairs": "Phyton Stairs",
   "block.caverns_and_chasms.mossy_cobblestone_tile_slab": "Phyton Slab",
   "block.caverns_and_chasms.mossy_cobblestone_tile_wall": "Phyton Wall",
-  "block.caverns_and_chasms.polished_tuff": "Cracked Sandstone Bricks"
+  "block.caverns_and_chasms.polished_tuff": "Cracked Sandstone Bricks",
+  
+  
+  
+  "block.caverns_and_chasms.mossy_cobblestone_bricks": "Brown Nethercotta Bricks",
+"block.caverns_and_chasms.mossy_cobblestone_brick_stairs": "Brown Nethercotta Brick Stairs",
+"block.caverns_and_chasms.mossy_cobblestone_brick_slab": "Brown Nethercotta Brick Slab",
+"block.caverns_and_chasms.mossy_cobblestone_brick_wall": "Brown Nethercotta Brick Wall",
+"block.caverns_and_chasms.spinel_pillar": "Conk Nethercotta Pillar",
+"block.caverns_and_chasms.chiseled_dripstone_shingles": "Purpur",
+
+
+
+  "block.caverns_and_chasms.azalea_log": "Blue Wooden Log",
+  "block.caverns_and_chasms.azalea_wood": "Blue Wooden Wood",
+  "block.caverns_and_chasms.stripped_azalea_log": "Stripped Blue Wooden Log",
+  "block.caverns_and_chasms.stripped_azalea_wood": "Stripped Blue Wooden Wood",
+  "block.caverns_and_chasms.azalea_planks": "Blue Wooden Planks",
+  "block.caverns_and_chasms.azalea_stairs": "Blue Wooden Stairs",
+  "block.caverns_and_chasms.azalea_slab": "Blue Wooden Slab",
+  "block.caverns_and_chasms.azalea_fence": "Blue Wooden Fence",
+  "block.caverns_and_chasms.azalea_fence_gate": "Blue Wooden Fence Gate",
+  "block.caverns_and_chasms.azalea_post": "Blue Wooden Post",
+  "block.caverns_and_chasms.stripped_azalea_post": "Stripped Blue Wooden Post",
+  "block.caverns_and_chasms.azalea_boards": "Blue Wooden Azalea Boards",
+  "block.caverns_and_chasms.azalea_ladder": "Blue Wooden Ladder",
+  "block.caverns_and_chasms.azalea_door": "Blue Wooden Door",
+  "block.caverns_and_chasms.azalea_trapdoor": "Blue Wooden Trapdoor",
+  "block.caverns_and_chasms.azalea_sign": "Blue Wooden Sign",
+  "block.caverns_and_chasms.azalea_bookshelf": "Blue Wooden Bookshelf",
+  "block.caverns_and_chasms.azalea_chest": "Blue Wooden Chest",
+  "block.caverns_and_chasms.azalea_trapped_chest": "Blue Wooden Trapped Chest",
+  "block.caverns_and_chasms.azalea_boat": "Blue Wooden Boat",
+  "block.caverns_and_chasms.azalea_chest_boat": "Blue Wooden Chest Boat",
+  "block.caverns_and_chasms.azalea_furnace_boat": "Blue Wooden Furnace Boat",
+  "block.caverns_and_chasms.large_azalea_boat": "Large Blue Wooden Boat",
+  "block.caverns_and_chasms.azalea_beehive": "Blue Wooden Beehive",
+  "block.caverns_and_chasms.azalea_button": "Blue Wooden Button",
+  "block.caverns_and_chasms.azalea_pressure_plate": "Blue Wooden Pressure Plate"
 }

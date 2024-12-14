@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:redstone_torch"
+    },
+    "D": {
+      "item": "alexsmobs:guster_eye"
+    },
+    "B": {
+      "item": "fundamentallyfixed:silver_sheet"
+    }
+  },
+  "pattern": [
+    "#D",
+    "BB"
+  ],
+  "result": {
+    "item": "quark:redstone_randomizer",
+    "count": 2
+  }
+}

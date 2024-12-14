@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "#": {
-       "tag": "fundamentallyfixed:red_sands"
+      "tag": "forge:sand/red"
     }
   },
   "pattern": [
@@ -10,7 +10,7 @@
     "##"
   ],
   "result": {
-    "count": 2,
-    "item": "minecraft:red_sandstone"
+    "item": "minecraft:smooth_red_sandstone",
+    "count": 2
   }
 }

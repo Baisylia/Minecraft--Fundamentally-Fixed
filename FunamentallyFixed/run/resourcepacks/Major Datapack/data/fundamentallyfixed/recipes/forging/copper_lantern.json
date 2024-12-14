@@ -1,0 +1,23 @@
+{
+  "type": "modestmining:forging_shaped",
+  "cooktime": 144,
+  "key": {
+    "#": {
+      "item": "minecraft:torch"
+    },
+    "@": {
+      "item": "modestmining:copper_nugget"
+    }
+  },
+  "pattern": [
+    "@#@",
+    " @ "
+  ],
+  "fuel": {
+    "tag": "fundamentallyfixed:forging_fuels_one"
+  },
+  "result": {
+    "item": "supplementaries:copper_lantern",
+    "count": 1
+  }
+}

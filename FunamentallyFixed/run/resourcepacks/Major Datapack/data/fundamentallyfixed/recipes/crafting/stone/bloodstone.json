@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "fundamentallyfixed:blackstone_pebble"
+    },
+    "@": {
+      "item": "fundamentallyfixed:netherrack_powder"
+    }
+  },
+  "pattern": [
+    "@#",
+    "#@"
+  ],
+  "result": {
+    "item": "twigs:bloodstone"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "block.autumnity.snail_shell_bricks": "Shell Bricks",
+"block.autumnity.snail_shell_brick_stairs": "Shell Brick Stairs",
+"block.autumnity.snail_shell_brick_slab": "Shell Brick Slab",
+"block.autumnity.snail_shell_brick_wall": "Shell Brick Wall",
+"block.autumnity.chiseled_snail_shell_bricks": "Chiseled Shell Block",
+
+
+
+"block.autumnity.maple_log": "Orange Wooden Log",
+  "block.autumnity.maple_wood": "Orange Wooden Wood",
+  "block.autumnity.stripped_maple_log": "Stripped Orange Wooden Log",
+  "block.autumnity.stripped_maple_wood": "Stripped Orange Wooden Wood",
+  "block.autumnity.maple_planks": "Orange Wooden Planks",
+  "block.autumnity.maple_stairs": "Orange Wooden Plank Stairs",
+  "block.autumnity.maple_slab": "Orange Wooden Plank Slab",
+  "block.autumnity.maple_fence": "Orange Wooden Fence",
+  "block.autumnity.maple_fence_gate": "Orange Wooden Fence Gate",
+  "block.autumnity.maple_post": "Orange Wooden Post",
+  "block.autumnity.stripped_maple_post": "Stripped Orange Wooden Post",
+  "block.autumnity.maple_boards": "Orange Wooden Boards",
+  "block.autumnity.maple_ladder": "Orange Wooden Ladder",
+  "block.autumnity.maple_door": "Orange Wooden Door",
+  "block.autumnity.maple_trapdoor": "Orange Wooden Trapdoor",
+  "block.autumnity.maple_sign": "Orange Wooden Sign",
+  "block.autumnity.maple_button": "Orange Wooden Button",
+  "block.autumnity.maple_pressure_plate": "Orange Wooden Pressure Plate",
+  "block.autumnity.maple_boat": "Orange Wooden Boat",
+  "block.autumnity.maple_chest_boat": "Orange Wooden Chest Boat",
+  "block.autumnity.maple_furnace_boat": "Orange Wooden Furnace Boat",
+  "block.autumnity.large_maple_boat": "Large Orange Wooden Boat",
+  "block.autumnity.maple_beehive": "Orange Wooden Beehive"
+}

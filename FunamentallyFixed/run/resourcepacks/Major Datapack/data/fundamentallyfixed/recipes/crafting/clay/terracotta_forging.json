@@ -1,0 +1,19 @@
+{
+  "type": "modestmining:forging_shaped",
+  "cooktime": 144,
+  "key": {
+    "#": {
+      "item": "minecraft:clay_ball"
+    }
+  },
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "fuel": {
+    "tag": "fundamentallyfixed:forging_fuels_zero"
+  },
+  "result": {
+    "item": "minecraft:terracotta"
+  }
+}

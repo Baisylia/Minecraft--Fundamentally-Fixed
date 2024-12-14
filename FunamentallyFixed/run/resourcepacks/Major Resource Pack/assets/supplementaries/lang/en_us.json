@@ -5,5 +5,49 @@
   "block.supplementaries.blackstone_tile": "Cobbled Blackstone Bricks",
   "block.supplementaries.blackstone_tile_stairs": "Cobbled Blackstone Brick Stairs",
   "block.supplementaries.blackstone_tile_slab": "Cobbled Blackstone Brick Slab",
-  "block.supplementaries.blackstone_tile_wall": "Cobbled Blackstone Brick Wall"
+  "block.supplementaries.blackstone_tile_wall": "Cobbled Blackstone Brick Wall",
+  
+  
+  
+  "block.spelunkery.salt_block": "Salt Block",
+"block.spelunkery.rock_salt_bricks": "Chiseled Rock Salt",
+
+
+
+"block.supplementaries.hanging_sign_oak": "Wooden Hanging Sign",
+"block.supplementaries.sign_post_oak": "Wooden Sign Post",
+"block.supplementaries.environmental.hanging_sign_wisteria": "White Wooden Hanging Sign",
+"block.supplementaries.environmental.sign_post_wisteria": "White Wooden Sign Post",
+"block.supplementaries.hanging_sign_birch": "Light Gray Wooden Hanging Sign",
+"block.supplementaries.sign_post_birch": "Light Gray Wooden Sign Post",
+"block.supplementaries.upgrade_aquatic.hanging_sign_driftwood": "Gray Wooden Hanging Sign",
+"block.supplementaries.upgrade_aquatic.sign_post_driftwood": "Gray Wooden Sign Post",
+"block.supplementaries.atmospheric.hanging_sign_grimwood": "Black Wooden Hanging Sign",
+"block.supplementaries.atmospheric.sign_post_grimwood": "Black Wooden Sign Post",
+"block.supplementaries.hanging_sign_spruce": "Brown Wooden Hanging Sign",
+"block.supplementaries.sign_post_spruce": "Brown Wooden Sign Post",
+"block.supplementaries.hanging_sign_mangrove": "Red Wooden Hanging Sign",
+  "block.supplementaries.sign_post_mangrove": "Red Wooden Sign Post",
+  "block.supplementaries.autumnity.hanging_sign_maple": "Orange Wooden Hanging Sign",
+  "block.supplementaries.autumnity.sign_post_maple": "Orange Wooden Sign Post",
+  "block.supplementaries.atmospheric.hanging_sign_aspen": "Yellow Wooden Hanging Sign",
+  "block.supplementaries.atmospheric.sign_post_aspen": "Yellow Wooden Sign Post",
+  "block.supplementaries.quark.hanging_sign_azalea": "Lime Wooden Hanging Sign",
+  "block.supplementaries.quark.sign_post_azalea": "Lime Wooden Sign Post",
+  "block.supplementaries.environmental.hanging_sign_willow": "Green Wooden Hanging Sign",
+  "block.supplementaries.environmental.sign_post_willow": "Green Wooden Sign Post",
+  "block.supplementaries.atmospheric.hanging_sign_morado": "Cyan Wooden Hanging Sign",
+  "block.supplementaries.atmospheric.sign_post_morado": "Cyan Wooden Sign Post",
+  "block.supplementaries.atmospheric.hanging_sign_kousa": "Light Blue Wooden Hanging Sign",
+  "block.supplementaries.atmospheric.sign_post_kousa": "Light Blue Wooden Sign Post",
+  "block.supplementaries.caverns_and_chasms.hanging_sign_azalea": "Blue Wooden Hanging Sign",
+  "block.supplementaries.caverns_and_chasms.sign_post_azalea": "Blue Wooden Sign Post",
+  "block.supplementaries.atmospheric.hanging_sign_yucca": "Purple Wooden Hanging Sign",
+  "block.supplementaries.atmospheric.sign_post_yucca": "Purple Wooden Sign Post",
+  "block.supplementaries.hanging_sign_dark_oak": "Magenta Wooden Hanging Sign",
+  "block.supplementaries.sign_post_dark_oak": "Magenta Wooden Sign Post",
+  "block.supplementaries.environmental.hanging_sign_cherry": "Pink Wooden Hanging Sign",
+  "block.supplementaries.environmental.sign_post_cherry": "Pink Wooden Sign Post",
+  "block.supplementaries.hanging_sign_crimson": "Petrified Wooden Hanging Sign",
+  "block.supplementaries.sign_post_crimson": "Petrified Wooden Sign Post"
 }

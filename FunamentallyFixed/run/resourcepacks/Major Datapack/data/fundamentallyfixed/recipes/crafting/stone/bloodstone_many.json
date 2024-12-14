@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "quark:blackstone_bricks"
+    },
+    "@": {
+      "item": "minecraft:netherrack"
+    }
+  },
+  "pattern": [
+    "@#",
+    "#@"
+  ],
+  "result": {
+    "count": 4,
+    "item": "twigs:bloodstone"
+  }
+}

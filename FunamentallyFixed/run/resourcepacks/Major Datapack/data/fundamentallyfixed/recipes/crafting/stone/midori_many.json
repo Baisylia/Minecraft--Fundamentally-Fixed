@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:moss_block"
+    },
+    "@": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "pattern": [
+    "@#",
+    "#@"
+  ],
+  "result": {
+    "item": "architects_palette:chiseled_calcite",
+    "count": 4
+  }
+}

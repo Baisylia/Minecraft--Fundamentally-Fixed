@@ -1,0 +1,23 @@
+{
+  "type": "modestmining:forging_shaped",
+  "cooktime": 144,
+  "key": {
+    "#": {
+      "item": "minecraft:netherrack"
+    },
+    "@": {
+      "item": "minecraft:nether_wart_block"
+    }
+  },
+  "pattern": [
+    "#@",
+    "@#"
+  ],
+  "fuel": {
+    "tag": "fundamentallyfixed:forging_fuels_zero"
+  },
+  "result": {
+    "item": "atmospheric:chiseled_persimmon_travertine",
+    "count": 4
+  }
+}

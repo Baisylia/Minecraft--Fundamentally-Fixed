@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:redstone_torch"
+    },
+    "D": {
+      "item": "minecraft:redstone"
+    },
+    "B": {
+      "item": "fundamentallyfixed:aluminium_sheet"
+    }
+  },
+  "pattern": [
+    "#D",
+    "BB"
+  ],
+  "result": {
+    "item": "create:pulse_repeater",
+    "count": 2
+  }
+}

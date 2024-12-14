@@ -1,0 +1,23 @@
+{
+  "type": "modestmining:forging_shaped",
+  "cooktime": 144,
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "@": {
+      "item": "fundamentallyfixed:plank"
+    }
+  },
+  "pattern": [
+    "#",
+    "@"
+  ],
+  "fuel": {
+    "tag": "fundamentallyfixed:forging_fuels_one"
+  },
+  "result": {
+    "item": "xercamusic:sansula",
+    "count": 1
+  }
+}

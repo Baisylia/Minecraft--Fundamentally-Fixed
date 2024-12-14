@@ -1,0 +1,21 @@
+{
+  "type": "modestmining:forging_shaped",
+  "cooktime": 144,
+  "key": {
+    "#": {
+      "item": "fundamentallyfixed:bronze_ingot"
+    }
+  },
+  "pattern": [
+    " # ",
+    "# #",
+    "## "
+  ],
+  "fuel": {
+    "tag": "fundamentallyfixed:forging_fuels_one"
+  },
+  "result": {
+    "item": "xercamusic:french_horn",
+    "count": 1
+  }
+}

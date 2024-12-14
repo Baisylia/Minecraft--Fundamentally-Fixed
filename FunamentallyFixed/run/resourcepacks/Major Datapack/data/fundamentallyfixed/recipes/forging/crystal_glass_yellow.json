@@ -1,0 +1,24 @@
+{
+  "type": "modestmining:forging_shaped",
+  "cooktime": 144,
+  "key": {
+    "#": {
+      "item": "minecraft:yellow_stained_glass"
+    },
+    "@": {
+      "item": "fundamentallyfixed:quartz"
+    }
+  },
+  "pattern": [
+    " # ",
+    "#@#",
+    " # "
+  ],
+  "fuel": {
+    "tag": "fundamentallyfixed:forging_fuels_one"
+  },
+  "result": {
+    "item": "oreganized:yellow_crystal_glass",
+    "count": 4
+  }
+}

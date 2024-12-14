@@ -1,0 +1,51 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "fundamentallyfixed:block/altisite_pebble0"
+      },
+      {
+        "model": "fundamentallyfixed:block/altisite_pebble0",
+        "y": 90
+      },
+      {
+        "model": "fundamentallyfixed:block/altisite_pebble0",
+        "y": 180
+      },
+      {
+        "model": "fundamentallyfixed:block/altisite_pebble0",
+        "y": 270
+      },
+      {
+        "model": "fundamentallyfixed:block/altisite_pebble1"
+      },
+      {
+        "model": "fundamentallyfixed:block/altisite_pebble1",
+        "y": 90
+      },
+      {
+        "model": "fundamentallyfixed:block/altisite_pebble1",
+        "y": 180
+      },
+      {
+        "model": "fundamentallyfixed:block/altisite_pebble1",
+        "y": 270
+      },
+      {
+        "model": "fundamentallyfixed:block/altisite_pebble2"
+      },
+      {
+        "model": "fundamentallyfixed:block/altisite_pebble2",
+        "y": 90
+      },
+      {
+        "model": "fundamentallyfixed:block/altisite_pebble2",
+        "y": 180
+      },
+      {
+        "model": "fundamentallyfixed:block/altisite_pebble2",
+        "y": 270
+      }
+    ]
+  }
+}

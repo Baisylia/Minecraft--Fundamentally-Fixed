@@ -1,3 +1,16 @@
 {
-  "item.oreganized.lead_nugget": "Raw Lead Nugget"
+  "item.oreganized.lead_nugget": "Raw Lead Nugget",
+  
+  
+  
+    "block.oreganized.glance": "Gorbstone",
+  "block.oreganized.polished_glance": "Polished Gorbstone",
+  "block.oreganized.polished_glance_stairs": "Polished Gorbstone Stairs",
+  "block.oreganized.polished_glance_slab": "Polished Gorbstone Slab",
+  "block.oreganized.glance_wall": "Polished Gorbstone Wall",
+  "block.oreganized.glance_bricks": "Gorbstone Bricks",
+  "block.oreganized.glance_brick_stairs": "Gorbstone Brick Stairs",
+  "block.oreganized.glance_brick_slab": "Gorbstone Brick Slab",
+  "block.oreganized.glance_brick_wall": "Gorbstone Brick Wall",
+  "block.oreganized.chiseled_glance": "Chiseled Gorbstone"
 }

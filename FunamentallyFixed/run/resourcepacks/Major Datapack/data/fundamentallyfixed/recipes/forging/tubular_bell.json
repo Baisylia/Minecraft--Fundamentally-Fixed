@@ -1,0 +1,27 @@
+{
+  "type": "modestmining:forging_shaped",
+  "cooktime": 144,
+  "key": {
+    "#": {
+      "item": "minecraft:gold_ingot"
+    },
+    "@": {
+      "item": "minecraft:gold_nugget"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "  S",
+    " # ",
+    "@  "
+  ],
+  "fuel": {
+    "tag": "fundamentallyfixed:forging_fuels_one"
+  },
+  "result": {
+    "item": "xercamusic:tubular_bell",
+    "count": 1
+  }
+}

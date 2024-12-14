@@ -1,0 +1,6 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "fundamentallyfixed:block/eumus_rock"
+  }
+}

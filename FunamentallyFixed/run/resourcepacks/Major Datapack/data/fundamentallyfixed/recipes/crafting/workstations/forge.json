@@ -6,12 +6,15 @@
     },
     "A": {
       "item": "minecraft:furnace"
+    },
+    "D": {
+      "item": "minecraft:deepslate"
     }
   },
   "pattern": [
-    "###",
-    "#A#",
-    "#A#"
+    "DDD",
+    "DAD",
+    "###"
   ],
   "result": {
     "item": "modestmining:forge"

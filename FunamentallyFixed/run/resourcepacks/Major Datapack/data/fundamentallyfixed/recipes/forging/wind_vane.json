@@ -1,0 +1,23 @@
+{
+  "type": "modestmining:forging_shaped",
+  "cooktime": 144,
+  "key": {
+    "#": {
+      "item": "fundamentallyfixed:aluminium_ingot"
+    },
+    "@": {
+      "item": "modestmining:copper_screw"
+    }
+  },
+  "pattern": [
+    "#",
+    "@"
+  ],
+  "fuel": {
+    "tag": "fundamentallyfixed:forging_fuels_one"
+  },
+  "result": {
+    "item": "supplementaries:wind_vane",
+    "count": 1
+  }
+}

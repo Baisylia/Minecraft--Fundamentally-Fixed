@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "quark:gravisand"
+    }
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "count": 2,
+    "item": "fundamentallyfixed:swept_gravisand"
+  }
+}

@@ -56,9 +56,94 @@ ServerEvents.tags('block', event => {
     	.remove('minecraft:iron_block')
 })
 
-// Metals
+
 
 ServerEvents.recipes (event => {
+    // Recipe Removal
+    event.remove({mod: 'abnormalmining'});
+    event.remove({mod: 'abnormals_delight'});
+    event.remove({mod: 'aether'});
+    event.remove({mod: 'alexsabnormalities'});
+    event.remove({mod: 'alexsdelight'});
+    event.remove({mod: 'alexsmobs'});
+    event.remove({mod: 'alloyed'});
+    event.remove({mod: 'allurement'});
+    event.remove({mod: 'another_furniture'});
+    event.remove({mod: 'appleskin'});
+    event.remove({mod: 'architects_palette'});
+    event.remove({mod: 'atmospheric'});
+    event.remove({mod: 'autoreglib'});
+    event.remove({mod: 'autumnity'});
+    event.remove({mod: 'berry_good'});
+    event.remove({mod: 'bettercombat'});
+    event.remove({mod: 'blueprint'});
+    event.remove({mod: 'boatload'});
+    event.remove({mod: 'brewinandchewin'});
+    event.remove({mod: 'buzzier_bees'});
+    event.remove({mod: 'camera'});
+    event.remove({mod: 'caverns_and_chasms'});
+    event.remove({mod: 'clayworks'});
+    event.remove({mod: 'cloth_config'});
+    event.remove({mod: 'cold_sweat'});
+    event.remove({mod: 'copperandtuffbackport'});
+    event.remove({mod: 'craftingautomat'});
+    event.remove({mod: 'create'});
+    event.remove({mod: 'culturaldelights'});
+    event.remove({mod: 'davespotioneering'});
+    event.remove({mod: 'delightfulmining'});
+    event.remove({mod: 'dungeons_mobs'});
+    event.remove({mod: 'ecologics'});
+    event.remove({mod: 'endergetic'});
+    event.remove({mod: 'environmental'});
+    event.remove({mod: 'etched'});
+    event.remove({mod: 'everycomp'});
+    event.remove({mod: 'farmersdelight'});
+    event.remove({mod: 'farmersrespite'});
+    event.remove({mod: 'flywheel'});
+    event.remove({mod: 'forge'});
+    event.remove({mod: 'geckolib3'});
+    event.remove({mod: 'heartstone'});
+    event.remove({mod: 'hnh'});
+    event.remove({mod: 'incubation'});
+    event.remove({mod: 'infernalexp'});
+    event.remove({mod: 'inventorio'});
+    event.remove({mod: 'jei'});
+    event.remove({mod: 'minecraft'});
+    event.remove({mod: 'miningmaster'});
+    event.remove({mod: 'modestmining'});
+    event.remove({mod: 'moonlight'});
+    event.remove({mod: 'morecreativetabs'});
+    event.remove({mod: 'moreminecarts'});
+    event.remove({mod: 'naturalist'});
+    event.remove({mod: 'neapolitan'});
+    event.remove({mod: 'nethersdelight'});
+    event.remove({mod: 'oreganized'});
+    event.remove({mod: 'paletteblocks'});
+    event.remove({mod: 'personality'});
+    event.remove({mod: 'pet_cemetery'});
+    event.remove({mod: 'playeranimator'});
+    event.remove({mod: 'pyrotastic'});
+    event.remove({mod: 'quark'});
+    event.remove({mod: 'rottencreatures'});
+    event.remove({mod: 'savage_and_ravage'});
+    event.remove({mod: 'shieldexp'});
+    event.remove({mod: 'shutupexperimentalsettings'});
+    event.remove({mod: 'sleep_tight'});
+    event.remove({mod: 'sortilege'});
+    event.remove({mod: 'spelunkery'});
+    event.remove({mod: 'sullysmod'});
+    event.remove({mod: 'supplementaries'});
+    event.remove({mod: 'suppsquared'});
+    event.remove({mod: 'thebreeze'});
+    event.remove({mod: 'thirst'});
+    event.remove({mod: 'twigs'});
+    event.remove({mod: 'upgrade_aquatic'});
+    event.remove({mod: 'windswept'});
+    event.remove({mod: 'woodworks'});
+    event.remove({mod: 'xercamusic'});
+
+
+    // Metals
     const aluminium = [
         ["fundamentallyfixed", "aluminium_ingot"], ["fundamentallyfixed", "aluminium_nugget"], ["fundamentallyfixed", "aluminium_sheet"],
         ["fundamentallyfixed", "aluminium_block"], ["fundamentallyfixed", "aluminium_sheet_block"], ["fundamentallyfixed", "carved_aluminium"],

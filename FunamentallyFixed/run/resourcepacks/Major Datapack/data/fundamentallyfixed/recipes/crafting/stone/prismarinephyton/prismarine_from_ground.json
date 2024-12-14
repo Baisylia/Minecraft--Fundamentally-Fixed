@@ -2,16 +2,16 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "modestmining:rocks"
+      "item": "fundamentallyfixed:phyton_pebble"
     },
     {
-      "item": "modestmining:rocks"
+      "item": "fundamentallyfixed:phyton_pebble"
     },
     {
-      "item": "fundamentallyfixed:ground_prismarine"
+      "item": "fundamentallyfixed:phyton_pebble"
     },
     {
-      "item": "fundamentallyfixed:ground_prismarine"
+      "item": "fundamentallyfixed:phyton_pebble"
     }
   ],
   "result": {

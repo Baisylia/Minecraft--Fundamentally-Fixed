@@ -2,16 +2,15 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "#": {
-      "tag": "fundamentallyfixed:plank_blocks"
+      "tag": "fundamentallyfixed:stripped_logs"
     },
-    "S": {
-      "item": "minecraft:iron_nugget"
+    "@": {
+      "tag": "minecraft:wool"
     }
   },
   "pattern": [
-    "SS",
-    "##",
-    "##"
+    "@",
+    "#"
   ],
   "result": {
     "item": "cold_sweat:sewing_table"

@@ -6,13 +6,9 @@
     },
     "S": {
       "item": "minecraft:popped_chorus_fruit"
-    },
-    "G": {
-      "item": "fundamentallyfixed:end_stone_rocks"
     }
   },
   "pattern": [
-    "G",
     "#",
     "S"
   ],

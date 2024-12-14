@@ -82,5 +82,58 @@
   "block.create.small_asurine_wall": "Smooth Sandstone Wall",
   "block.create.cut_scoria_wall": "Smooth Soul Sandstone Wall",
   "block.create.cut_scoria_bricks": "Cracked Soul Sandstone Bricks",
-  "block.create.small_crimsite_brick_wall": "Polished Soul Sandstone Wall"
+  "block.create.small_crimsite_brick_wall": "Polished Soulstone Wall",
+ 
+
+  
+  "block.create.small_diorite_brick_wall": "Polished Mud Wall",
+"block.create.polished_cut_asurine_stairs": "Polished Sandstone Stairs",
+"block.create.polished_cut_asurine_wall": "Polished Sandstone Wall",
+"block.create.cut_asurine_stairs": "Polished Burnt Sandstone Stairs",
+"block.create.cut_asurine_wall": "Polished Burnt Sandstone Wall",
+"block.create.small_granite_brick_wall": "Midori Brick Wall",
+"block.create.polished_cut_andesite": "Polished Midori",
+"block.create.polished_cut_andesite_stairs": "Polished Midori Stairs",
+"block.create.polished_cut_andesite_slab": "Polished Midori Slab",
+"block.create.cut_andesite_wall": "Polished Midori Wall",
+"block.create.polished_cut_granite_wall": "Warped Nethercotta Shingle Wall",
+"block.create.polished_cut_diorite": "Polished Purpur",
+"block.create.polished_cut_diorite_stairs": "Polished Purpur Stairs",
+"block.create.polished_cut_diorite_slab": "Polished Purpur Slab",
+"block.create.polished_cut_diorite_wall": "Polished Purpur Wall",
+"block.create.cut_ochrum_bricks": "Cobbled Endstone",
+"block.create.cut_ochrum_brick_stairs": "Cobbled Endstone Stairs",
+"block.create.cut_ochrum_brick_slab": "Cobbled Endstone Slab",
+"block.create.cut_ochrum_brick_wall": "Cobbled Endstone Wall",
+"block.create.cut_ochrum": "Cobbled Endstone Bricks",
+"block.create.cut_ochrum_stairs": "Cobbled Endstone Brick Stairs",
+"block.create.cut_ochrum_slab": "Cobbled Endstone Brick Slab",
+"block.create.cut_ochrum_wall": "Cobbled Endstone Brick Wall",
+"block.create.cut_diorite_brick_stairs": "Endstone Stairs",
+"block.create.cut_diorite_brick_slab": "Endstone Slab",
+"block.create.cut_diorite_brick_wall": "Endstone Wall",
+"block.create.small_ochrum_bricks": "Polished Endstone",
+"block.create.small_ochrum_brick_stairs": "Polished Endstone Stairs",
+"block.create.small_ochrum_brick_slab": "Polished Endstone Slab",
+"block.create.small_ochrum_brick_wall": "Polished Endstone Wall",
+
+
+
+"block.create.cogwheel": "Cog",
+"block.create.large_cogwheel": "Gear",
+
+
+
+"block.create.oak_window": "Wooden Window",
+"block.create.oak_window_pane": "Wooden Window Pane",
+"block.create.birch_window": "Light Gray Wooden Window",
+"block.create.birch_window_pane": "Light Gray Wooden Window Pane",
+"block.create.spruce_window": "Brown Wooden Window",
+"block.create.spruce_window_pane": "Brown Wooden Window Pane",
+  "block.create.dark_oak_window": "Magenta Wooden Window",
+  "block.create.dark_oak_window_pane": "Magenta Wooden Window Pane",
+  "block.create.mangrove_window": "Red Wooden Window",
+  "block.create.mangrove_window_pane": "Red Wooden Window Pane",
+  "block.create.crimson_window": "Petrified Wooden Window",
+  "block.create.crimson_window_pane": "Petrified Wooden Window Pane"
 }

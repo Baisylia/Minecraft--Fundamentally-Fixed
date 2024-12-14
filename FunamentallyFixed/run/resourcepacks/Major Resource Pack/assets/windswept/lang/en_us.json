@@ -3,5 +3,15 @@
   
   
   "block.windswept.polished_deepslate_button": "Deepslate Button",
-  "block.windswept.polished_deepslate_pressure_plate": "Deepslate Pressure Plate"
+  "block.windswept.polished_deepslate_pressure_plate": "Deepslate Pressure Plate",
+  
+  
+  
+
+"block.windswept.chiseled_packed_ice_bricks": "Chiseled Packed Ice",
+"block.windswept.blue_ice_bricks": "Polar Ice Bricks",
+"block.windswept.blue_ice_brick_stairs": "Polar Ice Brick Stairs",
+"block.windswept.blue_ice_brick_slab": "Polar Ice Brick Slab",
+"block.windswept.blue_ice_brick_wall": "Polar Ice Brick Wall",
+"block.windswept.chiseled_blue_ice_bricks": "Chiseled Polar Ice"
 }

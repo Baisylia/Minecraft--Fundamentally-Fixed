@@ -12,5 +12,15 @@
   "item.farmersdelight.baked_cod_stew": "Saltwater Fish Stew",
   
   "block.farmersdelight.mangrove_cabinet": "Mahogany Cabinet",
-  "block.farmersdelight.roast_chicken_block": "Roast Fowl"
+  "block.farmersdelight.roast_chicken_block": "Roast Fowl",
+  
+  
+  
+  "block.farmersdelight.oak_cabinet": "Wooden Cabinet",
+"block.farmersdelight.birch_cabinet": "Light Gray Wooden Cabinet",
+"block.farmersdelight.spruce_cabinet": "Brown Wooden Cabinet",
+"block.farmersdelight.spruce_cabinet": "Brown Wooden Cabinet",
+"block.farmersdelight.mangrove_cabinet": "Red Wooden Cabinet",
+  "block.farmersdelight.dark_oak_cabinet": "Magenta Wooden Cabinet",
+  "block.farmersdelight.crimson_cabinet": "Petrified Wooden Cabinet"
 }

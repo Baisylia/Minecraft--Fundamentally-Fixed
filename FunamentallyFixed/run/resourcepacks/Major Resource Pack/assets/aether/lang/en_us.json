@@ -8,5 +8,12 @@
   "block.aether.holystone_bricks": "Altisite Bricks",
   "block.aether.holystone_brick_stairs": "Altisite Brick Stairs",
   "block.aether.holystone_brick_slab": "Altisite Brick Slab",
-  "block.aether.holystone_brick_wall": "Altisite Brick Wall"
+  "block.aether.holystone_brick_wall": "Altisite Brick Wall",
+  
+  
+  
+  "block.aether.aether_grass_block": "Grassy Florock",
+  "block.aether.aether_dirt_path": "Florock Path",
+  "block.aether.aether_farmland": "Florock Farmland",
+  "block.aether.aether_dirt": "Florock"
 }

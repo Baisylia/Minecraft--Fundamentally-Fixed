@@ -1,0 +1,23 @@
+{
+  "type": "modestmining:forging_shaped",
+  "cooktime": 144,
+  "key": {
+    "#": {
+      "item": "minecraft:netherrack"
+    },
+    "@": {
+      "item": "spelunkery:conk_fungus_block"
+    }
+  },
+  "pattern": [
+    "#@",
+    "@#"
+  ],
+  "fuel": {
+    "tag": "fundamentallyfixed:forging_fuels_zero"
+  },
+  "result": {
+    "item": "architects_palette:chiseled_dripstone",
+    "count": 4
+  }
+}

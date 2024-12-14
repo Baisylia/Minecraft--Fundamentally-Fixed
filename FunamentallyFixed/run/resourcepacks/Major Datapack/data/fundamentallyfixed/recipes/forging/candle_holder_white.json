@@ -1,0 +1,23 @@
+{
+  "type": "modestmining:forging_shaped",
+  "cooktime": 144,
+  "key": {
+    "#": {
+      "item": "minecraft:white_candle"
+    },
+    "@": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "pattern": [
+    "@#@",
+    " @ "
+  ],
+  "fuel": {
+    "tag": "fundamentallyfixed:forging_fuels_one"
+  },
+  "result": {
+    "item": "supplementaries:candle_holder_white",
+    "count": 1
+  }
+}

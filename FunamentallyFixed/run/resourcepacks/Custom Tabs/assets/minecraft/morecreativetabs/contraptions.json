@@ -13,12 +13,6 @@
       "name": "minecraft:redstone_torch"
     },
     {
-      "name": "minecraft:repeater"
-    },
-    {
-      "name": "minecraft:comparator"
-    },
-    {
       "name": "minecraft:lever"
     },
     {
@@ -44,6 +38,31 @@
     {
       "name": "create:large_cogwheel"
     },
+    {
+      "name": "minecraft:repeater"
+    },
+    {
+      "name": "create:pulse_repeater"
+    },
+    {
+      "name": "create:pulse_extender"
+    },
+    {
+      "name": "create:powered_latch"
+    },
+    {
+      "name": "create:powered_toggle_latch"
+    },
+    {
+      "name": "minecraft:comparator"
+    },
+    {
+      "name": "quark:redstone_randomizer"
+    },
+
+
+
+
     {
       "name": "create:mechanical_press"
     },
@@ -92,6 +111,9 @@
     },
     {
       "name": "alexsmobs:gustmaker"
+    },
+    {
+      "name": "craftingautomat:autocrafter"
     },
     {
       "name": "supplementaries:crystal_display"

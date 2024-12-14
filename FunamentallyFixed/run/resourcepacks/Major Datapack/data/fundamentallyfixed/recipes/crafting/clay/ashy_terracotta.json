@@ -1,0 +1,22 @@
+{
+  "type": "modestmining:forging_shaped",
+  "cooktime": 144,
+  "key": {
+    "#": {
+      "item": "minecraft:clay_ball"
+    },
+    "@": {
+      "item": "supplementaries:ash"
+    }
+  },
+  "pattern": [
+    "#@",
+    "@#"
+  ],
+  "fuel": {
+    "tag": "fundamentallyfixed:forging_fuels_zero"
+  },
+  "result": {
+    "item": "atmospheric:chiseled_red_arid_sandstone"
+  }
+}

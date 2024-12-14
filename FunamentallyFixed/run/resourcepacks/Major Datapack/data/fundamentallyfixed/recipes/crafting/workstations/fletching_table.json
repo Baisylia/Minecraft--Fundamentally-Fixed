@@ -2,16 +2,15 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "#": {
-      "tag": "fundamentallyfixed:plank_blocks"
+      "tag": "fundamentallyfixed:stripped_logs"
     },
-    "S": {
+    "@": {
       "item": "minecraft:flint"
     }
   },
   "pattern": [
-    "SS",
-    "##",
-    "##"
+    "@",
+    "#"
   ],
   "result": {
     "item": "minecraft:fletching_table"

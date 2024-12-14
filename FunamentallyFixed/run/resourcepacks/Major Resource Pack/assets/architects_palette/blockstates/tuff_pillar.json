@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "architects_palette:block/tuff_pillar_two",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "architects_palette:block/tuff_pillar"
+    },
+    "axis=z": {
+      "model": "architects_palette:block/tuff_pillar_three",
+      "x": 90
+    }
+  }
+}

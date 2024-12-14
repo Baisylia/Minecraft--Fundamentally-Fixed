@@ -1,21 +1,14 @@
 package com.ncpbails.fundamentallyfixed;
 
-import com.elenai.feathers.Feathers;
 import com.elenai.feathers.api.FeathersHelper;
-import com.elenai.feathers.attributes.FeathersAttributes;
-import com.google.common.collect.ImmutableBiMap;
 import com.mojang.logging.LogUtils;
 import com.ncpbails.fundamentallyfixed.block.ModBlocks;
 import com.ncpbails.fundamentallyfixed.core.ModListings;
-import com.ncpbails.fundamentallyfixed.entity.ModEntityTypes;
 import com.ncpbails.fundamentallyfixed.items.ModItems;
+import com.ncpbails.fundamentallyfixed.screen.ModMenuTypes;
 import com.ncpbails.fundamentallyfixed.world.feature.ModConfiguredFeatures;
 import com.ncpbails.fundamentallyfixed.world.feature.ModPlacedFeatures;
-import net.minecraft.client.renderer.EffectInstance;
 import net.minecraft.server.level.ServerPlayer;
-import net.minecraft.world.effect.MobEffectInstance;
-import net.minecraft.world.effect.MobEffects;
-import net.minecraft.world.level.block.Block;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.TickEvent;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -45,6 +38,7 @@ public class FundamentallyFixed
         ModBlocks.register(modEventBus);
         ModConfiguredFeatures.register(modEventBus);
         ModPlacedFeatures.register(modEventBus);
+        ModMenuTypes.register(modEventBus);
         //ModEntityTypes.register(modEventBus);
 
         MinecraftForge.EVENT_BUS.register(this);

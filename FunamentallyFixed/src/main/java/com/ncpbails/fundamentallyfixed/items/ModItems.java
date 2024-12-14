@@ -10,11 +10,14 @@ import com.ncpbails.modestmining.item.custom.weapons.GlaiveItem;
 import com.ncpbails.modestmining.item.custom.weapons.HammerItem;
 import com.ncpbails.modestmining.item.custom.weapons.KatanaItem;
 import com.ncpbails.modestmining.item.custom.weapons.MaceItem;
+import com.ninni.twigs.item.PebbleItem;
+import com.ninni.twigs.item.TwigsCreativeModeTabs;
 import com.simibubi.create.content.kinetics.waterwheel.WaterWheelBlock;
 import net.minecraft.world.effect.MobEffectInstance;
 import net.minecraft.world.effect.MobEffects;
 import net.minecraft.world.entity.EquipmentSlot;
 import net.minecraft.world.item.*;
+import net.minecraft.world.level.block.Block;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
@@ -31,12 +34,17 @@ public class ModItems {
     public static final RegistryObject<Item> INFERNO_ROD = ITEMS.register("inferno_rod", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
     public static final RegistryObject<Item> INFERNO_POWDER = ITEMS.register("inferno_powder", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
+    public static final RegistryObject<Item> DEEPSLATE_PEBBLE = ITEMS.register("deepslate_pebble", () -> new PebbleItem(ModBlocks.DEEPSLATE_PEBBLE.get(), (new Item.Properties()).tab(CreativeModeTab.TAB_MISC)));
+    public static final RegistryObject<Item> BLACKSTONE_PEBBLE = ITEMS.register("blackstone_pebble", () -> new PebbleItem(ModBlocks.BLACKSTONE_PEBBLE.get(), (new Item.Properties()).tab(CreativeModeTab.TAB_MISC)));
+    public static final RegistryObject<Item> ALTISITE_PEBBLE = ITEMS.register("altisite_pebble", () -> new PebbleItem(ModBlocks.ALTISITE_PEBBLE.get(), (new Item.Properties()).tab(CreativeModeTab.TAB_MISC)));
+    public static final RegistryObject<Item> ENDSTONE_PEBBLE = ITEMS.register("endstone_pebble", () -> new PebbleItem(ModBlocks.ENDSTONE_PEBBLE.get(), (new Item.Properties()).tab(CreativeModeTab.TAB_MISC)));
+    public static final RegistryObject<Item> PHYTON_PEBBLE = ITEMS.register("phyton_pebble", () -> new PebbleItem(ModBlocks.PHYTON_PEBBLE.get(), (new Item.Properties()).tab(CreativeModeTab.TAB_MISC)));
     public static final RegistryObject<Item> LOOSE_GRASS = ITEMS.register("loose_grass", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
     public static final RegistryObject<Item> WORM = ITEMS.register("worm", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
     public static final RegistryObject<Item> CLOTH = ITEMS.register("cloth", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
-    public static final RegistryObject<Item> TERRACOTTA_FRACTURE = ITEMS.register("terracotta_fracture", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+    //public static final RegistryObject<Item> TERRACOTTA_FRACTURE = ITEMS.register("terracotta_fracture", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
     public static final RegistryObject<Item> RAW_COPPER_NUGGET = ITEMS.register("raw_copper_nugget", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
     public static final RegistryObject<Item> RAW_ALUMINIUM_NUGGET = ITEMS.register("raw_aluminium_nugget", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));

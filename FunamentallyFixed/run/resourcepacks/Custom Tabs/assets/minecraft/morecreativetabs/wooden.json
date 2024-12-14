@@ -2313,328 +2313,328 @@
 
 
     {
-      "name": "atmospheric:rosewood_log"
+      "name": "atmospheric:yucca_log"
     },
     {
-      "name": "atmospheric:rosewood_wood"
+      "name": "atmospheric:yucca_wood"
     },
     {
-      "name": "atmospheric:stripped_rosewood_log"
+      "name": "atmospheric:stripped_yucca_log"
     },
     {
-      "name": "atmospheric:stripped_rosewood_wood"
+      "name": "atmospheric:stripped_yucca_wood"
     },
     {
-      "name": "everycomp:q/atmospheric/hollow_rosewood_log"
+      "name": "everycomp:q/atmospheric/hollow_yucca_log"
     },
     {
-      "name": "atmospheric:rosewood_planks"
+      "name": "atmospheric:yucca_planks"
     },
     {
-      "name": "atmospheric:rosewood_stairs"
+      "name": "atmospheric:yucca_stairs"
     },
     {
-      "name": "atmospheric:rosewood_slab"
+      "name": "atmospheric:yucca_slab"
     },
     {
-      "name": "atmospheric:rosewood_fence"
+      "name": "atmospheric:yucca_fence"
     },
     {
-      "name": "atmospheric:rosewood_fence_gate"
+      "name": "atmospheric:yucca_fence_gate"
     },
     {
-      "name": "atmospheric:rosewood_post"
+      "name": "atmospheric:yucca_post"
     },
     {
-      "name": "atmospheric:stripped_rosewood_post"
+      "name": "atmospheric:stripped_yucca_post"
     },
     {
-      "name": "abnormalmining:carved_rosewood_planks"
+      "name": "abnormalmining:carved_yucca_planks"
     },
     {
-      "name": "abnormalmining:rosewood_carved_plank_stairs"
+      "name": "abnormalmining:yucca_carved_plank_stairs"
     },
     {
-      "name": "abnormalmining:rosewood_carved_plank_slab"
+      "name": "abnormalmining:yucca_carved_plank_slab"
     },
     {
-      "name": "abnormalmining:rosewood_carved_plank_wall"
+      "name": "abnormalmining:yucca_carved_plank_wall"
     },
     {
-      "name": "abnormalmining:rosewood_boards"
+      "name": "abnormalmining:yucca_boards"
     },
     {
-      "name": "abnormalmining:rosewood_board_stairs"
+      "name": "abnormalmining:yucca_board_stairs"
     },
     {
-      "name": "abnormalmining:rosewood_board_slab"
+      "name": "abnormalmining:yucca_board_slab"
     },
     {
-      "name": "abnormalmining:rosewood_board_wall"
+      "name": "abnormalmining:yucca_board_wall"
     },
     {
-      "name": "abnormalmining:rosewood_tiles"
+      "name": "abnormalmining:yucca_tiles"
     },
     {
-      "name": "abnormalmining:rosewood_tile_stairs"
+      "name": "abnormalmining:yucca_tile_stairs"
     },
     {
-      "name": "abnormalmining:rosewood_tile_slab"
+      "name": "abnormalmining:yucca_tile_slab"
     },
     {
-      "name": "abnormalmining:rosewood_tile_wall"
+      "name": "abnormalmining:yucca_tile_wall"
     },
     {
-      "name": "abnormalmining:chiseled_rosewood_planks"
+      "name": "abnormalmining:chiseled_yucca_planks"
     },
     {
-      "name": "abnormalmining:rosewood_pillar"
+      "name": "abnormalmining:yucca_pillar"
     },
     {
-      "name": "atmospheric:rosewood_boards"
+      "name": "atmospheric:yucca_boards"
     },
     {
-      "name": "everycomp:c/atmospheric/rosewood_window"
+      "name": "everycomp:c/atmospheric/yucca_window"
     },
     {
-      "name": "everycomp:c/atmospheric/rosewood_window_pane"
-    },
-
-
-    {
-      "name": "atmospheric:rosewood_ladder"
-    },
-    {
-      "name": "atmospheric:rosewood_door"
-    },
-    {
-      "name": "atmospheric:rosewood_trapdoor"
-    },
-    {
-      "name": "atmospheric:rosewood_sign"
-    },
-    {
-      "name": "supplementaries:atmospheric/hanging_sign_rosewood"
-    },
-    {
-      "name": "supplementaries:atmospheric/sign_post_rosewood"
-    },
-    {
-      "name": "suppsquared:atmospheric/item_shelf_rosewood"
-    },
-    {
-      "name": "atmospheric:rosewood_bookshelf"
-    },
-    {
-      "name": "atmospheric:rosewood_chest"
-    },
-    {
-      "name": "atmospheric:rosewood_trapped_chest"
-    },
-    {
-      "name": "atmospheric:rosewood_boat"
-    },
-    {
-      "name": "atmospheric:rosewood_chest_boat"
-    },
-    {
-      "name": "atmospheric:rosewood_furnace_boat"
-    },
-    {
-      "name": "atmospheric:large_rosewood_boat"
-    },
-    {
-      "name": "atmospheric:rosewood_beehive"
-    },
-    {
-      "name": "abnormals_delight:rosewood_cabinet"
-    },
-    {
-      "name": "everycomp:af/atmospheric/rosewood_drawer"
-    },
-    {
-      "name": "everycomp:af/atmospheric/rosewood_shutter"
-    },
-    {
-      "name": "everycomp:af/atmospheric/rosewood_planter_box"
-    },
-    {
-      "name": "everycomp:af/atmospheric/rosewood_shelf"
-    },
-    {
-      "name": "everycomp:af/atmospheric/rosewood_table"
-    },
-    {
-      "name": "everycomp:af/atmospheric/rosewood_chair"
-    },
-    {
-      "name": "atmospheric:rosewood_button"
-    },
-    {
-      "name": "atmospheric:rosewood_pressure_plate"
+      "name": "everycomp:c/atmospheric/yucca_window_pane"
     },
 
 
     {
-      "name": "minecraft:crimson_stem"
+      "name": "atmospheric:yucca_ladder"
     },
     {
-      "name": "minecraft:crimson_hyphae"
+      "name": "atmospheric:yucca_door"
     },
     {
-      "name": "minecraft:stripped_crimson_stem"
+      "name": "atmospheric:yucca_trapdoor"
     },
     {
-      "name": "minecraft:stripped_crimson_hyphae"
+      "name": "atmospheric:yucca_sign"
     },
     {
-      "name": "quark:hollow_crimson_stem"
+      "name": "supplementaries:atmospheric/hanging_sign_yucca"
     },
     {
-      "name": "minecraft:crimson_planks"
+      "name": "supplementaries:atmospheric/sign_post_yucca"
     },
     {
-      "name": "minecraft:crimson_stairs"
+      "name": "suppsquared:atmospheric/item_shelf_yucca"
     },
     {
-      "name": "minecraft:crimson_slab"
+      "name": "atmospheric:yucca_bookshelf"
     },
     {
-      "name": "minecraft:crimson_fence"
+      "name": "atmospheric:yucca_chest"
     },
     {
-      "name": "minecraft:crimson_fence_gate"
+      "name": "atmospheric:yucca_trapped_chest"
     },
     {
-      "name": "quark:crimson_post"
+      "name": "atmospheric:yucca_boat"
     },
     {
-      "name": "quark:stripped_crimson_post"
+      "name": "atmospheric:yucca_chest_boat"
     },
     {
-      "name": "modestmining:carved_crimson_planks"
+      "name": "atmospheric:yucca_furnace_boat"
     },
     {
-      "name": "modestmining:crimson_carved_plank_stairs"
+      "name": "atmospheric:large_yucca_boat"
     },
     {
-      "name": "modestmining:crimson_carved_plank_slab"
+      "name": "atmospheric:yucca_beehive"
     },
     {
-      "name": "modestmining:crimson_carved_plank_wall"
+      "name": "abnormals_delight:yucca_cabinet"
     },
     {
-      "name": "modestmining:crimson_boards"
+      "name": "everycomp:af/atmospheric/yucca_drawer"
     },
     {
-      "name": "modestmining:crimson_board_stairs"
+      "name": "everycomp:af/atmospheric/yucca_shutter"
     },
     {
-      "name": "modestmining:crimson_board_slab"
+      "name": "everycomp:af/atmospheric/yucca_planter_box"
     },
     {
-      "name": "modestmining:crimson_board_wall"
+      "name": "everycomp:af/atmospheric/yucca_shelf"
     },
     {
-      "name": "modestmining:crimson_tiles"
+      "name": "everycomp:af/atmospheric/yucca_table"
     },
     {
-      "name": "modestmining:crimson_tile_stairs"
+      "name": "everycomp:af/atmospheric/yucca_chair"
     },
     {
-      "name": "modestmining:crimson_tile_slab"
+      "name": "atmospheric:yucca_button"
     },
     {
-      "name": "modestmining:crimson_tile_wall"
-    },
-    {
-      "name": "modestmining:chiseled_crimson_planks"
-    },
-    {
-      "name": "modestmining:crimson_pillar"
-    },
-    {
-      "name": "woodworks:crimson_boards"
-    },
-    {
-      "name": "create:crimson_window"
-    },
-    {
-      "name": "create:crimson_window_pane"
+      "name": "atmospheric:yucca_pressure_plate"
     },
 
 
     {
-      "name": "woodworks:crimson_ladder"
+      "name": "minecraft:dark_oak_log"
     },
     {
-      "name": "minecraft:crimson_door"
+      "name": "minecraft:dark_oak_wood"
     },
     {
-      "name": "minecraft:crimson_trapdoor"
+      "name": "minecraft:stripped_dark_oak_log"
     },
     {
-      "name": "minecraft:crimson_sign"
+      "name": "minecraft:stripped_dark_oak_wood"
     },
     {
-      "name": "supplementaries:hanging_sign_crimson"
+      "name": "quark:hollow_dark_oak_log"
     },
     {
-      "name": "supplementaries:sign_post_crimson"
+      "name": "minecraft:dark_oak_planks"
     },
     {
-      "name": "suppsquared:item_shelf_crimson"
+      "name": "minecraft:dark_oak_stairs"
     },
     {
-      "name": "woodworks:crimson_bookshelf"
+      "name": "minecraft:dark_oak_slab"
     },
     {
-      "name": "woodworks:crimson_chest"
+      "name": "minecraft:dark_oak_fence"
     },
     {
-      "name": "woodworks:crimson_trapped_chest"
+      "name": "minecraft:dark_oak_fence_gate"
     },
     {
-      "name": "boatload:crimson_boat"
+      "name": "quark:dark_oak_post"
     },
     {
-      "name": "boatload:crimson_chest_boat"
+      "name": "quark:stripped_dark_oak_post"
     },
     {
-      "name": "boatload:crimson_furnace_boat"
+      "name": "modestmining:carved_dark_oak_planks"
     },
     {
-      "name": "boatload:large_crimson_boat"
+      "name": "modestmining:dark_oak_carved_plank_stairs"
     },
     {
-      "name": "woodworks:crimson_beehive"
+      "name": "modestmining:dark_oak_carved_plank_slab"
     },
     {
-      "name": "farmersdelight:crimson_cabinet"
+      "name": "modestmining:dark_oak_carved_plank_wall"
     },
     {
-      "name": "another_furniture:crimson_drawer"
+      "name": "modestmining:dark_oak_boards"
     },
     {
-      "name": "another_furniture:crimson_shutter"
+      "name": "modestmining:dark_oak_board_stairs"
     },
     {
-      "name": "another_furniture:crimson_planter_box"
+      "name": "modestmining:dark_oak_board_slab"
     },
     {
-      "name": "another_furniture:crimson_shelf"
+      "name": "modestmining:dark_oak_board_wall"
     },
     {
-      "name": "another_furniture:crimson_table"
+      "name": "modestmining:dark_oak_tiles"
     },
     {
-      "name": "another_furniture:crimson_chair"
+      "name": "modestmining:dark_oak_tile_stairs"
     },
     {
-      "name": "minecraft:crimson_button"
+      "name": "modestmining:dark_oak_tile_slab"
     },
     {
-      "name": "minecraft:crimson_pressure_plate"
+      "name": "modestmining:dark_oak_tile_wall"
+    },
+    {
+      "name": "modestmining:chiseled_dark_oak_planks"
+    },
+    {
+      "name": "modestmining:dark_oak_pillar"
+    },
+    {
+      "name": "woodworks:dark_oak_boards"
+    },
+    {
+      "name": "create:dark_oak_window"
+    },
+    {
+      "name": "create:dark_oak_window_pane"
+    },
+
+
+    {
+      "name": "woodworks:dark_oak_ladder"
+    },
+    {
+      "name": "minecraft:dark_oak_door"
+    },
+    {
+      "name": "minecraft:dark_oak_trapdoor"
+    },
+    {
+      "name": "minecraft:dark_oak_sign"
+    },
+    {
+      "name": "supplementaries:hanging_sign_dark_oak"
+    },
+    {
+      "name": "supplementaries:sign_post_dark_oak"
+    },
+    {
+      "name": "suppsquared:item_shelf_dark_oak"
+    },
+    {
+      "name": "woodworks:dark_oak_bookshelf"
+    },
+    {
+      "name": "woodworks:dark_oak_chest"
+    },
+    {
+      "name": "woodworks:dark_oak_trapped_chest"
+    },
+    {
+      "name": "minecraft:dark_oak_boat"
+    },
+    {
+      "name": "minecraft:dark_oak_chest_boat"
+    },
+    {
+      "name": "boatload:dark_oak_furnace_boat"
+    },
+    {
+      "name": "boatload:large_dark_oak_boat"
+    },
+    {
+      "name": "woodworks:dark_oak_beehive"
+    },
+    {
+      "name": "farmersdelight:dark_oak_cabinet"
+    },
+    {
+      "name": "another_furniture:dark_oak_drawer"
+    },
+    {
+      "name": "another_furniture:dark_oak_shutter"
+    },
+    {
+      "name": "another_furniture:dark_oak_planter_box"
+    },
+    {
+      "name": "another_furniture:dark_oak_shelf"
+    },
+    {
+      "name": "another_furniture:dark_oak_table"
+    },
+    {
+      "name": "another_furniture:dark_oak_chair"
+    },
+    {
+      "name": "minecraft:dark_oak_button"
+    },
+    {
+      "name": "minecraft:dark_oak_pressure_plate"
     },
 
 
@@ -2801,167 +2801,170 @@
     },
 
 
+
     {
-      "name": "atmospheric:yucca_log"
+      "name": "minecraft:crimson_stem"
     },
     {
-      "name": "atmospheric:yucca_wood"
+      "name": "minecraft:crimson_hyphae"
     },
     {
-      "name": "atmospheric:stripped_yucca_log"
+      "name": "minecraft:stripped_crimson_stem"
     },
     {
-      "name": "atmospheric:stripped_yucca_wood"
+      "name": "minecraft:stripped_crimson_hyphae"
     },
     {
-      "name": "everycomp:q/atmospheric/hollow_yucca_log"
+      "name": "quark:hollow_crimson_stem"
     },
     {
-      "name": "atmospheric:yucca_planks"
+      "name": "minecraft:crimson_planks"
     },
     {
-      "name": "atmospheric:yucca_stairs"
+      "name": "minecraft:crimson_stairs"
     },
     {
-      "name": "atmospheric:yucca_slab"
+      "name": "minecraft:crimson_slab"
     },
     {
-      "name": "atmospheric:yucca_fence"
+      "name": "minecraft:crimson_fence"
     },
     {
-      "name": "atmospheric:yucca_fence_gate"
+      "name": "minecraft:crimson_fence_gate"
     },
     {
-      "name": "atmospheric:yucca_post"
+      "name": "quark:crimson_post"
     },
     {
-      "name": "atmospheric:stripped_yucca_post"
+      "name": "quark:stripped_crimson_post"
     },
     {
-      "name": "abnormalmining:carved_yucca_planks"
+      "name": "modestmining:carved_crimson_planks"
     },
     {
-      "name": "abnormalmining:yucca_carved_plank_stairs"
+      "name": "modestmining:crimson_carved_plank_stairs"
     },
     {
-      "name": "abnormalmining:yucca_carved_plank_slab"
+      "name": "modestmining:crimson_carved_plank_slab"
     },
     {
-      "name": "abnormalmining:yucca_carved_plank_wall"
+      "name": "modestmining:crimson_carved_plank_wall"
     },
     {
-      "name": "abnormalmining:yucca_boards"
+      "name": "modestmining:crimson_boards"
     },
     {
-      "name": "abnormalmining:yucca_board_stairs"
+      "name": "modestmining:crimson_board_stairs"
     },
     {
-      "name": "abnormalmining:yucca_board_slab"
+      "name": "modestmining:crimson_board_slab"
     },
     {
-      "name": "abnormalmining:yucca_board_wall"
+      "name": "modestmining:crimson_board_wall"
     },
     {
-      "name": "abnormalmining:yucca_tiles"
+      "name": "modestmining:crimson_tiles"
     },
     {
-      "name": "abnormalmining:yucca_tile_stairs"
+      "name": "modestmining:crimson_tile_stairs"
     },
     {
-      "name": "abnormalmining:yucca_tile_slab"
+      "name": "modestmining:crimson_tile_slab"
     },
     {
-      "name": "abnormalmining:yucca_tile_wall"
+      "name": "modestmining:crimson_tile_wall"
     },
     {
-      "name": "abnormalmining:chiseled_yucca_planks"
+      "name": "modestmining:chiseled_crimson_planks"
     },
     {
-      "name": "abnormalmining:yucca_pillar"
+      "name": "modestmining:crimson_pillar"
     },
     {
-      "name": "atmospheric:yucca_boards"
+      "name": "woodworks:crimson_boards"
     },
     {
-      "name": "everycomp:c/atmospheric/yucca_window"
+      "name": "create:crimson_window"
     },
     {
-      "name": "everycomp:c/atmospheric/yucca_window_pane"
+      "name": "create:crimson_window_pane"
     },
 
 
     {
-      "name": "atmospheric:yucca_ladder"
+      "name": "woodworks:crimson_ladder"
     },
     {
-      "name": "atmospheric:yucca_door"
+      "name": "minecraft:crimson_door"
     },
     {
-      "name": "atmospheric:yucca_trapdoor"
+      "name": "minecraft:crimson_trapdoor"
     },
     {
-      "name": "atmospheric:yucca_sign"
+      "name": "minecraft:crimson_sign"
     },
     {
-      "name": "supplementaries:atmospheric/hanging_sign_yucca"
+      "name": "supplementaries:hanging_sign_crimson"
     },
     {
-      "name": "supplementaries:atmospheric/sign_post_yucca"
+      "name": "supplementaries:sign_post_crimson"
     },
     {
-      "name": "suppsquared:atmospheric/item_shelf_yucca"
+      "name": "suppsquared:item_shelf_crimson"
     },
     {
-      "name": "atmospheric:yucca_bookshelf"
+      "name": "woodworks:crimson_bookshelf"
     },
     {
-      "name": "atmospheric:yucca_chest"
+      "name": "woodworks:crimson_chest"
     },
     {
-      "name": "atmospheric:yucca_trapped_chest"
+      "name": "woodworks:crimson_trapped_chest"
     },
     {
-      "name": "atmospheric:yucca_boat"
+      "name": "boatload:crimson_boat"
     },
     {
-      "name": "atmospheric:yucca_chest_boat"
+      "name": "boatload:crimson_chest_boat"
     },
     {
-      "name": "atmospheric:yucca_furnace_boat"
+      "name": "boatload:crimson_furnace_boat"
     },
     {
-      "name": "atmospheric:large_yucca_boat"
+      "name": "boatload:large_crimson_boat"
     },
     {
-      "name": "atmospheric:yucca_beehive"
+      "name": "woodworks:crimson_beehive"
     },
     {
-      "name": "abnormals_delight:yucca_cabinet"
+      "name": "farmersdelight:crimson_cabinet"
     },
     {
-      "name": "everycomp:af/atmospheric/yucca_drawer"
+      "name": "another_furniture:crimson_drawer"
     },
     {
-      "name": "everycomp:af/atmospheric/yucca_shutter"
+      "name": "another_furniture:crimson_shutter"
     },
     {
-      "name": "everycomp:af/atmospheric/yucca_planter_box"
+      "name": "another_furniture:crimson_planter_box"
     },
     {
-      "name": "everycomp:af/atmospheric/yucca_shelf"
+      "name": "another_furniture:crimson_shelf"
     },
     {
-      "name": "everycomp:af/atmospheric/yucca_table"
+      "name": "another_furniture:crimson_table"
     },
     {
-      "name": "everycomp:af/atmospheric/yucca_chair"
+      "name": "another_furniture:crimson_chair"
     },
     {
-      "name": "atmospheric:yucca_button"
+      "name": "minecraft:crimson_button"
     },
     {
-      "name": "atmospheric:yucca_pressure_plate"
+      "name": "minecraft:crimson_pressure_plate"
     },
+
+
 
 
     //{
@@ -3574,166 +3577,167 @@
     },
 
 
+
     {
-      "name": "minecraft:dark_oak_log"
+      "name": "atmospheric:rosewood_log"
     },
     {
-      "name": "minecraft:dark_oak_wood"
+      "name": "atmospheric:rosewood_wood"
     },
     {
-      "name": "minecraft:stripped_dark_oak_log"
+      "name": "atmospheric:stripped_rosewood_log"
     },
     {
-      "name": "minecraft:stripped_dark_oak_wood"
+      "name": "atmospheric:stripped_rosewood_wood"
     },
     {
-      "name": "quark:hollow_dark_oak_log"
+      "name": "everycomp:q/atmospheric/hollow_rosewood_log"
     },
     {
-      "name": "minecraft:dark_oak_planks"
+      "name": "atmospheric:rosewood_planks"
     },
     {
-      "name": "minecraft:dark_oak_stairs"
+      "name": "atmospheric:rosewood_stairs"
     },
     {
-      "name": "minecraft:dark_oak_slab"
+      "name": "atmospheric:rosewood_slab"
     },
     {
-      "name": "minecraft:dark_oak_fence"
+      "name": "atmospheric:rosewood_fence"
     },
     {
-      "name": "minecraft:dark_oak_fence_gate"
+      "name": "atmospheric:rosewood_fence_gate"
     },
     {
-      "name": "quark:dark_oak_post"
+      "name": "atmospheric:rosewood_post"
     },
     {
-      "name": "quark:stripped_dark_oak_post"
+      "name": "atmospheric:stripped_rosewood_post"
     },
     {
-      "name": "modestmining:carved_dark_oak_planks"
+      "name": "abnormalmining:carved_rosewood_planks"
     },
     {
-      "name": "modestmining:dark_oak_carved_plank_stairs"
+      "name": "abnormalmining:rosewood_carved_plank_stairs"
     },
     {
-      "name": "modestmining:dark_oak_carved_plank_slab"
+      "name": "abnormalmining:rosewood_carved_plank_slab"
     },
     {
-      "name": "modestmining:dark_oak_carved_plank_wall"
+      "name": "abnormalmining:rosewood_carved_plank_wall"
     },
     {
-      "name": "modestmining:dark_oak_boards"
+      "name": "abnormalmining:rosewood_boards"
     },
     {
-      "name": "modestmining:dark_oak_board_stairs"
+      "name": "abnormalmining:rosewood_board_stairs"
     },
     {
-      "name": "modestmining:dark_oak_board_slab"
+      "name": "abnormalmining:rosewood_board_slab"
     },
     {
-      "name": "modestmining:dark_oak_board_wall"
+      "name": "abnormalmining:rosewood_board_wall"
     },
     {
-      "name": "modestmining:dark_oak_tiles"
+      "name": "abnormalmining:rosewood_tiles"
     },
     {
-      "name": "modestmining:dark_oak_tile_stairs"
+      "name": "abnormalmining:rosewood_tile_stairs"
     },
     {
-      "name": "modestmining:dark_oak_tile_slab"
+      "name": "abnormalmining:rosewood_tile_slab"
     },
     {
-      "name": "modestmining:dark_oak_tile_wall"
+      "name": "abnormalmining:rosewood_tile_wall"
     },
     {
-      "name": "modestmining:chiseled_dark_oak_planks"
+      "name": "abnormalmining:chiseled_rosewood_planks"
     },
     {
-      "name": "modestmining:dark_oak_pillar"
+      "name": "abnormalmining:rosewood_pillar"
     },
     {
-      "name": "woodworks:dark_oak_boards"
+      "name": "atmospheric:rosewood_boards"
     },
     {
-      "name": "create:dark_oak_window"
+      "name": "everycomp:c/atmospheric/rosewood_window"
     },
     {
-      "name": "create:dark_oak_window_pane"
+      "name": "everycomp:c/atmospheric/rosewood_window_pane"
     },
 
 
     {
-      "name": "woodworks:dark_oak_ladder"
+      "name": "atmospheric:rosewood_ladder"
     },
     {
-      "name": "minecraft:dark_oak_door"
+      "name": "atmospheric:rosewood_door"
     },
     {
-      "name": "minecraft:dark_oak_trapdoor"
+      "name": "atmospheric:rosewood_trapdoor"
     },
     {
-      "name": "minecraft:dark_oak_sign"
+      "name": "atmospheric:rosewood_sign"
     },
     {
-      "name": "supplementaries:hanging_sign_dark_oak"
+      "name": "supplementaries:atmospheric/hanging_sign_rosewood"
     },
     {
-      "name": "supplementaries:sign_post_dark_oak"
+      "name": "supplementaries:atmospheric/sign_post_rosewood"
     },
     {
-      "name": "suppsquared:item_shelf_dark_oak"
+      "name": "suppsquared:atmospheric/item_shelf_rosewood"
     },
     {
-      "name": "woodworks:dark_oak_bookshelf"
+      "name": "atmospheric:rosewood_bookshelf"
     },
     {
-      "name": "woodworks:dark_oak_chest"
+      "name": "atmospheric:rosewood_chest"
     },
     {
-      "name": "woodworks:dark_oak_trapped_chest"
+      "name": "atmospheric:rosewood_trapped_chest"
     },
     {
-      "name": "minecraft:dark_oak_boat"
+      "name": "atmospheric:rosewood_boat"
     },
     {
-      "name": "minecraft:dark_oak_chest_boat"
+      "name": "atmospheric:rosewood_chest_boat"
     },
     {
-      "name": "boatload:dark_oak_furnace_boat"
+      "name": "atmospheric:rosewood_furnace_boat"
     },
     {
-      "name": "boatload:large_dark_oak_boat"
+      "name": "atmospheric:large_rosewood_boat"
     },
     {
-      "name": "woodworks:dark_oak_beehive"
+      "name": "atmospheric:rosewood_beehive"
     },
     {
-      "name": "farmersdelight:dark_oak_cabinet"
+      "name": "abnormals_delight:rosewood_cabinet"
     },
     {
-      "name": "another_furniture:dark_oak_drawer"
+      "name": "everycomp:af/atmospheric/rosewood_drawer"
     },
     {
-      "name": "another_furniture:dark_oak_shutter"
+      "name": "everycomp:af/atmospheric/rosewood_shutter"
     },
     {
-      "name": "another_furniture:dark_oak_planter_box"
+      "name": "everycomp:af/atmospheric/rosewood_planter_box"
     },
     {
-      "name": "another_furniture:dark_oak_shelf"
+      "name": "everycomp:af/atmospheric/rosewood_shelf"
     },
     {
-      "name": "another_furniture:dark_oak_table"
+      "name": "everycomp:af/atmospheric/rosewood_table"
     },
     {
-      "name": "another_furniture:dark_oak_chair"
+      "name": "everycomp:af/atmospheric/rosewood_chair"
     },
     {
-      "name": "minecraft:dark_oak_button"
+      "name": "atmospheric:rosewood_button"
     },
     {
-      "name": "minecraft:dark_oak_pressure_plate"
+      "name": "atmospheric:rosewood_pressure_plate"
     }
   ]
 }

@@ -53,5 +53,8 @@
     "coordinates": false,
     "registry_name": "OFF",
     "mod_name": true
+  },
+  "camera": {
+    "image_frame": true
   }
 }

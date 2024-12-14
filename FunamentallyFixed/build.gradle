@@ -22,7 +22,7 @@ apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 apply plugin: "org.spongepowered.mixin"
 
-version = '0.2'
+version = '0.3'
 group = 'com.ncpbails.fundamentallyfixed' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'fundamentallyfixed'
 
@@ -147,6 +147,7 @@ dependencies {
     implementation fg.deobf("curse.maven:blueprint-382216:4749000")
     runtimeOnly fg.deobf("curse.maven:autoreglib-250363:4100299")
     implementation fg.deobf("curse.maven:moonlightlib-499980:4620027")
+    //implementation fg.deobf("curse.maven:selene-499980:5567102")
     runtimeOnly fg.deobf("curse.maven:cloth-348521:3972423")
     runtimeOnly fg.deobf("curse.maven:playeranimator-658587:4418149")
     implementation fg.deobf("curse.maven:geckolib-388172:4407241")
@@ -159,25 +160,30 @@ dependencies {
     implementation fg.deobf("curse.maven:architectury-api-419699:4555749")
     implementation fg.deobf("curse.maven:rhino-416294:4953345")
     implementation fg.deobf("curse.maven:dungeons-libraries-550941:4496767")
+    //implementation fg.deobf("curse.maven:dungeons-libraries-550941:5112044")
     implementation fg.deobf("curse.maven:cofh-core-69162:4801049")
     implementation fg.deobf("curse.maven:cupboard-326652:5063778")
+    implementation fg.deobf("curse.maven:pollen-544350:4685982")
+    //implementation fg.deobf("curse.maven:curios-309927:5843737")
+    //runtimeOnly fg.deobf("curse.maven:botarium-704113:5118248")
+    //runtimeOnly fg.deobf("curse.maven:resourceful-lib-570073:4477753")
 
     //------------------------------ Compatibility Mods ------------------------------
     runtimeOnly fg.deobf("curse.maven:everycompat-628539:4616032")
+    //implementation fg.deobf("curse.maven:every-compat-628539:5816355")
     runtimeOnly fg.deobf("curse.maven:jeitweaker-368718:4448263")
     implementation fg.deobf("curse.maven:delightful-mining-827759:4542976")
     implementation fg.deobf("curse.maven:alexs-delight-556448:4282385")
-    //runtimeOnly fg.deobf("curse.maven:abnormals_delight-442719:4415502")
-    //runtimeOnly fg.deobf("curse.maven:abnormals-delight-442719:5146426")
     runtimeOnly fg.deobf("curse.maven:abnormals-delight-442719:5220861")
     implementation fg.deobf("curse.maven:alexs-abnormalities-571039:4876265")
-    //implementation fg.deobf("curse.maven:abnormal-mining-966449:5057954")
     implementation fg.deobf("curse.maven:abnormal-mining-966449:5152930")
     implementation fg.deobf("curse.maven:ponder-622888:4651120")
 
     //------------------------------ Function Mods ------------------------------
-    implementation fg.deobf("curse.maven:jei-238222:4397270")
-    implementation fg.deobf("curse.maven:emi-580555:5032423")
+    //implementation fg.deobf("curse.maven:jei-238222:4397270")
+    implementation fg.deobf("curse.maven:jei-238222:5846858")
+    //implementation fg.deobf("curse.maven:emi-580555:5032423")
+    implementation fg.deobf("curse.maven:emi-580555:5872530")
     runtimeOnly fg.deobf("curse.maven:morecreativetabs-581838:4119849")
     runtimeOnly fg.deobf("curse.maven:crafttweaker-239197:4611971")
     implementation fg.deobf("curse.maven:kubejs-238086:5064770")
@@ -188,7 +194,9 @@ dependencies {
     runtimeOnly fg.deobf("curse.maven:easyshulkers-594006:4559054")
     runtimeOnly fg.deobf("curse.maven:deathfinder-327108:4029556")
     runtimeOnly fg.deobf("curse.maven:inventorio-497122:4557762")
-    runtimeOnly fg.deobf("curse.maven:cold-sweat-506194:4900456")
+    //runtimeOnly fg.deobf("curse.maven:cold-sweat-506194:4900456")
+    implementation fg.deobf("curse.maven:cold-sweat-506194:5775322")
+    //implementation fg.deobf("curse.maven:cold-sweat-506194:5946056")
     runtimeOnly fg.deobf("curse.maven:bettercombat-639842:4534619")
     implementation fg.deobf("curse.maven:you-shall-not-spawn-628744:4539466")
     implementation fg.deobf("curse.maven:block-swap-468893:4598240")
@@ -204,7 +212,6 @@ dependencies {
     implementation fg.deobf("curse.maven:just-enough-resources-jer-240630:4862430")
     implementation fg.deobf("curse.maven:in-control-257356:4861109")
     implementation fg.deobf("curse.maven:nostalgic-tweaks-592465:4622269")
-    //implementation fg.deobf("curse.maven:dolt-compat-857498:4995128")
     implementation fg.deobf("curse.maven:dolt-compat-857498:5147489")
     implementation fg.deobf("curse.maven:dolt-mod-how-993840:5217644")
     implementation fg.deobf("curse.maven:property-modifier-474822:4553718")
@@ -216,17 +223,24 @@ dependencies {
     //------------------------------ Major Content Mods ------------------------------
     implementation fg.deobf("curse.maven:modest-mining-533775:5109121")
     implementation fg.deobf("curse.maven:create-328085:4625534")
+    //implementation fg.deobf("curse.maven:create-328085:5797604")
     implementation fg.deobf("curse.maven:quark-243121:4587248")
     implementation fg.deobf("curse.maven:supplementaries-412082:4615838")
+    //implementation fg.deobf("curse.maven:supplementaries-412082:5152602")
     implementation fg.deobf("curse.maven:oreganized-769203:4377982")
     implementation fg.deobf("curse.maven:infernalexpansion-395078:4002091")
     implementation fg.deobf("curse.maven:spelunkery-790530:4500958")
     runtimeOnly fg.deobf("curse.maven:alexsmobs-426558:4159154")
     runtimeOnly fg.deobf("curse.maven:naturalist-627986:4553930")
     implementation fg.deobf("curse.maven:aether-255308:4816885")
-    implementation fg.deobf("curse.maven:sortilege-882488:4857206")
+    //implementation fg.deobf("curse.maven:aether-255308:5889508")
+    //implementation fg.deobf("curse.maven:sortilege-882488:4857206")
+    implementation fg.deobf("curse.maven:sortilege-882488:5537100")
     runtimeOnly fg.deobf("curse.maven:another-furniture-610492:4675539")
     implementation fg.deobf("curse.maven:music-maker-mod-341448:4422939")
+    //implementation fg.deobf("curse.maven:music-maker-mod-341448:5576657")
+    //implementation fg.deobf("curse.maven:ad-astra-635042:4643668")
+    //implementation fg.deobf("curse.maven:createaddition-439890:5099757")
 
     //------------------------------ Minor Content Mods ------------------------------
     runtimeOnly fg.deobf("curse.maven:shieldexpansion-583318:4461135")
@@ -236,6 +250,7 @@ dependencies {
     runtimeOnly fg.deobf("curse.maven:sullysmod-386534:4362857")
     runtimeOnly fg.deobf("curse.maven:moreminecarts-440845:4471589")
     runtimeOnly fg.deobf("curse.maven:sleeptight-817564:4607283")
+    //implementation fg.deobf("curse.maven:sleep-tight-817564:5351547")
     runtimeOnly fg.deobf("curse.maven:heartstone-573152:4569323")
     runtimeOnly fg.deobf("curse.maven:moyai-577252:4545979")
     runtimeOnly fg.deobf("curse.maven:bagelspalette-628678:4550452")
@@ -256,7 +271,8 @@ dependencies {
     implementation fg.deobf("curse.maven:hearth-and-home-849364:4488854")
     implementation fg.deobf("curse.maven:twigs-496913:4533061")
     implementation fg.deobf("curse.maven:architects-palette-433862:5038498")
-    //implementation fg.deobf("curse.maven:opulence-696014:4507427")
+    implementation fg.deobf("curse.maven:etched-491890:5060422")
+    implementation fg.deobf("curse.maven:camera-mod-289310:5634264")
 
     //------------------------------ Enchantment Mods ------------------------------
     runtimeOnly fg.deobf("curse.maven:enchantmenttransfer-567984:4036852")
@@ -310,7 +326,7 @@ jar {
         attributes([
                 "Specification-Title"     : "fundamentallyfixed",
                 "Specification-Vendor"    : "ncpbails",
-                "Specification-Version"   : "0.2", // We are version 1 of ourselves
+                "Specification-Version"   : "0.3", // We are version 1 of ourselves
                 "Implementation-Title"    : project.name,
                 "Implementation-Version"  : project.jar.archiveVersion,
                 "Implementation-Vendor"   : "ncpbails",

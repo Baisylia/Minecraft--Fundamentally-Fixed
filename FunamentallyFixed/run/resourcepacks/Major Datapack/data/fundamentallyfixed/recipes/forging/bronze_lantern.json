@@ -1,0 +1,23 @@
+{
+  "type": "modestmining:forging_shaped",
+  "cooktime": 144,
+  "key": {
+    "#": {
+      "item": "minecraft:torch"
+    },
+    "@": {
+      "item": "fundamentallyfixed:bronze_nugget"
+    }
+  },
+  "pattern": [
+    "@#@",
+    " @ "
+  ],
+  "fuel": {
+    "tag": "fundamentallyfixed:forging_fuels_one"
+  },
+  "result": {
+    "item": "supplementaries:brass_lantern",
+    "count": 1
+  }
+}

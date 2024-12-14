@@ -25,7 +25,7 @@
     //  "name": "modestmining:fiber"
     //},
     {
-      "name": "quark:moss_paste"
+      "name": "ecologics:surface_moss"
     },
     {
       "name": "supplementaries:rope"
@@ -34,13 +34,22 @@
       "name": "farmersdelight:canvas"
     },
     {
-      "name": "modestmining:rocks"
+      "name": "twigs:pebble"
     },
     {
-      "name": "fundamentallyfixed:deepslate_rocks"
+      "name": "fundamentallyfixed:deepslate_pebble"
     },
     {
-      "name": "fundamentallyfixed:end_stone_rocks"
+      "name": "fundamentallyfixed:phyton_pebble"
+    },
+    {
+      "name": "fundamentallyfixed:blackstone_pebble"
+    },
+    {
+      "name": "fundamentallyfixed:altisite_pebble"
+    },
+    {
+      "name": "fundamentallyfixed:endstone_pebble"
     },
     {
       "name": "alexsmobs:rocky_shell"
@@ -262,6 +271,9 @@
       "name": "supplementaries:ash_brick"
     },
     {
+      "name": "fundamentallyfixed:calcium_powder"
+    },
+    {
       "name": "minecraft:nether_brick"
     },
     {
@@ -307,10 +319,10 @@
       "name": "fundamentallyfixed:soul_sand_pile"
     },
     {
-      "name": "fundamentallyfixed:red_sand_pile"
+      "name": "fundamentallyfixed:quicksoil_pile"
     },
     {
-      "name": "fundamentallyfixed:quicksoil_pile"
+      "name": "fundamentallyfixed:red_sand_pile"
     },
     {
       "name": "fundamentallyfixed:florarock_pile"
@@ -319,16 +331,10 @@
       "name": "spelunkery:salt"
     },
     {
-      "name": "fundamentallyfixed:calcium_powder"
-    },
-    {
       "name": "fundamentallyfixed:ground_prismarine"
     },
     {
       "name": "fundamentallyfixed:cocoa_powder"
-    },
-    {
-      "name": "fundamentallyfixed:acorn_flour"
     },
     {
       "name": "fundamentallyfixed:wheat_flour"
@@ -338,6 +344,9 @@
     },
     {
       "name": "minecraft:glowstone_dust"
+    },
+    {
+      "name": "fundamentallyfixed:acorn_flour"
     },
     {
       "name": "minecraft:fire_charge"

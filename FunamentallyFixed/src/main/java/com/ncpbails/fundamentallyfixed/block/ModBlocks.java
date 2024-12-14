@@ -8,7 +8,11 @@ import com.ncpbails.fundamentallyfixed.block.custom.Copper.*;
 import com.ncpbails.fundamentallyfixed.items.ModItems;
 import com.ncpbails.fundamentallyfixed.world.feature.tree.OakTreeFixedGrower;
 import com.ncpbails.modestmining.block.entity.custom.RockBlock;
+import com.ninni.twigs.block.FloorItemBlock;
+import com.ninni.twigs.item.PebbleItem;
+import com.ninni.twigs.registry.TwigsBlocks;
 import galena.oreganized.index.OBlocks;
+import gg.moonflower.etched.common.block.EtchingTableBlock;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.Direction;
 import net.minecraft.core.Registry;
@@ -49,6 +53,17 @@ public class ModBlocks {
     //public static final RegistryObject<Block> REDSTONE_DYNAMO = registerBlock("redstone_dynamo",
     //        () -> new RedstoneDynamoBlock(BlockBehaviour.Properties.copy(Blocks.OAK_LOG)), CreativeModeTab.TAB_BUILDING_BLOCKS, true, 300);
 
+    public static final RegistryObject<Block> MUSIC_TABLE = registerBlock("music_table",
+            () -> new MusicTableBlock(BlockBehaviour.Properties.copy(Blocks.CRAFTING_TABLE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> MUSICA_TABLE = registerBlock("musica_table",
+            () -> new MusicaTableBlock(BlockBehaviour.Properties.copy(Blocks.CRAFTING_TABLE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> MUSICO_TABLE = registerBlock("musico_table",
+            () -> new EtchingTableBlock(BlockBehaviour.Properties.copy(Blocks.CRAFTING_TABLE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+
+
     public static final RegistryObject<Block> SAPPY_OAK_LOG = registerBlock("sappy_oak_log",
             () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.OAK_LOG)) {
                 @Override public boolean isFlammable(BlockState state, BlockGetter world, BlockPos pos, Direction face) { return true; }
@@ -82,6 +97,18 @@ public class ModBlocks {
                 @Override public int getFireSpreadSpeed(BlockState state, BlockGetter world, BlockPos pos, Direction face) { return 30; }
 
             }, CreativeModeTab.TAB_BUILDING_BLOCKS, true, 300);
+
+    public static final RegistryObject<Block> DEEPSLATE_PEBBLE = registerBlockWithoutBlockItem("deepslate_pebbles",
+            () -> new FloorItemBlock(BlockBehaviour.Properties.copy(TwigsBlocks.PEBBLE.get())));
+    public static final RegistryObject<Block> BLACKSTONE_PEBBLE = registerBlockWithoutBlockItem("blackstone_pebbles",
+            () -> new FloorItemBlock(BlockBehaviour.Properties.copy(TwigsBlocks.PEBBLE.get())));
+    public static final RegistryObject<Block> ALTISITE_PEBBLE = registerBlockWithoutBlockItem("altisite_pebbles",
+            () -> new FloorItemBlock(BlockBehaviour.Properties.copy(TwigsBlocks.PEBBLE.get())));
+    public static final RegistryObject<Block> ENDSTONE_PEBBLE = registerBlockWithoutBlockItem("endstone_pebbles",
+            () -> new FloorItemBlock(BlockBehaviour.Properties.copy(TwigsBlocks.PEBBLE.get())));
+    public static final RegistryObject<Block> PHYTON_PEBBLE = registerBlockWithoutBlockItem("phyton_pebbles",
+            () -> new FloorItemBlock(BlockBehaviour.Properties.copy(TwigsBlocks.PEBBLE.get())));
+
 
     public static final RegistryObject<Block> OCEANIC_PRISMARINE_ORE = registerBlock("oceanic_prismarine_ore",
             () -> new Block(BlockBehaviour.Properties.copy(com.ncpbails.modestmining.block.ModBlocks.OCEANIC_REMAINS.get())), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
@@ -1457,6 +1484,9 @@ public class ModBlocks {
 
 
 
+    public static final RegistryObject<Block> GLOW_SHROOM_NETHERCOTTA = registerBlock("glow_shroom_nethercotta",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 8)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
     public static final RegistryObject<Block> GLOW_SHROOM_NETHER_BRICKS = registerBlock("glow_shroom_nether_bricks",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 8)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
 
@@ -1490,6 +1520,9 @@ public class ModBlocks {
             () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 8)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
 
 
+
+    public static final RegistryObject<Block> LUMINOUS_FUNGUS_NETHERCOTTA = registerBlock("luminous_fungus_nethercotta",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 5)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
 
     public static final RegistryObject<Block> LUMINOUS_FUNGUS_NETHER_BRICKS = registerBlock("luminous_fungus_nether_bricks",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHER_BRICKS).lightLevel((state) -> 5)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);

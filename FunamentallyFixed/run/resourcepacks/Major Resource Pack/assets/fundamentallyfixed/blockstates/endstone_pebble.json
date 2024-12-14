@@ -1,0 +1,51 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "fundamentallyfixed:block/endstone_pebble0"
+      },
+      {
+        "model": "fundamentallyfixed:block/endstone_pebble0",
+        "y": 90
+      },
+      {
+        "model": "fundamentallyfixed:block/endstone_pebble0",
+        "y": 180
+      },
+      {
+        "model": "fundamentallyfixed:block/endstone_pebble0",
+        "y": 270
+      },
+      {
+        "model": "fundamentallyfixed:block/endstone_pebble1"
+      },
+      {
+        "model": "fundamentallyfixed:block/endstone_pebble1",
+        "y": 90
+      },
+      {
+        "model": "fundamentallyfixed:block/endstone_pebble1",
+        "y": 180
+      },
+      {
+        "model": "fundamentallyfixed:block/endstone_pebble1",
+        "y": 270
+      },
+      {
+        "model": "fundamentallyfixed:block/endstone_pebble2"
+      },
+      {
+        "model": "fundamentallyfixed:block/endstone_pebble2",
+        "y": 90
+      },
+      {
+        "model": "fundamentallyfixed:block/endstone_pebble2",
+        "y": 180
+      },
+      {
+        "model": "fundamentallyfixed:block/endstone_pebble2",
+        "y": 270
+      }
+    ]
+  }
+}

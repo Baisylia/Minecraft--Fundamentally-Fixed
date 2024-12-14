@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "#": {
-      "item": "spelunkery:rock_salt"
+      "item": "spelunkery:salt_block"
     }
   },
   "pattern": [
@@ -10,6 +10,7 @@
     "##"
   ],
   "result": {
-    "item": "spelunkery:rock_salt_block"
+    "item": "spelunkery:rock_salt_block",
+    "count": 2
   }
 }

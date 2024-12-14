@@ -582,10 +582,9 @@ for woodSet in woodSets {
     "type": "forge:conditional", "recipes": [{"conditions": [{"type": "woodworks:config", "value": "sawmill"}], "recipe": {"type": "woodworks:sawmill",
     "count": 1, "ingredient": {"item": carvedPlankItem}, "result": pillarItem}}]});
 
-    craftingTable.addShaped(panel[1] + "_panel_from_plank", <item:${pillarItem}> * 3, [
-    [<item:${carvedPlankItem}>],
-    [<item:${carvedPlankItem}>],
-    [<item:${carvedPlankItem}>]
+    craftingTable.addShaped(panel[1] + "_panel_from_plank", <item:${pillarItem}> * 2, [
+    [<item:${panelItem}>],
+    [<item:${panelItem}>]
     ]);
 
     // Boards

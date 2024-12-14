@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "supplementaries:ash"
+    },
+    "@": {
+      "item": "twigs:pebble"
+    }
+  },
+  "pattern": [
+    "#@",
+    "@#"
+  ],
+  "result": {
+    "item": "minecraft:basalt",
+    "count": 1
+  }
+}

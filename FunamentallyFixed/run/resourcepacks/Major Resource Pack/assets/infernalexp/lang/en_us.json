@@ -15,5 +15,34 @@
   "block.infernalexp.soul_stone": "Soul Sandstone",
   "block.infernalexp.soul_stone_stairs": "Soul Sandstone Stairs",
   "block.infernalexp.soul_stone_slab": "Soul Sandstone Slab",
-  "block.infernalexp.soul_stone_wall": "Soul Sandstone Wall"
+  "block.infernalexp.soul_stone_wall": "Soul Sandstone Wall",
+  
+  
+  
+  "block.infernalexp.soul_slate": "Polished Soulstone",
+"block.infernalexp.soul_slate_stairs": "Polished Soulstone Stairs",
+"block.infernalexp.soul_slate_slab": "Polished Soulstone Slab",
+"block.infernalexp.soul_stone_bricks": "Soulstone Bricks",
+"block.infernalexp.soul_stone_brick_stairs": "Soulstone Brick Stairs",
+"block.infernalexp.soul_stone_brick_slab": "Soulstone Brick Slab",
+"block.infernalexp.soul_stone_brick_wall": "Soulstone Brick Wall",
+"block.infernalexp.chiseled_soul_stone_bricks": "Chiseled Soulstone",
+"block.infernalexp.basalt_brick_stairs": "Polished Basalt Stairs",
+"block.infernalexp.polished_basalt_slab": "Polished Basalt Slab",
+"block.infernalexp.basalt_brick_wall": "Polished Basalt Wall",
+"block.infernalexp.glowdust_stone": "Dullrock Grit",
+"block.infernalexp.smooth_dullstone": "Polished Dullstone",
+"block.infernalexp.smooth_dullstone_stairs": "Polished Dullstone Stairs",
+"block.infernalexp.smooth_dullstone_slab": "Polished Dullstone Slab",
+"block.infernalexp.chiseled_dullstone_bricks": "Chiseled Dullstone",
+"block.infernalexp.trapped_glowdust_sand": "Dimstone Gravel",
+"block.infernalexp.smooth_dimstone": "Polished Dimstone",
+"block.infernalexp.smooth_dimstone_stairs": "Polished Dimstone Stairs",
+"block.infernalexp.smooth_dimstone_slab": "Polished Dimstone Slab",
+"block.infernalexp.glowdust_sand": "Glowdust Sand",
+"block.infernalexp.smooth_glowstone": "Polished Glowstone",
+"block.infernalexp.smooth_glowstone_stairs": "Polished Glowstone Stairs",
+"block.infernalexp.smooth_glowstone_slab": "Polished Glowstone Slab",
+"block.infernalexp.chiseled_glowstone_bricks": "Chiseled Glowstone",
+"block.infernalexp.basalt_bricks": "Eumus"
 }

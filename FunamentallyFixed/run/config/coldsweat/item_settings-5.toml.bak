@@ -2,13 +2,13 @@
 ["Fuel Items"]
 	#Defines items that can be used as fuel
 	#Format: [["item-id-1", amount-1], ["item-id-2", amount-2], ...etc]
-	Boiler = [["minecraft:coal", 37], ["minecraft:charcoal", 37], ["minecraft:coal_block", 333], ["minecraft:magma_block", 333], ["minecraft:lava_bucket", 1000]]
+	Boiler = [["minecraft:coal", 37], ["modestmining:coal_chunk", 5], ["minecraft:charcoal", 37], ["modestmining:charcoal_chunk", 5], ["modestmining:coke", 120], ["modestmining:coke_chunk", 37], ["minecraft:coal_block", 333], ["quark:charcoal_block", 333], ["modestmining:coke_block", 900], ["minecraft:magma_block", 333], ["minecraft:lava_bucket", 1000]]
 	Icebox = [["minecraft:snowball", 37], ["minecraft:clay", 37], ["minecraft:snow_block", 333], ["minecraft:water_bucket", 333], ["minecraft:ice", 333], ["minecraft:packed_ice", 1000]]
 	#Negative values indicate cold fuel
-	Hearth = [["minecraft:coal", 37], ["minecraft:charcoal", 37], ["minecraft:coal_block", 333], ["minecraft:magma_block", 333], ["minecraft:lava_bucket", 1000], ["minecraft:snowball", -37], ["minecraft:clay", -37], ["minecraft:snow_block", -333], ["minecraft:water_bucket", -333], ["minecraft:ice", -333], ["minecraft:packed_ice", -1000]]
+	Hearth = [["minecraft:coal", 37], ["modestmining:coal_chunk", 5], ["minecraft:charcoal", 37], ["modestmining:charcoal_chunk", 5], ["modestmining:coke", 120], ["modestmining:coke_chunk", 37], ["minecraft:coal_block", 333], ["quark:charcoal_block", 333], ["modestmining:coke_block", 900], ["minecraft:magma_block", 333], ["minecraft:lava_bucket", 1000], ["minecraft:snowball", -37], ["minecraft:clay", -37], ["minecraft:snow_block", -333], ["minecraft:water_bucket", -333], ["minecraft:ice", -333], ["minecraft:packed_ice", -1000]]
 	#Potions containing any of these effects will not be allowed in the hearth
 	#Format: ["effect_id", "effect_id", ...etc]
-	"Blacklisted Potion Effects" = ["minecraft:instant_damage", "minecraft:poison", "minecraft:wither", "minecraft:weakness", "minecraft:mining_fatigue", "minecraft:slowness"]
+	"Blacklisted Potion Effects" = ["minecraft:instant_damage", "minecraft:instant_health"]
 	#If true, potions can be used as fuel in the hearth
 	#This gives all players in range the potion effect
 	"Allow Potions in Hearth" = true
@@ -27,7 +27,7 @@
 	#"item_id": The item's ID (i.e. "minecraft:iron_ingot"). Accepts tags with "#" (i.e. "#minecraft:wool").
 	#"cold": The amount of cold insulation the item provides.
 	#"hot": The amount of heat insulation the item provides.
-	"Insulation Ingredients" = [["minecraft:white_wool", 1.9, 0.5], ["minecraft:gray_wool", 1.0, -0.5], ["fundamentallyfixed:mammal_hide", 0.5, 0.5], ["cold_sweat:fur", 2, 0], ["environmental:yak_hair", 1.0, 1.0], ["minecraft:blue_wool", 1.0, 0.0], ["minecraft:leather", 1.5, 1.5], ["minecraft:light_blue_wool", 1.0, 0.0], ["cold_sweat:hoglin_hide", 0.0, 2.0], ["minecraft:leather_boots", 4.0, 4.0], ["minecraft:red_wool", 1.0, 0.0], ["minecraft:leather_helmet", 4.0, 4.0], ["minecraft:yellow_wool", 1.0, 0.0], ["minecraft:magenta_wool", 1.0, 0.0], ["minecraft:brown_wool", 1.0, 0.0], ["minecraft:green_wool", 1.0, 0.0], ["minecraft:black_wool", 1.0, -1.0], ["minecraft:lime_wool", 1.0, 0.0], ["minecraft:pink_wool", 1.0, 0.0], ["minecraft:orange_wool", 1.0, 0.0], ["minecraft:purple_wool", 1.0, 0.0], ["minecraft:light_gray_wool", 1.0, 0.0], ["minecraft:cyan_wool", 1.0, 0.0], ["minecraft:leather_leggings", 5.0, 5.0], ["minecraft:leather_chestplate", 6.0, 6.0]]
+	"Insulation Ingredients" = [["ecologics:penguin_feather", 1.0, 0.0], ["minecraft:feather", 0.5, 0.5], ["alexsmobs:emu_feather", 0.0, 1.0], ["modestmining:fiber", 0.0, 0.5], ["alexsmobs:raccoon_tail", 0.5, 0.5], ["farmersdelight:canvas", 0.5, 0.5], ["fundamentallyfixed:cloth", 0.5, 0.5], ["minecraft:white_wool", 1.9, 0.5], ["minecraft:gray_wool", 1.0, -0.5], ["fundamentallyfixed:mammal_hide", 0.5, 0.5], ["naturalist:reptile_hide", 2, 0], ["cold_sweat:fur", 2.5, 0], ["environmental:yak_hair", 1.0, 1.0], ["minecraft:blue_wool", 1.0, 0.0], ["minecraft:leather", 1.5, 1.5], ["minecraft:light_blue_wool", 1.0, 0.0], ["cold_sweat:hoglin_hide", 0.0, 2.0], ["minecraft:leather_boots", 4.0, 4.0], ["minecraft:red_wool", 1.0, 0.0], ["minecraft:leather_helmet", 4.0, 4.0], ["minecraft:yellow_wool", 1.0, 0.0], ["minecraft:magenta_wool", 1.0, 0.0], ["minecraft:brown_wool", 1.0, 0.0], ["minecraft:green_wool", 1.0, 0.0], ["minecraft:black_wool", 1.0, -1.0], ["minecraft:lime_wool", 1.0, 0.0], ["minecraft:pink_wool", 1.0, 0.0], ["minecraft:orange_wool", 1.0, 0.0], ["minecraft:purple_wool", 1.0, 0.0], ["minecraft:light_gray_wool", 1.0, 0.0], ["minecraft:cyan_wool", 1.0, 0.0], ["minecraft:leather_leggings", 5.0, 5.0], ["alexsmobs:crocodile_chestplate", 2.0, 6.0], ["minecraft:leather_chestplate", 6.0, 6.0]]
 	#Defines insulation items that have the special "chameleon molt" effect
 	#Format: [["item_id", insulation, adaptSpeed], ["item_id", insulation, adaptSpeed], ...etc]
 	#"item_id": The item's ID (i.e. "minecraft:iron_ingot"). Accepts tags with "#" (i.e. "#minecraft:wool").
@@ -51,7 +51,7 @@
 	#Defines items that affect the player's temperature when consumed
 	#Format: [["item_id", amount], ["item_id", amount], ...etc]
 	#Negative values are cold foods, positive values are hot foods
-	"Temperature-Affecting Foods" = []
+	"Temperature-Affecting Foods" = [["farmersdelight:melon_popsicle", -5], ["neapolitan:vanilla_ice_cream", -5], ["neapolitan:chocolate_ice_cream", -5], ["neapolitan:strawberry_ice_cream", -5], ["brewinandchewin:firey_fondue", 5], ["nethersdelight:magma_gelatin", 5]]
 	#Defines how much a waterskin will change the player's body temperature by when used
 	#Range: > 0
 	"Waterskin Strength" = 50

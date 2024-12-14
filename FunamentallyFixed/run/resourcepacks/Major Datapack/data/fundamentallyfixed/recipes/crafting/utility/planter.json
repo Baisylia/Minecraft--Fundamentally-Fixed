@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "#": {
-      "tag": "fundamentallyfixed:baked_clays"
+      "tag": "fundamentallyfixed:brick_types"
     },
     "S": {
       "item": "minecraft:farmland"

@@ -1,0 +1,27 @@
+{
+  "type": "modestmining:forging_shaped",
+  "cooktime": 144,
+  "key": {
+    "#": {
+      "item": "fundamentallyfixed:steel_sheet"
+    },
+    "@": {
+      "item": "modestmining:steel_ingot"
+    },
+    "S": {
+      "item": "modestmining:plank"
+    }
+  },
+  "pattern": [
+    "##",
+    "@@",
+    "SS"
+  ],
+  "fuel": {
+    "tag": "fundamentallyfixed:forging_fuels_one"
+  },
+  "result": {
+    "item": "supplementaries:cage",
+    "count": 2
+  }
+}

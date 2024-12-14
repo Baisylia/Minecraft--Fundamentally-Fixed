@@ -5,12 +5,15 @@
       "item": "fundamentallyfixed:florarock_pile"
     },
     "@": {
-      "item": "modestmining:rocks"
+      "item": "twigs:pebble"
+    },
+    "$": {
+      "item": "minecraft:flint"
     }
   },
   "pattern": [
     "@#",
-    "#@"
+    "#$"
   ],
   "result": {
     "item": "fundamentallyfixed:coarse_florarock"

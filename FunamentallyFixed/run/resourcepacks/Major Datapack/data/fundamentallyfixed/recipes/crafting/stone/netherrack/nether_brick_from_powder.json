@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "cookingtime": 200,
-  "experience": 0.35,
-  "ingredient": {
-    "item": "fundamentallyfixed:netherrack_powder"
-  },
-  "result": "minecraft:nether_brick"
-}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:redstone_torch"
+    },
+    "B": {
+      "item": "fundamentallyfixed:bronze_sheet"
+    }
+  },
+  "pattern": [
+    "##",
+    "BB"
+  ],
+  "result": {
+    "item": "create:pulse_extender",
+    "count": 2
+  }
+}

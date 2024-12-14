@@ -1,0 +1,25 @@
+{
+  "type": "modestmining:forging",
+  "cooktime": 144,
+  "ingredients": [
+    {
+      "item": "fundamentallyfixed:prismarine_shard"
+    },
+    {
+      "item": "fundamentallyfixed:ground_prismarine"
+    },
+    {
+      "item": "fundamentallyfixed:ground_prismarine"
+    },
+    {
+      "item": "fundamentallyfixed:ground_prismarine"
+    }
+  ],
+  "fuel": {
+    "tag": "fundamentallyfixed:forging_fuels_zero"
+  },
+  "result": {
+    "item": "fundamentallyfixed:phyton_pebble",
+    "count": 4
+  }
+}

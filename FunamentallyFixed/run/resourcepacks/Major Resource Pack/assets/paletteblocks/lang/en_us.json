@@ -2,5 +2,16 @@
   "block.paletteblocks.polished_calcite": "Polished Altisite",
   "block.paletteblocks.polished_calcite_stairs": "Polished Altisite Stairs",
   "block.paletteblocks.polished_calcite_slab": "Polished Altisite Slab",
-  "block.paletteblocks.polished_calcite_wall": "Polished Altisite Wall"
+  "block.paletteblocks.polished_calcite_wall": "Polished Altisite Wall",
+  
+  
+  
+  "block.paletteblocks.polished_tuff": "Cement Bricks",
+"block.paletteblocks.polished_tuff_stairs": "Cement Brick Stairs",
+"block.paletteblocks.polished_tuff_slab": "Cement Brick Slab",
+"block.paletteblocks.polished_tuff_wall": "Cement Brick Wall",
+"block.paletteblocks.mossy_cobblestone_bricks": "Brown Nethercotta Shingles",
+"block.paletteblocks.mossy_cobblestone_brick_stairs": "Brown Nethercotta Shingle Stairs",
+"block.paletteblocks.mossy_cobblestone_brick_slab": "Brown Nethercotta Shingle Slab",
+"block.paletteblocks.mossy_cobblestone_brick_wall": "Brown Nethercotta Shingle Wall"
 }

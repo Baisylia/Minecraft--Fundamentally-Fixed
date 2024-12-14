@@ -9,320 +9,140 @@ to make editing this file much easier.
 */
 [
 	{
-		"Name": "cold_sweat:hearth_bottom"
-	},
-	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
-			"water": "1",
-			"lava": "0",
-			"facing": "north"
+			"side_powered": "true",
+			"facing": "north",
+			"back_powered": "true"
 		},
 		"Name": "cold_sweat:hearth_bottom"
 	},
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
-			"water": "2",
-			"lava": "0",
-			"facing": "north"
+			"side_powered": "false",
+			"facing": "north",
+			"back_powered": "true"
 		},
 		"Name": "cold_sweat:hearth_bottom"
 	},
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
-			"water": "0",
-			"lava": "1",
-			"facing": "north"
+			"side_powered": "true",
+			"facing": "south",
+			"back_powered": "true"
 		},
 		"Name": "cold_sweat:hearth_bottom"
 	},
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
-			"water": "1",
-			"lava": "1",
-			"facing": "north"
+			"side_powered": "false",
+			"facing": "south",
+			"back_powered": "true"
 		},
 		"Name": "cold_sweat:hearth_bottom"
 	},
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
-			"water": "2",
-			"lava": "1",
-			"facing": "north"
+			"side_powered": "true",
+			"facing": "west",
+			"back_powered": "true"
 		},
 		"Name": "cold_sweat:hearth_bottom"
 	},
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
-			"water": "0",
-			"lava": "2",
-			"facing": "north"
+			"side_powered": "false",
+			"facing": "west",
+			"back_powered": "true"
 		},
 		"Name": "cold_sweat:hearth_bottom"
 	},
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
-			"water": "1",
-			"lava": "2",
-			"facing": "north"
+			"side_powered": "true",
+			"facing": "east",
+			"back_powered": "true"
 		},
 		"Name": "cold_sweat:hearth_bottom"
 	},
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
-			"water": "2",
-			"lava": "2",
-			"facing": "north"
+			"side_powered": "false",
+			"facing": "east",
+			"back_powered": "true"
 		},
 		"Name": "cold_sweat:hearth_bottom"
 	},
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
-			"water": "0",
-			"lava": "0",
-			"facing": "south"
+			"side_powered": "true",
+			"facing": "north",
+			"back_powered": "false"
+		},
+		"Name": "cold_sweat:hearth_bottom"
+	},
+	{
+		"Name": "cold_sweat:hearth_bottom"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"side_powered": "true",
+			"facing": "south",
+			"back_powered": "false"
 		},
 		"Name": "cold_sweat:hearth_bottom"
 	},
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
-			"water": "1",
-			"lava": "0",
-			"facing": "south"
+			"side_powered": "false",
+			"facing": "south",
+			"back_powered": "false"
 		},
 		"Name": "cold_sweat:hearth_bottom"
 	},
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
-			"water": "2",
-			"lava": "0",
-			"facing": "south"
+			"side_powered": "true",
+			"facing": "west",
+			"back_powered": "false"
 		},
 		"Name": "cold_sweat:hearth_bottom"
 	},
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
-			"water": "0",
-			"lava": "1",
-			"facing": "south"
+			"side_powered": "false",
+			"facing": "west",
+			"back_powered": "false"
 		},
 		"Name": "cold_sweat:hearth_bottom"
 	},
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
-			"water": "1",
-			"lava": "1",
-			"facing": "south"
+			"side_powered": "true",
+			"facing": "east",
+			"back_powered": "false"
 		},
 		"Name": "cold_sweat:hearth_bottom"
 	},
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
-			"water": "2",
-			"lava": "1",
-			"facing": "south"
-		},
-		"Name": "cold_sweat:hearth_bottom"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"water": "0",
-			"lava": "2",
-			"facing": "south"
-		},
-		"Name": "cold_sweat:hearth_bottom"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"water": "1",
-			"lava": "2",
-			"facing": "south"
-		},
-		"Name": "cold_sweat:hearth_bottom"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"water": "2",
-			"lava": "2",
-			"facing": "south"
-		},
-		"Name": "cold_sweat:hearth_bottom"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"water": "0",
-			"lava": "0",
-			"facing": "west"
-		},
-		"Name": "cold_sweat:hearth_bottom"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"water": "1",
-			"lava": "0",
-			"facing": "west"
-		},
-		"Name": "cold_sweat:hearth_bottom"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"water": "2",
-			"lava": "0",
-			"facing": "west"
-		},
-		"Name": "cold_sweat:hearth_bottom"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"water": "0",
-			"lava": "1",
-			"facing": "west"
-		},
-		"Name": "cold_sweat:hearth_bottom"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"water": "1",
-			"lava": "1",
-			"facing": "west"
-		},
-		"Name": "cold_sweat:hearth_bottom"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"water": "2",
-			"lava": "1",
-			"facing": "west"
-		},
-		"Name": "cold_sweat:hearth_bottom"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"water": "0",
-			"lava": "2",
-			"facing": "west"
-		},
-		"Name": "cold_sweat:hearth_bottom"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"water": "1",
-			"lava": "2",
-			"facing": "west"
-		},
-		"Name": "cold_sweat:hearth_bottom"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"water": "2",
-			"lava": "2",
-			"facing": "west"
-		},
-		"Name": "cold_sweat:hearth_bottom"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"water": "0",
-			"lava": "0",
-			"facing": "east"
-		},
-		"Name": "cold_sweat:hearth_bottom"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"water": "1",
-			"lava": "0",
-			"facing": "east"
-		},
-		"Name": "cold_sweat:hearth_bottom"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"water": "2",
-			"lava": "0",
-			"facing": "east"
-		},
-		"Name": "cold_sweat:hearth_bottom"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"water": "0",
-			"lava": "1",
-			"facing": "east"
-		},
-		"Name": "cold_sweat:hearth_bottom"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"water": "1",
-			"lava": "1",
-			"facing": "east"
-		},
-		"Name": "cold_sweat:hearth_bottom"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"water": "2",
-			"lava": "1",
-			"facing": "east"
-		},
-		"Name": "cold_sweat:hearth_bottom"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"water": "0",
-			"lava": "2",
-			"facing": "east"
-		},
-		"Name": "cold_sweat:hearth_bottom"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"water": "1",
-			"lava": "2",
-			"facing": "east"
-		},
-		"Name": "cold_sweat:hearth_bottom"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"water": "2",
-			"lava": "2",
-			"facing": "east"
+			"side_powered": "false",
+			"facing": "east",
+			"back_powered": "false"
 		},
 		"Name": "cold_sweat:hearth_bottom"
 	}

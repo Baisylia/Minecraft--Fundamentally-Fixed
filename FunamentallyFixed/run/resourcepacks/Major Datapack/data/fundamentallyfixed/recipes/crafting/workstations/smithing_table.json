@@ -2,16 +2,15 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "#": {
-      "tag": "fundamentallyfixed:plank_blocks"
+      "tag": "fundamentallyfixed:stripped_logs"
     },
-    "S": {
-      "item": "create:iron_sheet"
+    "@": {
+      "item": "fundamentallyfixed:lead_sheet"
     }
   },
   "pattern": [
-    "SS",
-    "##",
-    "##"
+    "@",
+    "#"
   ],
   "result": {
     "item": "minecraft:smithing_table"

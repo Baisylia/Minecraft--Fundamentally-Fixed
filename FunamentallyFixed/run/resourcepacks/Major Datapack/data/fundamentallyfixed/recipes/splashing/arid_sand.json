@@ -1,0 +1,13 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "atmospheric:red_arid_sand"
+    }
+  ],
+  "results": [
+    {
+      "item": "atmospheric:arid_sand"
+    }
+  ]
+}
